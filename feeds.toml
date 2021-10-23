@@ -1,3 +1,83 @@
+[premovie_theater_y]
+title = "다음영화 영화관 ─ 현재상영"
+url = "https://movie.daum.net/premovie/theater?flag=Y"
+entrySelector = "div.box_movie ol li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
+[premovie_theater_c]
+title = "다음영화 영화관 ─ 개봉예정"
+url = "https://movie.daum.net/premovie/theater?flag=C"
+entrySelector = "div.box_movie ol li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
+[premovie_netflix_c]
+title = "[다음영화] 넷플릭스 ─ 종료예정"
+url = "https://movie.daum.net/premovie/netflix?flag=C"
+entrySelector = "ul.list_movieranking.aniposter_ott li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
+[premovie_netflix_y]
+title = "[다음영화] 넷플릭스 ─ 공개예정"
+url = "https://movie.daum.net/premovie/netflix?flag=Y"
+entrySelector = "ul.list_movieranking.aniposter_ott li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
+[premovie_watcha_c]
+title = "[다음영화] 왓챠 ─ 종료예정"
+url = "https://movie.daum.net/premovie/watcha?flag=C"
+entrySelector = "ul.list_movieranking.aniposter_ott li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
+[premovie_watcha_y]
+title = "[다음영화] 왓챠 ─ 공개예정"
+url = "https://movie.daum.net/premovie/watcha?flag=Y"
+entrySelector = "ul.list_movieranking.aniposter_ott li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
+[premovie_kakaopage_c]
+title = "[다음영화] 카카오페이지 ─ 종료예정"
+url = "https://movie.daum.net/premovie/kakaopage?flag=C"
+entrySelector = "ul.list_movieranking.aniposter_ott li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
+[premovie_kakaopage_y]
+title = "[다음영화] 카카오페이지 ─ 공개예정"
+url = "https://movie.daum.net/premovie/kakaopage?flag=Y"
+entrySelector = "ul.list_movieranking.aniposter_ott li"
+titleSelector = "a[class='link_txt']"
+linkSelector = "a.link_txt"
+imageSelector = "img.img_thumb"
+contentSelector = "div.thumb_cont > span.txt_info > span"
+waitUntil = "networkidle"
+
 [news_recent]
 title = "다음영화 뉴스 ─ 최신"
 url = "https://movie.daum.net/contents/news?type=recent"
