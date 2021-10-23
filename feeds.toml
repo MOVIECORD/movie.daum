@@ -8,6 +8,26 @@ contentSelector = "span.info_txt:nth-child(2)"
 imageSelector = "div.poster_movie img.img_thumb"
 waitUntil = "networkidle"
 
+[boxoffice_monthly]
+title = "다음 영화 ─ 박스오피스 ─ 월간"
+url = "https://movie.daum.net/ranking/boxoffice/monthly"
+entrySelector = "ol.list_movieranking li"
+titleSelector = "strong.tit_item a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "span.info_txt:nth-child(2)"
+imageSelector = "div.poster_movie img.img_thumb"
+waitUntil = "networkidle"
+
+[boxoffice_yearly]
+title = "다음 영화 ─ 박스오피스 ─ 연간"
+url = "https://movie.daum.net/ranking/boxoffice/yearly"
+entrySelector = "ol.list_movieranking li"
+titleSelector = "strong.tit_item a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "span.info_txt:nth-child(2)"
+imageSelector = "div.poster_movie img.img_thumb"
+waitUntil = "networkidle"
+
 [premovie_theater_y]
 title = "다음영화 영화관 ─ 현재상영"
 url = "https://movie.daum.net/premovie/theater?flag=Y"
