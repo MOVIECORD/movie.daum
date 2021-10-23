@@ -1,6 +1,12 @@
 # 다음 영화
 https://moviecord.github.io/movie.daum/all.xml
 
+## 랭킹
+### 박스오피스
+- 주간: https://moviecord.github.io/movie.daum/boxoffice_weekly.xml
+- 월간: https://moviecord.github.io/movie.daum/boxoffice_monthly.xml
+- 년간: https://moviecord.github.io/movie.daum/boxoffice_yearly.xml
+
 ## 상영/예정작
 
 ### 영화관 
