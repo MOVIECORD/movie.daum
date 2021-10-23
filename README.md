@@ -26,3 +26,7 @@ https://moviecord.github.io/daummovie/all.xml
 
 ### 브런치
 - https://moviecord.github.io/daummovie/brunch.xml
+
+---
+
+[▶️ 다음으로 이동하기](https://github.com/MOVIECORD/daum)
