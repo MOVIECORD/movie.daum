@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 03:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 04:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[휴가]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd407519e6675a2685a478585b2ad75625f9105b1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아버지의 길]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139238</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139238</guid>
-            <pubDate>Sun, 24 Oct 2021 00:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[용과 주근깨 공주]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
             <pubDate>Sun, 24 Oct 2021 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[21.09.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Sun, 24 Oct 2021 04:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
