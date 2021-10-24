@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 20:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 21:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -823,14 +823,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
@@ -853,6 +845,14 @@
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -911,20 +911,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Sat, 23 Oct 2021 09:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[당신얼굴 앞에서 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150931</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150931</guid>
             <pubDate>Sun, 24 Oct 2021 07:11:57 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46428acd35c209d0e006b8dd227b3787a48ebae4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[십개월의 미래 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1845,20 +1845,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fstarnews%2F20211024093006817hrlr.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[오달수 "칩거 후 첫 촬영, 낯설지 않아..당연히 있어야 할 자리" [엑's 인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211023115008088</link>
-            <guid>https://movie.v.daum.net/v/20211023115008088</guid>
-            <pubDate>Sat, 23 Oct 2021 05:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 영화 '요시찰'은 지난 미투(Me too, 성폭력 고발 운동) 논란으로 활동을 잠정 중단했던 오달수의 본격적인 복귀작으로 주목받은 바 있다. 오달수는 지난 해 11월 '이웃사촌' 언론시사회와 인터뷰 참석 후 11개월 만인 지난 13일, '요시찰' 언론시사회에 모습을 드러내며 공식석상 행보로 시선을 모았다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F23%2Fxportsnews%2F20211023115009540avti.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['촬영감독 사망' 알렉 볼드윈, 실탄 장전된지 몰랐다.."내 마음이 찢어진다"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211023200955619</link>
             <guid>https://movie.v.daum.net/v/20211023200955619</guid>
             <pubDate>Sat, 23 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 알렉 볼드윈(63)이 영화 촬영 중 소품 총기를 발사했다가 촬영 감독이 사망하는 사고가 발생한 가운데, 그는 실탄이 장전된지 전혀 몰랐던 것으로 알려졌다. 지난 21일(현지시간) 오후 1시 50분께 알렉 볼드윈은 영화 '러스트'(Rust) 세트장에서 촬영 중 소품용으로 준비된 총을 발사했다. 이 총에 맞은 촬영]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F23%2Fmydaily%2F20211023200955706oflb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[오달수 "칩거 후 첫 촬영, 낯설지 않아..당연히 있어야 할 자리" [엑's 인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211023115008088</link>
+            <guid>https://movie.v.daum.net/v/20211023115008088</guid>
+            <pubDate>Sat, 23 Oct 2021 05:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 영화 '요시찰'은 지난 미투(Me too, 성폭력 고발 운동) 논란으로 활동을 잠정 중단했던 오달수의 본격적인 복귀작으로 주목받은 바 있다. 오달수는 지난 해 11월 '이웃사촌' 언론시사회와 인터뷰 참석 후 11개월 만인 지난 13일, '요시찰' 언론시사회에 모습을 드러내며 공식석상 행보로 시선을 모았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F23%2Fxportsnews%2F20211023115009540avti.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['그래, 모든 게 꿈일 뿐이야!' .. 홍상수의 변화가 시작되다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1885,14 +1885,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fhankooki%2F20211024180555682cicc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[임권택 "이태원 대표, 가장 빛나는 순간 함께한 사람" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024203321726</link>
-            <guid>https://movie.v.daum.net/v/20211024203321726</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 24일 별세한 태흥영화사 이태원 대표와 영광의 시간을 함께했던 임권택 감독과 정일성 감독이 이 대표의 빈소를 찾아 조문했다. 고령인 두 감독은 오랫동안 연락이 끊겼다가 이 대표의 부고 소식을 듣고 곧바로 장례식장을 찾았다. 정 감독은 "이 대표와 자주 연락을 주고받았는데 한 1년 반 전부터 전화를 안 받더라"며 "가족들이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fyonhap%2F20211024203322055swri.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[할리우드 촬영장 총기사고 비극..우리나라는 문제없나 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211024141247291</link>
             <guid>https://movie.v.daum.net/v/20211024141247291</guid>
@@ -1909,20 +1901,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fnewsen%2F20211024175740613tduz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[임권택 "이태원 대표, 가장 빛나는 순간 함께한 사람" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211024203321726</link>
+            <guid>https://movie.v.daum.net/v/20211024203321726</guid>
+            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 24일 별세한 태흥영화사 이태원 대표와 영광의 시간을 함께했던 임권택 감독과 정일성 감독이 이 대표의 빈소를 찾아 조문했다. 고령인 두 감독은 오랫동안 연락이 끊겼다가 이 대표의 부고 소식을 듣고 곧바로 장례식장을 찾았다. 정 감독은 "이 대표와 자주 연락을 주고받았는데 한 1년 반 전부터 전화를 안 받더라"며 "가족들이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fyonhap%2F20211024203322055swri.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 1위 '베놈2' 164만 돌파..빌런의 흥행 질주[박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025050921766</link>
+            <guid>https://movie.v.daum.net/v/20211025050921766</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '베놈 2: 렛 데어 비 카니지'가 164만 관객을 돌파했다. 10월 25일 영화진흥위원회 통합전산망 집계에 따르면 영화 '베놈 2: 렛 데어 비 카니지'가 지난 주말 기간(22일~24일) 34만2,922명을 모아 이 기간 전체 박스오피스 1위를 차지했다. 이에 지난 10월 13일 개봉한 후 12일 만에 누적 164만 명을 돌파하는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fnewsen%2F20211025050923157wcbx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[영화 촬영 중 소품 총에 실탄.. 촬영 감독 사망 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211024095702982</link>
             <guid>https://movie.v.daum.net/v/20211024095702982</guid>
             <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤현 기자] ▲ &nbsp;할리우드 배우 알렉 볼드윈의 영화 촬영 중 총기 오발로 인한 사망 사고를 보도하는 AP통신 갈무리.    ⓒ AP  &nbsp;할리우드 스타 알렉 볼드윈이 영화 촬영 중 발사한 소품 총에 현장 스태프가 맞아 숨지는 사건이 벌어져 미 영화계가 큰 충격에 빠졌다고 AP, CNN 등 주요 외신이 보도했다.&nbsp; 볼드윈은 23일(한국시각) 소]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fohmynews%2F20211024095704229pibi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메가 돌아왔다 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024045005308</link>
-            <guid>https://movie.v.daum.net/v/20211024045005308</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '대세 스타' 티모시 샬라메가 돌아왔다. 무려 두 편의 영화를 통해서다. 첫번째 영화는 지난 20일 개봉해 박스오피스 1위를 찍은 SF 대작 '듄'(감독 드니 빌뇌브)이고 또 다른 영화는 독특한 작품들로 한국에도 많은 팬들을 거느린 웨스 앤더스 감독의 신작 '프렌치 디스패치'다. 티모시 샬라메는 두 영화에서 상반된 매력을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2FNEWS1%2F20211024045007118uxxm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['춘향뎐' 제작한 이태원 태흥영화사 전 대표 별세 [종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1933,12 +1933,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fsportsdonga%2F20211024212125759xzai.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[티모시 샬라메가 돌아왔다 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211024045005308</link>
+            <guid>https://movie.v.daum.net/v/20211024045005308</guid>
+            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '대세 스타' 티모시 샬라메가 돌아왔다. 무려 두 편의 영화를 통해서다. 첫번째 영화는 지난 20일 개봉해 박스오피스 1위를 찍은 SF 대작 '듄'(감독 드니 빌뇌브)이고 또 다른 영화는 독특한 작품들로 한국에도 많은 팬들을 거느린 웨스 앤더스 감독의 신작 '프렌치 디스패치'다. 티모시 샬라메는 두 영화에서 상반된 매력을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2FNEWS1%2F20211024045007118uxxm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['韓영화계 왕 프로듀서' 이태원 대표 별세..향년 83세 [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211024164623974</link>
             <guid>https://movie.v.daum.net/v/20211024164623974</guid>
             <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] 고 이태원 대표 / 사진=뉴시스 한국영화계의 '왕 프로듀서'로 1980년대 부터 2000년대의 한국영화 부흥을 이끌었던  태흥영화㈜의 이태원 대표가 별세했다. 24일 태흥영화㈜에 따르면 고 이태원 대표는 이날 오후 신촌 세브란스병원에서 별세했다. 향년 83세. 고 이태원 대표는 지난 해 7월 뇌출혈로 쓰러진 이후 지금까지 병원에서]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fstarnews%2F20211024165004147xqgb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서편제' '취화선' 제작자 태흥영화사 이태원 대표 타계 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211024233418467</link>
+            <guid>https://movie.v.daum.net/v/20211024233418467</guid>
+            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]‘서편제’와 ‘장군의 아들’ ‘취화선’ 등 충무로의 굵직한 영화들을 제작해온 이태원 태흥영화사 전대표가 24일 타계했다. 향년 83세. 이 대표는 지난해 5월쯤 낙상사고를 당해 서대문구 세브란스병원 중환자실에에 입원한 이후 치료를 받아오다 이날 눈을 감았다. 1938년 평양에서 태어난 고인은 6·25전쟁으로 가족과 떨어져 부]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fned%2F20211024233419453nrmu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN 피플] 김다미부터 장영남까지, 작지만 강한 엔터 '앤드마크'의 설계자 권오현 대표 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1949,12 +1965,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2F10asia%2F20211024103705005haeq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['서편제' '취화선' 제작자 태흥영화사 이태원 대표 타계 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024233418467</link>
-            <guid>https://movie.v.daum.net/v/20211024233418467</guid>
+            <title><![CDATA['서편제' 이태원 태흥영화사 대표 타계..韓영화 큰 별 지다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211024170436401</link>
+            <guid>https://movie.v.daum.net/v/20211024170436401</guid>
             <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]‘서편제’와 ‘장군의 아들’ ‘취화선’ 등 충무로의 굵직한 영화들을 제작해온 이태원 태흥영화사 전대표가 24일 타계했다. 향년 83세. 이 대표는 지난해 5월쯤 낙상사고를 당해 서대문구 세브란스병원 중환자실에에 입원한 이후 치료를 받아오다 이날 눈을 감았다. 1938년 평양에서 태어난 고인은 6·25전쟁으로 가족과 떨어져 부]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fned%2F20211024233419453nrmu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[‘서편제’ ‘기쁜 우리 젊은 날’ 등 적지 않은 한국영화 대표작을 제작해온 태흥영화사 이태원 대표가 24일 타계했다. 향년 83세. 이태원 대표가 이날 오후 서울 서대문구 신촌 세브란스병원에서 별세했다. 고인은 지난해 7월 뇌출혈로 쓰러진 뒤 입원 치료를 받아왔다. 유족과 영화계는 이날 같은 병원 장례식장에 빈소를 차리고 장례 절차에 들어갔다. 1938년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fsportsdonga%2F20211024170438472zhqv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[크리스틴 스튜어트 '조커' 변신? "섬뜩한 연기 하고 싶어"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1971,22 +1987,6 @@
             <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한상균 기자 = 24일 한국 영화계의 거목 고 이태원 태흥영화사 전 대표의 빈소가 마련된 서대문구 세브란스병원에 고인의 영정사진이 놓여 있다. 고인은 영화 '서편제', '장군의 아들' '아제 아제 바라아제' 등을 제작했다. 향년 83세. 2021.10.24 xyz@yna.co.kr (끝) [이 시각 많이 본 기사] &lt;저작권자(c) 연합]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fyonhap%2F20211024204419450inid.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국영화 거목 이태원씨 별세 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024204403827</link>
-            <guid>https://movie.v.daum.net/v/20211024204403827</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한상균 기자 = 24일 한국 영화계의 거목 고 이태원 태흥영화사 전 대표의 빈소가 마련된 서대문구 세브란스병원에 고인의 영정사진이 놓여 있다. 고인은 영화 '서편제', '장군의 아들' '아제 아제 바라아제' 등을 제작했다. 향년 83세. 2021.10.24 xyz@yna.co.kr (끝) [이 시각 많이 본 기사] &lt;저작권자(c) 연합]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fyonhap%2F20211024204403201gepy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국영화 거목 이태원씨 별세 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024204411828</link>
-            <guid>https://movie.v.daum.net/v/20211024204411828</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한상균 기자 = 24일 한국 영화계의 거목 고 이태원 태흥영화사 전 대표의 빈소가 마련된 서대문구 세브란스병원에 고인의 영정사진이 놓여 있다. 고인은 영화 '서편제', '장군의 아들' '아제 아제 바라아제' 등을 제작했다. 향년 83세. 2021.10.24 xyz@yna.co.kr (끝) [이 시각 많이 본 기사] &lt;저작권자(c) 연합]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fyonhap%2F20211024204411251zmxn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[파리 노숙자 출신인데 천재라 불리는, '듄'에 출연한 배우 정체 (다음 영화 ─ 매거진)]]></title>
