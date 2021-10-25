@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 14:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 15:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[한창나이 선녀님]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보이스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[한창나이 선녀님]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[첫눈이 사라졌다]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[휴가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[색다른 그녀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153866</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153866</guid>
@@ -112,12 +104,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[휴가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용과 주근깨 공주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
+            <pubDate>Mon, 25 Oct 2021 15:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노회찬6411]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
-            <pubDate>Mon, 25 Oct 2021 12:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

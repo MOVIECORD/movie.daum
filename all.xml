@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 14:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 15:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -815,20 +815,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -863,14 +863,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[휴가 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[색다른 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153866</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153866</guid>
@@ -887,12 +879,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[휴가 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145284</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145284</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
+            <pubDate>Sat, 23 Oct 2021 10:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -933,14 +941,6 @@
             <pubDate>Sun, 24 Oct 2021 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2237,6 +2237,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2F10asia%2F20211025161508954ullg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[할리우드 절친 맷 데이먼-벤 애플렉, 또 한번 뭉친 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211024123822684</link>
+            <guid>https://movie.v.daum.net/v/20211024123822684</guid>
+            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 할리우드의 대표적인 절친 맷 데이먼과 밴 애플렉이 24년 만에 다시 의기투합해 각본 작업을 함께 한 작품 ‘라스트 듀얼 : 최후의 결투’가 지난 20일 개봉했다. 두 사람이 신중하게 함께 써내려 간 각본에 거장 리들리 스콧 감독의 관록이 더해진 작품은 중세 실화를 통해 오늘의 문제에 경종을 울린다. 데이먼과 애플렉이 ‘굿 윌 헌팅’ 이후 24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fseouleconomy%2F20211024124021254evyv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[충무로 액션장인들이 선사하는 통쾌한 '액션쾌감' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211024105700997</link>
             <guid>https://movie.v.daum.net/v/20211024105700997</guid>
@@ -2251,14 +2259,6 @@
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 전종서의 새로운 캐릭터에 도전한다. 영화 '연애 빠진 로맨스'에서 마음만은 연애에서 은퇴한 스물아홉 '자영' 역으로 분해 연기 변신에 나선다.'연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 '자영'(전종서)과 일도 연애도 뜻대로 안 풀리는 '우리'(손석구), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2F10asia%2F20211025090403961ckxa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[할리우드 절친 맷 데이먼-벤 애플렉, 또 한번 뭉친 이유 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211024123822684</link>
-            <guid>https://movie.v.daum.net/v/20211024123822684</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 할리우드의 대표적인 절친 맷 데이먼과 밴 애플렉이 24년 만에 다시 의기투합해 각본 작업을 함께 한 작품 ‘라스트 듀얼 : 최후의 결투’가 지난 20일 개봉했다. 두 사람이 신중하게 함께 써내려 간 각본에 거장 리들리 스콧 감독의 관록이 더해진 작품은 중세 실화를 통해 오늘의 문제에 경종을 울린다. 데이먼과 애플렉이 ‘굿 윌 헌팅’ 이후 24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F24%2Fseouleconomy%2F20211024124021254evyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[티모시 샬라메가 돌아왔다 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2277,20 +2277,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025081535149siun.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['노회찬6411' 43명의 인터뷰이가 전하는 노회찬의 진심 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025134309851</link>
+            <guid>https://movie.v.daum.net/v/20211025134309851</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] '노회찬6411' 인터뷰이들이 노회찬의 진심에 대해 전했다. 영화 '노회찬6411' 측은 25일 43명의 인터뷰이가 전하는 노회찬의 진심을 공개했다. ◆ "'대중 정치라는 게 이런 거구나. 우리도 이제 대중 정치를 시작하는구나' 이런 것들을 실감하게 해줬죠" 함께 잘 사는 나라를 만들기 위한 방법으로 진보 정치를 선택한 노회찬.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fsportstoday%2F20211025134311101lgnm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[오다기리 조 "한일 정치 문제는 전혀 신경 쓰이지 않아요" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211025172310228</link>
             <guid>https://movie.v.daum.net/v/20211025172310228</guid>
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2000년대 중·후반 활발했던 한일 영화 교류는 양국 관계가 냉각되면서 사실상 끊긴 상태다. 우호와 협력을 입 밖에 내기 힘든 시기, 28일 개봉하는 ‘당신은 믿지 않겠지만’은 한일 영화인의 협업으로 탄생한 요즘 드문 영화다. 일본 영화 새 주역으로 꼽히는 이시이 유야 감독이 메가폰을 잡고, 한국 영화사 디오시네마가 제작 투자를 했다. ‘무산일기’(2011]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fhankooki%2F20211025172313388gcst.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['지리산' 조한철 또 새로운 얼굴..캐릭터 맛 살려낸 열연 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025101804398</link>
-            <guid>https://movie.v.daum.net/v/20211025101804398</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['지리산' 조한철의 존재감이 빛났다. tvN 15주년 특별기획 '지리산'은 지리산 국립공원 최고의 레인저 서이강(전지현 분)과 말 못 할 비밀을 가진 신입 레인저 강현조(주지훈)가 산에서 일어나는 의문의 사고를 파헤치며 벌어지는 이야기를 그린 미스터리 드라마다. 극 중 조한철이 분한 박일해는 지리산국립공원 비담대피소 소속 수색1팀 레인저 팀장이다. 지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Filgansports%2F20211025101806126blms.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['달리와 감자탕' 클래식함과 신선함이 공존하는 로맨스 드라마 (다음 영화 ─ 매거진)]]></title>
