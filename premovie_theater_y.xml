@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 03:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 04:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc24b8adacb651651211cb925510fa804701d5074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[동백]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
+            <pubDate>Tue, 26 Oct 2021 04:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[당신얼굴 앞에서]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150931</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150931</guid>
@@ -150,22 +158,6 @@
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[울림의 탄생]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144622</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144622</guid>
-            <pubDate>Tue, 26 Oct 2021 03:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4797460ec64506171ad9c6f88548253c1e5120e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사상]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145286</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145286</guid>
-            <pubDate>Tue, 26 Oct 2021 03:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30f1122eadc03b80771fbc73ac97ff66238f952c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
