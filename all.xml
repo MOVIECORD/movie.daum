@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -823,14 +823,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143824</guid>
@@ -839,20 +831,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152961</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152961</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -869,6 +861,14 @@
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd407519e6675a2685a478585b2ad75625f9105b1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스피릿 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -903,12 +903,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46428acd35c209d0e006b8dd227b3787a48ebae4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[십개월의 미래 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
+            <pubDate>Tue, 26 Oct 2021 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킬링 오브 투 러버스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138093</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138093</guid>
+            <pubDate>Tue, 26 Oct 2021 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ab00001548e8fb26c193b8636455ab7799be2ca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고양이를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -925,14 +941,6 @@
             <pubDate>Sun, 24 Oct 2021 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2061,6 +2069,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff0e0e0c7811160010eed406e354625ed821f3fbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[비랄의 멋진 세상 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=53879</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=53879</guid>
+            <pubDate>Tue, 26 Oct 2021 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11516E4D513D492419" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[히어 앤 데어 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=56823</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=56823</guid>
+            <pubDate>Tue, 26 Oct 2021 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F160937434ED3047D1E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[돼지의 왕 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=63948</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=63948</guid>
+            <pubDate>Tue, 26 Oct 2021 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F162A85354E809BB018" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아련한 봄 빛 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=67068</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=67068</guid>
+            <pubDate>Tue, 26 Oct 2021 09:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F25708048513D49E20A" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[컨버젼스 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=96683</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=96683</guid>
@@ -2179,6 +2219,46 @@
             <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
             <content:encoded><![CDATA[21.10.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa51170e879caedd5dcb91bdc8a2d5f92d8e78005" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA['당신은 믿지 않겠지만' 최희서 "일본 영화인과의 교감, 배우로서 운명처럼 느껴져" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211026180147168</link>
+            <guid>https://v.daum.net/v/20211026180147168</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국과 일본 배우들의 앙상블이 돋보이는 독특한 영화 '당신은 믿지 않겠지만'에서 인상적인 연기를 보인 배우 최희서를 만났다. 최희서는 영화속에서 한때 잘나갔던 아이돌 출신의 가수로 가족의 생계를 위해 무엇이든 하는 '솔'을 연기했다. 영화 '당신은 믿지 않겠지만'은 서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연처럼 만나, 운명 같은 여]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FiMBC%2F20211026180148455tsaw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['41th 영평상' 작품상은 '자산어보'..설경구·문소리 남녀 주연상[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211026175123877</link>
+            <guid>https://v.daum.net/v/20211026175123877</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '자산어보'가 제41회 영평상 최우수작품상 수상작으로 선정됐다. 남여 주연상의 영예는 설경구 문소리가 안았다. 26일 (사)한국영화평론가협회(회장 황영미) 측은 제41회 영평상 수상자(작) 리스트를 공개했다. 최우수작품상은 이준익 감독의 '자산어보'에게, 각본상 역시 같은 영화의 김세겸에게 돌아갔다. 남우주연상은 '자산어보'에서 열연을 펼친 배우 설]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fstartoday%2F20211026175125486keqe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['자산어보', 영평상 작품상..남녀주연상은 설경구·문소리 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211026173315119</link>
+            <guid>https://v.daum.net/v/20211026173315119</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 이준익 감독의 흑백영화 '자산어보'가 제41회 영평상 최우수 작품상에 선정됐다. 26일 오후 한국영화평론가협회는 제41회 영평상 수상작(자)를 발표했다. 최우수작품상의 영예는 이준익 감독의 '자산어보'에게 돌아갔고 각본상은 같은 영화 '자산어보'의 김세겸이 차지했다. 남우주연상은 '자산어보'에서 열연을 펼친 배우 설경구가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSBSfunE%2F20211026173317811cmzn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['살수' 신현준→이문식 캐스팅 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211026172658831</link>
+            <guid>https://v.daum.net/v/20211026172658831</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] ‘살수’ 신현준→이문식 캐스팅 확정 [공식] 영화 ‘살수’가 신현준, 이문식 등 국내 최고 연기파 배우들의 캐스팅을 확정 짓고, 10월 26일(화) 전격 크랭크인 했다. 거스를 수 없는 운명 앞에 놓인 조선 최고의 살수 이난의 이야기를 그린 액션 사극 ‘살수’가 배우 신현준을 필두로 이문식, 김민경, 홍은기, 최성원, 김병춘, 박재훈, 김제열]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fsportsdonga%2F20211026172700258bzdo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[봉준호&박정자가 추억하는 韓 최초 극장 이야기 그린 '보는 것을 사랑한다' 메인 예고편 공개 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211026171656470</link>
+            <guid>https://v.daum.net/v/20211026171656470</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 정유진 기자] 인천 일대를 주름잡았던 대한민국 최초의 극장, ‘애관극장’을 기억하며 추억을 간직하는 사람들의 이야기를 담은 다큐멘터리 '보는 것을 사랑한다'(감독 윤기형)가 과거와 현재의 ‘애관극장’ 모습을 담은 메인 예고편을 전격 공개했다. 이번에 공개된 메인 예고편은 오랜 역사를 자랑하는 ‘애관극장’이 남겨온 특별한 발자취를 따라가며 ‘애관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fnewsen%2F20211026171656167qvpy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[거듭된 실패, 집 안에 갇힌 삶.. 어디 그 혼자 뿐일까요 (다음영화 뉴스 ─ 최신)]]></title>
@@ -2301,46 +2381,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fstartoday%2F20211026141511124kdjn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['베놈2' 전세계 3.5억 달러 수익↑, '블랙 위도우' 넘어설까 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211026140456063</link>
-            <guid>https://v.daum.net/v/20211026140456063</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 영화 ‘베놈 2: 렛 데어 비 카니지’가 전 세계 3.5억 달러 돌파 수익을 올렸다. 영화 ‘베놈 2: 렛 데어 비 카니지’ 전 세계 흥행 수익은 3억 5242만 9631달러를 돌파했다. 또한 ‘분노의 질주: 더 얼티메이트’를 제치고 2021년 북미 전체 박스오피스 3위를 기록하며 명실상부 올가을 최고의 액션 블록버스터가 탄생했음을 입증한 셈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fsportsdonga%2F20211026140458386onjh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[리암 니슨 '메이드 인 이태리', 토스카나의 낭만적 풍광..힐링 포스터 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211026135244516</link>
-            <guid>https://v.daum.net/v/20211026135244516</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '메이드 인 이태리'(감독 제임스 다시)가 이탈리아 아름다운 풍광의 토스카나 포스터를 공개했다.&nbsp; '메이드 인 이태리'는 오래된 집을 팔기 위해 아름다운 토스카나에서 한 달간 머무르게 된 잭이 소원했던 아버지 로버트와 화해하고 새로운 사랑을 시작하게 되는 로맨틱 힐링 드라마다. 공개된 토스카나 포스터는 맑은 하늘 아래,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fxportsnews%2F20211026135246524qfyy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[신현준, '살수'로 스크린 컴백.."정통 액션 도전" [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211026134604286</link>
-            <guid>https://v.daum.net/v/20211026134604286</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 신현준이 영화 '살수'로 스크린 컴백을 알렸다. '살수'는 거스를 수 없는 운명 앞에 놓인 조선 최고의 살수 이난(신현준)의 이야기를 그린 액션 사극. 신현준을 필두로 이문식, 김민경, 홍은기, 최성원, 김병춘, 박재훈, 김제열 등 믿고 보는 연기파 배우들의 합류와 함께 오늘(26) 본격 크랭크인 했다. 신현준은 극 중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fmydaily%2F20211026134604888aoik.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['장르만 로맨스' 인생캐 수집 류승룡 또 터질까 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211026132302575</link>
-            <guid>https://v.daum.net/v/20211026132302575</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[매 작품 인생 캐릭터를 갱신하는 류승룡이다. 배우 류승룡이 '내 아내의 모든 것' 카사노바, '극한직업' 고반장, 넷플릭스 시리즈 '킹덤' 조학주에 이어 '장르만 로맨스'의 베스트셀러 작가 현으로 또 한 번 인생 캐릭터를 선보일 전망이다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Filgansports%2F20211026132303918sizk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[오달수 밝힌 칩거 후 복귀 소감 "당연히 있어야 할 자리"(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211026132135548</link>
-            <guid>https://v.daum.net/v/20211026132135548</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 독립영화 '요시찰'로 '진짜 복귀'한 오달수. 그가 "당연히 있어야 할 자리에 있는 것 같다"는 소회를 밝혔다. 지난 10월 13일 온라인과 각종 OTT 플랫폼을 통해 공개된 영화 '요시찰'(감독 김성한)은 모든 것이 통제되고, 정해진 규정 안에서 살아야하는 감옥에서 일어나는 사건을 그린 작품이다. 오달수는 극 중 '신' 역으로 자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fnewsen%2F20211026132135426kurf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[18만 관객에 그친 영화 '홍반장' 역주행..왜? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211026065709171</link>
             <guid>https://movie.v.daum.net/v/20211026065709171</guid>
@@ -2365,38 +2405,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSPORTSSEOUL%2F20211026074120182zpuk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] 신현준 '살수'로 스크린 컴백, 오늘(26일) 첫 삽 떴다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211026083939850</link>
-            <guid>https://movie.v.daum.net/v/20211026083939850</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 사극 영화 '살수'(곽정덕 감독, 디에이치미디어 제작)가 신현준, 이문식 등 국내 최고 연기파 배우들의 캐스팅을 확정 짓고, 오늘(26일) 전격 크랭크 인 했다. 극장르의 경계를 넘어 독보적인 카리스마를 보유한 연기파 신현준이 극 중 조선 최고의 살수 이난 역으로 스크린에 컴백한다. 코미디부터 드라마, 스릴러까]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026083939245dpbi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] '007 노 타임 투 다이' 韓서 120만 돌파..'블랙위도우' '샹치' 뛰어넘는 월드와이드 흥행 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211026085559287</link>
-            <guid>https://movie.v.daum.net/v/20211026085559287</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '007 노 타임 투 다이'(캐리 후쿠나가 감독)가 쟁쟁한 신작 개봉에도 120만 관객을 돌파하는 기염을 토했다. '007 노 타임 투 다이'가 영화진흥위원회 통합전산망 기준 25일 120만 관객을 돌파했다. 특히 '007 노 타임 투 다이'는 '베놈 2: 렛 데어 비 카니지' '듄' 등 쟁쟁한 경쟁작들의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026085600044nojj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한효주 "'태양은' 아야코, 만들어가는 재미 있었다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025200000572</link>
-            <guid>https://movie.v.daum.net/v/20211025200000572</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 한효주 “‘태양은’ 아야코, 만들어가는 재미 있었다” 대한민국의 대표 배우 한효주와 변요한이 ‘태양은 움직이지 않는다’를 통해 강렬한 연기 변신을 선보여 화제를 모으고 있다. 완벽한 캐릭터 소화력으로 매 작품마다 새로운 매력을 선보이는 배우 한효주와 변요한이 이번에는 ‘태양은 움직이지 않는다’를 통해 비밀 스파이 요원으로 변신하며 관객들의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fsportsdonga%2F20211025200002730uqlt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["'콜' 살인마 잊어라"..'연애 빠진 로맨스' 전종서, 첫 로맨스 연기 도전 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025082829282</link>
-            <guid>https://movie.v.daum.net/v/20211025082829282</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]전종서, 손석구의 신선한 만남으로 기대를 모으는 영화 '연애 빠진 로맨스'(정가영 감독)의 전종서가 마음만은 연애에서 은퇴한 스물아홉 자영 역으로 새로운 캐릭터 변신을 선보일 예정이다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 '자영'(전종서)과 일도 연애도 뜻대로 안 풀리는 우리(손석구), 이름, 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2FSpoChosun%2F20211025082829879sdyx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['강릉' 장혁vs유오성, 파국으로 치닫는 핏빛 전쟁 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211026103032263</link>
             <guid>https://movie.v.daum.net/v/20211026103032263</guid>
@@ -2405,36 +2413,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fnewsen%2F20211026103033016ayro.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식]황정민 주연 '남자가 사랑할때' 대만 리메이크작 '맨인러브', 11월 국내 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211026083400714</link>
-            <guid>https://movie.v.daum.net/v/20211026083400714</guid>
+            <title><![CDATA[[공식] 신현준 '살수'로 스크린 컴백, 오늘(26일) 첫 삽 떴다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026083939850</link>
+            <guid>https://movie.v.daum.net/v/20211026083939850</guid>
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]영화 '남자가 사랑할 때'(은진호 감독)의 리메이크 작품으로 대만 박스 오피스 1위를 기록한 감성 로맨스 '맨 인 러브'가 11월 국내 개봉을 확정하고 티저 포스터를 공개했다. '맨 인 러브'는 사랑에 서툰 거친 남자 아쳉이 하오팅을 만나 인생에서 처음이자 마지막이 될 사랑을 그린 따뜻하고 애절한 감성 로맨스. 원작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026083400690twbe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[누구보다 치열했던 삶..'허'스토리 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211026050735100</link>
-            <guid>https://movie.v.daum.net/v/20211026050735100</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[새달 4일 ‘세버그’ ‘빌리 홀리데이’ 인종 차별에 맞섰던 스타들의 실화 11일 다큐멘터리 ‘왕십리 김종분’ 노점 인생 애환 있는 그대로 담아혼란의 시대에 여성들이 발휘한 강렬한 힘은 역사에 다양한 방식으로 이정표를 남긴다. 세계적인 배우, 재즈의 상징, 그리고 열사의 어머니까지 치열하게 산 여성들의 삶을 조명한 영화들이 다음달 잇달아 개봉된다. 11월]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fseoul%2F20211026050736277efea.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점]'모럴센스'→'서울대작전'..넷플릭스 韓오리지널 영화, 시리즈물 신드롬 이을까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211026105412560</link>
-            <guid>https://movie.v.daum.net/v/20211026105412560</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]넷플릭스 한국 오리지널 시리즈의 인기, 영화로도 이어갈 수 있을까. 넷플릭스 오리지널 시리즈 '오징어 게임'이 역대 최장기간 1위를 차지하며 전 세계를 휩쓸고 한소희 주연 오리지널인 '마이 네임'과 '갯마을 차차차' 역시 10위권을 지키며 인기를 끌고 있는 가운데, OTT 플랫폼을 통해 공개되는 한국 콘텐츠에 대한 글]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026105412361hmzj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아프간 남자와 결혼한 체코 여성.. 이건 예상치 못했다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025153901407</link>
-            <guid>https://movie.v.daum.net/v/20211025153901407</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;마이 써니 마드&gt; 스틸컷    ⓒ 부천국제애니메이션페스티벌  &nbsp;체코의 대학에서 헤라는 운명처럼 아프가니스탄 남자 나자르와 사랑에 빠진다. 나지르의 가족은 할아버지, 어머니, 여동생의 부부와 조카가 함께 사는 대가족이었다. 체코에서의 삶에 미련이 없던 헬레나는 새로운 터전 아프가니스탄 카불로 떠나 가족을 꾸릴 마음에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fohmynews%2F20211025153906324abhk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 사극 영화 '살수'(곽정덕 감독, 디에이치미디어 제작)가 신현준, 이문식 등 국내 최고 연기파 배우들의 캐스팅을 확정 짓고, 오늘(26일) 전격 크랭크 인 했다. 극장르의 경계를 넘어 독보적인 카리스마를 보유한 연기파 신현준이 극 중 조선 최고의 살수 이난 역으로 스크린에 컴백한다. 코미디부터 드라마, 스릴러까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026083939245dpbi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['최고령 현역' 송해의 삶..'송해 1927', 세대별 공감 자극 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2445,12 +2429,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fxportsnews%2F20211026132132337rsmj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[한효주 "'태양은' 아야코, 만들어가는 재미 있었다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025200000572</link>
+            <guid>https://movie.v.daum.net/v/20211025200000572</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 한효주 “‘태양은’ 아야코, 만들어가는 재미 있었다” 대한민국의 대표 배우 한효주와 변요한이 ‘태양은 움직이지 않는다’를 통해 강렬한 연기 변신을 선보여 화제를 모으고 있다. 완벽한 캐릭터 소화력으로 매 작품마다 새로운 매력을 선보이는 배우 한효주와 변요한이 이번에는 ‘태양은 움직이지 않는다’를 통해 비밀 스파이 요원으로 변신하며 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fsportsdonga%2F20211025200002730uqlt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '007 노 타임 투 다이' 韓서 120만 돌파..'블랙위도우' '샹치' 뛰어넘는 월드와이드 흥행 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026085559287</link>
+            <guid>https://movie.v.daum.net/v/20211026085559287</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '007 노 타임 투 다이'(캐리 후쿠나가 감독)가 쟁쟁한 신작 개봉에도 120만 관객을 돌파하는 기염을 토했다. '007 노 타임 투 다이'가 영화진흥위원회 통합전산망 기준 25일 120만 관객을 돌파했다. 특히 '007 노 타임 투 다이'는 '베놈 2: 렛 데어 비 카니지' '듄' 등 쟁쟁한 경쟁작들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026085600044nojj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[신현준, '살수'로 스크린 컴백..이문식·홍은기와 액션 사극 호흡 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211026154533447</link>
             <guid>https://movie.v.daum.net/v/20211026154533447</guid>
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[26일 촬영 시작, 정통 액션 예고 [더팩트ㅣ김샛별 기자] 배우 신현준이 영화 '살수'로 스크린에 컴백한다. 영화 '살수' 제작진은 26일 신현준을 필두로 배우 이문식, 김민경, 홍은기, 최성원, 김병춘, 박재훈, 김제열 등의 캐스팅을 확정 짓고 촬영을 시작했다고 밝혔다. '살수'는 거스를 수 없는 운명 앞에 놓인 조선 최고의 살수 이난의 이야기를 그린]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FTHEFACT%2F20211026154535098impx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["'콜' 살인마 잊어라"..'연애 빠진 로맨스' 전종서, 첫 로맨스 연기 도전 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025082829282</link>
+            <guid>https://movie.v.daum.net/v/20211025082829282</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]전종서, 손석구의 신선한 만남으로 기대를 모으는 영화 '연애 빠진 로맨스'(정가영 감독)의 전종서가 마음만은 연애에서 은퇴한 스물아홉 자영 역으로 새로운 캐릭터 변신을 선보일 예정이다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 '자영'(전종서)과 일도 연애도 뜻대로 안 풀리는 우리(손석구), 이름, 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2FSpoChosun%2F20211025082829879sdyx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[윤계상 주연 '유체이탈자' 11월24일 개봉..11월 韓영화 라인업 [종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2461,20 +2469,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fstarnews%2F20211026150835712ogxx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['듄', 월드와이드 수익 약 2,584억 원..드니 빌뇌브 최고 오프닝 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211025182407989</link>
-            <guid>https://movie.v.daum.net/v/20211025182407989</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] SF 대작 '듄'(감독 드니 빌뇌브)이 월드와이드 흥행 수익 2억 2,000만 달러(약 2,583억 9,000만 원)를 돌파했다. 북미에서 지난주 개봉한 '듄'은 4,000만 달러 이상의 오프닝 수익을 거두며 드니 빌뇌브 감독 영화 사상 역대 최고 오프닝을 기록했다. 북미 영화 사이트인 박스오피스 모조 집계에 따르면 영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2FSBSfunE%2F20211025182409352vgqs.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[공식]황정민 주연 '남자가 사랑할때' 대만 리메이크작 '맨인러브', 11월 국내 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026083400714</link>
+            <guid>https://movie.v.daum.net/v/20211026083400714</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]영화 '남자가 사랑할 때'(은진호 감독)의 리메이크 작품으로 대만 박스 오피스 1위를 기록한 감성 로맨스 '맨 인 러브'가 11월 국내 개봉을 확정하고 티저 포스터를 공개했다. '맨 인 러브'는 사랑에 서툰 거친 남자 아쳉이 하오팅을 만나 인생에서 처음이자 마지막이 될 사랑을 그린 따뜻하고 애절한 감성 로맨스. 원작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026083400690twbe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[심재명 대표 "'태일이'는 수십 년 마음에 뒀던 기획" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211026043045683</link>
-            <guid>https://movie.v.daum.net/v/20211026043045683</guid>
+            <title><![CDATA[[SC초점]'모럴센스'→'서울대작전'..넷플릭스 韓오리지널 영화, 시리즈물 신드롬 이을까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026105412560</link>
+            <guid>https://movie.v.daum.net/v/20211026105412560</guid>
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘미다스의 손’으로 불렸다. 그럴 만도 했다. 영화 ‘접속’(1997)과 ‘공동경비구역 JSA’(2000), ‘우리 생애 최고의 순간’(2007), ‘건축학개론’(2012) 등 히트작이 열 손가락을 넘어간다. 의미와 재미를 놓치지 않는 영화들로 관객들의 사랑을 받았다. ‘마당을 나온 암탉’(2011)의 성과도 빼놓을 수 없다. 애니메이션 황무지나 다름없는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fhankooki%2F20211026043047720ikxe.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]넷플릭스 한국 오리지널 시리즈의 인기, 영화로도 이어갈 수 있을까. 넷플릭스 오리지널 시리즈 '오징어 게임'이 역대 최장기간 1위를 차지하며 전 세계를 휩쓸고 한소희 주연 오리지널인 '마이 네임'과 '갯마을 차차차' 역시 10위권을 지키며 인기를 끌고 있는 가운데, OTT 플랫폼을 통해 공개되는 한국 콘텐츠에 대한 글]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026105412361hmzj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[누구보다 치열했던 삶..'허'스토리 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026050735100</link>
+            <guid>https://movie.v.daum.net/v/20211026050735100</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[새달 4일 ‘세버그’ ‘빌리 홀리데이’ 인종 차별에 맞섰던 스타들의 실화 11일 다큐멘터리 ‘왕십리 김종분’ 노점 인생 애환 있는 그대로 담아혼란의 시대에 여성들이 발휘한 강렬한 힘은 역사에 다양한 방식으로 이정표를 남긴다. 세계적인 배우, 재즈의 상징, 그리고 열사의 어머니까지 치열하게 산 여성들의 삶을 조명한 영화들이 다음달 잇달아 개봉된다. 11월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fseoul%2F20211026050736277efea.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['코시국' 2년차, 아사 직전 극장가 먹여 살린 영화 TOP 3 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026160521405</link>
+            <guid>https://movie.v.daum.net/v/20211026160521405</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 팬데믹으로 극장가가 얼어 붙은지 벌써 2년이 흘렀습니다. 찍어 놓은 영화들의 개봉 시기는 미뤄지고, 가까스로 출연진과 스태프들이 모여도 확진자가 나오면 촬영이 무산되기 일쑤였죠. 다시 사람들이 극장으로 발걸음하기를 기다리던 영화들은 OTT로 직행하기도 했어요. 많은 산업들이 지난 2년 동안 코로나19로 타격을 받았지만, 영화계는 특히 그 여파가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Felle%2F20211026160527317joud.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[초호화 캐스팅 '프렌치 디스패치', 11월 18일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026110607257</link>
+            <guid>https://movie.v.daum.net/v/20211026110607257</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[독보적인 미장센의 대가 웨스 앤더슨 감독의 신작 '프렌치 디스패치'가 초호화 캐스팅으로 기대를 모으고 있다. 웨스 앤더슨 감독의 10번째 마스터피스 '프렌치 디스패치'는 갑작스럽게 마지막 발행본을 준비하게 된 매거진 &lt;프렌치 디스패치&gt;의 최정예 저널리스트들이 취재한 4개의 특종을 담은 작품이다. 이번 영화에는 틸다 스윈튼, 프란시스 맥도맨드, 빌 머레이 등]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fnocut%2F20211026110609831utqi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[나쁜 아빠가 되어버린 한 남자의 이야기 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2485,12 +2517,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fohmynews%2F20211026110004183znle.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] 박은빈 주연 '이상한 변호사 우영우' 넷플릭스行 확정..11월 촬영 시작 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211026131533437</link>
-            <guid>https://movie.v.daum.net/v/20211026131533437</guid>
+            <title><![CDATA[마블 '이터널스', 마동석 버프 받고 국내 흥행 예열 中 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211026125611983</link>
+            <guid>https://movie.v.daum.net/v/20211026125611983</guid>
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 박은빈 주연의 '이상한 변호사 우영우'가 제작에 돌입한다. 높은 IQ와 낮은 EQ를 가진 우영우가 변호사로 성장해나가는 과정을 그리는 휴먼 법정 드라마 '이상한 변호사 우영우' (문지원 극본, 유인식 연출)가 높은 퀄리티의 대본으로 촬영 전 넷플릭스 방영을 확정 짓고 촬영을 시작한다. '자이언트', '배가본]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2FSpoChosun%2F20211026131533300rhpf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 배우 마동석과 마블 스튜디오의 만남, '이터널스'가 개봉 전부터 국내 관객들을 설레게 하고 있다. 개봉 전 사전 예매율 1위를 기록하며 흥행 예열 중이다. 11월 3일 개봉되는 영화 '이터널스'(감독 클로이 자오·배급 월트디즈니컴퍼니 코리아)는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스: 엔드]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Ftvdaily%2F20211026125612440osis.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[리암 니슨 '메이드 인 이태리', 토스카나의 낭만적 풍광..힐링 포스터 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2499,6 +2531,14 @@
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '메이드 인 이태리'(감독 제임스 다시)가 이탈리아 아름다운 풍광의 토스카나 포스터를 공개했다.&nbsp; '메이드 인 이태리'는 오래된 집을 팔기 위해 아름다운 토스카나에서 한 달간 머무르게 된 잭이 소원했던 아버지 로버트와 화해하고 새로운 사랑을 시작하게 되는 로맨틱 힐링 드라마다. 공개된 토스카나 포스터는 맑은 하늘 아래,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F26%2Fxportsnews%2F20211026135246524qfyy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아프간 남자와 결혼한 체코 여성.. 이건 예상치 못했다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211025153901407</link>
+            <guid>https://movie.v.daum.net/v/20211025153901407</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;마이 써니 마드&gt; 스틸컷    ⓒ 부천국제애니메이션페스티벌  &nbsp;체코의 대학에서 헤라는 운명처럼 아프가니스탄 남자 나자르와 사랑에 빠진다. 나지르의 가족은 할아버지, 어머니, 여동생의 부부와 조카가 함께 사는 대가족이었다. 체코에서의 삶에 미련이 없던 헬레나는 새로운 터전 아프가니스탄 카불로 떠나 가족을 꾸릴 마음에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F25%2Fohmynews%2F20211025153906324abhk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한국 와서 쫄딱 망한 日 톱배우의 놀라운 근황 (다음 영화 ─ 매거진)]]></title>
