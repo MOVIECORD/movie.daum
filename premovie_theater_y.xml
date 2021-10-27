@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 22:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 23:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 26 Oct 2021 23:12:41 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff409d664f0d12fe4c025a0bb7558e105543178bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[당신은 믿지 않겠지만]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142880</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142880</guid>
+            <pubDate>Wed, 27 Oct 2021 23:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38a6487130cf568de4792deb79073a94b70723be" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Oct 2021 17:17:52 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킬링 오브 투 러버스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138093</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138093</guid>
-            <pubDate>Wed, 27 Oct 2021 22:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ab00001548e8fb26c193b8636455ab7799be2ca" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
