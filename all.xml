@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 13:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 14:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -903,20 +903,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
-            <pubDate>Sat, 23 Oct 2021 14:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143824</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
+            <pubDate>Sat, 23 Oct 2021 14:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가을의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2473,28 +2473,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fnewsis%2F20211028110829720sevi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[원세나의 연예공:감] '듄', '덕업일치'의 '좋은 예'로 손꼽힐 영화 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211027064002778</link>
-            <guid>https://movie.v.daum.net/v/20211027064002778</guid>
-            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 감독X음악감독, 원작 소설 '듄' 마니아로 일찌감치 유명&nbsp; [더팩트｜원세나 기자] 덕질과 직업이 같다는 말인 '덕업일치'. 자신이 열성적으로 좋아하는 분야의 일을 아예 직업으로 삼는 것으로 그야말로 '행복하게 일하기'가 가능하다. 최근 영화 마니아들 사이에 '덕업일치 최고의 아웃풋'으로 표현되는 작품이 있다. 바로 지난 20일 국내에서 개봉한 영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F27%2FTHEFACT%2F20211027064005376eyew.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[전태일 애니메이션 만든 심재명 "51년 전 일이지만 지금도 유효" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211028142439051</link>
             <guid>https://movie.v.daum.net/v/20211028142439051</guid>
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = "근로기준법을 준수하라! 우리는 기계가 아니다! 일요일은 쉬게 하라! 노동자들을 혹사하지 말라! 내 죽음을 헛되이 하지 말라!" 1970년 11월 13일 서울 동대문 평화시장. 스물두 살의 청년 전태일은 이렇게 외치며 휘발유를 자신의 몸에 끼얹고 불을 붙였다. 바로 그날 밤 어머니에게 자신이 못다 한 일을 대신 이뤄달라고]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fyonhap%2F20211028142439831rewj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 막강 캐스팅 조합, 최강 시너지 예고 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211027173128993</link>
-            <guid>https://movie.v.daum.net/v/20211027173128993</guid>
-            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '강릉'이 드림 캐스팅으로 완성된 막강 조합 배우진이 펼칠 다채로운 활약이 담긴 캐릭터 스틸 6종을 공개했다. 영화 '강릉'(감독 윤영빈·제작 아센디오)은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 영화. 공개된 스틸은 영화의 주역 여섯 명의 다양한 모습을 담고 있다. 먼저, 강릉 최대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F27%2Ftvdaily%2F20211027173129631oukk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[9만 5천 유로에 '가짜 가족'이 되기로 한 세 사람 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2505,12 +2489,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fohmynews%2F20211028132703620cguq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 신혜선, 스크린에서 만난다.. '오픈 더 도어' 촬영 종료 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211028091904207</link>
-            <guid>https://movie.v.daum.net/v/20211028091904207</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신혜선의 스크린 복귀작인 영화 '오픈 더 도어'(가제)가 촬영을 마치고 개봉에 앞서 후반 작업에 들어간다. YTN star 취재 결과, 영화 '오픈 더 도어'는 최근 추가 촬영을 비롯해 모든 촬영을 마친 것으로 확인됐다. '오픈 더 도어'는 혼자 사는 평범한 직장 여성이 중고거래를 했다가 벌어지는 일을 그리는 스릴러물. '인사동 스캔들' '퍼펙트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2FYTN%2F20211028091904272tjnn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[원세나의 연예공:감] '듄', '덕업일치'의 '좋은 예'로 손꼽힐 영화 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211027064002778</link>
+            <guid>https://movie.v.daum.net/v/20211027064002778</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 감독X음악감독, 원작 소설 '듄' 마니아로 일찌감치 유명&nbsp; [더팩트｜원세나 기자] 덕질과 직업이 같다는 말인 '덕업일치'. 자신이 열성적으로 좋아하는 분야의 일을 아예 직업으로 삼는 것으로 그야말로 '행복하게 일하기'가 가능하다. 최근 영화 마니아들 사이에 '덕업일치 최고의 아웃풋'으로 표현되는 작품이 있다. 바로 지난 20일 국내에서 개봉한 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F27%2FTHEFACT%2F20211027064005376eyew.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이브의 모든 것'..스타의 이면을 파헤친 걸작 [김대호의 옛날영화] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2521,20 +2505,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fmksports%2F20211028105408173jjij.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['강릉' 막강 캐스팅 조합, 최강 시너지 예고 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211027173128993</link>
+            <guid>https://movie.v.daum.net/v/20211027173128993</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '강릉'이 드림 캐스팅으로 완성된 막강 조합 배우진이 펼칠 다채로운 활약이 담긴 캐릭터 스틸 6종을 공개했다. 영화 '강릉'(감독 윤영빈·제작 아센디오)은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 영화. 공개된 스틸은 영화의 주역 여섯 명의 다양한 모습을 담고 있다. 먼저, 강릉 최대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F27%2Ftvdaily%2F20211027173129631oukk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['주토피아' 제작진 '엔칸토: 마법의 세계' 11월 24일 개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211028112231406</link>
             <guid>https://movie.v.daum.net/v/20211028112231406</guid>
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] ‘주토피아’ 제작진 ‘엔칸토: 마법의 세계’ 11월 24일 개봉 ‘겨울왕국’ ‘알라딘’을 잇는 디즈니의 새로운 오리지널 뮤지컬 ‘엔칸토: 마법의 세계’가 11월 24일 국내 개봉을 확정하며, 메인 포스터와 메인 예고편을 최초 공개했다. ‘엔칸토: 마법의 세계’는 특별한 능력을 가진 마드리갈 패밀리 중, 유일하게 평범한 주인공 ‘미라벨’이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fsportsdonga%2F20211028112233816bujq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤계상 '유체이탈자' 할리우드 리메이크 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211028084801181</link>
-            <guid>https://movie.v.daum.net/v/20211028084801181</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 영화에 대한 할리우드의 관심이 꾸준히 이어지고 있다. 국내에서 개봉을 준비 중인 영화 '유체이탈자(윤재근 감독)'가 할리우드에서 리메이크 된다. 외신은 '유체이탈자'의 할리우드 리메이크 소식을 알렸고, '유체이탈자' 측 역시 "수 많은 할리우드 흥행작을 탄생시켰던 메인 프로듀서 로렌조 디 보나벤츄라가 '유체이탈자' 리메이크를 제작한다"고 공식화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2FJTBC%2F20211028084803938qrgo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스' 마동석 어땠나 "크림빵에서 크림만 빼먹은 느낌"[영화보고서:리뷰①] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2545,20 +2529,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fnewsen%2F20211028180454241ymem.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['오스카 조연상' 윤여정, 금관문화훈장 받는다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211028100932621</link>
-            <guid>https://movie.v.daum.net/v/20211028100932621</guid>
+            <title><![CDATA[[단독] 신혜선, 스크린에서 만난다.. '오픈 더 도어' 촬영 종료 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211028091904207</link>
+            <guid>https://movie.v.daum.net/v/20211028091904207</guid>
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 윤여정이 금관문화훈장을 받는다.28일 문화체육관광부(이하 문체부)는 2021 대한민국 대중문화예술상 문화훈장 수훈자 6명과 대통령 표창 7명, 국무총리 표창 7명, 문체부장관 표창 9명(팀) 등 총 29명(팀)의 예술인을 선정해 발표했다. 윤여정은 올해 12회째 맞은 대중문화예술상 시상식에서 금관문화훈장 수훈자로 선정됐다.문화훈장은 문]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fsportskhan%2F20211028100933562nmbi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[신세경의 진짜 모습..'어나더 레코드' 관람포인트 '셋' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211028081047432</link>
-            <guid>https://movie.v.daum.net/v/20211028081047432</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='어나더 레코드'아무도 몰랐던 신세경의 진짜 모습이 궁금하다면. '어나더 레코드'에 있다. 28일 seezn(시즌)과 올레 tv를 통해 공개되는 '어나더 레코드'(감독 김종관)가 공개 된다. '어나더 레코드'는 모두가 아는 신세경의 아무도 몰랐던 이야기를 다룬 시네마틱 리얼 다큐멘터리 영화. 스타들의 이야기를 다룬 기존의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fstarnews%2F20211028081049027yjkx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[배우 신혜선의 스크린 복귀작인 영화 '오픈 더 도어'(가제)가 촬영을 마치고 개봉에 앞서 후반 작업에 들어간다. YTN star 취재 결과, 영화 '오픈 더 도어'는 최근 추가 촬영을 비롯해 모든 촬영을 마친 것으로 확인됐다. '오픈 더 도어'는 혼자 사는 평범한 직장 여성이 중고거래를 했다가 벌어지는 일을 그리는 스릴러물. '인사동 스캔들' '퍼펙트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2FYTN%2F20211028091904272tjnn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['오징어게임' 위하준, 주연작 '미드나이트' 영국 그림페스트 2관왕 겹경사 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2567,6 +2543,30 @@
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=하수정 기자] 국내 대표 OTT 티빙과 극장 동시 공개되어 많은 이들에게 짜릿한 재미를 안겨준 티빙 오리지널 무비 '미드나이트'가 제 13회 영국 그림페스트영화제에서 그랑프리에 해당하는 최우수작품상(Best Feature)과 여우주연 부문 특별언급상(Special Mention)을 수상해 화제다. 한밤중 살인을 목격한 청각장애인 ‘경미(진기주)’]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fpoctan%2F20211028180701775ilop.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['오스카 조연상' 윤여정, 금관문화훈장 받는다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211028100932621</link>
+            <guid>https://movie.v.daum.net/v/20211028100932621</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 윤여정이 금관문화훈장을 받는다.28일 문화체육관광부(이하 문체부)는 2021 대한민국 대중문화예술상 문화훈장 수훈자 6명과 대통령 표창 7명, 국무총리 표창 7명, 문체부장관 표창 9명(팀) 등 총 29명(팀)의 예술인을 선정해 발표했다. 윤여정은 올해 12회째 맞은 대중문화예술상 시상식에서 금관문화훈장 수훈자로 선정됐다.문화훈장은 문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fsportskhan%2F20211028100933562nmbi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤계상 '유체이탈자' 할리우드 리메이크 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211028084801181</link>
+            <guid>https://movie.v.daum.net/v/20211028084801181</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 영화에 대한 할리우드의 관심이 꾸준히 이어지고 있다. 국내에서 개봉을 준비 중인 영화 '유체이탈자(윤재근 감독)'가 할리우드에서 리메이크 된다. 외신은 '유체이탈자'의 할리우드 리메이크 소식을 알렸고, '유체이탈자' 측 역시 "수 많은 할리우드 흥행작을 탄생시켰던 메인 프로듀서 로렌조 디 보나벤츄라가 '유체이탈자' 리메이크를 제작한다"고 공식화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2FJTBC%2F20211028084803938qrgo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[신세경의 진짜 모습..'어나더 레코드' 관람포인트 '셋' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211028081047432</link>
+            <guid>https://movie.v.daum.net/v/20211028081047432</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='어나더 레코드'아무도 몰랐던 신세경의 진짜 모습이 궁금하다면. '어나더 레코드'에 있다. 28일 seezn(시즌)과 올레 tv를 통해 공개되는 '어나더 레코드'(감독 김종관)가 공개 된다. '어나더 레코드'는 모두가 아는 신세경의 아무도 몰랐던 이야기를 다룬 시네마틱 리얼 다큐멘터리 영화. 스타들의 이야기를 다룬 기존의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fstarnews%2F20211028081049027yjkx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이제 다 커서 11년 전 '아저씨' 명대사 패러디한 김새론 (다음 영화 ─ 매거진)]]></title>
