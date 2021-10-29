@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 23:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 00:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유령선 : 죽은 자의 저주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154670</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154670</guid>
-            <pubDate>Wed, 27 Oct 2021 23:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fda5020665cb6515e60b6fc21c386ed8b201ff178" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[천녀유혼: 귀애도]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150401</link>
@@ -163,6 +155,14 @@
             <pubDate>Wed, 27 Oct 2021 23:12:55 GMT</pubDate>
             <content:encoded><![CDATA[21.11.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 하더 데이 폴]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141768</guid>
+            <pubDate>Fri, 29 Oct 2021 00:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1ac50620084eb5c3f93a3068f30f3b18ddae931" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
