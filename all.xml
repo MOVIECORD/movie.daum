@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 12:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 13:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -887,20 +887,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Sat, 23 Oct 2021 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152962</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152962</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Sat, 23 Oct 2021 09:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -935,12 +935,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
-            <pubDate>Sat, 23 Oct 2021 14:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[가을의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1683</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1683</guid>
+            <pubDate>Fri, 29 Oct 2021 13:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F468918ac6a625b748c2c14be159519533fd5beb3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트 라이트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154667</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154667</guid>
+            <pubDate>Fri, 29 Oct 2021 13:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdfc0219c7cf1b3523bd8922de6e0acce600cbc2e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[천녀유혼: 귀애도 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1090,14 +1098,6 @@
             <pubDate>Wed, 27 Oct 2021 23:12:55 GMT</pubDate>
             <content:encoded><![CDATA[21.11.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 하더 데이 폴 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141768</guid>
-            <pubDate>Sat, 23 Oct 2021 07:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1ac50620084eb5c3f93a3068f30f3b18ddae931" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[테이큰 3 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2312,6 +2312,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['이터널스' 키트 해링턴 "데인, 흥미로운 캐릭터..MCU에 남고파" [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211029213002042</link>
+            <guid>https://v.daum.net/v/20211029213002042</guid>
+            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '이터널스' 키트 해링턴이 마블 시네마틱 유니버스(MCU)에 계속해서 출연하고 싶다고 언급했다. 29일 오후&nbsp;온라인 생중계를 통해 영화 '이터널스'에 출연한 배우 키트 해링턴과 감독 클로이 자오와의 화상 기자간담회가 진행됐다. '이터널스'는 수천 년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스: 엔드게임]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fxportsnews%2F20211029213004820jtvp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["강하고 유머러스해"..'이터널스' 감독이 밝힌 마동석 액션 [종합] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211029205622546</link>
             <guid>https://v.daum.net/v/20211029205622546</guid>
@@ -2464,14 +2472,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Ftvdaily%2F20211029193119671gfdv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이터널스' 감독 "마동석 '부산행' 보고 반해..출연 수락에 만세 외쳐" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211029193007238</link>
-            <guid>https://v.daum.net/v/20211029193007238</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘이터널스’ 클로이 자오 감독이 마동석을 칭찬했다. 29일 오후 영화 ‘이터널스’ 화상 간담회가 열렸다. 클로이 자오 감독과 배우 키트 해링턴이 참석했다. 클로이 자오 감독은 “길가메시는 우리가 이제껏 보아온 인간 역사의 모든 면에서 보인 강인한 남자의 오리지널 버전이다. 여러 가지 버전의 강한 남자의 신화를 탄생시켰다. 마동석은 ‘부산행’에서 처음 봤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fstartoday%2F20211029193010118nlyw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['해적: 도깨비 깃발' 2022년 설 연휴 개봉 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211029113829044</link>
             <guid>https://movie.v.daum.net/v/20211029113829044</guid>
@@ -2480,20 +2480,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Ftvdaily%2F20211029113830178rtfs.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] 윤계상 주연 '유체이탈자' 전세계 107개국 판매 확정 '폭발적 관심 입증' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211029084546757</link>
-            <guid>https://movie.v.daum.net/v/20211029084546757</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] '트랜스포머' 시리즈, '지.아이.조' 제작자 로렌조 디 보나벤츄라의 헐리우드 리메이크 확정 소식을 알리며 화제를 모은 추적 액션 영화 '유체이탈자'(윤재근 감독, 비에이엔터테인먼트·사람엔터테인먼트 제작)가 국내 개봉을 앞두고 전 세계 107개국 판매 확정을 알리며 해외의 뜨거운 관심을 입증했다. '유체이탈자'는 일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2FSpoChosun%2F20211029084546473tipb.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[순수한 매력이 일품인 '홍반장', 우린 그가 그립다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211029143001456</link>
             <guid>https://movie.v.daum.net/v/20211029143001456</guid>
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 17일에 종영한 tvN 주말 드라마 &lt;갯마을 차차차&gt;는 방영 기간 내내 많은 인기를 얻은 화제의 드라마였다. 사실 &lt;사랑의 불시착&gt;과 &lt;도깨비&gt; 등 시청률 20%를 넘는 드라마를 2편이나 배출했던 tvN에서 &lt;갯마을 차차차&gt;의 최종회 시청률 12.665%는 대단한 수치라고 할 수 없다(닐슨코리아 기준). 하지만 tvN과 제작사 스튜디오 드래]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fohmynews%2F20211029143003958zpcz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fohmynews%2F20211029143003958zpcz.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA['송해 1927', 아무도 몰랐던 송해..메인 예고편 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2502,6 +2494,14 @@
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 최고령 현역 연예인 송해의 생애 첫 주연 데뷔작 영화 '송해 1927'이 메인 예고편을 공개했다. '송해 1927'은 한 평생 전 국민과 희로애락을 함께한 최고령 현역 연예인 송해의 무대 아래 숨겨진 라이프 비하인드 스토리를 담은 영화다. 이번에 공개된 메인 예고편은 먼저, “장난꾸러기였죠 뭐”라는 지난 어린 날의 자신을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fxportsnews%2F20211029165249353gsav.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 윤계상 주연 '유체이탈자' 전세계 107개국 판매 확정 '폭발적 관심 입증' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211029084546757</link>
+            <guid>https://movie.v.daum.net/v/20211029084546757</guid>
+            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] '트랜스포머' 시리즈, '지.아이.조' 제작자 로렌조 디 보나벤츄라의 헐리우드 리메이크 확정 소식을 알리며 화제를 모은 추적 액션 영화 '유체이탈자'(윤재근 감독, 비에이엔터테인먼트·사람엔터테인먼트 제작)가 국내 개봉을 앞두고 전 세계 107개국 판매 확정을 알리며 해외의 뜨거운 관심을 입증했다. '유체이탈자'는 일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2FSpoChosun%2F20211029084546473tipb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[140만 돌파 '보이스' 35일간 한국영화 박스오피스 1위 대기록 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2520,20 +2520,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fohmynews%2F20211029152704858jien.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[조폭이어도 사연 있을 것 같은 목소리, 박희순 [라제기의 '배우'다] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211029073002422</link>
-            <guid>https://movie.v.daum.net/v/20211029073002422</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[편집자주※ 여러분들이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 1995년 단편영화 ‘2001 이매진’(1994)을 봤다. 눈이 확 떠지는 듯한 경험이었다. 새로운 세대가 곧 한국 영화계에 등장할 거라는 예감이 들었다. ‘2001 이매진’은 당시 충무로에서 봉준호 감독의 단편영화 ‘지리멸렬’(1994)과 함께 화제를 모았던]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fhankooki%2F20211029073005166guat.gif" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['강릉', 유오성X장혁 뭉친 범죄 액션 누아르 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211029100733510</link>
             <guid>https://movie.v.daum.net/v/20211029100733510</guid>
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[범죄 액션 누아르 영화 '강릉(윤영빈 감독)'이 강렬한 카리스마가 담긴 캐릭터 포스터를 29일 공개했다. '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션 영화. 공개된 포스터는 강렬한 카리스마로 눈길을 사로잡는다. 먼저 셔츠가 얼룩진 채 앉아있는 길석(유오성 역)의 모습은 그가 어떤 일들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Filgansports%2F20211029100734939smjv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조폭이어도 사연 있을 것 같은 목소리, 박희순 [라제기의 '배우'다] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211029073002422</link>
+            <guid>https://movie.v.daum.net/v/20211029073002422</guid>
+            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[편집자주※ 여러분들이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 1995년 단편영화 ‘2001 이매진’(1994)을 봤다. 눈이 확 떠지는 듯한 경험이었다. 새로운 세대가 곧 한국 영화계에 등장할 거라는 예감이 들었다. ‘2001 이매진’은 당시 충무로에서 봉준호 감독의 단편영화 ‘지리멸렬’(1994)과 함께 화제를 모았던]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fhankooki%2F20211029073005166guat.gif" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스' 첫공개, 마동석→BTS..마블에 녹아든 K스타 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2552,12 +2552,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fohmynews%2F20211029083901522zuge.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[최민식·장바이쯔 '파이란' 20년 만에 '디지털 리마스터링' 재개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211029091019438</link>
-            <guid>https://movie.v.daum.net/v/20211029091019438</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 최민식과 장바이쯔가 출연한 ‘파이란’이 개봉 20주년을 맞아 다시 관객과 만난다. ‘파이란’은 개봉 20주년을 맞아 디지털 리마스터링 버전으로 11월 재개봉한다. 이 영화는 막장 인생을 사는 3류 건달 ‘강재’에게 한 번도 만난 적 없는 아내 ‘파이란’의 부고가 전해지며 시작되는 두 사람의 엇갈린 사랑을 그린 작품이다. 대중과 평단의 높은 평가에 힘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fmunhwa%2F20211029091021110hqwl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[시대의 희생양이 된 두 여성, 스크린에 되살아나다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211028143350462</link>
+            <guid>https://movie.v.daum.net/v/20211028143350462</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 전설의 재즈 가수 빌리 홀리데이와 누벨바그의 아이콘 진 세버그, 뜨겁게 살았던 두 여성의 이야기가 영화로 되살아난다. 다음 달 4일 나란히 개봉하는 영화 '빌리 홀리데이'와 '세버그'다. 흑인에 대한 차별과 탄압이 만연했던 시대, 재즈 가수로, 배우로 당대의 상징이었던 두 사람은 흑인 인권에 목소리를 냈다는 이유로 연방수사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fyonhap%2F20211028143350195sbwr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['고스트버스터즈 라이즈' 12월 1일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2568,6 +2568,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fsportsdonga%2F20211029143632090uqrw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[최민식·장바이쯔 '파이란' 20년 만에 '디지털 리마스터링' 재개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211029091019438</link>
+            <guid>https://movie.v.daum.net/v/20211029091019438</guid>
+            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최민식과 장바이쯔가 출연한 ‘파이란’이 개봉 20주년을 맞아 다시 관객과 만난다. ‘파이란’은 개봉 20주년을 맞아 디지털 리마스터링 버전으로 11월 재개봉한다. 이 영화는 막장 인생을 사는 3류 건달 ‘강재’에게 한 번도 만난 적 없는 아내 ‘파이란’의 부고가 전해지며 시작되는 두 사람의 엇갈린 사랑을 그린 작품이다. 대중과 평단의 높은 평가에 힘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fmunhwa%2F20211029091021110hqwl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[공식] 강하늘→세훈 가세한 '해적2', 내년 설 연휴 개봉 확정..'위드 코로나' 이후 첫 韓대작 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211029082954443</link>
             <guid>https://movie.v.daum.net/v/20211029082954443</guid>
@@ -2576,12 +2584,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2FSpoChosun%2F20211029082954981gzmx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[시대의 희생양이 된 두 여성, 스크린에 되살아나다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211028143350462</link>
-            <guid>https://movie.v.daum.net/v/20211028143350462</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 전설의 재즈 가수 빌리 홀리데이와 누벨바그의 아이콘 진 세버그, 뜨겁게 살았던 두 여성의 이야기가 영화로 되살아난다. 다음 달 4일 나란히 개봉하는 영화 '빌리 홀리데이'와 '세버그'다. 흑인에 대한 차별과 탄압이 만연했던 시대, 재즈 가수로, 배우로 당대의 상징이었던 두 사람은 흑인 인권에 목소리를 냈다는 이유로 연방수사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fyonhap%2F20211028143350195sbwr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[안젤리나 졸리, ♥위켄드와 진짜 사귀나[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211029110710761</link>
+            <guid>https://movie.v.daum.net/v/20211029110710761</guid>
+            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(46)가 15살 연하 팝스타 위켄드(31)와 진짜 사귀는 것일까. 안젤리나 졸리는 최근 영화 ‘이터널스’를 홍보하면서 위켄드와의 관계의 본질에 대한 질문에 답변을 피했다. 저스틴 실베스터는 지난 27일(현지시간) 공동 주연 셀마 하이엑과 함께 E!의 '데일리 팝'에 출연, 안젤리나 졸리에게 아이들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fmydaily%2F20211029110710928otbx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['듄' 이틀 연속 1위, 51만 관객 돌파 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2590,14 +2598,6 @@
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '듄'이 박스오피스 1위를 기록했다. 29일 영화진흥위원회 통합전산망에 따르면 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)이 지난 28일 3만805명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 51만8991명이다. '듄'은 생명 유지 자원인 스파이스를 두고 아라키스 모래 행성 듄에서 악의 세력과]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Ftvdaily%2F20211029092819825hiou.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[안젤리나 졸리, ♥위켄드와 진짜 사귀나[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211029110710761</link>
-            <guid>https://movie.v.daum.net/v/20211029110710761</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(46)가 15살 연하 팝스타 위켄드(31)와 진짜 사귀는 것일까. 안젤리나 졸리는 최근 영화 ‘이터널스’를 홍보하면서 위켄드와의 관계의 본질에 대한 질문에 답변을 피했다. 저스틴 실베스터는 지난 27일(현지시간) 공동 주연 셀마 하이엑과 함께 E!의 '데일리 팝'에 출연, 안젤리나 졸리에게 아이들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fmydaily%2F20211029110710928otbx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스' 상상 초월 역대급 능력 갖춘 히어로들의 모든 것 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2616,20 +2616,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fmydaily%2F20211028074009067mnuc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] 진기주X위하준 '미드나이트' 英그림페스트영화제 최우수작품상→女주연 특별언급상 수상 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211028084710157</link>
-            <guid>https://movie.v.daum.net/v/20211028084710157</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 티빙 오리지널 추격 스릴러 영화 '미드나이트'(권오승 감독, 페퍼민트앤컴퍼니 제작)가 제 13회 영국 그림페스트영화제에서 그랑프리에 해당하는 최우수작품상(Best Feature)과 여우주연 부문 특별언급상(Special Mention)을 수상해 화제다. '미드나이트'가 지난 제25회 판타지아 국제 영화제에서 관객상을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2FSpoChosun%2F20211028084710912iwaw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[마동석에 진심인 마블..'이터널스' 감독 "마동석 수락에 '만세' 외쳐, 맨손 액션=헌사" [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211029201213940</link>
             <guid>https://movie.v.daum.net/v/20211029201213940</guid>
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '이터널스' 클로이 자오 감독이 배우 마동석 캐스팅 비하인드스토리를 밝혔다. 영화 '이터널스' 측은 29일 오후(한국시간), 화상 기자간담회를 진행했다. 연출을 맡은 클로이 자오 감독과 데인 휘트먼 역의 키트 해링턴이 참석했다. 마블 신작 '이터널스'는 수천 년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fmydaily%2F20211029201213082tify.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유체이탈자' 할리우드 리메이크 제작 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211028111855196</link>
+            <guid>https://movie.v.daum.net/v/20211028111855196</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] ‘유체이탈자’ 할리우드 리메이크 제작 확정 [공식] 수많은 할리우드 흥행작을 탄생시켰던 메인 프로듀서 로렌조 디 보나벤츄라가 영화 ‘유체이탈자’의 리메이크를 제작한다. 수많은 히트작을 선보인 할리우드의 전설적인 제작자 로렌조 디 보나벤츄라가 영화 ‘유체이탈자’ 리메이크 작품을 제작한다. 로렌조 디 보나벤츄라는 영화를 보고, "‘유체이탈자’는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F28%2Fsportsdonga%2F20211028111856245mnqj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['복수는 내 손으로' 여성 복수 서사를 그린 영화 (다음 영화 ─ 매거진)]]></title>
