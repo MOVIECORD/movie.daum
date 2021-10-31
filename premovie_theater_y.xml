@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 16:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 17:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[할로윈 킬즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
-            <pubDate>Wed, 27 Oct 2021 10:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노회찬6411]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
@@ -142,6 +134,14 @@
             <pubDate>Sun, 31 Oct 2021 09:12:01 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[할로윈 킬즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
+            <pubDate>Wed, 27 Oct 2021 10:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱크홀]]></title>
