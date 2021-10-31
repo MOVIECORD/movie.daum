@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 07:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 08:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=129680</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129680</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,649,301명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,649,299명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -839,14 +839,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
@@ -855,12 +847,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -887,6 +879,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143824</guid>
@@ -911,14 +911,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
-            <pubDate>Sat, 23 Oct 2021 10:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[가치 캅시다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154235</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154235</guid>
@@ -927,20 +919,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4c394a1c06e3638e15f07608d8cf45f6e55c325" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고양이를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3186</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3186</guid>
-            <pubDate>Sun, 31 Oct 2021 05:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[십개월의 미래 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
             <pubDate>Sun, 31 Oct 2021 06:14:42 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
+            <pubDate>Sat, 23 Oct 2021 10:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
+            <pubDate>Sun, 31 Oct 2021 08:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[천녀유혼: 귀애도 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2081,6 +2081,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[김선호 폭로전, 어디서부터 잘못됐을까(종합) [Oh!쎈 초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211031171358696</link>
+            <guid>https://v.daum.net/v/20211031171358696</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;이미지에 흠집이 난 배우 김선호를 돕겠다며 대학동창 및 가까운 지인을 비롯한 익명의 스태프의 방어전이 어느 정도 끝을 향해 달려가고 있다. 하지만 언제 또 어떤 이야기가 흘러나올지 모르는 시한폭탄과 같아 불안하다. 당사자들이 가만히 있는데 주변인들이 만든 볼썽사나운 모습이 더 이상 나오지 않길 바랄 뿐이다.&nbsp; 이번 사태는 신뢰를 쌓]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fpoctan%2F20211031171359366qcvi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[새 마블 히어로 군단, 인간의 존재 이유 말하다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211031162254847</link>
+            <guid>https://v.daum.net/v/20211031162254847</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] ‘마블’ 그 자체인 영화를 기대하고 극장에 들어가는 관객은 낯선 기분을 느낄지도 모르겠다. 초능력과 마블 캐릭터 특유의 유머를 가진 영웅이 무려 10명이나 등장하고, 할리우드의 최신 영화 과학 기술이 총집약 된 액션이 수없이 등장하지만 기존 마블 영화와는 뭔가 다르다는 생각을 지울 수 없는 ‘이터널스’가 오는 3일 개봉한다. ‘이터널스’는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fseouleconomy%2F20211031162257893zdvq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['촬영감독 사망' 알렉 볼드윈 "그녀는 내 친구였다, 총기퇴출 적극 환영" 첫 입장[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211031132527318</link>
             <guid>https://v.daum.net/v/20211031132527318</guid>
@@ -2225,22 +2241,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2FNEWS1%2F20211031053003942agau.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스', 알수록 빠져드는 전종서X손석구 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211031003202593</link>
-            <guid>https://v.daum.net/v/20211031003202593</guid>
-            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='연애 빠진 로맨스' 영화 '연애 빠진 로맨스'가 각양각색 캐릭터들의 다채로운 매력이 담긴 캐릭터 프로필 영상을 최초 공개했다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구 분), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fstarnews%2F20211031003203767gcep.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['송해 1927', 아무도 몰랐던 송해..메인 예고편 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211029165247146</link>
-            <guid>https://movie.v.daum.net/v/20211029165247146</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 최고령 현역 연예인 송해의 생애 첫 주연 데뷔작 영화 '송해 1927'이 메인 예고편을 공개했다. '송해 1927'은 한 평생 전 국민과 희로애락을 함께한 최고령 현역 연예인 송해의 무대 아래 숨겨진 라이프 비하인드 스토리를 담은 영화다. 이번에 공개된 메인 예고편은 먼저, “장난꾸러기였죠 뭐”라는 지난 어린 날의 자신을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F29%2Fxportsnews%2F20211029165249353gsav.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA['오징어게임' 황동혁 감독 "부자 아니야, 넷플릭스에서 보너스 못받아"(외신 인터뷰) (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211030162430491</link>
             <guid>https://movie.v.daum.net/v/20211030162430491</guid>
@@ -2254,7 +2254,7 @@
             <guid>https://movie.v.daum.net/v/20211031132527318</guid>
             <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 배우 알렉 볼드윈(63)이 할리나 허친스 촬영감독이 사망하고 조엘 소자 감독이 부상을 입은 영화 '러스트' 촬영장의 우발적인 총격사고 이후 처음으로 자신의 입장을 밝혔다. 회색 플란넬 셔츠 위에 검은색 바지와 검은색 재킷을 입은 볼드윈은 아내 힐라리아와 함께 미국 버몬트주의 시골길에서 대화를 나눴다. 그는 30일(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fmydaily%2F20211031132528030ihha.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fmydaily%2F20211031132528030ihha.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA['윤여정 경쟁자' 아만다 사이프리드, "코로나 감염 숨겼다" 왜?[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2281,20 +2281,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fsportskhan%2F20211031093728017yqoe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['마이 네임' 속 마약 판매상, 망고 임기홍 존재감 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211031093005386</link>
-            <guid>https://movie.v.daum.net/v/20211031093005386</guid>
-            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 임기홍 /사진=김창현 기자 chmt@넷플릭스 시리즈 '마이 네임'에서 임기홍의 존재감이 빛을 발했다. '마이 네임'은 아버지를 죽인 범인을 찾기 위해 조직에 들어간 지우(한소희 분)가 새로운 이름으로 경찰에 잠입한 후 마주하는 냉혹한 진실과 복수를 그린 넷플릭스 시리즈. 지난 15일 넷플릭스를 통해 공개된 '마이 네임'은 넷플릭스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fstarnews%2F20211031093007936fwdx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['주성치 월드' 입문자를 위한 친절한 안내서 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211031125100760</link>
             <guid>https://movie.v.daum.net/v/20211031125100760</guid>
             <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[양형석 기자] 중국은 세계적인 스포츠 강국이다. 2000년 시드니 올림픽에서 처음으로 종합순위 3위를 기록한 중국은 자국에서 열린 2008년 베이징 올림픽에서 미국, 러시아 등을 제치고 종합 1위를 차지했다(금메달 우선 기준). 중국은 이후 3번의 올림픽에서도 한 번도 3위 밖으로 내려간 적 없이 스포츠 강국의 위용을 지켜 왔다. 특히 탁구와 배드민턴 등]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fohmynews%2F20211031125101501biiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['마이 네임' 속 마약 판매상, 망고 임기홍 존재감 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211031093005386</link>
+            <guid>https://movie.v.daum.net/v/20211031093005386</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 임기홍 /사진=김창현 기자 chmt@넷플릭스 시리즈 '마이 네임'에서 임기홍의 존재감이 빛을 발했다. '마이 네임'은 아버지를 죽인 범인을 찾기 위해 조직에 들어간 지우(한소희 분)가 새로운 이름으로 경찰에 잠입한 후 마주하는 냉혹한 진실과 복수를 그린 넷플릭스 시리즈. 지난 15일 넷플릭스를 통해 공개된 '마이 네임'은 넷플릭스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fstarnews%2F20211031093007936fwdx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스' 로튼토마토 신선도 60%에 그쳐, "역대 마블 영화중 최저 점수"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2321,12 +2321,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fseouleconomy%2F20211031151440739xgtt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[새 마블 히어로 군단, 인간의 존재 이유 말하다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211031162254847</link>
+            <guid>https://movie.v.daum.net/v/20211031162254847</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] ‘마블’ 그 자체인 영화를 기대하고 극장에 들어가는 관객은 낯선 기분을 느낄지도 모르겠다. 초능력과 마블 캐릭터 특유의 유머를 가진 영웅이 무려 10명이나 등장하고, 할리우드의 최신 영화 과학 기술이 총집약 된 액션이 수없이 등장하지만 기존 마블 영화와는 뭔가 다르다는 생각을 지울 수 없는 ‘이터널스’가 오는 3일 개봉한다. ‘이터널스’는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fseouleconomy%2F20211031162257893zdvq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[TEN 피플] '소리도 없이'로 영화계를 흔든 '위험한 아티스트' 홍의정 감독 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211031090102918</link>
             <guid>https://movie.v.daum.net/v/20211031090102918</guid>
             <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=노규민 기자]≪노규민의 영화人싸≫노규민 텐아시아 영화팀장이 매주 일요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라 미래의 '인싸'들을 집중 탐구합니다."위험한 아티스트네"'거장'이라 불리는 봉준호 감독이 첫 장편 '소리도 없이'로 영화판을 들썩 거리게 한 차세대]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2F10asia%2F20211031090106158xwvo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['대중문화 최초 금관문화훈장' 윤여정 vs '총기사고' 알렉 볼드윈 [업앤다운] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211031100006858</link>
+            <guid>https://movie.v.daum.net/v/20211031100006858</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 윤여정이 한국대중문화 사상 처음으로 금관문화훈장을 받은 반면 알렉 볼드윈은 총기사고를 겪었다. /AFPBBNews=뉴스1최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN ▲▲ 배우 윤여정(74)이 대중문화 분야에서 최초로 금관문화훈장을 수상했다. 윤여정은 28일 오후 서울 중구 국립극장에서 열린 '제12회 대한민국 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fstarnews%2F20211031100007840xijk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['위드 코로나' 극장가는 이제부터가 시작이다[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211031103509461</link>
+            <guid>https://movie.v.daum.net/v/20211031103509461</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 남혜연기자]긴장감이 역력하다. 오래기다린 만큼 극장가는 만반의 준비를 갖추며 일상으로 돌아갈 준비를 하고 있다. 심야시간 극장대신 OTT를 통해 콘텐츠를 소비하던 관객들 역시 반경을 넓혀 자유롭게 관람을 할 수 있는 현실에 들떠있다. 하지만, 섣부른 판단은 금물. 그 어느때 보다 조심스럽고 철저한 방역으로 관객들을 맞겠다는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2FSPORTSSEOUL%2F20211031103510964stqn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['틱, 틱.. 붐!', '렌트' 작곡가 자전적 이야기..앤드류 가필드의 선율 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2345,36 +2369,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2FNEWS1%2F20211031091635994xkdf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['위드 코로나' 극장가는 이제부터가 시작이다[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211031103509461</link>
-            <guid>https://movie.v.daum.net/v/20211031103509461</guid>
-            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 남혜연기자]긴장감이 역력하다. 오래기다린 만큼 극장가는 만반의 준비를 갖추며 일상으로 돌아갈 준비를 하고 있다. 심야시간 극장대신 OTT를 통해 콘텐츠를 소비하던 관객들 역시 반경을 넓혀 자유롭게 관람을 할 수 있는 현실에 들떠있다. 하지만, 섣부른 판단은 금물. 그 어느때 보다 조심스럽고 철저한 방역으로 관객들을 맞겠다는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2FSPORTSSEOUL%2F20211031103510964stqn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['대중문화 최초 금관문화훈장' 윤여정 vs '총기사고' 알렉 볼드윈 [업앤다운] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211031100006858</link>
-            <guid>https://movie.v.daum.net/v/20211031100006858</guid>
-            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 윤여정이 한국대중문화 사상 처음으로 금관문화훈장을 받은 반면 알렉 볼드윈은 총기사고를 겪었다. /AFPBBNews=뉴스1최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN ▲▲ 배우 윤여정(74)이 대중문화 분야에서 최초로 금관문화훈장을 수상했다. 윤여정은 28일 오후 서울 중구 국립극장에서 열린 '제12회 대한민국 대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fstarnews%2F20211031100007840xijk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[로버트 다우니 주니어, '아이언맨' 앞서 슈퍼빌런 '닥터 둠' 될 뻔[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211031080005286</link>
             <guid>https://movie.v.daum.net/v/20211031080005286</guid>
             <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]로버트 다우니 주니어가 ‘아이언맨’이 아니라 ‘판타스틱4’의 슈퍼빌런 ‘닥터 둠’에 먼저 캐스팅될 뻔했던 사실이 알려졌다. 영화 ‘아이언맨’과 ‘아이언맨2’를 연출한 존 파브로(55) 감독은 최근 ‘The Story of Marvel Studios: The Making of the Marvel Cinematic Universe]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fmydaily%2F20211031080006050yfpm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[1위 탈환 '듄', 누적 관객 66만↑ 동원 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211031073654162</link>
-            <guid>https://movie.v.daum.net/v/20211031073654162</guid>
-            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘듄’이 박스오피스 1위를 유지하고 있다. 31일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(30일) ‘듄’은 10만 1062명이 관람해 일별 박스오피스 1위를 차지했다. 이날까지 누적 관객수는 66만 7923명이다.&nbsp; 이달 20일 개봉한 ‘듄’은 상영 첫날 1위를 했다가, 21일부터 26일까지 ‘베놈2: 렛 데어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fpoctan%2F20211031073655950usch.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[일본 감독들의 'maid in Korea' 영화들 [N초점] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2385,12 +2385,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2FNEWS1%2F20211031053003942agau.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[D-3 '이터널스' 폭발적 관심, 후광이냐 독이냐[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211031074801213</link>
-            <guid>https://movie.v.daum.net/v/20211031074801213</guid>
+            <title><![CDATA[1위 탈환 '듄', 누적 관객 66만↑ 동원 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211031073654162</link>
+            <guid>https://movie.v.daum.net/v/20211031073654162</guid>
             <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마블의 신작, 여기에 ‘마블리‘ 마동석까지 합류해 그 어느때보다 국내의 비상한 관심을 모으고 있는 영화 ‘이터널스’가 오는 3일 정식 개봉을 앞두고 언론에 선공개 됐다. 높은 기대치는 작품의 독이 됐을까, 아니면 그럼에도 자체 발광에 성공 했을까. '이터널스'는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 ‘어벤져스: 엔드게임’ 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fstartoday%2F20211031074803753ipie.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘듄’이 박스오피스 1위를 유지하고 있다. 31일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(30일) ‘듄’은 10만 1062명이 관람해 일별 박스오피스 1위를 차지했다. 이날까지 누적 관객수는 66만 7923명이다.&nbsp; 이달 20일 개봉한 ‘듄’은 상영 첫날 1위를 했다가, 21일부터 26일까지 ‘베놈2: 렛 데어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fpoctan%2F20211031073655950usch.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['당신은 믿지 않겠지만', 항상 도전하는 최희서 [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211031101001056</link>
+            <guid>https://movie.v.daum.net/v/20211031101001056</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '당신은 믿지 않겠지만'(감독 이시이 유야)의 주연배우 최희서가 25일 오후 진행된 온라인 라운드 인터뷰를 위해 포즈를 취하고 있다.  서로 다른 마음의 상처를 가진 일본과 한국의 가족이 서울에서 우연히 만나 운명 같은 여정을 떠나는 힐링 미라클 영화 '당신은 믿지 않겠지만'은 오는 28일 개봉된다. /사진제공=사람엔터테인먼트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fstarnews%2F20211031101002782dmyk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[교통사고로 죽은 딸을 VR에서 만난 엄마가 보인 반응 (다음 영화 ─ 매거진)]]></title>
