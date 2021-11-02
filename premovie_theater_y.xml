@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 04:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4c394a1c06e3638e15f07608d8cf45f6e55c325" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[십개월의 미래]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
+            <pubDate>Tue, 02 Nov 2021 05:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[울림의 탄생]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144622</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144622</guid>
+            <pubDate>Tue, 02 Nov 2021 05:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4797460ec64506171ad9c6f88548253c1e5120e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[싱크홀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 02 Nov 2021 01:58:41 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[가을의 전설]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1683</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1683</guid>
-            <pubDate>Tue, 02 Nov 2021 04:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F468918ac6a625b748c2c14be159519533fd5beb3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼펙트 스틸]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135356</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135356</guid>
-            <pubDate>Tue, 02 Nov 2021 04:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4aa7920a83d7df0a5d6fabdb465cd0dd7ada1d6" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
