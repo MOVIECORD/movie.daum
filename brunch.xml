@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 02 Nov 2021 06:16:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>빅이슈코리아]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F18Ah%2Fimage%2FPBy-vtUV9zS1wM5ergzlMfI8Gsc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[살아서 진실을 말하는 일 <아네트>]]></title>
+            <link>https://brunch.co.kr/@@boWK/74</link>
+            <guid>https://brunch.co.kr/@@boWK/74</guid>
+            <pubDate>Tue, 02 Nov 2021 08:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송치욱]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FboWK%2Fimage%2FGW7gs1m-_CIuvfk2VGY5m8XxfBc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<아네트> 영화의 화려함이 가린 진실을 찾아서]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Oct 2021 05:47:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>강재상 Alex]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1eSt%2Fimage%2FC9QIBwZvl6lwrRktXqPOaAbhbOI.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<베놈 2: 렛 데어 비 카니지> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@5uYQ/266</link>
-            <guid>https://brunch.co.kr/@@5uYQ/266</guid>
-            <pubDate>Sat, 23 Oct 2021 05:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FFBXQw36pxQULXNbVmNmvGagVXB0" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
