@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 22:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 23:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,7 +388,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=125372</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125372</guid>
             <pubDate>Sat, 23 Oct 2021 14:52:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,812,441명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,812,455명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F389d6e403d8ee48c419c7b16908919103e2c2670" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -548,7 +548,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=124456</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124456</guid>
             <pubDate>Sat, 23 Oct 2021 14:52:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>629,229명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>629,235명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fmovie-private%2F1eb1d9d691e8ff57dfe489610bf2ea5407f8a99a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -800,20 +800,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
-            <pubDate>Sun, 31 Oct 2021 10:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143824</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143824</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
+            <pubDate>Sun, 31 Oct 2021 10:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -926,22 +926,6 @@
             <pubDate>Tue, 02 Nov 2021 07:13:04 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F468918ac6a625b748c2c14be159519533fd5beb3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이터널스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
-            <pubDate>Wed, 27 Oct 2021 23:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 하더 데이 폴 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141768</guid>
-            <pubDate>Sat, 23 Oct 2021 07:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1ac50620084eb5c3f93a3068f30f3b18ddae931" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[세버그 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1086,6 +1070,22 @@
             <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F752b065f3c291bd2c2739a805a208e7b05d7ac64" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무림수사관 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153844</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153844</guid>
+            <pubDate>Tue, 02 Nov 2021 23:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa56ed4b67579b2984a9dea58358990771b0cfda4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[러브 어페어 : 우리가 말하는 것, 우리가 하는 것 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145242</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145242</guid>
+            <pubDate>Tue, 02 Nov 2021 23:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64b06e87ce720108b0b1ce6d10f7da50e3ce1d0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그 규칙은 당신에게 적용되지 않아요 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2214,6 +2214,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffba3da68500127371bd24f9873210aba28aa4e13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] 제42회 청룡영화상 8일부터 16일까지 후보작 상영제 개최, 17편 韓영화 무료 상영 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211103081246644</link>
+            <guid>https://v.daum.net/v/20211103081246644</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 제42회 청룡영화상 후보작을 무료로 감상할 수 있는 '후보작 상영제'가 오는 오는 8일부터 16일까지 CGV여의도 2관에서 개최된다. '후보작 상영제'는 본시상식에 앞서 청룡영화상 후보작을 한자리에서 모두 관람할 수 있는 특별한 기회다. 제42회 청룡영화상 '후보작 상영제'에서 상영하는 영화는 모두 17편이다. 10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2FSpoChosun%2F20211103081246657bndh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['듄' 80만 돌파 1위 수성..But '이터널스' 개봉 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211103080541499</link>
+            <guid>https://v.daum.net/v/20211103080541499</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] SF 대작 '듄'이 박스오피스 1위를 지켰다. 3일 영진위 영화관입장권통합전산망에 따르면 '듄'은 2일 3만 9758명이 찾아 1위를 기록했다. 누적 83만 8563명. '베놈2: 렛 데어 비 카니지'가 1만 9000명으로 2위에 올랐다. 누적 201만 4772명이다. 다만 두 영화의 쌍끌이 흥행은 여기까지 일 전망이다. 3일 마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fstarnews%2F20211103080542884nnos.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[42회 청룡영화상, 후보작 17편 상영회 무료 개최[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211103075643298</link>
+            <guid>https://v.daum.net/v/20211103075643298</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;제42회 청룡영화상 후보작을 무료로 감상할 수 있는 ‘후보작 상영제’가 이달 8일(월)부터 16일(화)까지 CGV여의도 2관에서 개최된다. 후보작 상영제는 본시상식에 앞서 청룡영화상 후보작을 한자리에서 모두 관람할 수 있는 특별한 기회다. 42회 청룡영화상 ‘후보작 상영제’에서 상영하는 영화는 모두 17편. 10개 부문에 후보로 올]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fpoctan%2F20211103075644346liol.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['죽이러 간다' 감독 "캐스팅된 이후 태도 바뀌는 배우 많더라"[10문10답] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211103075126243</link>
+            <guid>https://v.daum.net/v/20211103075126243</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;다큐멘터리&nbsp;‘최보은을 만나다’,&nbsp;단편&nbsp;‘모델’&nbsp;’신고’&nbsp;‘우리 집에 왜 왔니’&nbsp;‘가물치’&nbsp;‘수업’&nbsp;등 여성을 주제로 한 영화를 꾸준히 만들어 온 박남원 감독의 장편 데뷔작&nbsp;‘죽이러 간다’가 개봉을 앞두고 있다. 박남원 감독이 영화에 대한 10문10답을 진행했다. Q1.&nbsp;지금까지 단편영화 작업을 오래했는데,&nbsp;장편 데뷔가 좀 늦은 것]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fpoctan%2F20211103075127117egee.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['죽이러 간다' 박남원 감독 "내가 보고 싶어 만든 영화" [인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211103073101954</link>
+            <guid>https://v.daum.net/v/20211103073101954</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 다큐멘터리 ‘최보은을 만나다’, 단편 ‘모델’, ’신고’ ‘우리 집에 왜 왔니’, ‘가물치’, ‘수업’ 등 여성을 주제로 한 단편을 꾸준히 만들어 온 박남원 감독의 장편 데뷔작 ‘죽이러 간다’ 개봉을 앞두고 박남원 감독 10문10답 인터뷰를 가졌다. Q. 지금까지 단편영화 작업을 오래했는데, 장편 데뷔가 좀 늦은 것 같다. 영화 작업은 어떻]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fsportskhan%2F20211103073103416lfbu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['듄' 7일 연속 1위..2위 '베놈2' 200만 돌파 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211103070810696</link>
             <guid>https://v.daum.net/v/20211103070810696</guid>
@@ -2270,20 +2310,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fsegye%2F20211101171452884xcme.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['이터널스' 한국적인 친근함을 더했다! "쌈 싸주는 마동석, 삼겹살 굽는 리차드 매든" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102155621886</link>
-            <guid>https://movie.v.daum.net/v/20211102155621886</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 남혜연기자]이제 더 이상 할리우드작품에서 자연스럽게 한국 배우 및 문화를 엿보는 게 특별한 일이 아니다. K팝이 전세계적인 돌풍을 일으키고 있는 가운데 넷플릭스의 ‘오징어 게임’ 까지 OTT에서도 한국 작품에 대한 관심과 인기가 계속되는 가운데 마블스튜디오의 ‘이터널스’ 역시 한국의 친근한 모습을 담아낸 특별 포스터로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSPORTSSEOUL%2F20211102155625674onrt.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[오달수, 개그맨 박성광 장편 데뷔작 '웅남이' 출연 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211102161809785</link>
             <guid>https://movie.v.daum.net/v/20211102161809785</guid>
             <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[SBS연예뉴스 | 김지혜 기자] 배우 오달수가 '웅남이'(가제)로 연기 활동을 이어간다. 2일 오달수의 소속사 씨제스 엔터테인먼트는 "오달수가 개그맨 박성광이 연출하는 영화 '웅남이'(가제)에 출연한다"고 밝혔다. '웅남이'는 앞서 세 편의 단편 영화를 선보인 박성광의 처음으로 연출하는 장편 데뷔작. 앞서 배우 윤제문 등이 출연 물망에 오른 바 있다. 오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSBSfunE%2F20211102161811526euss.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSBSfunE%2F20211102161811526euss.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA['이터널스' 한국적인 친근함을 더했다! "쌈 싸주는 마동석, 삼겹살 굽는 리차드 매든" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102155621886</link>
+            <guid>https://movie.v.daum.net/v/20211102155621886</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 남혜연기자]이제 더 이상 할리우드작품에서 자연스럽게 한국 배우 및 문화를 엿보는 게 특별한 일이 아니다. K팝이 전세계적인 돌풍을 일으키고 있는 가운데 넷플릭스의 ‘오징어 게임’ 까지 OTT에서도 한국 작품에 대한 관심과 인기가 계속되는 가운데 마블스튜디오의 ‘이터널스’ 역시 한국의 친근한 모습을 담아낸 특별 포스터로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSPORTSSEOUL%2F20211102155625674onrt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["친구 죽여야 내가 무죄".. 21세기에 다시 본 중세 결투극 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2310,14 +2350,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fmydaily%2F20211102153622444aopp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마동석은 반갑지만..'이터널스', 원폭 역사 왜곡 논란에 퇴색된 메시지 [N리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211103060119882</link>
-            <guid>https://movie.v.daum.net/v/20211103060119882</guid>
-            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 마블 시리즈는 국내 영화 시장에선 흥행을 담보하는 프랜차이즈다. '이터널스'는 마블 신작이라는 점 뿐만 아니라 배우 마동석이 마블 히어로가 된다는 점에서 캐스팅 단계에서부터 기대를 모았던 화제작이기도 했다. 이에 지난 1일부터 '위드코로나'로 방역체계가 전환된 뒤 처음 개봉하는 마블 영화로 '이터널스'가 장기간 침체됐던]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2FNEWS1%2F20211103060119873ndid.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[박해일 "'와이키키 브라더스', 힘들 때 생각나는 작품" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211101193411960</link>
             <guid>https://movie.v.daum.net/v/20211101193411960</guid>
@@ -2334,20 +2366,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSpoChosun%2F20211102084228843qsmp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[스티브박, 한국계 배우 최초 '웨스 앤더슨 감독' 사단 합류 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102085616234</link>
-            <guid>https://movie.v.daum.net/v/20211102085616234</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;한국계 배우 최초로 웨스 앤더슨 감독 사단에 합류한 스티브 박이 영화 '프렌치 디스패치'에서 일류 셰프 ‘네스카피에’ 경위로 분해 남다른 존재감을 발산할 예정이다.&nbsp; 한국계 할리우드 배우 스티브 박이 웨스 앤더슨 감독의 10번째 마스터피스 '프렌치 디스패치'에 참여해 신 스틸러로 맹활약을 펼치는 것. 영화 '프렌치 디스패치'는 갑작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fpoctan%2F20211102085616234jnbd.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['이터널스' 마동석, 병풍 면했다..쿠키영상 총 두개[개봉작 리뷰②] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211103070011561</link>
             <guid>https://movie.v.daum.net/v/20211103070011561</guid>
             <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 아이언맨이 떠난 후의 새로운 마블, '이터널스'가 11월 3일 공개된다. 국내 관객이 가장 궁금한 것은 아마 마동석의 활약일 것이다. 영화 '이터널스'(감독 클로이 자오)는 7,000년에 걸쳐 살아온 태초의 히어로 ‘이터널스’를 주인공으로 삼아 우주와 지구를 배경으로 펼쳐지는 거대한 이야기를 담아낸 작품이다. 수천 년에 걸쳐 그 모]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fnewsen%2F20211103070011094uctq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석은 반갑지만..'이터널스', 원폭 역사 왜곡 논란에 퇴색된 메시지 [N리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211103060119882</link>
+            <guid>https://movie.v.daum.net/v/20211103060119882</guid>
+            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 마블 시리즈는 국내 영화 시장에선 흥행을 담보하는 프랜차이즈다. '이터널스'는 마블 신작이라는 점 뿐만 아니라 배우 마동석이 마블 히어로가 된다는 점에서 캐스팅 단계에서부터 기대를 모았던 화제작이기도 했다. 이에 지난 1일부터 '위드코로나'로 방역체계가 전환된 뒤 처음 개봉하는 마블 영화로 '이터널스'가 장기간 침체됐던]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2FNEWS1%2F20211103060119873ndid.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스' 마블 최초 썩은 토마토→히로시마 원폭 논란 위태롭다[개봉작 리뷰①] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2358,36 +2390,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fnewsen%2F20211103070007798cykx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["기회에 보답할 것" 김선호, 영화 데뷔 성사 '슬픈 열대' 올해 촬영 시작[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211101121853860</link>
-            <guid>https://movie.v.daum.net/v/20211101121853860</guid>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 사생활 논란에 휩싸인 김선호가 스크린 데뷔한다. 예정대로 '슬픈 열대'에 출연한다. 영화 '슬픈 열대'(감독 박훈정) 투자 배급사 NEW는 11월 1일 공식입장을 통해 "제작진은 고심 끝에 김선호와 함께 연내 촬영을 진행하기로 결정했다"고 밝혔다. 소속사 솔트엔터테인먼트 역시 "김선호의 '슬픈 열대' 출연이 맞다"며 "주신 기회에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fnewsen%2F20211101121858633htda.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['늑대사냥' 서인국x장동윤x최귀화x성동일 출연..올 연말 크랭크업[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211101140311211</link>
             <guid>https://movie.v.daum.net/v/20211101140311211</guid>
             <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;전대미문의 범죄자들을 호송하는 글로벌 프로젝트 영화 '늑대사냥'이 현재 촬영 중인 가운데, 올 연말 크랭크업을 앞두고 퍼스트룩 스틸을 공개했다. '늑대사냥'(감독 김홍선, 제공배급 TCO㈜더콘텐츠온, 제작 콘텐츠지 영화사 채움)은 인터폴도 포기한 극악무도한 범죄자들을 태평양 한가운데서 한국까지 3일 안에 이송해야 하는 미션을 그린]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fpoctan%2F20211101140311521wpds.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이터널스' 클로이 자오 감독 "마블이 지향하는 다양성·진정성 담았다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102091034744</link>
-            <guid>https://movie.v.daum.net/v/20211102091034744</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[마블이라는 다이아몬스 수저를 물고 관객과 만나게 될 '이터널스'가 작품 자체로 관객들의 마음을 이끄는데 성공할까. 영화 '이터널스(클로이 자오 감독)' 측은 개봉을 하루 앞두고 경이로운 비주얼과 거대한 스케일을 한 눈에 즐길 수 있는 압도적 비주얼 영상을 공개했다. 먼저 마블 수장 케빈 파이기는 “마블 페이즈 4의 다양한 아이디어가 쏟아져 나왔다. 우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102091035746qcjn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[가수 빌리 홀리데이, 배우 진 세버그..스타이기 이전에 불의를 참지 못하는 인간이었다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211103060247963</link>
-            <guid>https://movie.v.daum.net/v/20211103060247963</guid>
-            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 마블의 신작 블록버스터 ‘이터널스’가 11월 극장가 점령을 예고한 가운데 스케일은 크지 않지만 짙은 여운을 전하는 영화 2편이 오는 4일 나란히 개봉한다. 영화 ‘빌리 홀리데이’와 ‘세버그’다. 엄혹했던 시기에 인생을 걸고 불의에 맞섰던 실존 여성의 이야기를 다룬 작품들로, 영화보다 더 영화 같은 삶을 살았던 빌리 홀리데이(1915∼1959)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fseouleconomy%2F20211103060250602vdko.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['프렌치디스패치' 스티브 박, 한국계 배우 최초 '웨스 앤더슨 픽' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2406,20 +2414,52 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fohmynews%2F20211102164807150juki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[크리스틴 스튜어트, "다이애나 왕세자비 웨딩드레스 입었을 때 무서웠다"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102060005211</link>
-            <guid>https://movie.v.daum.net/v/20211102060005211</guid>
+            <title><![CDATA['이터널스' 클로이 자오 감독 "마블이 지향하는 다양성·진정성 담았다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102091034744</link>
+            <guid>https://movie.v.daum.net/v/20211102091034744</guid>
             <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 크리스틴 스튜어트가 다이애나 왕세자비의 웨딩 드레스를 입은 소감을 전했다. 그는 10월 31일(현지시간) 엔터테인먼트 투나잇에 출연해 “그 웨딩드레스를 입은 것은 무시무시했다”고 말했다. 크리스틴 스튜어트는 영화 ‘스펜서’에서 다이애나 왕세자비를 연기해 호평을 받았다. 그는 1991년 12월, 3일간의 주말을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fmydaily%2F20211102060005302odat.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[마블이라는 다이아몬스 수저를 물고 관객과 만나게 될 '이터널스'가 작품 자체로 관객들의 마음을 이끄는데 성공할까. 영화 '이터널스(클로이 자오 감독)' 측은 개봉을 하루 앞두고 경이로운 비주얼과 거대한 스케일을 한 눈에 즐길 수 있는 압도적 비주얼 영상을 공개했다. 먼저 마블 수장 케빈 파이기는 “마블 페이즈 4의 다양한 아이디어가 쏟아져 나왔다. 우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102091035746qcjn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[애프터스크리닝] '신세계'의 깊이감과 '범죄도시'의 강렬함을 모두 가진 새로운 누아르 '강릉' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211101162511260</link>
-            <guid>https://movie.v.daum.net/v/20211101162511260</guid>
+            <title><![CDATA['죽이러 간다' 감독 "캐스팅된 이후 태도 바뀌는 배우 많더라"[10문10답] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211103075126243</link>
+            <guid>https://movie.v.daum.net/v/20211103075126243</guid>
+            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;다큐멘터리&nbsp;‘최보은을 만나다’,&nbsp;단편&nbsp;‘모델’&nbsp;’신고’&nbsp;‘우리 집에 왜 왔니’&nbsp;‘가물치’&nbsp;‘수업’&nbsp;등 여성을 주제로 한 영화를 꾸준히 만들어 온 박남원 감독의 장편 데뷔작&nbsp;‘죽이러 간다’가 개봉을 앞두고 있다. 박남원 감독이 영화에 대한 10문10답을 진행했다. Q1.&nbsp;지금까지 단편영화 작업을 오래했는데,&nbsp;장편 데뷔가 좀 늦은 것]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fpoctan%2F20211103075127117egee.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[스티브박, 한국계 배우 최초 '웨스 앤더슨 감독' 사단 합류 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102085616234</link>
+            <guid>https://movie.v.daum.net/v/20211102085616234</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;한국계 배우 최초로 웨스 앤더슨 감독 사단에 합류한 스티브 박이 영화 '프렌치 디스패치'에서 일류 셰프 ‘네스카피에’ 경위로 분해 남다른 존재감을 발산할 예정이다.&nbsp; 한국계 할리우드 배우 스티브 박이 웨스 앤더슨 감독의 10번째 마스터피스 '프렌치 디스패치'에 참여해 신 스틸러로 맹활약을 펼치는 것. 영화 '프렌치 디스패치'는 갑작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fpoctan%2F20211102085616234jnbd.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['우유 반죽 빵' 팔기.. 그들에게는 위험천만 사업인 이유 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102160849441</link>
+            <guid>https://movie.v.daum.net/v/20211102160849441</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우유로 반죽한 빵을 먹고 싶다. 하지만 불가능에 가깝다. 개척기인 1820년 오리건 지역은 젖소가 딱 한 마리밖에 없어서다. 지역을 통치하는 영국인 팩터(토비 존스)가 우유 넣은 차를 먹고 싶어 외부에서 최근 데려온 지역 최초의 소다. 물과 밀가루로만 만든 빵에 질려 있는 쿠키(존 마가로)가 제대로 된 빵을 그리워하자 친구 루(오리온 리)가 묻는다. “소에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fhankooki%2F20211102160853204cflq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[가수 빌리 홀리데이, 배우 진 세버그..스타이기 이전에 불의를 참지 못하는 인간이었다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211103060247963</link>
+            <guid>https://movie.v.daum.net/v/20211103060247963</guid>
+            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 마블의 신작 블록버스터 ‘이터널스’가 11월 극장가 점령을 예고한 가운데 스케일은 크지 않지만 짙은 여운을 전하는 영화 2편이 오는 4일 나란히 개봉한다. 영화 ‘빌리 홀리데이’와 ‘세버그’다. 엄혹했던 시기에 인생을 걸고 불의에 맞섰던 실존 여성의 이야기를 다룬 작품들로, 영화보다 더 영화 같은 삶을 살았던 빌리 홀리데이(1915∼1959)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fseouleconomy%2F20211103060250602vdko.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["기회에 보답할 것" 김선호, 영화 데뷔 성사 '슬픈 열대' 올해 촬영 시작[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211101121853860</link>
+            <guid>https://movie.v.daum.net/v/20211101121853860</guid>
             <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[▶ 줄거리 강릉 최대 조직의 ‘길석’ 평화와 의리를 중요시하며 질서 있게 살아가던 그의 앞에 강릉 최대 리조트 소유권을 노린 남자 ‘민석’이 나타난다. 첫 만남부터 서늘한 분위기가 감도는 둘, ‘민석’이 자신의 목표를 위해 본격적으로 움직이기 시작하면서 두 조직 사이에는 겉잡을 수 없는 전쟁이 시작되는데.. 거친 운명 앞에 놓인 두 남자. 11월, 그들의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2FiMBC%2F20211101162512875eboa.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 사생활 논란에 휩싸인 김선호가 스크린 데뷔한다. 예정대로 '슬픈 열대'에 출연한다. 영화 '슬픈 열대'(감독 박훈정) 투자 배급사 NEW는 11월 1일 공식입장을 통해 "제작진은 고심 끝에 김선호와 함께 연내 촬영을 진행하기로 결정했다"고 밝혔다. 소속사 솔트엔터테인먼트 역시 "김선호의 '슬픈 열대' 출연이 맞다"며 "주신 기회에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fnewsen%2F20211101121858633htda.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[그저 원나잇 했을 뿐인데.. 벌어진 충격적인 상황 (다음 영화 ─ 매거진)]]></title>
