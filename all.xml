@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 06:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>762,528명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>762,526명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -148,7 +148,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>798,810명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>798,806명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -816,22 +816,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[애프터: 관계의 함정 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150296</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff409d664f0d12fe4c025a0bb7558e105543178bb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=119916</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=119916</guid>
@@ -846,6 +830,22 @@
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F776bc3e9a0b9ab8bb821f26fe3fc9e14b39e95bf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터: 관계의 함정 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150296</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff409d664f0d12fe4c025a0bb7558e105543178bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1815,6 +1815,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F53d39a68902140ea466da752b88349826e6f15c8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[빅 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=66515</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=66515</guid>
+            <pubDate>Tue, 02 Nov 2021 06:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fbe28b439f53dc2e9959d947f45a4e7fac1d5d3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[경찰서를 털어라 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2093</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2093</guid>
+            <pubDate>Tue, 02 Nov 2021 06:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F200D8E014BCD0ABB16" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[티파니에서 아침을 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3299</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3299</guid>
+            <pubDate>Tue, 02 Nov 2021 06:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F147856474E52E13A04" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 극장판 슈퍼썰매 대모험 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=76498</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=76498</guid>
+            <pubDate>Tue, 02 Nov 2021 06:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa4c9206c4c2938e17b3bb12ef10f370784de46" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[디시에르토 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=96940</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=96940</guid>
@@ -1943,6 +1975,86 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[TEN인터뷰] '강릉' 장혁 "쓸쓸한 누아르, 액션보다 내면 들여다보는 장르" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102150603455</link>
+            <guid>https://v.daum.net/v/20211102150603455</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]"기존 누아르가 남자의 영화고 거칠었다면 '강릉'은 사람의 이면을 보여주는 영화에요. 저는 그 사람이 하는 행동이 아닌 그 안에 보이지 않는 내면을 보여주는 게 누아르라고 생각해요. '강릉'은 그 이면을 잘 보여주는 작품입니다."배우 장혁은 액션 누아르 영화 '강릉'만의 차별점에 대해 이렇게 말했다. '강릉'은 강릉 최대의 리조트 건]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2F10asia%2F20211102150605809pmlh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김종관 감독 "신세경 캐스팅 이유? 행복해질 방법 아는 사람"[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102145844093</link>
+            <guid>https://v.daum.net/v/20211102145844093</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;김종관 감독이 ‘어나더 레코드’의 첫 주인공으로 배우 신세경을 캐스팅한 것에 대해 “배우로서의 호기심이 있었다”고 밝혔다.&nbsp; 김 감독은 2일 오후 온라인으로 진행된 화상 인터뷰에서 “신세경이 배우로서 뿐만 아니라 어떻게 살아야 행복해질 수 있는지 그 방법을 아는 사람이라 캐스팅을 했다”라며 이같이 말했다. ‘어나더 레코더’(감독 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fpoctan%2F20211102145845623qsxr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['어나더 레코드' 감독 "전이수 동화작가 섭외 이유? 신세경과 묘한 공통점 있어" [MD인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102145735042</link>
+            <guid>https://v.daum.net/v/20211102145735042</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] '어나더 레코드' 김종관 감독이 전이수 동화작가 섭외 이유를 전했다. KT 시즌 오리지널 영화 '어나더 레코드'를 연출한 김 감독을 2일 오후 화상으로 만났다. '어나더 레코드'는 그동안 볼 수 없었던 신세경의 일상을 기록한 다큐멘터리 영화다. 23년간 쉴 틈 없이 달려온 신세경을 사뭇 다른 시선으로 목도할 수 있는 특별]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fmydaily%2F20211102145735739ovxk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['어나더 레코드' 김종관 감독 "신세경, 대단한 용기와 뚝심 가진 배우" [MD인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102145650014</link>
+            <guid>https://v.daum.net/v/20211102145650014</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] '어나더 레코드' 김종관 감독이 신세경을 '대단한 용기와 뚝심을 가진 배우'라 칭했다. KT 시즌 오리지널 영화 '어나더 레코드'를 연출한 김 감독을 2일 오후 화상으로 만났다. '어나더 레코드'는 그동안 볼 수 없었던 신세경의 일상을 기록한 다큐멘터리 영화다. 23년간 쉴 틈 없이 달려온 신세경을 사뭇 다른 시선으로 목]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fmydaily%2F20211102145650322xyii.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김종관 감독 "'어나더 레코드', 창작의 연장선..신세경 향한 호감에서 출발" [MD인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102145615000</link>
+            <guid>https://v.daum.net/v/20211102145615000</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 김종관 감독이 '어나더 레코드' 연출 계기를 전했다. KT 시즌 오리지널 영화 '어나더 레코드'를 연출한 김 감독을 2일 오후 화상으로 만났다. '어나더 레코드'는 그동안 볼 수 없었던 신세경의 일상을 기록한 다큐멘터리 영화다. 23년간 쉴 틈 없이 달려온 배우 신세경을 사뭇 다른 시선으로 목도할 수 있는 특별한 기회를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fmydaily%2F20211102145615317ejyo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②] 김종관 감독 "아이유→신세경까지, 女캐릭터 매력多 작품 女배우 사랑받아"('어나더레코드') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102144941758</link>
+            <guid>https://v.daum.net/v/20211102144941758</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 김종관(46) 감독이 배우 신세경에 대해 "현재의 행복을 추구하는 사람이다"고 말했다. 김종관 감독이 2일 오후 스포츠조선과 화상 인터뷰에서 지난달 28일 OTT 플랫폼 seezn에서 공개된 시네마틱 리얼 다큐멘터리 영화 '어나더 레코드'(쇼박스 제작)에 대한 비하인드 에피소드를 전했다. 김종관 감독은 "배우로서 호]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSpoChosun%2F20211102144941589fbkr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰③] 김종관 감독 "배우 아닌 사람 보여주는 과정, 나 역시 조심스러워"('어나더레코드') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102144844739</link>
+            <guid>https://v.daum.net/v/20211102144844739</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 김종관(46) 감독이 "일 아닌 사생활 공개해야 하는 과정, 신세경의 진짜 이야기를 다루는 데 정말 조심스러웠다"고 말했다. 영화 '최악의 하루'(16) '더 테이블'(17) '페르소나'(19) '조제'(20) 등을 연출한 김종관 감독의 신작 시네마틱 리얼 다큐멘터리 영화 '어나더 레코드'(김종관 감독, 쇼박스 제작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSpoChosun%2F20211102144844530imye.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①] 김종관 감독 "신세경에 대한 호감多..일과 사생활 균형 좋은 사람"('어나더레코드') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102144836733</link>
+            <guid>https://v.daum.net/v/20211102144836733</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 김종관(46) 감독이 "배우 신세경, 삶의 균형이 좋은 사람"이라고 말했다. 시네마틱 리얼 다큐멘터리 영화 '어나더 레코드'(쇼박스 제작)의 연출을 맡은 김종관 감독. 그가 2일 오후 스포츠조선과 화상 인터뷰를 통해 '어나더 레코드'에 대한 연출 의도와 계기를 밝혔다. 김종관 감독은 "요즘 다큐멘터리 작품을 많이 보]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSpoChosun%2F20211102144836688amlt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['어나더 레코드' 김종관 감독 "맨 얼굴의 신세경은 모험심 가득한 사람"[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102144823726</link>
+            <guid>https://v.daum.net/v/20211102144823726</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 서촌을 거니는 신세경의 맨 얼굴을 담은 영화, '어나더 레코드'를 연출한 김종관 감독이 신세경만의 매력을 전했다. seezn(시즌) 오리지널 영화 '어나더 레코드'를 연출한 김종관 감독은 11월 2일 진행된 화상 인터뷰를 통해 누구도 아닌 신세경을 주인공으로 한 다큐멘터리를 연출한 계기 등을 밝혔다. 지난 10월 28일 seezn(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fnewsen%2F20211102144825122shja.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["'열정 장혁'이라 썼던 20대..40대 중반되니 무게감 더 실려" [N인터뷰](종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211102143109054</link>
+            <guid>https://v.daum.net/v/20211102143109054</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 장혁이 액션 누아르의 빌런으로 '검객'(2020) 이후 약 1년 만에 스크린에 돌아왔다. 장혁의 주연작으로 오는 10일 개봉을 앞둔 '강릉'은 국내 최대 관광지이자 항구도시 강릉을 배경으로 펼쳐지는 두 조직 간의 대립을 그린 범죄 액션 영화다. 그는 2일 진행한 인터뷰에서 영화에 대한 이야기를 비롯해 20대 시절의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FNEWS1%2F20211102143110057hteu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[잡채·비빔밥 먹는 리차드 매든→마동석, '이터널스' 포스터 공개 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211102135907691</link>
             <guid>https://v.daum.net/v/20211102135907691</guid>
@@ -2023,86 +2135,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FNEWS1%2F20211102122448288erhc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[장혁 "'강릉' 위해 평상시 보다 운동량 UP..평소 65kg 유지" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102122227589</link>
-            <guid>https://v.daum.net/v/20211102122227589</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 장혁 /사진제공=(주)스튜디오산타클로스배우 장혁(45)이 영화 '강릉'을 위해 평상시 보다 운동량을 늘렸다고 밝혔다. 장혁은 2일 온라인을 통해 영화 '강릉'(감독 윤영빈) 라운드 인터뷰를 진행했다. '강릉'은 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모 그리고 배신을 그린 범죄 액션극. 배우 유오성과 장혁이 드라마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fstarnews%2F20211102122228356hxlb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 장혁 "누아르 장르 특화된 유오성, 신뢰감·연대감 有" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102121124405</link>
-            <guid>https://v.daum.net/v/20211102121124405</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 장혁 /사진제공=(주)스튜디오산타클로스배우 장혁(45)이 6년 만에 영화 '강릉'을 통해 재회한 유오성에 대해 언급했다. 장혁은 2일 온라인을 통해 영화 '강릉'(감독 윤영빈) 라운드 인터뷰를 진행했다. '강릉'은 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모 그리고 배신을 그린 범죄 액션극. 배우 유오성과 장혁이 드라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fstarnews%2F20211102121125897aywx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 장혁 "코로나 시국엔 아이들과 함께..가족과 연대 깊어져"[EN:인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102121024365</link>
-            <guid>https://v.daum.net/v/20211102121024365</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 장혁이 "코로나가 끝나면 무대인사로 관객을 만나고 싶다"는 소망을 전했다. 영화 '강릉'(감독 윤영빈)에 출연한 장혁은 11월 2일 진행된 화상 인터뷰를 통해 "코로나 시국 동안 가족과의 시간을 보냈다"고 밝혔다. 오는 10일 개봉하는 '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fnewsen%2F20211102121025933cfil.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 장혁 "'위드 코로나' 후 영화 개봉, 조심스러워" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102120719292</link>
-            <guid>https://v.daum.net/v/20211102120719292</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 배우 장혁이 '위드 코로나'(단계적 일상회복) 전환 후&nbsp;영화를 개봉하는 소감을 전했다. 2일 오후 영화 '강릉'(감독 윤영빈) 주연 배우 장혁의 온라인 인터뷰가 진행됐다. 앞서 정부는 1일부터 '위드 코로나'로 방역체계를 전환했다. 이로인해 영화관에서도 심야 상영 제한이 해제되거나 백신패스관이 도입되는 등&nbsp;일상 곳곳에서&nbsp;제한의 폭이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fpoctan%2F20211102120720960xkaq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 장혁 "체중 관리? 65kg 유지하고 복싱 꾸준히"[EN:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102120430230</link>
-            <guid>https://v.daum.net/v/20211102120430230</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 액션 장인 장혁이 "65kg을 유지하고 있다"고 밝혔다. 영화 '강릉'(감독 윤영빈)에 출연한 장혁은 11월 2일 진행된 화상 인터뷰를 통해 거친 액션을 소화한 뒷이야기를 전했다. 오는 10일 개봉하는 '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션 영화다. 장혁은 갖고 싶]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fnewsen%2F20211102120430341avft.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 장혁 "유오성과 '객주' 후 5년만 재회, 누아르 신뢰 있었다"[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102120336219</link>
-            <guid>https://v.daum.net/v/20211102120336219</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 장혁이 '장사의 신-객주 2015' 이후 유오성과 재회한 소감을 밝혔다. 영화 '강릉'(감독 윤영빈)에 출연한 장혁은 11월 2일 진행된 화상 인터뷰를 통해 유오성과 6년 만에 스크린에서 재회한 소회를 전했다. 오는 10일 개봉하는 '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린 범죄]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fnewsen%2F20211102120336245xdvf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 장혁 "빌런 포지션, 오랜만인 누아르+색채감 있어 선택" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102120315212</link>
-            <guid>https://v.daum.net/v/20211102120315212</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 장혁 /사진제공=(주)스튜디오산타클로스배우 장혁(45)이 영화 '강릉'에 출연한 이유를 밝혔다. 장혁은 2일 온라인을 통해 영화 '강릉'(감독 윤영빈) 라운드 인터뷰를 진행했다. '강릉'은 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모 그리고 배신을 그린 범죄 액션극. 배우 유오성과 장혁이 드라마 '장사의 신 - 객주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fstarnews%2F20211102120630594zcit.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이터널스' 클로이 자오가 자신한 압도적 비주얼 "어떤 것도 놓치고 싶지 않았다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102120236192</link>
-            <guid>https://v.daum.net/v/20211102120236192</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 2021년 외화 흥행작 1위 '블랙 위도우'의 동시기 사전 예매량을 훌쩍 뛰어 넘으며 마블의 새로운 흥행 신화를 써 내려갈 영화 '이터널스'가 개봉을 앞두고 경이로운 비주얼과 거대한 스케일을 한 눈에 즐길 수 있는 '압도적 비주얼 영상'을 전격 공개했다. 개봉을 하루 앞두고 다양한 측면에서 호평을 받고 있는 '이터널스'에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fmydaily%2F20211102120236230iubz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰④] '강릉' 장혁 "당해도 나가는 맹수의 액션, 일부러 체중 감량" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102120110146</link>
-            <guid>https://v.daum.net/v/20211102120110146</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[장혁이 '강릉'에서 선보인 액션 비주얼에 대한 솔직한 생각을 전했다. 영화 '강릉(윤종빈 감독)' 개봉을 앞두고 있는 장혁은 2일 진행된 화상 인터뷰에서 "칼을 쓰는 액션을 주로 소화했다"는 말에 "액션에 대한 디자인은 촬영 전 무술 감독님과 같이 상의하면서 만들었다. 화려함보다 맞고 찔리면서 나아가는 식을 염두했고, 테크닉적으로 보여주는 액션보다 맹수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102120113992guxz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰③] 장혁 "코로나 시기, 가족들과 연대감 깊어졌다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211102115412862</link>
-            <guid>https://v.daum.net/v/20211102115412862</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[장혁이 위드 코로나 시기 선보이는 첫번째 한국영화 주인공으로 조심스러운 마음과 함께 지난 2년의 시간에 대해 회상했다. 영화 '강릉(윤종빈 감독)' 개봉을 앞두고 있는 장혁은 2일 진행된 화상 인터뷰에서 "(개봉은) 조심스럽다. 앞선 코로나 시국 '검객'이라는 영화를 개봉 했을 땐 무대인사도 못했다. 좌석은 띄어앉기 하다 보니까 그 모습을 보면서 이전에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102115413456bphc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[스티브박, 한국계 배우 최초 '웨스 앤더슨 감독' 사단 합류 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211102085616234</link>
             <guid>https://movie.v.daum.net/v/20211102085616234</guid>
@@ -2159,6 +2191,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FSpoChosun%2F20211102072254820ptbv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['늑대사냥' 장동윤X서인국 스틸 공개..연말 크랭크업 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211101194530174</link>
+            <guid>https://movie.v.daum.net/v/20211101194530174</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 영화 ‘늑대사냥’이 한창 촬영 중인 가운데, 올연말 크랭크업을 앞두고 강렬한 퍼스트룩 스틸을 공개했다.&nbsp; 영화 ‘늑대사냥’은 인터폴도 포기한 극악무도한 범죄자들을 태평양 한가운데서 한국까지 3일 안에 이송해야 하는 미션을 그린 지금껏 보지 못한 글로벌 호송 프로젝트.&nbsp; 영화 ‘늑대사냥’은 충무로의 새로운 대세로 주목 받는 장동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Ftvreport%2F20211101194532119mmav.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['유체이탈자', 윤계상의 액션 유니버스 "이번엔 동물적·본능적" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211102085256149</link>
             <guid>https://movie.v.daum.net/v/20211102085256149</guid>
@@ -2173,14 +2213,6 @@
             <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;"주신 기회에 보답할 수 있도록 열심히 하겠다" 배우 김선호가 '활동 중단'을 중단했다. 여자친구에게 낙태를 종용했다는 의혹이 제기돼&nbsp;&nbsp;출연 중이던 프로그램과 예정된 작품에서 하차하며 활동에 손발이 묶였던 김선호가 본격&nbsp;재개를 알린 것. 해당 작품은 영화 '슬픈 열대'. 이 영화의 투자배급사 뉴(NEW)&nbsp;측은 1일 "제작진이&nbsp;고심]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fpoctan%2F20211101171406555uiyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['늑대사냥' 장동윤X서인국 스틸 공개..연말 크랭크업 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211101194530174</link>
-            <guid>https://movie.v.daum.net/v/20211101194530174</guid>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 영화 ‘늑대사냥’이 한창 촬영 중인 가운데, 올연말 크랭크업을 앞두고 강렬한 퍼스트룩 스틸을 공개했다.&nbsp; 영화 ‘늑대사냥’은 인터폴도 포기한 극악무도한 범죄자들을 태평양 한가운데서 한국까지 3일 안에 이송해야 하는 미션을 그린 지금껏 보지 못한 글로벌 호송 프로젝트.&nbsp; 영화 ‘늑대사냥’은 충무로의 새로운 대세로 주목 받는 장동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Ftvreport%2F20211101194532119mmav.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김선호 측 "'슬픈 열대' 출연 확정..주어진 기회 보답할 것" [공식입장] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2223,20 +2255,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fpoctan%2F20211102084717812ubaz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['강릉' 장혁 "평소 복싱으로 65kg 유지..감량할 땐 61kg까지" [N인터뷰]④ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102122500631</link>
-            <guid>https://movie.v.daum.net/v/20211102122500631</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 장혁이 '강릉' 캐릭터를 위해 외적인 변신을 시도했다 밝혔다. 장혁은 2일 온라인을 통해 진행된 영화 '강릉'(감독 윤영빈) 화상 인터뷰에서 "한가지 색깔에 대한 고민이 있었다"며 "의상 프리 프로덕션에서 준비하면서 의상에 대한 말씀이 있으셨는데 한가지 색깔로 가는 나을 것 같다 하셨다"고 회상했다. 그러면서 "눈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FNEWS1%2F20211102122502105gnjs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['강릉' 장혁 "코로나 시국엔 아이들과 함께..가족과 연대 깊어져"[EN:인터뷰③] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211102121024365</link>
-            <guid>https://movie.v.daum.net/v/20211102121024365</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 장혁이 "코로나가 끝나면 무대인사로 관객을 만나고 싶다"는 소망을 전했다. 영화 '강릉'(감독 윤영빈)에 출연한 장혁은 11월 2일 진행된 화상 인터뷰를 통해 "코로나 시국 동안 가족과의 시간을 보냈다"고 밝혔다. 오는 10일 개봉하는 '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fnewsen%2F20211102121025933cfil.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['이터널스' 새로운 마블 유니버스 문 열렸다(ft.마동석+BTS)(리뷰)[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211101080002022</link>
+            <guid>https://movie.v.daum.net/v/20211101080002022</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] ‘이터널스’가 새로운 MCU(마블 시네마틱 유니버스)의 서막을 열었다. 오는 11월 3일 개봉하는 영화 ‘이터널스’는 수 천년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 ‘어벤져스: 엔드게임’ 이후 인류의 가장 오래된 적 ‘데비안츠’에 맞서기 위해 다시 힘을 합치면서 벌어지는 이야기를 담았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2FSPORTSSEOUL%2F20211101080007901nbqy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[윤계상 주연 '유체이탈자', 웰메이드 추적 액션 탄생 예고 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2247,20 +2271,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2FSpoChosun%2F20211101091256137arhu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[임산부의 세계를 그렸을 뿐인데, '호러'로 느껴진 까닭 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211101161500783</link>
-            <guid>https://movie.v.daum.net/v/20211101161500783</guid>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;영화 &lt;십개월의 미래&gt; 포스터.    ⓒ 그린나래미디어  &nbsp;번듯한 직장을 때려치우고 스타트업 회사에 들어가, 프로그램 개발자로 일하는 29살 미래(최성은 분). 그에겐 일러스트 아르바이트를 하며 모바일 액세서리로 대박을 꿈꾸는 남자친구 윤호(서영주 분)가 있다.&nbsp;어느날 미래는 메스꺼운 느낌이 간밤의 숙취 때문이라고 생각하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fohmynews%2F20211101161504256feah.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['강릉' 장혁 "코로나 시국엔 아이들과 함께..가족과 연대 깊어져"[EN:인터뷰③] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102121024365</link>
+            <guid>https://movie.v.daum.net/v/20211102121024365</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 장혁이 "코로나가 끝나면 무대인사로 관객을 만나고 싶다"는 소망을 전했다. 영화 '강릉'(감독 윤영빈)에 출연한 장혁은 11월 2일 진행된 화상 인터뷰를 통해 "코로나 시국 동안 가족과의 시간을 보냈다"고 밝혔다. 오는 10일 개봉하는 '강릉'은 강릉 최대의 리조트 건설을 둘러싼 서로 다른 조직의 야망과 음모, 그리고 배신을 그린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fnewsen%2F20211102121025933cfil.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[일본 애니 '나의 히어로 아카데미아', 깜짝 4위 진입 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211101103606452</link>
-            <guid>https://movie.v.daum.net/v/20211101103606452</guid>
+            <title><![CDATA['강릉' 장혁 "평소 복싱으로 65kg 유지..감량할 땐 61kg까지" [N인터뷰]④ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211102122500631</link>
+            <guid>https://movie.v.daum.net/v/20211102122500631</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 장혁이 '강릉' 캐릭터를 위해 외적인 변신을 시도했다 밝혔다. 장혁은 2일 온라인을 통해 진행된 영화 '강릉'(감독 윤영빈) 화상 인터뷰에서 "한가지 색깔에 대한 고민이 있었다"며 "의상 프리 프로덕션에서 준비하면서 의상에 대한 말씀이 있으셨는데 한가지 색깔로 가는 나을 것 같다 하셨다"고 회상했다. 그러면서 "눈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2FNEWS1%2F20211102122502105gnjs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['장르만 로맨스' 오나라·성유빈, 유쾌한 '모자 케미' 발동 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211101133433253</link>
+            <guid>https://movie.v.daum.net/v/20211101133433253</guid>
             <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상화 기자] &nbsp;        ▲ &nbsp;영화 '듄'의 한 장면    ⓒ 워너브러더즈코리아  &nbsp;할로윈데이 주말의 흥행 승리는 이변 없이 &lt;듄&gt;에게 돌아갔다. 미국의 영화흥행정보사이트 박스오피스모조닷컴의 잠정 집계에 따르면 &lt;듄&gt;은 지난 주말 3일간(29~31일, 현지시간) 1553만달러를 벌면서 2위 &lt;할로윈 킬즈&gt;(850만달러)를 여유있게 제치고 2주 연속]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fohmynews%2F20211101103608488ptoo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[배우 오나라와 성유빈이 유쾌한 케미를 예고했다. 1일 '장르만 로맨스(조은지 감독)' 측은 극중 미애(오나라)와 성경(성유빈)이 서로를 의심하며 긴장감을 유발하는 모습과 함께 화기애애한 현장 분위기까지 담은 스틸을 공개했다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 인생이 꼬여가는 베스트셀러 작가 현(류승룡)의 이야기를 그린 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Filgansports%2F20211101133436266zjom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[15년 만에 같은 역으로 복귀하는 최악의 '발연기 배우' (다음 영화 ─ 매거진)]]></title>
@@ -2431,6 +2463,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2hbx%2Fimage%2FPUsL7kGlX1PT3e1G7xphcF7kZPc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[여전히, 대체불가 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@18Ah/555</link>
+            <guid>https://brunch.co.kr/@@18Ah/555</guid>
+            <pubDate>Tue, 02 Nov 2021 06:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>빅이슈코리아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F18Ah%2Fimage%2FPBy-vtUV9zS1wM5ergzlMfI8Gsc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[<아네트> 영화의 화려함이 가린 진실을 찾아서 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@5XLU/383</link>
             <guid>https://brunch.co.kr/@@5XLU/383</guid>
@@ -2573,14 +2613,6 @@
             <pubDate>Sat, 23 Oct 2021 05:47:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FFBXQw36pxQULXNbVmNmvGagVXB0" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[듄 (2021) (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@b5EX/86</link>
-            <guid>https://brunch.co.kr/@@b5EX/86</guid>
-            <pubDate>Sat, 23 Oct 2021 05:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>popofilm]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fb5EX%2Fimage%2F-GFpfau9NW1MUwOnSP1DdS3hgAY.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
