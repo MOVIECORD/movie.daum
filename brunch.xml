@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 02:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 03:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가면의 민낯]]></title>
+            <link>https://brunch.co.kr/@@2hbx/176</link>
+            <guid>https://brunch.co.kr/@@2hbx/176</guid>
+            <pubDate>Tue, 02 Nov 2021 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 최재훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2hbx%2Fimage%2FPUsL7kGlX1PT3e1G7xphcF7kZPc.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[<아네트> 영화의 화려함이 가린 진실을 찾아서]]></title>
             <link>https://brunch.co.kr/@@5XLU/383</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Oct 2021 05:47:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>popofilm]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fb5EX%2Fimage%2F-GFpfau9NW1MUwOnSP1DdS3hgAY.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[버즈 오브 프레이] 원한 것은 토스트 한 입이야]]></title>
-            <link>https://brunch.co.kr/@@ddms/11</link>
-            <guid>https://brunch.co.kr/@@ddms/11</guid>
-            <pubDate>Sat, 23 Oct 2021 05:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>묘차사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fddms%2Fimage%2FcvUvw4cu5rNWJCG2AtKFme_7Cd8.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
