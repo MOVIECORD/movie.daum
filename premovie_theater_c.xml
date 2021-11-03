@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F332def1c301dfb2a0f3ad4a2c38ae21879d8fd31" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 프레지던트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=46107</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=46107</guid>
+            <pubDate>Wed, 03 Nov 2021 15:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4094769d022343c88ce2aa994886a4b44e01f52" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[고양이에게 밥을 주지 마세요]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143935</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143935</guid>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Nov 2021 23:12:34 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea40401aec94a3d1f2a76d43376999a7a7385efe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[러브 어페어 : 우리가 말하는 것, 우리가 하는 것]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145242</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145242</guid>
-            <pubDate>Tue, 02 Nov 2021 23:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64b06e87ce720108b0b1ce6d10f7da50e3ce1d0d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
