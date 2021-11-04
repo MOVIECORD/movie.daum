@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 16:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 17:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,28 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[싱크홀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
-            <pubDate>Thu, 04 Nov 2021 00:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애프터: 관계의 함정]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150296</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150296</guid>
             <pubDate>Tue, 26 Oct 2021 23:12:41 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff409d664f0d12fe4c025a0bb7558e105543178bb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[샹치와 텐 링즈의 전설]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
-            <pubDate>Thu, 04 Nov 2021 08:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[007 노 타임 투 다이]]></title>
@@ -166,6 +150,22 @@
             <pubDate>Thu, 04 Nov 2021 04:15:32 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[싱크홀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134290</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134290</guid>
+            <pubDate>Thu, 04 Nov 2021 00:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샹치와 텐 링즈의 전설]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
+            <pubDate>Thu, 04 Nov 2021 08:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
