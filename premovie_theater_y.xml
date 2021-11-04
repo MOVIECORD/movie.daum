@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 07:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 08:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4797460ec64506171ad9c6f88548253c1e5120e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[최선의 삶]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Thu, 04 Nov 2021 04:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[동백]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 04 Nov 2021 05:11:23 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샹치와 텐 링즈의 전설]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
+            <pubDate>Thu, 04 Nov 2021 08:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
