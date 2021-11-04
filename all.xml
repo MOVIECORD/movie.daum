@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 15:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 16:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -847,6 +847,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
@@ -869,6 +877,14 @@
             <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff409d664f0d12fe4c025a0bb7558e105543178bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
+            <pubDate>Sat, 23 Oct 2021 14:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -909,22 +925,6 @@
             <pubDate>Sun, 31 Oct 2021 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
-            <pubDate>Sat, 23 Oct 2021 14:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아담스 패밀리 2 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1085,14 +1085,6 @@
             <pubDate>Thu, 04 Nov 2021 00:39:43 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc5da942d61a76090d1a9dd0f577be2fa3b013e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그 규칙은 당신에게 적용되지 않아요 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=103998</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=103998</guid>
-            <pubDate>Mon, 01 Nov 2021 05:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9254eeb67d73b7ffba79cd49403403cf8d045e8e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[대기만성 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1399,14 +1391,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2315514652B890CE23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아미나 - 전사의 이름 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154325</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154325</guid>
-            <pubDate>Sat, 23 Oct 2021 07:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a8e52caea5f5578ca7965bdd33276367355e7fc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[러브 하드 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147596</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147596</guid>
@@ -1589,14 +1573,6 @@
             <pubDate>Wed, 27 Oct 2021 07:12:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Facf3d9ed2a294a4fc6359ffc76ca6bcf1485caaf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 놈, 나쁜 놈, 죽은 놈 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=98733</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=98733</guid>
-            <pubDate>Sat, 23 Oct 2021 07:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69eeb7e03c1a071b169c29d8a2c307e3666c23b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킥복서 리턴즈 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -2190,14 +2166,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26024943546D6B9D02" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보이스 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메인스트림 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143880</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143880</guid>
@@ -2270,20 +2238,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2Fakn%2F20211104080023599uyhp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[최민수 측 "오토바이 사고, 크게 안 다쳐..'웅남이' 지장無" [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211104172802927</link>
-            <guid>https://movie.v.daum.net/v/20211104172802927</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 최민수. (사진=이데일리DB)[이데일리 스타in 김보영 기자] 배우 최민수가 개그맨 박성광의 장편 데뷔 영화 ‘웅남이’ 촬영 기간 중 오토바이 사고로 부상을 당했다. 최민수의 소속사 매니지먼트 율 관계자는 4일 이데일리에 “최민수 씨는 현재 병원에서 검사를 진행 중”이라며 “걱정할 정도로 크게 다친 것은 아니다”라고 상태를 전했다. 앞서 MBN은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2FEdaily%2F20211104172822440wcxp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[유오성 "'강릉'서 처음엔 다른 역 제안..감독 설득해 바꿨다" [N인터뷰]② (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211104112220010</link>
             <guid>https://movie.v.daum.net/v/20211104112220010</guid>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 유오성이 영화 '강릉'에서 다른 역할을 제안받았음에도 불구하고, 주인공인 길석 역할을 자신에게 달라고 감독을 설득한 사연을 밝혔다. 유오성은 4일 오전 화상으로 진행된 영화 '강릉'(감독 윤영빈) 관련 뉴스1과의 인터뷰에서 "원래 내게 시나리오를 줬을 때 그 역할이 아니었다, 길석이 아닌 다른 역할이었다, 내가 감]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2FNEWS1%2F20211104112221953zzop.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최민수 측 "오토바이 사고, 크게 안 다쳐..'웅남이' 지장無" [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211104172802927</link>
+            <guid>https://movie.v.daum.net/v/20211104172802927</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최민수. (사진=이데일리DB)[이데일리 스타in 김보영 기자] 배우 최민수가 개그맨 박성광의 장편 데뷔 영화 ‘웅남이’ 촬영 기간 중 오토바이 사고로 부상을 당했다. 최민수의 소속사 매니지먼트 율 관계자는 4일 이데일리에 “최민수 씨는 현재 병원에서 검사를 진행 중”이라며 “걱정할 정도로 크게 다친 것은 아니다”라고 상태를 전했다. 앞서 MBN은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2FEdaily%2F20211104172822440wcxp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[가짜부부 노릇으로 알게된 현실, 결혼은 종착역이 아니다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2350,20 +2318,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2Fohmynews%2F20211104122705055uqep.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이터널스'에 혹평 쏟아진 이유, 이제 알겠다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211104102400454</link>
-            <guid>https://movie.v.daum.net/v/20211104102400454</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상화 기자] ▲ &nbsp;영화 &lt;이터널스&gt;의 한 장면    ⓒ 월트디즈니컴퍼니코리아  &nbsp;마블의 신작 &lt;이터널스&gt;가 드디어 베일을 벗었다. &lt;블랙위도우&gt; &lt;샹치와 텐 링즈의 전설&gt;에 이은 2021년 세번째 MCU(마블 시네마틱 유니버스) 작품이라는 점에서 &lt;이터널스&gt;는 분명 올 하반기 최대의 기대작이었다. 그런데 뚜껑을 연 결과는 기대 이하였다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2Fohmynews%2F20211104102402930lykt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['메이드 인 이태리' 리암 니슨, 반전 매력 발산..11월 극장 개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211103173344784</link>
             <guid>https://movie.v.daum.net/v/20211103173344784</guid>
             <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;로맨틱 힐링 영화 '메이드 인 이태리' 11월 극장가 점령을 예고하고 있어 이목을 집중시킨다. '메이드 인 이태리'(감독 제임스 다시, 수입배급 오드)는 오래된 집을 팔기 위해 아름다운 토스카나에서 한 달간 머무르게 된 잭이 소원했던 아버지 로버트와 화해하고, 새로운 사랑을 시작하게 되는 드라마 장르의 영화.&nbsp; 이번 영화에서 리암]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F03%2Fpoctan%2F20211103173345880lizj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이터널스'에 혹평 쏟아진 이유, 이제 알겠다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211104102400454</link>
+            <guid>https://movie.v.daum.net/v/20211104102400454</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김상화 기자] ▲ &nbsp;영화 &lt;이터널스&gt;의 한 장면    ⓒ 월트디즈니컴퍼니코리아  &nbsp;마블의 신작 &lt;이터널스&gt;가 드디어 베일을 벗었다. &lt;블랙위도우&gt; &lt;샹치와 텐 링즈의 전설&gt;에 이은 2021년 세번째 MCU(마블 시네마틱 유니버스) 작품이라는 점에서 &lt;이터널스&gt;는 분명 올 하반기 최대의 기대작이었다. 그런데 뚜껑을 연 결과는 기대 이하였다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2Fohmynews%2F20211104102402930lykt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한국계 저스틴 민, 美 버라이어티 선정 2021년 주목할 배우 선정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2398,12 +2366,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2Fkedtv%2F20211104151030969xeal.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[사회적 편견에 코미디로 도전장, 조은지 사단 나섰다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211104175129694</link>
-            <guid>https://movie.v.daum.net/v/20211104175129694</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;4일 서울 용산 CGV에서 열린 영화 &lt;장르만 로맨스&gt; 언론 시사회에 참석한 조은지 감독.    ⓒ NEW  &nbsp;말 그대로 '조은지 사단'이라 할 만하다. 배우로 잘 알려진 조은지의 장편 영화 데뷔작 &lt;장르만 로맨스&gt;에 평소 친분이 두터웠던 실력파들이 대거 합심했다. 4일 서울 용산 CGV에서 열린 언론시사회에 조은지 감독]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2Fohmynews%2F20211104175130787zxev.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['이터널스', 자오 감독님 이게 최선입니까[TF씨네리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211105000043905</link>
+            <guid>https://movie.v.daum.net/v/20211105000043905</guid>
+            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마블 영화 최초 '썩토 대참사'…마동석은 빛났다 [더팩트ㅣ이한림 기자] 안타깝다. 아카데미 작품상을 수상한 영화 '노 매드 랜드'의 클로이 자오 감독이 '이터널스'의 연출을 맡았다기에 기대가 컸던 만큼 더욱 아쉽다. 자오 감독은 시사 후 인터뷰에서 "그 어떤 디테일도 놓치고 싶지 않았다"고 단언했지만 많은 것을 놓칠 기세다. 영화 '이터널스'(감독 클로이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F05%2FTHEFACT%2F20211105000044437tkrw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[학창시절 방황한줄 알았는데..실제로 명문대 2곳을 나온 천재 스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kVY78g3x6J</link>
+            <guid>https://content.v.daum.net/v/kVY78g3x6J</guid>
+            <pubDate>Thu, 04 Nov 2021 16:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F04%2Ffeelthemovie%2F20211104160637771kmjd.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[日 국민 여동생이 전하는 '관계'에 대한 이야기 (다음 영화 ─ 매거진)]]></title>
@@ -2556,14 +2532,6 @@
             <pubDate>Wed, 03 Nov 2021 00:39:16 GMT</pubDate>
             <content:encoded><![CDATA[키노라이츠]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F31%2Fkinolights%2F20211031081511399qn0y.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[그저 원나잇 했을 뿐인데.. 벌어진 충격적인 상황 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/km1E5YIDRa</link>
-            <guid>https://content.v.daum.net/v/km1E5YIDRa</guid>
-            <pubDate>Tue, 02 Nov 2021 13:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fkinolights%2F20211102121612843q2gr.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<카모메 식당>리뷰 (다음 영화 ─ 브런치)]]></title>
