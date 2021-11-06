@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 09:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59edfa320d0232cdf772411f35114c2b9ffa4cf0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[빌리 홀리데이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147526</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147526</guid>
+            <pubDate>Thu, 04 Nov 2021 00:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52c34eadec26764596f5d636159a34957dc26cc5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[퍼스트 카우]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135694</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135694</guid>
@@ -72,28 +80,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[빌리 홀리데이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147526</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147526</guid>
-            <pubDate>Thu, 04 Nov 2021 00:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52c34eadec26764596f5d636159a34957dc26cc5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[라스트 듀얼: 최후의 결투]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152162</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152162</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F776bc3e9a0b9ab8bb821f26fe3fc9e14b39e95bf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[기적]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Thu, 04 Nov 2021 05:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보이스]]></title>
@@ -144,6 +136,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4797460ec64506171ad9c6f88548253c1e5120e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[최선의 삶]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
+            <pubDate>Sat, 06 Nov 2021 09:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기적]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Thu, 04 Nov 2021 05:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[동백]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Nov 2021 03:13:11 GMT</pubDate>
             <content:encoded><![CDATA[21.11.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a9b83fc26bba669c25ceb460a6698806c53b028" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[쁘띠 마망]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
-            <pubDate>Sat, 06 Nov 2021 03:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
