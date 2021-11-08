@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 06:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=129680</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129680</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,077,557명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,077,556명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -832,6 +832,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52c34eadec26764596f5d636159a34957dc26cc5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
@@ -862,14 +870,6 @@
             <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1376,6 +1376,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff123189ab83ce10bfa99156460adabfdfb8289f1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[다키스트 아워 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108109</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108109</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24b2729e67619e7ecbe5e134f41651dcdba52837" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[7명의 포로 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153322</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153322</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02af82290ec5315ff26662af0d0c222267a94632" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[레드 노티스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=119033</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=119033</guid>
@@ -1528,6 +1544,70 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03a788419654412f932e3add0c38821d1574296817399" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[어디갔어, 버나뎃 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122545</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122545</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19db449f9b821e2753eb1ba7a43de4926a5ad162" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[내 어깨 위 고양이, 밥 2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146130</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146130</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb641f48be2a7520341b444dda069ab18c3f12ae7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[카메론 포스트의 잘못된 교육 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117787</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117787</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F124aeb3f5972c668388dfc037edb0f5d4cfac4df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[졸업 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3527</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3527</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F23b008ebf5db405ea2fff7fc6b6cd40a1579740892191" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[니나의 모든 것 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120408</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120408</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ef4e414aea20e29d076718d3f1db17b6b6f3b05" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피플 플레이시즈 띵즈 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=91244</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=91244</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd172404d93e8bf4266c9aed6649a6fe2d3f9bc5d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 그리스식 웨딩 2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=94254</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=94254</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6db82d60f8f6c4a43c3df22eaa514d764fc72be3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[하얀 리본 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=51332</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=51332</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13441D214C0D907B4E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[원 데이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=59154</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=59154</guid>
@@ -1536,12 +1616,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe340edee6030abb1a6f3333667b1bd5c45e46fc1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[셔터 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41173</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41173</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A90105A116" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[크리스마스 스위치: 로맨싱 더 스타 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154886</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154886</guid>
             <pubDate>Mon, 25 Oct 2021 05:11:40 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F663333c13072a6c2208e85952924ac5ee45bfaf0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽에서 살짝 모자란 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154916</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154916</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff31f0314dcb12f20ad2a3fecf0375156354fccd7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[멸종은 싫어! ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1606,6 +1702,14 @@
             <pubDate>Mon, 08 Nov 2021 05:12:07 GMT</pubDate>
             <content:encoded><![CDATA[21.11.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ea0a4420149e4181dad037fa2c0a58e6da502ad" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[철없는 녀석들 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154766</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154766</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64cd266a75c771ee7ece3cebb3c68811a164f367" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바스티유 데이 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -1710,6 +1814,54 @@
             <pubDate>Wed, 03 Nov 2021 05:11:25 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F113D374E50C5331930" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[주님의 사랑 때문에 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=72144</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=72144</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F17620E4A4FD18C752D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[딜리셔스 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=81709</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=81709</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ce0e529d48c19ed5adc54bdb62c0c743e58473f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프레셔 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95752</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95752</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac61ac9aead14d8223aee8be9df41fa5f6f10420" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 덴 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=81653</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=81653</guid>
+            <pubDate>Wed, 03 Nov 2021 16:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26024943546D6B9D02" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[황금시대 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=85418</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=85418</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F223DCD4E541FCA3F14" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[슬라롬 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145245</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145245</guid>
+            <pubDate>Mon, 08 Nov 2021 06:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F153b4ab48bc447cf4906616a87ac9cc0bdc98d27" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[흔들리는 물결 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
@@ -1880,6 +2032,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffba3da68500127371bd24f9873210aba28aa4e13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["배우는 비정규직 감정근로자, 책임감 생겨" 유오성의 철학 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211108145710851</link>
+            <guid>https://v.daum.net/v/20211108145710851</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;강릉&gt;에 출연한 배우 유오성.    ⓒ 제이앤씨미디어그룹  &nbsp;이 영화가 완성되기까지 4년 6개월이 걸렸다고 한다. 이제 막 첫 상업영화를 연출한 감독에게도 그랬겠지만 배우 유오성에게도 긴 기다림의 시간이었다. 스스로 "인생 마지막 액션 누아르가 될 것 같다"고 말하는 모습에서 영화 &lt;강릉&gt;에 쏟은 그의 마음과 열]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fohmynews%2F20211108145711907vzik.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]"마포대교는 무너졌냐"..전설의 '타짜' 12월1일 재개봉 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211108142020367</link>
+            <guid>https://v.daum.net/v/20211108142020367</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 수많은 명대사를 낳으며 지금까지 인구에 회자되고 있는 최동훈 감독의 '타짜'가 12월1일 극장에서 관객과 만난다. 8일 영화계에 따르면 최근 CJ ENM과 제작사 싸이더스FNH는 디지털 리마스터링한 '타짜'를 12월1일 극장에서 개봉하기로 결정했다. '타짜'는 허영만 화백의 동명 만화를 원작으로 한 영화. 사기 도박에 휘말린 고니가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fstarnews%2F20211108142023112tszq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애를 넘어 인생의 그린라이트를 밝히는 영화 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211108141503173</link>
+            <guid>https://v.daum.net/v/20211108141503173</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;나를 잡아줘&gt; 메인 포스터    ⓒ 태양미디어그룹   &nbsp;&lt;나를 잡아줘&gt;는 흥미로운 두 얼굴을 지닌 영화다. 이야기의 구성만 보자면 설레는 로맨스의 아련함을 지니고 있다. 혼자 사는 것에 익숙한 연애세포는 다 죽었다 여긴 직장인 마츠코가 연하남 타다와 썸을 타게 되면서 벌어지는 순간들을 담아낸다. 직장생활은 만렙이지만 연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fohmynews%2F20211108141507942hxad.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재, '헌트' 촬영 끝→♥임세령과 미국으로.."'오징어게임' 홍보 열중" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211108141442157</link>
+            <guid>https://v.daum.net/v/20211108141442157</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이정재가 당분간 미국 현지에서 '오징어 게임' 홍보 캠페인에 열중할 전망이다. 이정재는 미국 로스앤젤레스 카운티 미술관에서 열린 '2021 아트+필름 갈라'에 참석하기 위해 지난 11월 3일 미국으로 출국했다. 이에 6일(현지시간) 열린 해당 행사에 7년 째 공개 열애 중인 대상그룹 임세령 부회장과 동반 참석해 이목을 사로잡았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fnewsen%2F20211108141442443ypta.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["회당 300억"..'완다비전', 12일 디즈니+ 전편 공개[공식] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211108140913943</link>
             <guid>https://v.daum.net/v/20211108140913943</guid>
@@ -2008,36 +2192,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2FSpoChosun%2F20211108105833767whob.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이제훈·박정민·손석구·최희서 '언프레임드' 12월8일 왓챠 공개[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211108103633996</link>
-            <guid>https://v.daum.net/v/20211108103633996</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[아시아경제 이이슬 기자] 온라인동영상서비스(OTT) 왓챠가 오리지널 숏필름 프로젝트 '언프레임드'를 다음달 공개한다고 8일 밝혔다. '언프레임드'는 프레임에서 벗어나 새로운 가능성을 탐색하는 배우 박정민, 손석구, 최희서, 이제훈이 마음속 깊숙이 품고 있던 이야기를 직접 쓰고 연출한 숏필름 프로젝트로, '반장선거'·'재방송'·'반디'·'블루 해피니스'로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fakn%2F20211108103634705riwr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['샹치' 대비 약세 출발 '이터널스', 원조 자존심에 흠집 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211108103600933</link>
-            <guid>https://v.daum.net/v/20211108103600933</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상화 기자] &nbsp;        ▲ &nbsp;영화 '이터널스'의 한 장면.    ⓒ 월트디즈니컴퍼니코리아  &nbsp;마블의 화제작 &lt;이터널스&gt;가 북미 박스오피스 1위를 차지했다. 미국의 영화흥행정보사이트 박스오피스모조닷컴의 잠정 집계에 따르면 &lt;이터널스&gt;는 지난 주말 3일간(5~7일, 현지시간) 7100만달러를 벌어 예상대로 미국 극장가를 휩쓰는 데 성공했다. 이 금액은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fohmynews%2F20211108103602040whdx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC초점] "韓스타 총출동"..'오징어게임' 주역→이정재♥임세령 커플, 美LACMA 빛냈다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211108102832576</link>
-            <guid>https://v.daum.net/v/20211108102832576</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 넷플릭스 오리지널 시리즈 '오징어 게임'(황동혁 각본·연출)의 주역이 미국에서 뜨거운 인기를 다시 한번 증명했다. '오징어 게임'의 이정재, 박해수, 이병헌, 황동혁 감독, 김지연 싸이런픽쳐스 대표는 지난 6일(현지 시각) 미국 로스앤젤레스 카운티 미술관에서 열린 'LACMA(LA카운티 뮤지엄) 아트+필름 갈라'에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2FSpoChosun%2F20211108102832661wdbh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[12일 공개 '레드 노티스' 라이언 레이놀즈 "나는 K콘텐트 팬!" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211108102805556</link>
-            <guid>https://v.daum.net/v/20211108102805556</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 라이언 레이놀즈가 한국 콘텐트에 대한 깊은 애정을 드러냈다. 라이언 레이놀즈는 지난 5일 미국 뉴욕에서 가진 ‘레드노티스’의 한국, 말레이시아, 인도네시아, 태국, 싱가포르, 대만 등 아시아 언론들과의 화상 간담회에서 “한국 문화의 팬이다”고 말했다. 그는 이날 ‘흥행작 ‘오징어 게임’을 시청했냐‘는 질문에 곧바로 입을 떼며 “한국 문화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Filgansports%2F20211108102807728etar.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['연애 빠진 로맨스', '갯차' 공민정→김영옥..전종서X손석구의 조력자 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211107133000913</link>
+            <guid>https://movie.v.daum.net/v/20211107133000913</guid>
+            <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '연애 빠진 로맨스' 스틸영화 '연애 빠진 로맨스'(감독 정가영)에 공민정, 김슬기, 배유람, 김재화, 김영옥, 김광규까지 신스틸러가 총출동한다. 최근 CJ ENM은 영화 '연애 빠진 로맨스'에 출연하는 대세 신스틸러 공민정, 김슬기, 배유람, 김재화, 김영옥, 김광규의 스틸을 공개했다. '연애 빠진 로맨스'는 연애는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F07%2Fstarnews%2F20211107133001807jpoo.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA['유체이탈자' 윤계상, 12시간마다 타인 몸 속으로 '미러 포스터' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2048,12 +2208,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Filgansports%2F20211108083634587ulqu.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스', '갯차' 공민정→김영옥..전종서X손석구의 조력자 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211107133000913</link>
-            <guid>https://movie.v.daum.net/v/20211107133000913</guid>
+            <title><![CDATA[그 할머니는 딸이 죽은 후 왜 계속 노점을 지켰을까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211107153300101</link>
+            <guid>https://movie.v.daum.net/v/20211107153300101</guid>
             <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '연애 빠진 로맨스' 스틸영화 '연애 빠진 로맨스'(감독 정가영)에 공민정, 김슬기, 배유람, 김재화, 김영옥, 김광규까지 신스틸러가 총출동한다. 최근 CJ ENM은 영화 '연애 빠진 로맨스'에 출연하는 대세 신스틸러 공민정, 김슬기, 배유람, 김재화, 김영옥, 김광규의 스틸을 공개했다. '연애 빠진 로맨스'는 연애는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F07%2Fstarnews%2F20211107133001807jpoo.jpg" length="0" type="image//thumb/S732x228/"/>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;왕십리 김종분&gt;의 포스터.    ⓒ (주)인디스토리  &nbsp; 1_초반전: 왕십리역 11번 출구 할머니 4총사&nbsp;영화가 시작된다. 머리가 하얗게 센 키가 작고 동글동글한 할머니 한분이 시장에서 이것저것 물건을 떼러 다닌다. 익숙한 솜씨로 흥정을 마치고 그 물건들을 옮겨 좌판을 연다. 2호선 왕십리역 11번 출구 인근 노점]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F07%2Fohmynews%2F20211107153303847qoal.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[공식]"충격적 문제작"..칸 황금종려상 수상작 '티탄', 12월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2072,12 +2232,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Ftvdaily%2F20211108091212045rlqa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[그 할머니는 딸이 죽은 후 왜 계속 노점을 지켰을까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211107153300101</link>
-            <guid>https://movie.v.daum.net/v/20211107153300101</guid>
-            <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;왕십리 김종분&gt;의 포스터.    ⓒ (주)인디스토리  &nbsp; 1_초반전: 왕십리역 11번 출구 할머니 4총사&nbsp;영화가 시작된다. 머리가 하얗게 센 키가 작고 동글동글한 할머니 한분이 시장에서 이것저것 물건을 떼러 다닌다. 익숙한 솜씨로 흥정을 마치고 그 물건들을 옮겨 좌판을 연다. 2호선 왕십리역 11번 출구 인근 노점]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F07%2Fohmynews%2F20211107153303847qoal.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이정재, '헌트' 촬영 끝→♥임세령과 미국으로.."'오징어게임' 홍보 열중" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211108141442157</link>
+            <guid>https://movie.v.daum.net/v/20211108141442157</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이정재가 당분간 미국 현지에서 '오징어 게임' 홍보 캠페인에 열중할 전망이다. 이정재는 미국 로스앤젤레스 카운티 미술관에서 열린 '2021 아트+필름 갈라'에 참석하기 위해 지난 11월 3일 미국으로 출국했다. 이에 6일(현지시간) 열린 해당 행사에 7년 째 공개 열애 중인 대상그룹 임세령 부회장과 동반 참석해 이목을 사로잡았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fnewsen%2F20211108141442443ypta.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[라이언레이놀즈 "韓문화 가장 깊이있고 폭넓어..'복면가왕' 정말 재밌었다"(레드노티스) (다음영화 뉴스 ─ 인기)]]></title>
@@ -2120,20 +2280,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2FiMBC%2F20211108081445392quye.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[단독]"마포대교는 무너졌냐"..전설의 '타짜' 12월1일 재개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211108142020367</link>
+            <guid>https://movie.v.daum.net/v/20211108142020367</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 수많은 명대사를 낳으며 지금까지 인구에 회자되고 있는 최동훈 감독의 '타짜'가 12월1일 극장에서 관객과 만난다. 8일 영화계에 따르면 최근 CJ ENM과 제작사 싸이더스FNH는 디지털 리마스터링한 '타짜'를 12월1일 극장에서 개봉하기로 결정했다. '타짜'는 허영만 화백의 동명 만화를 원작으로 한 영화. 사기 도박에 휘말린 고니가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fstarnews%2F20211108142023112tszq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[깊어가는 가을에 어울리는 프랑스 로맨스 영화 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211107102205011</link>
             <guid>https://movie.v.daum.net/v/20211107102205011</guid>
             <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 깊어가는 가을에 어울리는 프랑스 로맨스 영화 두 편이 찾아온다. 오는 11일 먼저 개봉하는 '러브 어페어:우리가 말하는 것, 우리가 하는 것'은 국내에서도 개봉한 '쉘 위 키스' 등 로맨스 영화를 꾸준히 선보여온 에마뉘엘 무레 감독의 신작이다. 소설가를 꿈꾸는 막심(닐 슈나이더 분)은 복잡한 연애사를 뒤로 하고 사촌 형]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F07%2Fyonhap%2F20211107102205887eacy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["韓 수준 높아"..'레드노티스' 드웨인·라이언·갤가돗 밝힌 #액션케미 #오징어게임 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211108093202076</link>
-            <guid>https://movie.v.daum.net/v/20211108093202076</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 드웨인 존슨, 갤 가돗, 라이언 레이놀즈까지 이름만 들어도 설레는 배우들이 '레드 노티스'로 뭉쳤다. 이들은 신작을 홍보하는 동시에 한국에 대한 큰 관심도 드러냈다. 최근 온라인 화상 인터뷰를 통해 한국과 미국을 연결, 넷플릭스 영화 '레드 노티스'의 기자간담회가 진행됐다. 이 자리에는 주연 배우 드웨인 존슨, 갤 가돗, 라이언 레]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fpoctan%2F20211108093203967nfdb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조금 이상해도 괜찮아, 가족이니까..애니 '아담스 패밀리 2' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2152,20 +2312,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2FSpoChosun%2F20211108092427582wtjg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이상윤 "내 안의 코믹 본능은 어쩌란 말인가요?" [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211108090008910</link>
-            <guid>https://movie.v.daum.net/v/20211108090008910</guid>
+            <title><![CDATA["韓 수준 높아"..'레드노티스' 드웨인·라이언·갤가돗 밝힌 #액션케미 #오징어게임 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211108093202076</link>
+            <guid>https://movie.v.daum.net/v/20211108093202076</guid>
             <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘원더우먼’의 주연으로 많은 시청자 시선 속에 막을 내린 이상윤. 차분한 이미지의 캐릭터가 마치 ‘트레이드 마크’인 듯하지만, 정작 그는 ‘코믹 본능’이 강하다고 말한다. 사진제공｜제이와이드컴퍼니 ‘서울대 출신 연예계 대표 엄친아’. 연기자 이상윤(40)에게 14년째 따라붙는 ‘수식어’다. 서울대 물리학과 출신인 때문일까. 2007년 영화 ‘색즉시공2’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fsportsdonga%2F20211108090010691gbny.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 드웨인 존슨, 갤 가돗, 라이언 레이놀즈까지 이름만 들어도 설레는 배우들이 '레드 노티스'로 뭉쳤다. 이들은 신작을 홍보하는 동시에 한국에 대한 큰 관심도 드러냈다. 최근 온라인 화상 인터뷰를 통해 한국과 미국을 연결, 넷플릭스 영화 '레드 노티스'의 기자간담회가 진행됐다. 이 자리에는 주연 배우 드웨인 존슨, 갤 가돗, 라이언 레]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fpoctan%2F20211108093203967nfdb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[라이언 레이놀즈 "韓TV쇼 즐겨봐, '복면가왕' 출연도 흥미로운 경험"('레드노티스') (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211108081342790</link>
-            <guid>https://movie.v.daum.net/v/20211108081342790</guid>
+            <title><![CDATA[이하늬는 열애중.."비연예인과 올해 초부터 진지한 만남"[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211108114748271</link>
+            <guid>https://movie.v.daum.net/v/20211108114748271</guid>
             <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 고재완 기자] "한국 프로 즐겨봐, '복면가왕' 출연도 흥미로운 경험" 배우 라이언 레이놀즈는 5일 온라인 중계한 넷플릭스 영화 '레드 노티스' 아시아 태평양 기자간담회에 참석해 이같이 말했다. 레이놀즈는 자신이 맡은 놀런 부스 역에 대해 "말을 굉장히 빨리하는 캐릭터인데 어릴때 개발한 자신만의 방어기재 같다"며 "사실 실제로 내]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2FSpoChosun%2F20211108081342462ziun.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[아시아경제 이이슬 기자] 배우 이하늬가 비연예인 남자친구와 사랑을 키워가고 있다. 8일 오전 소속사 사람엔터테인먼트는 이하늬가 올 초 지인의 소개로 만난 비연예인 남성과 진지하게 교제 중이라고 밝혔다. 소속사는 "상대방이 비연예인이기에 신상정보 공개나 과도한 관심으로 인한 피해가 없도록 너른 양해를 부탁드린다"고 당부했다. 이하늬는 최근 업계 관계자들에게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fakn%2F20211108114749852psob.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["BTS 뷔 추천"..'빌리 홀리데이', 골든에그지수 92% 실관객 호평 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2176,14 +2336,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fpoctan%2F20211108134239056bgxb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['레드 노티스' 드웨인 존슨 "한국의 문화는 시대정신에 부합한다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211108080141557</link>
-            <guid>https://movie.v.daum.net/v/20211108080141557</guid>
-            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5일 오전 넷플릭스의 오리지널 영화 '레드 노티스'의 기자간담회가 온라인으로 진행되었다. 이날 행사에는 드웨인 존슨, 갤 가돗, 라이언 레이놀즈가 참석해 작품에 대해 이야기했다. 갤 가돗의 출연 때문에 이 작품에 출연했다며 농담을 하는 드웨인 존슨은 이번 작품에서 제작자로도 참여했다. 그는 "비숍 캐릭터를 떠올렸을때 가장 1순위였던 인물이 갤 가돗이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2FiMBC%2F20211108080144682ajce.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['패딩턴' 제작진 참여한 '스파이 캣', 12월 9일 국내 개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211108091135348</link>
             <guid>https://movie.v.daum.net/v/20211108091135348</guid>
@@ -2192,12 +2344,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fpoctan%2F20211108091136591mcnp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[쪽방촌 병원서 노숙자 무료진료 한 박사..구수환 "가난 절망에 가장 무서운 것은.." (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211108090113001</link>
-            <guid>https://movie.v.daum.net/v/20211108090113001</guid>
+            <title><![CDATA[조폭이 사학비리를? 관객 꿰뚫은 '쌍천만' 감독 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211108140601820</link>
+            <guid>https://movie.v.daum.net/v/20211108140601820</guid>
             <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;구수환 감독이&nbsp;전남 광양에 강연을 위해 내려가던 중 대합실에서 만난 노숙자를 통해 생각을 밝혔다.&nbsp; 구수환 감독은 12년전 선우경식 박사에 대한 다큐를 만든 적이 있다. 선우경식 박사는 노숙자가 모여사는 영등포 쪽방촌에 병원을 세워 무료진료를 한 인물. 노숙자들은 그분을 아버지라고 불렀고, 말기암으로 투병하면서도 세상을 떠나기 나흘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fpoctan%2F20211108090113158rigr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[양형석 기자] 지난 1997년 송능한 감독의 문제작 &lt;넘버3&gt;가 개봉했다. 조직 폭력배와 검사를 비롯한 다양한 인간군상들이 얽혀 현대사회의 부조리를 고발한 블랙코미디 &lt;넘버3&gt;가 관객들의 폭발적인 반응을 얻은 이유는 따로 있었다. 바로 그동안 액션이나 누아르 장르의 영화들을 통해 무서운 존재로만 인식되던 조직 폭력배들이 한석규와 송강호, 박상면 등 뛰어난]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Fohmynews%2F20211108140607472cxph.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스'는 망작일까? (다음 영화 ─ 매거진)]]></title>
