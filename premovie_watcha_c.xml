@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 03:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 04:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Tue, 09 Nov 2021 05:11:50 GMT</pubDate>
             <content:encoded><![CDATA[21.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5745a93f3ea3155a537ce0edf349473c35e416c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스타빙 게임]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=82197</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=82197</guid>
+            <pubDate>Wed, 10 Nov 2021 04:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F233EB94D545B11132F" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
