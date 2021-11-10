@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 23:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 00:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[강릉]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145338</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145338</guid>
+            <pubDate>Wed, 10 Nov 2021 00:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아담스 패밀리 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145462</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145462</guid>
+            <pubDate>Wed, 10 Nov 2021 00:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb63ca4c0749e90ed1029a78ea3d6691d35d16a42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[베놈 2: 렛 데어 비 카니지]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 07 Nov 2021 05:11:09 GMT</pubDate>
             <content:encoded><![CDATA[21.10.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[가족의 색깔]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124572</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124572</guid>
-            <pubDate>Tue, 09 Nov 2021 04:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf91222e220046d38c772d421c8a8f215a949eda" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[최선의 삶]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
-            <pubDate>Tue, 09 Nov 2021 13:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
