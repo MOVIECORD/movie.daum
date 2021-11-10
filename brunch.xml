@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 04:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 09 Nov 2021 01:56:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>guabba]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2RYr%2Fimage%2FvaWPsvi7kCWr1IoQOplaJ0H_rmg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[묻히기엔 너무 아까운 <라스트 듀얼>]]></title>
+            <link>https://brunch.co.kr/@@6CW2/258</link>
+            <guid>https://brunch.co.kr/@@6CW2/258</guid>
+            <pubDate>Wed, 10 Nov 2021 05:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>강민영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6CW2%2Fimage%2FxjUVPcX1gTAYBetxyCMcbl05uWk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[나의 마블 메이트들과, 이터널스]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Oct 2021 06:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>허리케인봉]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8wgD%2Fimage%2FmzsPeMADInTjj6BYiybkds5vSCE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이의 아내'는 반일 영화일까?]]></title>
-            <link>https://brunch.co.kr/@@d7ni/15</link>
-            <guid>https://brunch.co.kr/@@d7ni/15</guid>
-            <pubDate>Sat, 23 Oct 2021 05:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박수영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd7ni%2Fimage%2FnjZXZM-sXXQxiRlZld7ESKtJ-_U.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
