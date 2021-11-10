@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 00:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 01:56:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,6 +352,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ed149c4133a6c0c34122b51cb7e5e2ce4467ded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 히어로]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108966</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108966</guid>
+            <pubDate>Wed, 10 Nov 2021 01:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F662ef5a3a5c1ee695d9601b632a94e23c58830a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[크리스마스 캐슬]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154967</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154967</guid>
@@ -374,6 +382,14 @@
             <pubDate>Tue, 09 Nov 2021 03:14:01 GMT</pubDate>
             <content:encoded><![CDATA[21.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F48cb430eb84443ecd1785d8a5a6e86a48c9fe7cb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 집은 어디인가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155136</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155136</guid>
+            <pubDate>Wed, 10 Nov 2021 01:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9376fa4b2681c64904f64e10967c7f7f6283fc14" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
