@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 14:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 15:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,14 +824,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fab7509e19a83a340dc8069854a76778c5c7faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[싸반 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=116081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=116081</guid>
-            <pubDate>Thu, 04 Nov 2021 00:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87cabc3e4ccb6a546e8d353f380a34a227c18fe7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151322</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151322</guid>
@@ -848,12 +840,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[싸반 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=116081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=116081</guid>
+            <pubDate>Thu, 04 Nov 2021 00:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87cabc3e4ccb6a546e8d353f380a34a227c18fe7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아워 미드나잇 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145312</guid>
             <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb88340befa674e2687092d81ce932d0b17811fa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -888,14 +896,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64b06e87ce720108b0b1ce6d10f7da50e3ce1d0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[빌리 홀리데이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147526</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147526</guid>
@@ -912,20 +912,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59edfa320d0232cdf772411f35114c2b9ffa4cf0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=119916</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=119916</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[라스트 듀얼: 최후의 결투 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152162</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152162</guid>
             <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F776bc3e9a0b9ab8bb821f26fe3fc9e14b39e95bf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154025</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154025</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레드 노티스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2496,164 +2496,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecf37b4d08b8c0eb0c10fbc881f390f6972b148f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA['장르만 로맨스' 판소리텔링 영상 전격 공개..예측불허 스토리 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111223559582</link>
-            <guid>https://v.daum.net/v/20211111223559582</guid>
+            <title><![CDATA[11월 극장가, 관객은 즐겁다..활력 높일 기대작 봇물 [TF확대경] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211112000044066</link>
+            <guid>https://v.daum.net/v/20211112000044066</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;위드 코로나 시대 속 11월 극장가에 활기를 불어넣을 영화 '장르만 로맨스'가 유머가 가득한 판소리 콘셉트의 영상을 공개했다. 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 영화 '장르만 로맨스'(감독 조은지, 제공배급 NEW, 공동제공 Library Pictures In]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fpoctan%2F20211111223559892vmgw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["107개국 선판매"..'유체이탈자' 윤계상 선보일 3격 액션 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111221205195</link>
-            <guid>https://v.daum.net/v/20211111221205195</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;개봉 전부터 할리우드 리메이크 확정, 해외 107개국 선판매를 달성하며 웰메이드 추적 액션으로 주목받고 있는 영화 '유체이탈자'가 윤계상의 압도적인 추격, 타격, 총격 액션을 담아낸 '3격 액션' 영상을 공개했다. ◼︎ACTION1. 모두가 한 사람을 쫓는다..사라진 자신을 찾아 나선 강이안의 긴박한 추격 액션 '유체이탈자'(감독]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fpoctan%2F20211111221206039goyh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['행복의 속도' 박혁지 감독, "각자의 행복에 질문을 던지기 바란다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111214043485</link>
-            <guid>https://v.daum.net/v/20211111214043485</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]천혜의 자연이 살아 숨 쉬는 광활한 습원 지대 ‘오제’에서 일하는 두 명의 ‘봇카’를 통해 진정한 행복의 의미를 찾아가는 영화 '행복의 속도'가 지난 11월 10일 언론·배급 시사회 및 기자 간담회, 그리고 VIP 시사회 &amp; KDN(한국다큐멘터리네트워크) 응원 시사회를 성료했다. 제25회 부산국제영화제와 제18회 EBS국제다큐]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fmydaily%2F20211111214043283kpfw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[길 위의 사람들을 위한 응원가..'행복의 속도'[MK무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111203301021</link>
-            <guid>https://v.daum.net/v/20211111203301021</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박혁지 감독이 전작 ‘춘희막이’를 잇는 또 한 편의 웰 메이드 휴먼 다큐멘터리를 선보인다. 바로 ‘행복의 속도’다. ‘행복의 속도’는 ‘오제 국립공원’에서 산장까지 짐을 배달하는 ‘봇카’로 일하는 ‘이가라시’와 ‘이시타카’의 일상을 통해 각자의 길 위에 놓인 모든 사람들을 응원하는 다큐멘터리 영화. 지난 2015년 ‘춘희막이’로 제16회 전주국제영화제]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fstartoday%2F20211111203308382wgba.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEN인터뷰] '닥터 브레인' 반전의 키 쥔 박희순X이유영 "세계인 공감할 새 K콘텐츠" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111190101283</link>
-            <guid>https://v.daum.net/v/20211111190101283</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]"독특하고 흥미로운 소재인데 어렵고 지루하지 않았죠."지난 10일 진행된 화상인터뷰를 통해 만난 배우 박희순과 이유영은 애플TV+의 한국 첫 오리지널 시리즈 '닥터 브레인'의 매력이 실험성과 대중성을 겸비한 것이라고 입을 모았다. SF 미스터리 스릴러물인 '닥터 브레인'은 미스터리한 사고로 가족이 희생되는 비극을 겪은 천재 뇌과학자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2F10asia%2F20211111190106614fcaa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 별에게', 극장서 팬들 만난다..GV 개최 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111185255133</link>
-            <guid>https://v.daum.net/v/20211111185255133</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='나의 별에게'영화 '나의 별에게'가 팬들과 만나는 GV 이벤트를 개최한다. 지난 3월 넷플릭스를 통해 전세계 동시 공개된 후 화제를 모았던 영화 '나의 별에게'가 오는 20일 GV를 연다. 이날 행사에는 배우 손우현, 김강민, 황다슬 감독이 함께한다. '나의 별에게'는 정상의 궤도를 이탈해버린 배우 강서준(손우현 분)과 궤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fstarnews%2F20211111185256722kxfp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["영웅보단 청년 이야기"..불꽃이 된 전태일 애니메이션으로 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111185152123</link>
-            <guid>https://v.daum.net/v/20211111185152123</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 흥행만을 좇았다면 나오지 못했을 법한 영화다. 영화 '태일이'는 1970년 노동자의 권리를 요구하며 산화한 전태일 열사의 생을 그린 애니메이션이다. 국내 장편 애니메이션은 투자 유치가 어렵고, 요즘 관객 다수가 전 열사를 잘 알지 못하거나 기억에서 희미해진 세대인데도 명필름이 오랜 뚝심을 바탕으로 완성해냈다. '태일이'가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fyonhap%2F20211111185152464efnc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤시윤 "김대건 신부 로맨스? 브로맨스는 있다" (탄생)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111185015100</link>
-            <guid>https://v.daum.net/v/20211111185015100</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '탄생' 박흥식 감독이 작품에 대한 이야기를 전했다. 11일 오후 서울 종로구 세종문화회관 S씨어터에서 영화 '탄생'의 제작발표회가 열렸다. 이날 현장에는&nbsp;배우 윤시윤, 이호원, 안성기, 이문식, 정유미, 송지연, 임현수, 하경, 박지훈, 자문위원 김홍신 작가, 투자자 남상원 회장, 제작자 박곡지 대표, 박흥식 감독 등이 참석]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fxportsnews%2F20211111185016547ojqw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[장동윤 "첫 더빙, 낯설었지만..또 다른 재미" (태일이)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111185011099</link>
-            <guid>https://v.daum.net/v/20211111185011099</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 장동윤이 '태일이'를 통해 애니메이션 더빙에 처음으로 참여한 소감을 전했다. 11일 서울 용산구 CGV 용산아이파크몰에서 영화 '태일이'(감독 홍준표) 언론시사회가 열렸다. 이 자리에는 홍준표 감독과 배우 장동윤, 명필름 심재명 대표가 참석했다. '태일이'는 1970년 평화시장, 부당한 노동 환경을 바꾸기 위해 뜨겁게 싸웠던]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fxportsnews%2F20211111185012329dyjb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[월드★HI] '사냥의 시간', 영어 버전으로 넷플릭스 최초 리메이크 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111181338527</link>
-            <guid>https://v.daum.net/v/20211111181338527</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤성현 감독의 넷플릭스 영화 '사냥의 시간'이 영어 버전으로 리메이크 된다. '아이 씨 유' 애덤 랜달 감독이 메가폰을 잡을 예정이다. 10일 미국 매체 데드라인 등에 따르면 넷플릭스가 영화 '사냥의 시간'을 리메이크 한다.  OTT 플랫폼이 외국어로 제작된 자체 영화를 리메이크 하는 것은 '사냥의 시간'이 최초 사례다. 이와 관련, '사냥의 시간' 리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fhankooki%2F20211111181340472gmns.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["강도 잡은 정의로운 청년" 장동윤, '태일이'로 선한 영향력 ing [MD현장](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111180652367</link>
-            <guid>https://v.daum.net/v/20211111180652367</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 장동윤이 '태일이'로 전태일 열사의 숭고한 정신을 되새기며 선한 영향력을 전파했다. '태일이'는 아름다운 청년으로서 인간적인 면까지 조명, 그 뜨거운 외침에 힘을 실으며 꼭 봐야 할 '필람 무비'로 떠올랐다. 11일 서울 용산구 CGV용산아이파크몰에선 애니메이션 영화 '태일이'의 언론배급 시사회 및 기자간담회가 진행됐다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fmydaily%2F20211111180652986difd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["김대건은 한국 최초의 신부이자 청년 선각자·모험가였죠" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111180528328</link>
-            <guid>https://v.daum.net/v/20211111180528328</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 한국 최초의 사제 김대건 신부(1821∼1846)의 탄생 200주년과 유네스코 세계기념인물 선정을 기념해 김 신부의 일대기를 다룬 극영화 '탄생'이 제작에 들어간다. 김대건 신부는 열다섯 살의 나이에 마카오 유학길에 오른 뒤 한국 최초의 사제 서품을 받고 1년이 채 되지 않아 25살에 순교했다. 영화 '탄생'은 한국인 최]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fyonhap%2F20211111180528476yqhc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탄생' 안성기 "신자로서 의무감 갖고 참여, 느낌 좋다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111180506322</link>
-            <guid>https://v.daum.net/v/20211111180506322</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 안성기가 김대건 신부를 다룬 영화에 출연하게 된 계기를 밝혔다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 극중 역관 유진기 역을 맡은 안성기는 "(천주교) 신자이기 때문에 의무감을 갖고 참여했다. 시나리오를 처음 봤을 때도 느낌이 너무 좋아서 꼭 해야겠다고 느꼈다"고 말했다. 안성기는 "내가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111180507670toah.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[오세훈 시장 "김대건 신부의 거룩한 희생정신 '탄생'으로 알려져야" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111180333285</link>
-            <guid>https://v.daum.net/v/20211111180333285</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈 서울시장이 영화 '탄생' 제작에 축하의 말을 전했다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 축사로 행사에 참여한 오세훈 서울시장은 "평소 존경하는 염수정 추기경 다음으로 말씀할 수 있는 기회를 주셔서 감사드린다. 김대건 신부의 일대기를 그리는 영화가 만들어진다는 소식을 듣고 설레는 마음으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111180335022ujsj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탄생' 윤시윤 "용기 필요했던 작품..책임감 크다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111180307274</link>
-            <guid>https://v.daum.net/v/20211111180307274</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤시윤이 김대건 신부를 연기하게 된 소감을 밝혔다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 극중 김대건 신부 역할을 맡은 윤시윤은 "'탄생'에 임하는 각오를 한 단어로 표현한다면 '영광'이라는 단어가 가장 먼저 떠오른다"고 말했다. 윤시윤은 "그만큼 다른 어떤 작품보다도 출연을 결심하기까지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111180307279rlhu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탄생' 윤시윤 "최초의 신부 김대건 연기..배우로서 최고의 영광" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111180206241</link>
-            <guid>https://v.daum.net/v/20211111180206241</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤시윤이 김대건 신부를 주인공으로 하는 영화 출연 소감을 전했다. 영화 '탄생(박흥식 감독)' 제작발표회가 11일 오후 서울 종로구 세종문화회관에서 열린 가운데, 극중 김대건 신부 역할을 맡은 윤시윤은 "어떤 행사보다도 떨리는 자리다. 200년 전에 해외의 선교사와 조선인들을 연결해 주고, 조선인으로는 처음으로 신부가 되고 끝내 순교한 김대건이란]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111180207881unhe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이호원 "사실 무교, 작품 위해 꾸준히 성당 다녀" (탄생)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111175822108</link>
-            <guid>https://v.daum.net/v/20211111175822108</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '탄생' 출연진들이 작품에 임한 소감을 전했다. 11일 오후 서울 종로구 세종문화회관 S씨어터에서 영화 '탄생'의 제작발표회가 열렸다. 이날 현장에는&nbsp;배우 윤시윤, 이호원, 안성기, 이문식, 정유미, 송지연, 임현수, 하경, 박지훈, 자문위원 김홍신 작가, 투자자 남상원 회장, 제작자 박곡지 대표, 박흥식 감독 등이 참석했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fxportsnews%2F20211111175824772cbte.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[심재명 대표 "편의점 강도 잡던 장동윤, 이견 없이 캐스팅" (태일이)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111175027868</link>
-            <guid>https://v.daum.net/v/20211111175027868</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) '태일이'의 제작사 명필름 심재명 대표가 장동윤을 전태일 열사 목소리 역에 캐스팅한 배경을 전했다. 11일 서울 용산구 CGV 용산아이파크몰에서 영화 '태일이'(감독 홍준표) 언론시사회가 열렸다. 이 자리에는 홍준표 감독과 배우 장동윤, 명필름 심재명 대표가 참석했다. '태일이'는 1970년 평화시장, 부당한 노동 환경을 바꾸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fxportsnews%2F20211111175028586rjyd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['태일이'로 돌아온 장동윤 "편의점 강도 잡은 그 의로움으로"[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111173718480</link>
-            <guid>https://v.daum.net/v/20211111173718480</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 글 허민녕 기자/사진 표명중 기자] “편의점 강도 잡은 청년 장동윤의 정의로움이 떠올랐다.” 듣고 보니 ‘운명’ 같다. 그 또한 대구 출신이어서 사투리 연기가 어렵지 않았고, 간혹 고향말이 섞여 나오는 서울말 연기 또한 수월했다 한다. 애니메이션 ‘태일이’에서 전태일 열사 목소리 연기를 맡은 배우 장동윤을 두고 하는 말. 제작사 명필름의 심재명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fnewsen%2F20211111173718554kncb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[신부 된 윤시윤..썸·브로맨스까지 담은 '탄생'에 쏠린 시선 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111173611435</link>
-            <guid>https://v.daum.net/v/20211111173611435</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김대건 신부의 이야기를 담은 영화가 제작된다. '탄생'에 대한 이야기다. 출연 배우들과 관계자들은 작품에 대해 설명하며 남다른 애정을 드러냈다. 11일 오후 세종문화회관 내 세종S씨어터에서 영화 '탄생'의 제작발표회가 진행됐다. '탄생'은 한국 최초의 사제, 성 김대건 신부의 삶과 죽음을 다룬 최초의 극영화다. "제작·홍보·배급 비용 150억" '탄생'의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fhankooki%2F20211111173614476veoe.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[각기 다른 매력 장전한 영화 세 편, 24일 동시 개봉&nbsp; [더팩트｜원세나 기자] '위드 코로나' 시행 후 활기를 되찾고 있는 극장가가 더욱더 다채롭고 풍성한 라인업으로 관객들을 유혹한다. 각기 다른 장르와 신선한 소재를 다룬 영화 세 편이 공교롭게도 11월 같은 날 개봉을 확정하며 선의의 경쟁을 펼친다. 선택의 폭이 넓어진 관객들은 각자의 취향에 맞게 작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FTHEFACT%2F20211112000046012elzv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC이슈]'오징어게임' 박해수 주연 '사냥의시간', 美넷플릭스 영화로 리메이크.."최초 사례" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2680,14 +2528,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Ftvreport%2F20211111135033630flkl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['갯마을차차차'가 또?..'보라엄마' 김주연, 잘나가네 '스크린 데뷔' [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111081531518</link>
-            <guid>https://movie.v.daum.net/v/20211111081531518</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 배우 김주연이 스크린으로 활동 영역을 확장한다. 11일 소속사 빅보스엔터테인먼트에 따르면 배우 김주연은 영화&nbsp;‘조치원 해문이’(제작 파란오이 감독 최양현)에 출연을 확정 지었다. ‘조치원 해문이’는 동명의 연극을 영상화한 작품으로,&nbsp;도시개발의 이면에서 벌어지는 권력에 대한 욕망과 물질에 대한 탐욕 등이 판치는 현실을 날카롭게 풍자한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fpoctan%2F20211111081532380gwan.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["다시 매트릭스 세계로.. 액션넘어 진심·사랑도 담았죠" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111150020804</link>
             <guid>https://movie.v.daum.net/v/20211111150020804</guid>
@@ -2704,28 +2544,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fyonhap%2F20211111110822928rdoz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[워쇼스키 "키아누 리브스, '매트릭스4' 보고 넋 나갔다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110170006647</link>
-            <guid>https://movie.v.daum.net/v/20211110170006647</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계를 충격으로 뒤흔든 SF 영화의 걸작 '매트릭스' 시리즈의 4번째 이야기 '매트릭스: 리저렉션'을 본 주연 배우 키아누 리브스가 "넋이 나갔다"는 감상을 남겨 화제다. '매트릭스: 리저렉션'의 연출을 맡은 라나 워쇼스키 감독은 해외 인터뷰에서 내부 시사에서 함께 영화를 본 주인공 키아누 리브스의 반응을 전했다. 워쇼스키 감독은 "키아누 리브스가 완전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fnocut%2F20211110170010024pnql.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 영화의 저력..리메이크작, 중화권 극장가 접수 [TF확대경] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111050019320</link>
-            <guid>https://movie.v.daum.net/v/20211111050019320</guid>
+            <title><![CDATA['갯마을차차차'가 또?..'보라엄마' 김주연, 잘나가네 '스크린 데뷔' [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111081531518</link>
+            <guid>https://movie.v.daum.net/v/20211111081531518</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 영화·합작 영화 대신 리메이크작 줄줄이 개봉…흥행 릴레이 [더팩트｜원세나 기자] 코로나19 팬데믹으로 전 세계 극장가의 침체가 이어진 가운데 2021년 중화권 극장가에서 한국 영화를 원작으로 한 리메이크 작품들의 선전이 눈에 띈다. 중국의 '한한령'(한류 제한령)으로 한국 영화의 개봉이나 한중 영화 합작이 중단된 가운데 리메이크작들이 잇따라 개봉하며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FTHEFACT%2F20211111050021041ehch.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[Cine리뷰]'강릉', 철 지난 낭만의 바다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110101027739</link>
-            <guid>https://movie.v.daum.net/v/20211110101027739</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 영화 '강릉'이 거친 남자들의 낭만을 녹여낸 쌉쌀한 감성을 내세우며 올 가을 극장가에 도전장을 던진다. 영화 '강릉'(감독 윤영빈)은 평창 동계올림픽을 앞두고 건설된 대형 리조트 소유권을 둘러싼 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션극이다. 배우 유오성과 장혁이 드라마 '장사의 신 - 객주 2015' 이후 6년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fspotvnews%2F20211110101028845qcij.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 배우 김주연이 스크린으로 활동 영역을 확장한다. 11일 소속사 빅보스엔터테인먼트에 따르면 배우 김주연은 영화&nbsp;‘조치원 해문이’(제작 파란오이 감독 최양현)에 출연을 확정 지었다. ‘조치원 해문이’는 동명의 연극을 영상화한 작품으로,&nbsp;도시개발의 이면에서 벌어지는 권력에 대한 욕망과 물질에 대한 탐욕 등이 판치는 현실을 날카롭게 풍자한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fpoctan%2F20211111081532380gwan.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[100만 '듄', 전국 17개 IMAX서 재상영 확정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2736,12 +2560,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FNEWS1%2F20211111111659306znhb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[송민호, 넷플릭스 '서울대작전' 출연..유아인과 대립 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110161057749</link>
-            <guid>https://movie.v.daum.net/v/20211110161057749</guid>
+            <title><![CDATA[韓 영화의 저력..리메이크작, 중화권 극장가 접수 [TF확대경] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111050019320</link>
+            <guid>https://movie.v.daum.net/v/20211111050019320</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 영화·합작 영화 대신 리메이크작 줄줄이 개봉…흥행 릴레이 [더팩트｜원세나 기자] 코로나19 팬데믹으로 전 세계 극장가의 침체가 이어진 가운데 2021년 중화권 극장가에서 한국 영화를 원작으로 한 리메이크 작품들의 선전이 눈에 띈다. 중국의 '한한령'(한류 제한령)으로 한국 영화의 개봉이나 한중 영화 합작이 중단된 가운데 리메이크작들이 잇따라 개봉하며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FTHEFACT%2F20211111050021041ehch.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[워쇼스키 "키아누 리브스, '매트릭스4' 보고 넋 나갔다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211110170006647</link>
+            <guid>https://movie.v.daum.net/v/20211110170006647</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 가수 송민호(MINO)가 30일 오후 온라인 생중계로 진행된 두번째 솔로 앨범 'TAKE' 발매 기자간담회에 앞서 포즈를 취하고 있다. /사진제공=YG엔터테인먼트 /사진=이동훈 기자 photoguy@그룹 위너의 멤버 송민호가 영화 '서울대작전'에 출연한다. 10일 영화계 관계자에 따르면 송민호는 넷플릭스 영화 '서울대작전'에 출연한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fstarnews%2F20211110161058367xwve.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[전 세계를 충격으로 뒤흔든 SF 영화의 걸작 '매트릭스' 시리즈의 4번째 이야기 '매트릭스: 리저렉션'을 본 주연 배우 키아누 리브스가 "넋이 나갔다"는 감상을 남겨 화제다. '매트릭스: 리저렉션'의 연출을 맡은 라나 워쇼스키 감독은 해외 인터뷰에서 내부 시사에서 함께 영화를 본 주인공 키아누 리브스의 반응을 전했다. 워쇼스키 감독은 "키아누 리브스가 완전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fnocut%2F20211110170010024pnql.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박정민x김옥빈, 박찬욱 감독 신작 주연 가나..신선한 조합 기대(종합) [단독] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2752,6 +2584,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fpoctan%2F20211111154822542fzpi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[Cine리뷰]'강릉', 철 지난 낭만의 바다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211110101027739</link>
+            <guid>https://movie.v.daum.net/v/20211110101027739</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 영화 '강릉'이 거친 남자들의 낭만을 녹여낸 쌉쌀한 감성을 내세우며 올 가을 극장가에 도전장을 던진다. 영화 '강릉'(감독 윤영빈)은 평창 동계올림픽을 앞두고 건설된 대형 리조트 소유권을 둘러싼 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션극이다. 배우 유오성과 장혁이 드라마 '장사의 신 - 객주 2015' 이후 6년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fspotvnews%2F20211110101028845qcij.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['청룡영화상' 김혜수 & 유연석, 4년 연속 공동 MC 확정! (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111122626555</link>
             <guid>https://movie.v.daum.net/v/20211111122626555</guid>
@@ -2760,12 +2600,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FiMBC%2F20211111122627168kvbl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김혜수·유연석, 4년 연속 청룡영화상 MC[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111083405034</link>
-            <guid>https://movie.v.daum.net/v/20211111083405034</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김혜수와 유연석이 4년 연속 파트너로 함께 한다. 김혜수와 유연석은 오는 26일 여의도 KBS홀에서 개최되는 제42회 청룡영화상 시상식 MC로 나선다. 김혜수는 1993년 14회 청룡영화상 시상식부터 올해로 28회째 진행을 맡는다. 명실상부 ‘청룡의 상징’이 된 김혜수는 청룡과 함께해 온 시간만큼 탁월한 진행 솜씨와 빛나는 지성, 한국영화에 대한 깊은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111083406671exlx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[송민호, 넷플릭스 '서울대작전' 출연..유아인과 대립 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211110161057749</link>
+            <guid>https://movie.v.daum.net/v/20211110161057749</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 가수 송민호(MINO)가 30일 오후 온라인 생중계로 진행된 두번째 솔로 앨범 'TAKE' 발매 기자간담회에 앞서 포즈를 취하고 있다. /사진제공=YG엔터테인먼트 /사진=이동훈 기자 photoguy@그룹 위너의 멤버 송민호가 영화 '서울대작전'에 출연한다. 10일 영화계 관계자에 따르면 송민호는 넷플릭스 영화 '서울대작전'에 출연한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fstarnews%2F20211110161058367xwve.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC현장] "전태일로 첫 더빙, 무한 영광"..'태일이' 장동윤이 전한 청년 전태일(종합) (다음영화 뉴스 ─ 인기)]]></title>
@@ -2776,14 +2616,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FSpoChosun%2F20211111161724110wouk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[설경구·문소리, '주연상' 영예→이준익 '자산어보'·류승완 '모가디슈' 나란히 4관왕 [제41회 영평상](종합) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110210635454</link>
-            <guid>https://movie.v.daum.net/v/20211110210635454</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 설경구와 문소리가 '제41회 영평상'에서 남녀 주연상을 차지했다. 이준익 감독의 '자산어보', 류승완 감독의 '모가디슈'는 나란히 4관왕을 달성했다. 10일 오후 서울 중구 순화동 KG타워에선 '제41회 영평상'(한국영화평론가협회상) 시상식이 열렸다. '영평상'은 (사)한국영화평론가협회(제26대 회장 황영미)가 주관,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fmydaily%2F20211110210635222nlot.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['유체이탈자' 윤계상의 독보적 추격·타격·총격 액션이 온다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111155305516</link>
             <guid>https://movie.v.daum.net/v/20211111155305516</guid>
@@ -2792,12 +2624,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fsportstoday%2F20211111155306993cxuu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[무쇠팔 최동원과 노점상 할머니, 산다는 것의 위대함이란.. (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110183630294</link>
-            <guid>https://movie.v.daum.net/v/20211110183630294</guid>
+            <title><![CDATA[김혜수·유연석, 4년 연속 청룡영화상 MC[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111083405034</link>
+            <guid>https://movie.v.daum.net/v/20211111083405034</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김혜수와 유연석이 4년 연속 파트너로 함께 한다. 김혜수와 유연석은 오는 26일 여의도 KBS홀에서 개최되는 제42회 청룡영화상 시상식 MC로 나선다. 김혜수는 1993년 14회 청룡영화상 시상식부터 올해로 28회째 진행을 맡는다. 명실상부 ‘청룡의 상징’이 된 김혜수는 청룡과 함께해 온 시간만큼 탁월한 진행 솜씨와 빛나는 지성, 한국영화에 대한 깊은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111083406671exlx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[설경구·문소리, '주연상' 영예→이준익 '자산어보'·류승완 '모가디슈' 나란히 4관왕 [제41회 영평상](종합) (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211110210635454</link>
+            <guid>https://movie.v.daum.net/v/20211110210635454</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[야구선수와 노점상인. 유명인과 생활인의 빛살 틔우는 삶을 기록한 휴먼 다큐멘터리 두편이 11일 동시에 개봉한다. 조은성 감독의 &lt;1984 최동원&gt;과 김진열 감독의 &lt;왕십리 김종분&gt;은, 투혼으로 기적을 일궈낸 운동선수와 고통을 딛고 가족을 건사해낸 노점상 할머니를 통해 살아가는 일의 위대함을 이야기한다. &lt;1984 최동원&gt;은 ‘무쇠팔’과 ‘부산의 심장’으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fhani%2F20211110185617991dstn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 설경구와 문소리가 '제41회 영평상'에서 남녀 주연상을 차지했다. 이준익 감독의 '자산어보', 류승완 감독의 '모가디슈'는 나란히 4관왕을 달성했다. 10일 오후 서울 중구 순화동 KG타워에선 '제41회 영평상'(한국영화평론가협회상) 시상식이 열렸다. '영평상'은 (사)한국영화평론가협회(제26대 회장 황영미)가 주관,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fmydaily%2F20211110210635222nlot.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['연애 빠진 로맨스', 웹툰 '유미의 세포들' 작가 그린 특별 포스터 공개 [Oh!쎈 컷] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2808,12 +2648,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fpoctan%2F20211111112510131lksu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[무쇠팔 최동원과 노점상 할머니, 산다는 것의 위대함이란.. (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211110183630294</link>
+            <guid>https://movie.v.daum.net/v/20211110183630294</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[야구선수와 노점상인. 유명인과 생활인의 빛살 틔우는 삶을 기록한 휴먼 다큐멘터리 두편이 11일 동시에 개봉한다. 조은성 감독의 &lt;1984 최동원&gt;과 김진열 감독의 &lt;왕십리 김종분&gt;은, 투혼으로 기적을 일궈낸 운동선수와 고통을 딛고 가족을 건사해낸 노점상 할머니를 통해 살아가는 일의 위대함을 이야기한다. &lt;1984 최동원&gt;은 ‘무쇠팔’과 ‘부산의 심장’으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fhani%2F20211110185617991dstn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['장르만 로맨스' 오나라, 환장 케미·말 맛 살리는 유쾌 발랄 매력 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111114658251</link>
             <guid>https://movie.v.daum.net/v/20211111114658251</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '장로만 로맨스'(감독 조은지)의 오나라가 유쾌 발랄한 매력을 발산할 예정이다. 드라마, 예능, 영화를 넘나들며 마성의 사랑스러운 에너지를 뽐내는 배우 오나라는 '장르만 로맨스'에서 한계 없는 매력으로 관객들을 사로잡을 전망이다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FNEWS1%2F20211111114659759vzbs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[현시대의 모든 대한민국인들이 고마워 해야 할 이 남자 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/ksCXHY96wn</link>
+            <guid>https://content.v.daum.net/v/ksCXHY96wn</guid>
+            <pubDate>Thu, 11 Nov 2021 15:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Ffeelthemovie%2F20211111142535723r2rc.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <어벤져스: 엔드게임> 이후 생긴 충격적 이야기 (다음 영화 ─ 매거진)]]></title>
@@ -2966,14 +2822,6 @@
             <pubDate>Tue, 09 Nov 2021 02:27:37 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F08%2Ffanzeel%2F20211108081703912ezto.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['인어공주' 이어 원작과 다른 실사화로 팬들 우려 사고 있다는 디즈니 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/k9nR4FIiPN</link>
-            <guid>https://content.v.daum.net/v/k9nR4FIiPN</guid>
-            <pubDate>Tue, 09 Nov 2021 01:56:22 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F06%2Fkinolights%2F20211106130917724lscb.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<이터널스> 마블의 미래가 걱정되기 시작했다 (다음 영화 ─ 브런치)]]></title>
