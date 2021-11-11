@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 03:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 04:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -784,20 +784,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아담스 패밀리 2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145462</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145462</guid>
-            <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb63ca4c0749e90ed1029a78ea3d6691d35d16a42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145338</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145338</guid>
             <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
             <content:encoded><![CDATA[21.11.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아담스 패밀리 2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145462</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145462</guid>
+            <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb63ca4c0749e90ed1029a78ea3d6691d35d16a42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[1984 최동원 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -832,14 +832,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아워 미드나잇 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145312</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145312</guid>
-            <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb88340befa674e2687092d81ce932d0b17811fa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
@@ -854,6 +846,14 @@
             <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
             <content:encoded><![CDATA[21.11.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아워 미드나잇 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145312</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145312</guid>
+            <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb88340befa674e2687092d81ce932d0b17811fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2456,6 +2456,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffba3da68500127371bd24f9873210aba28aa4e13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[영화소식] 서울국제음식영화제 18일 개막 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211111131231491</link>
+            <guid>https://v.daum.net/v/20211111131231491</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = ▲ 제7회 서울국제음식영화제 = 음식을 소재로 한 영화를 잇달아 소개하는 서울국제음식영화제가 오는 18일부터 23일까지 서울 동작구 아트나인에서 열린다. 영화제 전용 온라인 플랫폼인 온피프엔에서도 볼 수 있다. 33개국에서 온 영화 76편을 상영하며 개막작은 토머스 빈터베르그 감독의 '어나더 라운드'다. 술이 우리 삶과 관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fyonhap%2F20211111131231628pxft.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['킹메이커' 설경구X이선균, 12월 개봉 확정..포스터 공개 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211111123205664</link>
+            <guid>https://v.daum.net/v/20211111123205664</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 현혜선 기자] '킹메이커'가 12월 극장가를 사로잡는다. 설경구와 이선균의 만남으로 화제를 모은 2021년 하반기 기대작 '킹메이커'가 11일 개봉을 확정 지으며 1차 포스터를 공개했다. 12월 개봉을 확정한 영화 '킹메이커'가 1차 포스터를 공개하며 2021년 가장 뜨거운 영화의 등장을 알렸다. '킹메이커'는 세상을 바꾸기 위해 도전하는 네]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fsportstoday%2F20211111123206825sdca.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['A-장녀' 루비의 노래가 준 가르침 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211111123003624</link>
+            <guid>https://v.daum.net/v/20211111123003624</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[최서윤] * 이 글에는 영화의 스포일러가 포함돼 있습니다. '루비'(에밀리아 존스)의 일과는 새벽 3시에 시작된다. 두 남자와 함께 배에 올라 생선을 잡아 올리며 노래하는 루비. 잡은 생선을 유통업자와 흥정한 뒤, 노동의 체취를 빨아들인 옷을 갈아입을 새도 없이 학교에 간다. "어디서 생선비린내 나지 않아?" 학교에는 그를 깔보며 웃음거리 삼는 아이들이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fohmynews%2F20211111123007151orja.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[박정민, 박찬욱 감독 신작 주인공 가나..특급 만남 준비중 [단독] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211111121338281</link>
             <guid>https://v.daum.net/v/20211111121338281</guid>
@@ -2592,30 +2616,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FSPORTSSEOUL%2F20211111094826495euxl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[설경구X이선균 '킹메이커' 12월 개봉 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111094757447</link>
-            <guid>https://v.daum.net/v/20211111094757447</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 설경구와 이선균의 만남으로 화제를 모은 2021년 하반기 기대작 ‘킹메이커’가 오는 12월 개봉을 확정 지었다.‘킹메이커’가 11일 1차 포스터를 공개하며 그 등장을 알렸다. ‘킹메이커’는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 서창대가 치열한 선거판에 뛰어들며 시작되는 작품이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fsportskhan%2F20211111094758317zqkh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[설경구·이선균 12월 개봉 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111092634609</link>
-            <guid>https://v.daum.net/v/20211111092634609</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 설경구·이선균 12월 개봉 확정 [공식] 설경구와 이선균의 만남으로 화제를 모은 2021년 하반기 기대작 ‘킹메이커’가 12월 개봉을 확정 지으며 1차 포스터를 공개했다. 오는 12월 개봉을 확정한 영화 ‘킹메이커’가 1차 포스터를 공개하며 2021년 가장 뜨거운 영화의 등장을 알렸다. ‘킹메이커’는 세상을 바꾸기 위해 도전하는 네 번 낙선한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fsportsdonga%2F20211111092637305qyve.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스'와 '유미의 세포들' 만남..응큼하지만 귀엽다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211111092053410</link>
-            <guid>https://v.daum.net/v/20211111092053410</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 전종서 손석구 '연애 빠진 로맨스'가 '유미의 세포들' 이동건 작가와 만났다. 11월 24일 개봉하는 영화 '연애 빠진 로맨스'(감독 정가영)는 연애는 싫지만 외로운 건 더 싫은 ‘자영’(전종서)과 일도 연애도 뜻대로 안 풀리는 ‘우리’(손석구), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 영화다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fnewsen%2F20211111092058695yvhd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['갯마을차차차'가 또?..'보라엄마' 김주연, 잘나가네 '스크린 데뷔' [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111081531518</link>
             <guid>https://movie.v.daum.net/v/20211111081531518</guid>
@@ -2648,20 +2648,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fstarnews%2F20211110161058367xwve.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김혜수·유연석, 4년 연속 청룡영화상 MC[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111083405034</link>
-            <guid>https://movie.v.daum.net/v/20211111083405034</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김혜수와 유연석이 4년 연속 파트너로 함께 한다. 김혜수와 유연석은 오는 26일 여의도 KBS홀에서 개최되는 제42회 청룡영화상 시상식 MC로 나선다. 김혜수는 1993년 14회 청룡영화상 시상식부터 올해로 28회째 진행을 맡는다. 명실상부 ‘청룡의 상징’이 된 김혜수는 청룡과 함께해 온 시간만큼 탁월한 진행 솜씨와 빛나는 지성, 한국영화에 대한 깊은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111083406671exlx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[Cine리뷰]'강릉', 철 지난 낭만의 바다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211110101027739</link>
             <guid>https://movie.v.daum.net/v/20211110101027739</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 영화 '강릉'이 거친 남자들의 낭만을 녹여낸 쌉쌀한 감성을 내세우며 올 가을 극장가에 도전장을 던진다. 영화 '강릉'(감독 윤영빈)은 평창 동계올림픽을 앞두고 건설된 대형 리조트 소유권을 둘러싼 조직의 야망과 음모, 그리고 배신을 그린 범죄 액션극이다. 배우 유오성과 장혁이 드라마 '장사의 신 - 객주 2015' 이후 6년]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fspotvnews%2F20211110101028845qcij.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김혜수·유연석, 4년 연속 청룡영화상 MC[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111083405034</link>
+            <guid>https://movie.v.daum.net/v/20211111083405034</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김혜수와 유연석이 4년 연속 파트너로 함께 한다. 김혜수와 유연석은 오는 26일 여의도 KBS홀에서 개최되는 제42회 청룡영화상 시상식 MC로 나선다. 김혜수는 1993년 14회 청룡영화상 시상식부터 올해로 28회째 진행을 맡는다. 명실상부 ‘청룡의 상징’이 된 김혜수는 청룡과 함께해 온 시간만큼 탁월한 진행 솜씨와 빛나는 지성, 한국영화에 대한 깊은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Filgansports%2F20211111083406671exlx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[무쇠팔 최동원과 노점상 할머니, 산다는 것의 위대함이란.. (다음영화 뉴스 ─ 인기)]]></title>
@@ -2672,14 +2672,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fhani%2F20211110185617991dstn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['매트릭스4' 워쇼스키 감독 "키아누 리브스 영화 보고 넋 나가" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110143534650</link>
-            <guid>https://movie.v.daum.net/v/20211110143534650</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세 편의 시리즈 후 잠잠했던 '매트릭스'가 네 번째 시리즈로 찾아온다. 오는 12월 개봉하는 영화 '매트릭스: 리저렉션'의 라나 워쇼스키 감독이 해외 인터뷰에서 내부 시사에서 영화를 본 키아누 리브스의 반응을 전했다. 워쇼스키 감독은 "키아누 리브스가 완전히 넋이 나갔다"며 "첫 '매트릭스'가 과거 20년의 디지털 가상현실의 생활에 대한 본질을 생각하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Filgansports%2F20211110143536025fbng.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['송해 1927' 세상의 모든 아버지께 바치는 영화 [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211109175735810</link>
             <guid>https://movie.v.daum.net/v/20211109175735810</guid>
@@ -2688,20 +2680,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F09%2Filgansports%2F20211109175737956xssg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마동석 '이터널스' 이후 마블 영화에 계속 출연할까.."'길가메시' 불멸의 존재" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110140604505</link>
-            <guid>https://movie.v.daum.net/v/20211110140604505</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 마동석이 영화 '이터널스' 이후에도 마블 영화에 계속 등장할까.&nbsp;10일 복수의 영화계 관계자에 따르면 마블스튜디오와 비중 있는 역할로 출연 계약을 할 경우, 단 한 편만 하는 경우는 거의 없다. 이에 따라 마동석이 향후 마블 영화에 또 출연할 가능성이 크다는 것.앞서 이날 오전 스타뉴스는 마동석이 '이터널스' 외에 길가메시 역으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2F10asia%2F20211110140607335rzmc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['캐스트 어웨이' 톰 행크스의 배구공 친구 윌슨 경매가는? 3억 6천만원 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111094821466</link>
             <guid>https://movie.v.daum.net/v/20211111094821466</guid>
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 남혜연기자]“앗! 그 때 그 배우공 가격이?” 2001년 개봉한 영화 ‘캐스트 어웨이’의 또 다른 주인공 배구공 ‘윌슨’이 경매에서 약 3억 6000만원이 넘는 금액에 낙찰됐다. 10일(현지시각) 영국 BBC 방송, 일간 인디펜던트에 따르면 전날 경매사 프롭 스토어(Prop Store)의 경매에 윌슨이 올라와 23만 파운드]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FSPORTSSEOUL%2F20211111094826495euxl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['매트릭스4' 워쇼스키 감독 "키아누 리브스 영화 보고 넋 나가" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211110143534650</link>
+            <guid>https://movie.v.daum.net/v/20211110143534650</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세 편의 시리즈 후 잠잠했던 '매트릭스'가 네 번째 시리즈로 찾아온다. 오는 12월 개봉하는 영화 '매트릭스: 리저렉션'의 라나 워쇼스키 감독이 해외 인터뷰에서 내부 시사에서 영화를 본 키아누 리브스의 반응을 전했다. 워쇼스키 감독은 "키아누 리브스가 완전히 넋이 나갔다"며 "첫 '매트릭스'가 과거 20년의 디지털 가상현실의 생활에 대한 본질을 생각하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Filgansports%2F20211110143536025fbng.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[세월호 민간 잠수사들 이야기 담은 다큐멘터리 '로그북' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2728,6 +2720,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Fnewsen%2F20211111082350876icqh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[마동석 '이터널스' 이후 마블 영화에 계속 출연할까.."'길가메시' 불멸의 존재" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211110140604505</link>
+            <guid>https://movie.v.daum.net/v/20211110140604505</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 마동석이 영화 '이터널스' 이후에도 마블 영화에 계속 등장할까.&nbsp;10일 복수의 영화계 관계자에 따르면 마블스튜디오와 비중 있는 역할로 출연 계약을 할 경우, 단 한 편만 하는 경우는 거의 없다. 이에 따라 마동석이 향후 마블 영화에 또 출연할 가능성이 크다는 것.앞서 이날 오전 스타뉴스는 마동석이 '이터널스' 외에 길가메시 역으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2F10asia%2F20211110140607335rzmc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[설경구·이선균 '킹메이커', 12월 개봉..'치열한 선거전쟁' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111091243143</link>
+            <guid>https://movie.v.daum.net/v/20211111091243143</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 설경구 이선균 주연 영화 '킹메이커'(감독 변성현)가 12월 개봉을 확정했다. 배급사 메가박스중앙㈜플러스엠 11일 '킹메이커'의 12월 개봉 소식을 알리며 1차 포스터도 함께 공개했다. '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 서창대가 치열한 선거판]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FNEWS1%2F20211111091244782esjg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[fn★무비텔] 韓 영화, 리메이크로 2021년 중화권 극장가 점령 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211110132344010</link>
             <guid>https://movie.v.daum.net/v/20211110132344010</guid>
@@ -2752,22 +2760,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2FNEWS1%2F20211110120033533qmwf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[설경구·이선균 '킹메이커', 12월 개봉..'치열한 선거전쟁' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111091243143</link>
-            <guid>https://movie.v.daum.net/v/20211111091243143</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 설경구 이선균 주연 영화 '킹메이커'(감독 변성현)가 12월 개봉을 확정했다. 배급사 메가박스중앙㈜플러스엠 11일 '킹메이커'의 12월 개봉 소식을 알리며 1차 포스터도 함께 공개했다. '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 서창대가 치열한 선거판]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FNEWS1%2F20211111091244782esjg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨네+] 위드코로나 첫 韓영화·흥행 맛본 日애니..'이터널스' 이길까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211110094805774</link>
-            <guid>https://movie.v.daum.net/v/20211110094805774</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공생이 목표다. 영화 '이터널스(클로이 자오 감독)'가 개봉 첫 주 전국 스크린를 점령하며 압도적인 흥행 레이스를 펼치고 있는 가운데, 10일과 11일 스케일은 '이터널스'와 비교할 수 없지만 명확한 장르를 자랑하는 신작들이 경쟁 대열에 합류한다. 한국형 누아르부터 마니아층이 기다렸던 애니메이션까지, 단계적 일상 회복 정책이 시행된 첫 달 발빠르게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2FJTBC%2F20211110094806795afpb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['고스트버스터즈 라이즈', 새로운 세상의 강렬한 비주얼 "서스펜스 액션 어드벤처" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211110153955333</link>
             <guid>https://movie.v.daum.net/v/20211110153955333</guid>
@@ -2776,7 +2768,15 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fmydaily%2F20211110153956032nwck.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[무려 1,500명을 제치고 오디션을 합격한 괴물 스타의 합격이유 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[[SC이슈]'오징어게임' 박해수 주연 '사냥의시간', 美넷플릭스 영화로 리메이크.."최초 사례" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211111090941030</link>
+            <guid>https://movie.v.daum.net/v/20211111090941030</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] '오징어 게임'의 주역 박해수 주연의 영화 '사냥의 시간'이 미국에서 리메이크를 확정했다. 미국 유력 매체 데드라인은 10일(현지시각) "미국 넷플릭스가 한국 넷플릭스 영화인 '사냥의 시간'을 리메이크한다"고 보도했다. 특히 데드라인은 넷플릭스가 직접 넷플릭스 영화를 리메이크하는 것에 주목하며 "OTT 플랫폼이 외국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FSpoChosun%2F20211111090941485echk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[무려 1,500명을 제치고 오디션을 합격한 괴물 신인의 합격 이유 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/kxkPAKjNN7</link>
             <guid>https://content.v.daum.net/v/kxkPAKjNN7</guid>
             <pubDate>Thu, 11 Nov 2021 03:14:17 GMT</pubDate>
