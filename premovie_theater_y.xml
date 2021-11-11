@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 06:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 07:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64b06e87ce720108b0b1ce6d10f7da50e3ce1d0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나를 잡아줘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145939</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145939</guid>
-            <pubDate>Thu, 11 Nov 2021 00:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9fd2689f80e308d6156b363d4ce640cb852eb654" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[빌리 홀리데이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147526</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147526</guid>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 11 Nov 2021 00:39:32 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9633ccac2f8fa4f2aaa677f2140c5856600aca2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 잡아줘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145939</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145939</guid>
+            <pubDate>Thu, 11 Nov 2021 00:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9fd2689f80e308d6156b363d4ce640cb852eb654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[세버그]]></title>
