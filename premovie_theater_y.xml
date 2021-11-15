@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 17:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 18:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafd003ec7a90902c90275affff2457c727871aa7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154025</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154025</guid>
-            <pubDate>Mon, 15 Nov 2021 16:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[러브 어페어 : 우리가 말하는 것, 우리가 하는 것]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145242</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145242</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 15 Nov 2021 16:18:12 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9633ccac2f8fa4f2aaa677f2140c5856600aca2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 잡아줘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145939</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145939</guid>
+            <pubDate>Mon, 15 Nov 2021 18:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9fd2689f80e308d6156b363d4ce640cb852eb654" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
