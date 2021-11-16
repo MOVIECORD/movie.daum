@@ -1,8 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2021-11-16T04:17:11.155Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 16 Nov 2021 05:12:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죽여주는 여자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=100506</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=100506</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a609ab65ad996a0db484aef5cc402b925b3f7f1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[육체의 약속]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2309</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2309</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F131E943D4DB777B60C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[개심귀 3 - 개심귀당귀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=15515</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=15515</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2508CA33520AC57510" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[죽어도 좋은 경험: 천사여 악녀가 되라]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=207</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=207</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe8bfb7385f6aeb6b260102da308718acd1ec8002" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[야쿠자의 아내들 : 결착]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155122</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155122</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F111a1f7c7d78315adbc8a4ce434a498f14a8f97b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신 야쿠자의 아내들 : 반하면 지옥]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155119</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155119</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6838dfbedc34e9f35bca2dcfc554dfffd2126ad8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[야쿠자의 아내들 : 혁혁한 연대]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155120</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155120</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F165839f0ab490b8b086c71f82bf1c8cf10592f54" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 부 3]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=34972</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=34972</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdbe96abc3b244a69b69892385de5d44f1541861237373" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[야쿠자의 아내들: 위험한 내기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155121</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155121</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36769470c179e4bb7eee5d8a677150bf5c19d9a5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[개심귀 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=18250</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=18250</guid>
+            <pubDate>Tue, 16 Nov 2021 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+        </item>
+    </channel>
+</rss>
