@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 11:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 12:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[싸반]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=116081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=116081</guid>
-            <pubDate>Thu, 11 Nov 2021 00:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87cabc3e4ccb6a546e8d353f380a34a227c18fe7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아네트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
@@ -120,6 +112,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafd003ec7a90902c90275affff2457c727871aa7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[기적]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Tue, 16 Nov 2021 12:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[싸반]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=116081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=116081</guid>
+            <pubDate>Thu, 11 Nov 2021 00:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87cabc3e4ccb6a546e8d353f380a34a227c18fe7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아워 미드나잇]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145312</guid>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Nov 2021 08:15:26 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9fd2689f80e308d6156b363d4ce640cb852eb654" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[가족의 색깔]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124572</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124572</guid>
-            <pubDate>Tue, 16 Nov 2021 10:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf91222e220046d38c772d421c8a8f215a949eda" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
