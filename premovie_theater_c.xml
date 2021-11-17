@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 02:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 03:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,7 +85,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=154665</guid>
             <pubDate>Wed, 17 Nov 2021 02:27:16 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64eee68ceb677428cc6f97ba3dad9f5b210cf083" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6c96c3d8058763fd57679cee0cfcff23c06b9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[밀리터리 맨]]></title>
@@ -94,6 +94,14 @@
             <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ae664cbf3b01cf6912be5ec6a72b879c692ba07" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[번 아웃]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154808</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154808</guid>
+            <pubDate>Wed, 17 Nov 2021 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F328c292442dddbba1df979593e0ecc213e65fbfb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[훈즈: 제국의 탄생]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Nov 2021 00:39:21 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[진마사 사상복마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152373</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152373</guid>
-            <pubDate>Wed, 17 Nov 2021 00:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6749e12d47292794ac38125323049f862f20ada5" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
