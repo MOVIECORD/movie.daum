@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 03:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 04:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F984050bd5cc8040936d98a3de87ea623a894ba20" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[화피 3]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154933</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154933</guid>
+            <pubDate>Wed, 17 Nov 2021 04:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1f829ec7fa4f5d13360a41ebaf0ca20b179bcba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[유체이탈자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Nov 2021 00:39:21 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a768c0527aeb051c8632057547c8603f3862d12" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[메이드 인 이태리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142774</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142774</guid>
-            <pubDate>Wed, 17 Nov 2021 00:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
