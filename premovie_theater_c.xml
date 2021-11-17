@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:28:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd730751e6e18265633c7c5c261dae93f811a226f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[헌터스 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154665</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154665</guid>
+            <pubDate>Wed, 17 Nov 2021 02:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64eee68ceb677428cc6f97ba3dad9f5b210cf083" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[밀리터리 맨]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Nov 2021 00:39:21 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6749e12d47292794ac38125323049f862f20ada5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[보조바퀴]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153611</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153611</guid>
-            <pubDate>Wed, 17 Nov 2021 01:55:03 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3e7bf81c7b6ff642a887b6194d5cb931339f279f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
