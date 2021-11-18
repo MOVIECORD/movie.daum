@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 10:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 11:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -816,20 +816,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[호빗 : 뜻밖의 여정 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=44853</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=44853</guid>
-            <pubDate>Thu, 18 Nov 2021 00:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1741304A508E2D7430" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀멸의 칼날: 나타구모산 편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153270</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153270</guid>
             <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdfd99b73ac1fcdfd335572d65b76a27e95c108da" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[호빗 : 뜻밖의 여정 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=44853</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=44853</guid>
+            <pubDate>Thu, 18 Nov 2021 00:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1741304A508E2D7430" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[후겟츠 웨슬리 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -848,20 +848,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[괴짜들의 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142687</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142687</guid>
-            <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F450d4500236583f15be6daf7618df18c426e75fd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아담스 패밀리 2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145462</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145462</guid>
             <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
             <content:encoded><![CDATA[21.11.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb63ca4c0749e90ed1029a78ea3d6691d35d16a42" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[괴짜들의 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142687</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142687</guid>
+            <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F450d4500236583f15be6daf7618df18c426e75fd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2392,6 +2392,78 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["오늘 美서 돌아와"..'오징어게임' 황동혁 감독, 영화예술인상 영예[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118195923090</link>
+            <guid>https://v.daum.net/v/20211118195923090</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 안윤지 기자] 황동혁, 윤단비, 이장호 감독, 배우 정우성이 18일 서울 중구 초동 명보아트홀에서 열린 '제11회 아름다운 예술인상' 시상식에서 핸드프린팅과 포즈를 취하고 있다. 2021.11.18 /사진=김창현 기자 chmt@'오징어 게임'으로 국가적 위상을 널리 알린 황동혁 감독이 '영화예술인상'을 수상했다. 올해 한국을 빛낸 감독과 배우들은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstarnews%2F20211118195924246tfmx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["내년엔 진짜 주인에게"..황동혁 감독, 드라마 '오겜'으로 영화예술인상[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118194505766</link>
+            <guid>https://v.daum.net/v/20211118194505766</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 문화계를 빛낸 아름다운 예술인들이 한 자리에 모인 가운데 ‘오징어 게임’으로 글로벌 신드롬을 일으킨 황동혁 감독이 드라마 연출에도 불구하고 '영화예술인상'의 영예를 안았다. 18일 오후 서울 을지로3가 명보아트홀에서는 제11회 ‘아름다운 예술인상’ 시상식이 열렸다. 이날 본격적인 시상식에 앞서 영화배우이자 신영균예술문화재단 이사장인 안성기가 가장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstartoday%2F20211118194508755nybf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임' 황동혁→정우성, '아름다운 예술인상' 수상.."의아해" "부끄럽다" 겸손 소감 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118194113682</link>
+            <guid>https://v.daum.net/v/20211118194113682</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '오징어 게임'의 황동혁 감독과 배우 정우성이 '아름다운 예술인상'에서 수상의 영예를 안았다. 18일 오후 서울 중구 마른내로 명보아트홀에선 '제11회 아름다운 예술인상' 시상식이 열렸다. '아름다운 예술인상'은 매년 연말을 맞이해 지난 한 해 동안 영화·연극분야에서 뛰어난 활동 실적을 평가받은 예술인을 선정, 총 1억 원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fmydaily%2F20211118194113587vvcd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['영화예술인상' 황동혁 감독 "영화·관객 만날 수 있길"[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118193438507</link>
+            <guid>https://v.daum.net/v/20211118193438507</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] ‘오징어 게임’ 열풍의 주역 황동혁 감독이 신영균예술문화재단에서 수여하는 아름다운예술인상을 수상했다. 황동혁 감독은 18일 오후 6시 서울 마른내로 명보아트홀에서 열린 제11회 아름다운예술인상에서 영화예술인상을 수상했다. 아름다운예술인상은 재단법인 신영균예술문화재단(이사장 안성기)이 주최하는 시상식. 올해는 영화예술인상에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FEdaily%2F20211118193441348bayg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송강호·이병헌·전도연·김남길 '비상선언', 내년 1월 개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118193130420</link>
+            <guid>https://v.daum.net/v/20211118193130420</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자] 송강호, 이병헌, 전도연 주연의 영화 '비상선언'이 오는 2022년 1월 개봉을 확정했다. '비상선언'(한재림 감독)은 개봉 확정과 함께 2022년 최고 기대작으로 등극하며 영화계 부흥의 신호탄이 될 작품으로서 주목 받고 있다. '비상선언'은 사상 초유의 재난상황에 직면해 무조건적인 착륙을 선포한 비행기를 두고 벌어지는 리얼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoHankook%2F20211118193132051cjar.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[황동혁 감독, 영화 아닌 '오겜'으로 영화예술인상.."코로나19  안타까워"(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118193050394</link>
+            <guid>https://v.daum.net/v/20211118193050394</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 황동혁 감독과 이장호 감독, 배우 정우성과 윤단비 감독이 아름다운예술인상을 빛냈다. 18일 오후 유튜브를 통해 제11회 아름다운예술인상 시상식이 생중계됐다. 아름다운예술인상 시상식은 이날 오후 6시 서울 중구 명보아트홀에서 개최됐다. 아름다운예술인상 시상식은 신영균예술문화재단에서 주최, 주관한다. 매년 연말을 맞이해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FNEWS1%2F20211118193051002opjc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임' 황동혁 감독, '영화예술인상' 수상 "오늘 美서 귀국" [아름다운 예술인상] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118192513209</link>
+            <guid>https://v.daum.net/v/20211118192513209</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 전 세계 넷플릭스 1위 '오징어 게임'의 황동혁 감독이 '아름다운 예술인상'에서 '영화예술인상'을 수상했다. 18일 오후 서울 중구 마른내로 명보아트홀에선 '제11회 아름다운 예술인상' 시상식이 열렸다. 이날 '영화예술인상'을 수상한 황동혁 감독은 "오늘 미국에서 돌아왔는데, 코로나19 검사 때문에 까딱하면 참석 못할 뻔했]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fmydaily%2F20211118192637501lbgb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['영화예술인상' 황동혁 감독 "영화와 관객 그리워"[아름다운예술인상] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118192400149</link>
+            <guid>https://v.daum.net/v/20211118192400149</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 시리즈 ‘오징어 게임’으로 글로벌 신드롬을 일으킨 황동혁 감독이 최고 영예인 ‘영화예술인상’의 주인공이 됐다. 황동혁 감독은 18일 오후 서울 을지로3가 명보아트홀에서 열린 제11회 ‘아름다운 예술인상’ 시상식에서 “처음 소식을 듣고 의아했다. 영화가 아닌 드라마를 만들었기 때문”이라고 운을 뗐다. 황 감독은 “지난해 코로나로 영화계가 힘든]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstartoday%2F20211118192402730godx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['공로상' 이장호 감독 "뜻깊고 감격스러워"[아름다운예술인상] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118191507814</link>
+            <guid>https://v.daum.net/v/20211118191507814</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“영화란 영혼을 깨우는 수단이다.” 이장호 감독이 올해의 ‘아름다운 예술인상’ 시상식에서 ‘공로예술인상’에 선정됐다. 이장호 감독은 18일 오후 서울 을지로3가 명보아트홀에서 열린 제11회 ‘아름다운 예술인상’ 시상식에서 “오늘 좀 정직한 이야기를 드리고 싶다”고 운을 뗐다. 이 감독은 “어딘 가에서 간증을 할 때마다 우리 재단의 이사장인 안성기와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstartoday%2F20211118191509105yqag.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['굿피플상' 정우성 "스스로 좋은 사람이라 느낀적 없어"[아름다운예술인상] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211118190304447</link>
             <guid>https://v.daum.net/v/20211118190304447</guid>
@@ -2405,7 +2477,7 @@
             <guid>https://v.daum.net/v/20211118190031377</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 정우성이 '아름다운 예술인상'에서 '굿피플예술인상'을 수상했다. 18일 오후 서울 중구 마른내로 명보아트홀에선 '제11회 아름다운 예술인상' 시상식이 열렸다. 이날 정우성은 '굿피플예술인상' 트로피를 받았다. 따뜻한 인품과 선행활동으로 사회에 귀감이 되는 예술인에게 시상하는 부문이다. 정우성은 "제 활동에 특별한 가치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fmydaily%2F20211118190032002wehq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fmydaily%2F20211118191807104dqge.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['독립영화인상' 윤단비 감독 "개봉할지도 몰랐는데.."[아름다운예술인상] (다음영화 뉴스 ─ 최신)]]></title>
@@ -2480,78 +2552,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Filgansports%2F20211118173705484ckbx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]김선호 활동 재개..영화 '슬픈 열대' 대본리딩 참석(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118173611721</link>
-            <guid>https://v.daum.net/v/20211118173611721</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김선호(36)가 사생활 논란을 딛고 활동을 재개한다. 오는 12월 3일로 예정된 영화 ‘슬픈 열대'의 첫 대본 리딩 자리에 참석하는 것을 시작으로 다시 활동에 나선다. 18일 영화계에 따르면 이날 대본 리딩 현장에는 김선호를 비롯해 배우 고아라 등 영화 '슬픈 열대' 주요 출연진이 참석한다. '슬픈 열대'는 누아르물 ‘신세계’와 여성 원톱 액션물]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstartoday%2F20211118173615257hiyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[4명의 기자, 4개의 특종기사에 담긴 비밀 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118173603702</link>
-            <guid>https://v.daum.net/v/20211118173603702</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[원종빈 기자] *이 글에는 영화의 스포일러가 있습니다. 20세기 초, 프랑스에 위치한 오래된 도시 블라제에서 다양한 사건을 가감 없이, 또 깊이 있게 담아낸 기사를 발행하던 미국 매거진 '프렌치 디스패치'. 어느 날, 매거진의 편집장 '아서 하위처 주니어(빌 머레이)'가 갑작스레 사망하자 매거진의 가장 뛰어난 저널리스트 4명인 '새저랙(오웬 윌슨)', ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fohmynews%2F20211118173606389dwiz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 손석구의 매력에 빠지는 시간[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118171807103</link>
-            <guid>https://v.daum.net/v/20211118171807103</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] “내 젊은 시절의 한 페이지를 장식하는 마지막 캐릭터일 수도 있겠다.” 마흔을 바라보는 30대 혹은 이미 40대도 공감할 대목. “물리적으로 확 온다, 나이 먹는다는 거.” 생각도 ‘고리타분’해지는 것 같고…배우 손석구의 말이다. 제목대로 ‘연애 빠진 로맨스’를 하다 감정을 채워 넣는 이야기. 33살 박우리가 그에게 몹시 “특별]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fnewsen%2F20211118171809680yppf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[성모 마리아가 눈 앞에? '기적 소녀'에게 드리운 검은 그림자 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118170601705</link>
-            <guid>https://v.daum.net/v/20211118170601705</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[정병진 기자] ▲ &nbsp;영화 &lt;더 언홀리&gt;의 한 장면    ⓒ 넷플릭스  &nbsp;'성모 마리아' 관련 기적은 심심치 않게 일어납니다. 1858년 프랑스 소녀 베르나데트 수비로스(Bernadette soubiros), 1917년 포르투갈 파티마의 양치기 소년 세 명, 1981년 보스니아의 메주고리에선 6명이 성모 마리아의 발현을 목격하였다고 알려졌습니]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fohmynews%2F20211118170604828fuoh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]손석구 "연기해서 먹고살다니 신기해..연애보다 결혼" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118170600702</link>
-            <guid>https://v.daum.net/v/20211118170600702</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[아시아경제 이이슬 기자] "영원히 자취방에 갇혀서 캐스팅도 안 될 줄 알았는데. 연기해서 벌어 먹고사는 제가 신기해요." 두 달도 남지 않은 올해를 돌아보며 손석구가 한 말이다. 그는 솔직했다. 무심한 듯 쿨하게, 허나 힘 있는 말투로 자신이 좋아하는 일과 그렇지 않은 것에 관해 차근차근 답했다. 손석구는 18일 진행된 영화 '연애 빠진 로맨스'(감독]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fakn%2F20211118170601258eomj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구 "'연빠로' 속 너드미..실제 나와 닮았다" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118165456273</link>
-            <guid>https://v.daum.net/v/20211118165456273</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 손석구가 18일 오후 화상으로 진행된 영화 '연애 빠진 로맨스' 개봉 관련 인터뷰에 앞서 포즈를 취하고 있다.  손석구는 극 중 섹스칼럼을 쓰기 위해 사랑 없는 연애를 시도하는 우리 역을 맡았다.  '연애 빠진 로맨스'는 데이트 어플로 만난 남녀가 조금씩 서로에 대해 알아가게 되면서 벌어지는 일을 그린 이야기다. 오는 24일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstarnews%2F20211118165457990skgf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["god 소녀팬" 임지연, 윤계상과 연인 호흡→액션 도전까지(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118163435522</link>
-            <guid>https://v.daum.net/v/20211118163435522</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 하늘색 풍선을 들고 god를 응원하며 눈물까지 흘렸었다는 임지연. 그가 개봉을 앞둔 신작 '유체이탈자'에서 윤계상의 연인으로 호흡을 맞춘 소감을 밝혔다. 또한, 생애 첫 액션 연기를 무사히 마친 소회도 전했다. 영화 '유체이탈자'(감독 윤재근)에 출연한 임지연은 11월 18일 화상 인터뷰를 통해 새로운 도전에 대한 만족감을 드러냈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fnewsen%2F20211118163435837pojr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구 "연애에 현실적, 로망 없다..결혼 하고 아이 낳고 싶어" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118161751925</link>
-            <guid>https://v.daum.net/v/20211118161751925</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 손석구가 18일 오후 화상으로 진행된 영화 '연애 빠진 로맨스' 개봉 관련 인터뷰에 앞서 포즈를 취하고 있다.  손석구는 극 중 섹스칼럼을 쓰기 위해 사랑 없는 연애를 시도하는 우리 역을 맡았다.  '연애 빠진 로맨스'는 데이트 어플로 만난 남녀가 조금씩 서로에 대해 알아가게 되면서 벌어지는 일을 그린 이야기다. 오는 24일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstarnews%2F20211118183338921bkmt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC인터뷰] "내 안에, 너드미 있다"..손석구, '연애 빠진 로맨스'가 발견한 '로코킹'(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118161455824</link>
-            <guid>https://v.daum.net/v/20211118161455824</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 너드미 매력의 끝판왕이다. 강렬하고 차가운 도시 남성이 아닌 허당기 가득한 배우 손석구(38)가 완벽히 달라져 스크린으로 컴백했다. 로맨스 영화 '연애 빠진 로맨스'(정가영 감독, CJ ENM·트웰브져니 제작)에서 일도 사랑도 서툰 미련남 박우리를 연기한 손석구가 18일 오후 스포츠조선과 화상 인터뷰를 통해 '연애]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118161456044qlxu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[단독]김선호, 12월3일 '슬픈 열대' 첫 대본리딩 참석 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211118135414330</link>
             <guid>https://movie.v.daum.net/v/20211118135414330</guid>
@@ -2590,14 +2590,6 @@
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 이승미 기자] 인생에 단 한번만 받을 수 있기에 더욱 특별한 신인상. 과연 올해는 어떤 '괴물 신예'가 청룡영화상 신인상 트로피를 품에 안게 될까. 국내 최고 권위의 영화 시상식인 제42회 청룡영화상이 오는 26일 서울 여의도 KBS홀에서 성대한 막을 올린다. 코로나19의 장기화로 인해 한국영화는 지난 해에 이어서 올해도 쉽지 않]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F17%2FSpoChosun%2F20211117072453975jeol.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이터널스' 마동석이 직접 공개한 비하인드 스틸 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211116200304437</link>
-            <guid>https://movie.v.daum.net/v/20211116200304437</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] ‘이터널스’ 마동석이 직접 공개한 비하인드 스틸 영화 ‘이터널스’에서 특유의 시그니처 액션으로 국내는 물론 전 세계 관객들을 사로잡으며 진정한 마블리(marvel)의 탄생을 알리고 있는 배우 마동석이 주연 배우들과의 특별한 케미가 돋보이는 비하인드 스틸을 전격 공개해 눈길을 끈다. 2021년 최단 흥행 기록을 갱신하며 관객들에게 넥스트 마블에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fsportsdonga%2F20211116200306840sjyj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["조진웅X최우식→박희순, 강렬 케미"..'경관의 피', 내년 1월 개봉 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2710,6 +2702,14 @@
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 손석구(38)가 "동안 캐릭터를 위해 피부과 다니며 레이저 시술을 받았다"고 말했다. 손석구가 18일 오후 스포츠조선과 화상 인터뷰에서 로맨스 영화 '연애 빠진 로맨스'(정가영 감독, CJ ENM·트웰브져니 제작)에 대한 비하인드 에피소드를 전했다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 여자]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118154642220njhi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유체이탈자' 윤계상, 1인 7역 원맨쇼(리뷰)[SS무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211117080003233</link>
+            <guid>https://movie.v.daum.net/v/20211117080003233</guid>
+            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자] 윤계상이 끌고, 윤계상이 민다. 24일 개봉하는 영화 ‘유체이탈자(윤재근 감독)’는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자(윤계상 분)가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션이다. 15일 언론시사회를 통해 공개된 ‘유체이탈자’는 그야말로 윤계상의 원맨쇼다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F17%2FSPORTSSEOUL%2F20211117080009310fbda.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[15세 아닌 것 같은데.. 말 나오는 '빨간맛' 로코 영화 (다음 영화 ─ 매거진)]]></title>
