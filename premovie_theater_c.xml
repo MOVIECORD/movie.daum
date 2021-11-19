@@ -4,25 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 23:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 00:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[당신은 학생인가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154495</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154495</guid>
-            <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F984050bd5cc8040936d98a3de87ea623a894ba20" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[화피 3]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154933</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154933</guid>
-            <pubDate>Wed, 17 Nov 2021 04:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1f829ec7fa4f5d13360a41ebaf0ca20b179bcba" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[유체이탈자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
@@ -166,6 +150,22 @@
             <pubDate>Wed, 17 Nov 2021 23:12:52 GMT</pubDate>
             <content:encoded><![CDATA[21.11.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffc1210d3459ae1c0bd06e39105ebbf8eb22004c2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[앰뷸런스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149228</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149228</guid>
+            <pubDate>Fri, 19 Nov 2021 00:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76e7b197bf181a0c6ca53aa8d8ef308ba95182da" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤리엘의 웨딩]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3762</guid>
+            <pubDate>Fri, 19 Nov 2021 00:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe893134d665f61a71287548b93259012bfba66a1" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
