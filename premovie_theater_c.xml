@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,15 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Wed, 17 Nov 2021 23:12:52 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5401a8eebed3d2cca467df071db6afc90283e1c5" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로그북]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124599</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124599</guid>
+            <pubDate>Wed, 17 Nov 2021 00:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdaa5aa49f35a916f9418f625dc6e87435066937e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[메이드 인 이태리]]></title>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5de15ac9b38b2051f5cced7218ae77114338114c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[로그북]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124599</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124599</guid>
-            <pubDate>Wed, 17 Nov 2021 00:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdaa5aa49f35a916f9418f625dc6e87435066937e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[로또 쉐어]]></title>
