@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 17:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 18:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -888,14 +888,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafd003ec7a90902c90275affff2457c727871aa7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[베놈 2: 렛 데어 비 카니지 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129680</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129680</guid>
@@ -910,6 +902,14 @@
             <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
             <content:encoded><![CDATA[21.11.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2148,6 +2148,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F19%2Ftvreport%2F20211119164601346arbr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['유체이탈자', 강렬한 액션 속 쉼터..박지환의 연기 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211120012003992</link>
+            <guid>https://movie.v.daum.net/v/20211120012003992</guid>
+            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 박지환 /사진='유체이탈자'영화 '유체이탈자'의 배우 박지환이 영화에 녹아든 캐릭터를 표현해 내며 시선을 사로잡았다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 영화. 윤계상이 자신을 추적하는 남자 강이안 역을 맡아 1인7역을 소화했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F20%2Fstarnews%2F20211120012005726xrtj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[도시생활 접고 짐꾼으로, 길에서 보낸 그의 24년 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211119151802758</link>
             <guid>https://movie.v.daum.net/v/20211119151802758</guid>
@@ -2186,14 +2194,6 @@
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 전도연과 송중기가 '제26회 춘사국제영화제'에서 남녀주연상을 각각 품에 안았다. 넷플릭스를 통해 공개 된 '승리호'가 2관왕을 차지했다. '승리호'의 조성희 감독이 '춘사영화제' 최고 영예인 최우수감독상 트로피를 품에 안았다.19일 오후 서울 강남구 CGV청담 씨네시티에서 제26회 춘사국제영화제가 열렸다.&nbsp;이날 '승리호'의 조성]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F19%2F10asia%2F20211119200407028qxru.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['유체이탈자', 강렬한 액션 속 쉼터..박지환의 연기 [★신스틸러] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211120012003992</link>
-            <guid>https://movie.v.daum.net/v/20211120012003992</guid>
-            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 박지환 /사진='유체이탈자'영화 '유체이탈자'의 배우 박지환이 영화에 녹아든 캐릭터를 표현해 내며 시선을 사로잡았다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 영화. 윤계상이 자신을 추적하는 남자 강이안 역을 맡아 1인7역을 소화했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F20%2Fstarnews%2F20211120012005726xrtj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[韓 대표 배우들 뭉친 역대급 작품, 드디어 공개된다 (다음 영화 ─ 매거진)]]></title>
