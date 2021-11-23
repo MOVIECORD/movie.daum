@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 06:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Thu, 18 Nov 2021 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[21.11.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 오더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143814</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143814</guid>
+            <pubDate>Tue, 23 Nov 2021 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74e66c2a7a0fa7ef845bba1d53d5865363403c4e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미씽: 사라진 소녀들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155556</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155556</guid>
+            <pubDate>Tue, 23 Nov 2021 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcbe5434e6d29b5585145bb12c7949f7c0b3f2817" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
