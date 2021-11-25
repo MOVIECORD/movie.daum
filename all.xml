@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,20 +824,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145338</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145338</guid>
-            <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
             <pubDate>Thu, 18 Nov 2021 00:39:57 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145338</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145338</guid>
+            <pubDate>Mon, 01 Nov 2021 00:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[무녀도 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -880,12 +880,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c2df58c95bd5284bd7dc467beb4a1cd6813e7c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
-            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[1984 최동원 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146030</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146030</guid>
+            <pubDate>Thu, 25 Nov 2021 15:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e832bd35fd28334e3f4238542cc9deda981feb8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 나타구모산 편 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -894,6 +894,14 @@
             <pubDate>Thu, 11 Nov 2021 00:39:39 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdfd99b73ac1fcdfd335572d65b76a27e95c108da" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
+            <pubDate>Sat, 23 Oct 2021 07:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라임크라임 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -910,14 +918,6 @@
             <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[왕십리 김종분 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154030</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154030</guid>
-            <pubDate>Thu, 25 Nov 2021 09:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9633ccac2f8fa4f2aaa677f2140c5856600aca2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아담스 패밀리 2 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2418,14 +2418,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fxportsnews%2F20211125142759057cuea.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] 윤계상 '유체이탈자' 첫날 흥행 1위 등극→마동석 "계상이 파이팅" 응원 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125083411908</link>
-            <guid>https://movie.v.daum.net/v/20211125083411908</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 추적 액션 영화 '유체이탈자'(윤재근 감독, 비에이엔터테인먼트·사람엔터테인먼트 제작)가 개봉일 전체 박스오피스 1위에 오르며 흥행 신호탄을 쐈다. 영화관입장권 통합전산망(11/25 오전 7시 30분 기준)에 따르면 '유체이탈자'는 개봉 첫날 6만5458명의 관객을 동원, 앞서 개봉한 '장르만 로맨스' '이터널스'는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FSpoChosun%2F20211125083411723mvff.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['쥬라기 월드:도미니언', 2022년 6월 전세계 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211124174545349</link>
             <guid>https://movie.v.daum.net/v/20211124174545349</guid>
@@ -2442,20 +2434,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstartoday%2F20211125132707513qety.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] 윤계상 '유체이탈자' 첫날 흥행 1위 등극→마동석 "계상이 파이팅" 응원 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125083411908</link>
+            <guid>https://movie.v.daum.net/v/20211125083411908</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 추적 액션 영화 '유체이탈자'(윤재근 감독, 비에이엔터테인먼트·사람엔터테인먼트 제작)가 개봉일 전체 박스오피스 1위에 오르며 흥행 신호탄을 쐈다. 영화관입장권 통합전산망(11/25 오전 7시 30분 기준)에 따르면 '유체이탈자'는 개봉 첫날 6만5458명의 관객을 동원, 앞서 개봉한 '장르만 로맨스' '이터널스'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FSpoChosun%2F20211125083411723mvff.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[조한선 '타이거마스크' 12월 개봉..해외 히어로와 차별화 '태껸' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211125150239423</link>
             <guid>https://movie.v.daum.net/v/20211125150239423</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[마블 히어로들에게 당찬 도전장을 내밀었다. 각기 다른 능력으로 무장한 해외 히어로들과 달리 땅에 두 발 단단히 붙인 현실 영웅 영화 '타이거 마스크(염정원 감독)'가 오는 12월 개봉을 확정했다. '타이거 마스크'는 노잼인생으로 살아온 한 남자가 우연히 전설의 호랑이 마스크를 얻게 된 후 하루아침에 다른 사람이 되어 펼치는 K히어로 코믹 액션극이다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Filgansports%2F20211125150240476dsny.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 무엇을 위해 살까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125154202300</link>
-            <guid>https://movie.v.daum.net/v/20211125154202300</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[홍기표 기자] ▲ &nbsp;&lt;어디갔어, 버나뎃&gt; 포스터    ⓒ (주)디스테이션  &nbsp;"당신은 왜 사나요?"라는 질문은 지겹다. 하지만 이 질문이 아직도 많은 작품의 주요 주제가 되고, 예술가들에게 영감의 원천이 되는 것은 정해진 답이 없기 때문이다. 우리는 왜 사는지 모른다. 왜 사는지 모른 채 하루를 맞이한다. 마주한 현실에 나름의 목표를 세우고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fohmynews%2F20211125154203383vsiv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김서형 출연확정, '비닐하우스'서 방문 요양보호사로 변신 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2474,20 +2466,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fpoctan%2F20211125154906964xjhu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[나는 무엇을 위해 살까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125154202300</link>
+            <guid>https://movie.v.daum.net/v/20211125154202300</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[홍기표 기자] ▲ &nbsp;&lt;어디갔어, 버나뎃&gt; 포스터    ⓒ (주)디스테이션  &nbsp;"당신은 왜 사나요?"라는 질문은 지겹다. 하지만 이 질문이 아직도 많은 작품의 주요 주제가 되고, 예술가들에게 영감의 원천이 되는 것은 정해진 답이 없기 때문이다. 우리는 왜 사는지 모른다. 왜 사는지 모른 채 하루를 맞이한다. 마주한 현실에 나름의 목표를 세우고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fohmynews%2F20211125154203383vsiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[이유비, 뉴욕 올로케 멜로 '러브 어페어' 출연.."男주연은 차세대 한류스타" [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211124170520954</link>
             <guid>https://movie.v.daum.net/v/20211124170520954</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이유비가 영화 '러브 어페어' 출연을 확정했다. '러브 어페어'는 과거 뉴욕에서 서로 사랑했지만 이별하게 된 커플의 추억을 이별 대신 사랑으로 재현하기 위해, 뉴욕으로 대리 여행을 떠나 과거와 현재 사랑 퍼즐을 함께 맞춰 나간다는 멜로 영화다. 영화 '사랑을 놓치다' '로맨틱 아일랜드' 등의 각본을 쓴 이정섭 감독의 세]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fmydaily%2F20211124170520920sqkw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['퍼스트 에이전트' 스파이 액션의 새 역사 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125103207911</link>
-            <guid>https://movie.v.daum.net/v/20211125103207911</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '킹스맨: 퍼스트 에이전트'가 킹스맨의 위대한 탄생을 담아낸 파이널 포스터와 예고편을 최초 공개한다. 영화 '킹스맨: 퍼스트 에이전트'(감독 매튜 본·배급 월트디즈니컴퍼니 코리아)는 전 세계를 위협하는 잔혹한 전쟁 뒤에 가려진 역사상 최악의 적을 막아야만 하는 사람들의 이야기로 베일에 감춰졌던 최초의 독립 정보기관 '킹스맨'의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Ftvdaily%2F20211125103208401xyac.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[공식]디즈니·픽사 신작 '메이의 새빨간 비밀', 내년 봄 개봉 확정..예고편 첫 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2498,20 +2490,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2FSpoChosun%2F20211124134545873nlov.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['퍼스트 에이전트' 스파이 액션의 새 역사 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125103207911</link>
+            <guid>https://movie.v.daum.net/v/20211125103207911</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '킹스맨: 퍼스트 에이전트'가 킹스맨의 위대한 탄생을 담아낸 파이널 포스터와 예고편을 최초 공개한다. 영화 '킹스맨: 퍼스트 에이전트'(감독 매튜 본·배급 월트디즈니컴퍼니 코리아)는 전 세계를 위협하는 잔혹한 전쟁 뒤에 가려진 역사상 최악의 적을 막아야만 하는 사람들의 이야기로 베일에 감춰졌던 최초의 독립 정보기관 '킹스맨'의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Ftvdaily%2F20211125103208401xyac.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[늙은 해녀와 젊은이의 사랑.. 그 속에 담긴 제주 현실 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211125152701470</link>
             <guid>https://movie.v.daum.net/v/20211125152701470</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[김성호 기자] ▲ &nbsp;&lt;빛나는 순간&gt; 포스터    ⓒ 명필름  &nbsp;제주도를 다룬 영화에서 가장 즐겨 쓰이는 소재가 무엇일까. 답은 해녀다. 제주에서 삶을 꾸려가는 많은 이들 가운데 눈에 띄게 힘들고 사연이 많으며 다른 곳에서는 만나기 어려운 것이 해녀이기 때문이다. 해녀는 일의 위험과 고됨 탓에 사라져가는 업종으로 알려졌다. 역사와 전통을 가진]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fohmynews%2F20211125152702255rmlw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[4천만부 판매 만화 실사화 '도쿄 리벤저스' 12월22일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125083158858</link>
-            <guid>https://movie.v.daum.net/v/20211125083158858</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 누적 발행 4000만부를 넘은 동명 만화를 실사화한 영화 '도쿄 리벤저스'가 12월22일 개봉한다. 25일 워너비펀은 이 같은 소식을 전했다. '도쿄 리벤저스'는 희망없이 살아가던 청년 타케미치(키타무라 타쿠미)가 첫사랑 여자친구의 사망 사고 뉴스를 본 후 10년 전 과거로 돌아가 운명을 바꾸기 위한 인생 리벤지를 시작하는 타임리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125083159920htbz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[D:현장] 조진웅·최우식·박희순의 뜨거운 '경관의 피'..새해 첫 흥행 노린다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2522,12 +2514,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fdailian%2F20211125132020420djvh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[4천만부 판매 만화 실사화 '도쿄 리벤저스' 12월22일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125083158858</link>
+            <guid>https://movie.v.daum.net/v/20211125083158858</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 누적 발행 4000만부를 넘은 동명 만화를 실사화한 영화 '도쿄 리벤저스'가 12월22일 개봉한다. 25일 워너비펀은 이 같은 소식을 전했다. '도쿄 리벤저스'는 희망없이 살아가던 청년 타케미치(키타무라 타쿠미)가 첫사랑 여자친구의 사망 사고 뉴스를 본 후 10년 전 과거로 돌아가 운명을 바꾸기 위한 인생 리벤지를 시작하는 타임리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125083159920htbz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['쥬라기 월드: 도미니언' 2022년 6월 전세계 동시 개봉 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211124163809998</link>
             <guid>https://movie.v.daum.net/v/20211124163809998</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] ‘쥬라기 월드: 도미니언’ 2022년 6월 전세계 동시 개봉 [공식] 현존하는 지상 최대의 블록버스터 시리즈 ‘쥬라기 월드’의 3번째 작품인 ‘쥬라기 월드: 도미니 언’(수입ㅣ배급: 유니버설 픽쳐스, 감독: 콜린 트레보로우)이 내년 6월 전세계 동시 개봉을 앞두고 영화 팬들을 위한 ‘쥬라기 월드’ 스페셜 프롤로그 영상을 전세계 동시 공개했다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fsportsdonga%2F20211124163811155qdyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 전종서X손석구, 연인인 듯 아닌 듯..평범치 않은 케미 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125134421336</link>
+            <guid>https://movie.v.daum.net/v/20211125134421336</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '연애 빠진 로맨스' 전종서와 손석구의 현실 케미스트리가 담긴 스틸이 공개됐다. 11월 24일 개봉한 영화 '연애 빠진 로맨스'(감독 정가영)는 연애는 싫지만 외로운 건 더 싫은 ‘자영’(전종서)과 일도 연애도 뜻대로 안 풀리는 ‘우리’(손석구), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 작품이다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125134423077omwj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이정재, 수트핏이 美쳤습니다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2546,20 +2554,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fseouleconomy%2F20211124112600244izhb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['스파이더맨: 노 웨이 홈' 루머와 스포 사이..빌런들 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125093428568</link>
-            <guid>https://movie.v.daum.net/v/20211125093428568</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 올겨울 할리우드 최고 화제작 '스파이더맨: 노 웨이 홈'이 개봉 전부터 각종 루머와 스포일러들이 떠돌고 있는 가운데 공개가 확정된 빌런들이 담긴 1차 보도스틸을 공개해 눈길을 끈다. 25일 소니픽쳐스는 '스파이더맨: 노 웨이 홈' 1차 보도스틸을 공개했다.  '스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이더맨 '피터 파커'(톰]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125093429507kdrm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서X손석구, 연인인 듯 아닌 듯..평범치 않은 케미 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125134421336</link>
-            <guid>https://movie.v.daum.net/v/20211125134421336</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '연애 빠진 로맨스' 전종서와 손석구의 현실 케미스트리가 담긴 스틸이 공개됐다. 11월 24일 개봉한 영화 '연애 빠진 로맨스'(감독 정가영)는 연애는 싫지만 외로운 건 더 싫은 ‘자영’(전종서)과 일도 연애도 뜻대로 안 풀리는 ‘우리’(손석구), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 작품이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125134423077omwj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['유체이탈자' 윤계상, 미러 연기→액션..관람 포인트 셋 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211124184149804</link>
+            <guid>https://movie.v.daum.net/v/20211124184149804</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 영화 '유체이탈자'가 바로 24일 개봉한 가운데, 관람 포인트 톱3를 공개했다. '범죄도시' 제작진과 윤계상의 재회 '유체이탈자'는 '범죄도시' 제작진과 윤계상이 의기투합한 작품으로 뜨거운 관심을 모으고 있다. 윤계상은 '유체이탈자'를 통해 드라마부터 액션까지 아우르는 연기 변신으로 관객들을 사로잡는다. 윤계상의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fnewsis%2F20211124184149808htln.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[첫 감독 데뷔작에서 마블을 이긴 20년차 베테랑 한국 배우 (다음 영화 ─ 매거진)]]></title>
