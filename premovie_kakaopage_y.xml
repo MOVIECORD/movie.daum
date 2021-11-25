@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 00:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 01:58:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 23 Nov 2021 07:13:39 GMT</pubDate>
             <content:encoded><![CDATA[21.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcbe5434e6d29b5585145bb12c7949f7c0b3f2817" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[베스트셀러]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148685</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148685</guid>
+            <pubDate>Thu, 25 Nov 2021 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1bc98432431cfc4f55e17759691e67bf457c204" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
