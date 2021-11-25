@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 03:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 04:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[학사신공: 검혼의 전설]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152696</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152696</guid>
-            <pubDate>Tue, 23 Nov 2021 23:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F200ab71fb05148e9615018b4c090f19ada8c9a55" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155555</link>
@@ -165,6 +157,14 @@
             <pubDate>Wed, 24 Nov 2021 23:14:07 GMT</pubDate>
             <content:encoded><![CDATA[21.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F23019A4751FA1C6E1D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파워 오브 도그]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139552</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139552</guid>
+            <pubDate>Thu, 25 Nov 2021 04:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a6704282e1134b071f1cb499264c148b49a1953" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 03:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 04:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -896,20 +896,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdfd99b73ac1fcdfd335572d65b76a27e95c108da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[라임크라임 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145311</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145311</guid>
-            <pubDate>Thu, 25 Nov 2021 00:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498213e6c861c0f1e83304458c3f5d65b70ea3c1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너에게 가는 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
             <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라임크라임 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145311</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145311</guid>
+            <pubDate>Thu, 25 Nov 2021 00:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498213e6c861c0f1e83304458c3f5d65b70ea3c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[송해 1927 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -926,14 +926,6 @@
             <pubDate>Thu, 25 Nov 2021 03:13:12 GMT</pubDate>
             <content:encoded><![CDATA[21.11.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[학사신공: 검혼의 전설 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152696</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152696</guid>
-            <pubDate>Tue, 23 Nov 2021 23:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F200ab71fb05148e9615018b4c090f19ada8c9a55" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비욘드라이브 더 무비 : 엔시티 레조넌스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1085,6 +1077,14 @@
             <pubDate>Wed, 24 Nov 2021 23:14:07 GMT</pubDate>
             <content:encoded><![CDATA[21.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F23019A4751FA1C6E1D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파워 오브 도그 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139552</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139552</guid>
+            <pubDate>Tue, 23 Nov 2021 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[21.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a6704282e1134b071f1cb499264c148b49a1953" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엠마 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1698,7 +1698,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=3262</guid>
             <pubDate>Wed, 24 Nov 2021 05:12:55 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F470b5182ec594c728d643e6d0c066eb01575335570387" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F221F234C527BEFF01F" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[언프레임드 ([다음영화] 왓챠 ─ 공개예정)]]></title>
@@ -2074,164 +2074,164 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1bc98432431cfc4f55e17759691e67bf457c204" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[[E!현장] 조진웅X최우식 '경관의 피' 새해 흥행 첫 타자 예약(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125120931729</link>
-            <guid>https://v.daum.net/v/20211125120931729</guid>
+            <title><![CDATA['여타짜' 이채영 "'타짜' 아성 못 넘을 것이라는 부담감 컸다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125131733384</link>
+            <guid>https://v.daum.net/v/20211125131733384</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 신념이 다른 두 경찰이 맞붙는다. 영화 '경관의 피'가 한국 범죄 영화의 새로운 패러다임을 제시할 전망이다. 11월 25일 오전 영화 '경관의 피'(감독 이규만) 제작보고회가 온라인 생중계됐다. 이 자리에는 배우 조진웅, 최우식, 박희순, 권율, 박명훈, 이규만 감독이 참석했다. 오는 2022년 1월 개봉 예정인 '경관의 피'는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FSpoHankook%2F20211125120933098gcck.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[이채영이 '여타짜'를 선택한 이유을 밝혔다. 이채영은 25일 서울 광진구 롯데시네마 건대입구에서 진행된 '여타짜(이지승 감독)' 언론시사회에서 "사실 영화를 하기까지 고민이 많았다. 전작인 '타짜'의 아성을 못 넘을 것이라는 부담이 컸기 때문"이라고 운을 뗐다. 이채영은 "근데 김세영 작가님의 원작 만화를 보고 '여타짜'만이 가지고 있는 매력이 있을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Filgansports%2F20211125131733880yrcs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['지옥' 연상호 감독 "실체를 알수 없는 공포, 그 앞의 인간의 모습 담았다" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125120706680</link>
-            <guid>https://v.daum.net/v/20211125120706680</guid>
+            <title><![CDATA['여타짜' 정혜인 "'젠더 프리' 캐릭터, 외적인 부분 고민 많았다" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125131612357</link>
+            <guid>https://v.daum.net/v/20211125131612357</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 연상호 감독 /사진=넷플릭스 연상호 감독이 넷플릭스 '지옥'에 대해 "실체를 알 수 없는 공포, 그 앞의 인간의 모습을 담으려고 했다"라고 말했다. 연상호 감독은 25일 오전 화상인터뷰를 통해 넷플릭스 '지옥'에 대한 다양한 이야기를 전했다. '지옥'은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적인 현상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125120708088vhnj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 정혜인이 영화 속 '젠더 프리'한 자신의 캐릭터 연출을 위해 많은 고민을 했다고 밝혔다. 정혜인은 25일 서울 광진구 자양동 건대입구 롯데시네마에서 진행된 영화 '여타짜'(감독 이지승)의 언론배급시사회 및 기자간담회에서 영화 속에서 외적인을 부분에 대해 고민했다며 "실제로 나는 모두가 내가 여자인 걸 알지만 극 안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FNEWS1%2F20211125131612986zpjx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 조진웅 최우식 박희순, 비주얼 경찰이 온다[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125120601635</link>
-            <guid>https://v.daum.net/v/20211125120601635</guid>
+            <title><![CDATA["명품 입는 경찰"..'경관의 피' 조진웅·최우식, 식상함 탈피할 범죄 액션[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125131525328</link>
+            <guid>https://v.daum.net/v/20211125131525328</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조진웅 최우식 박희순 권율 박명훈이 ‘경관의 피’로 뭉쳤다. 25일 오전 영화 ‘경관의 피’ 온라인 제작보고회가 열렸다. 코로나19 여파로 생중계된 가운데, 이규만 감독과 배우 조진웅 최우식 박희순 권율 박명훈이 참석했다. ‘경관의 피’는 출처 불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이스 강윤(조진웅)과 그를 비밀리에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstartoday%2F20211125120602314vvwr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;굳건한 신념에 대해 질문할 영화 ‘경관의 피’가 경찰과 범죄자들의 이야기를 다룬 그간의 범죄영화와 다른 매력을 선사할 수 있을지 기대가 모인다. 내년 초 극장 개봉을 앞둔 ‘경관의 피’가 흥행 포문을 열지 궁금하다. 25일 온라인을 통해 새 한국영화 ‘경관의 피’의 제작보고회가 진행됐다. 이 자리에는 조진웅 최우식 박희순 권율 박명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fpoctan%2F20211125131526671zrjv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[조진웅x최우식 '경관의 피' 신념+액션 충돌..내년 1월 관객 만난다 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125120316577</link>
-            <guid>https://v.daum.net/v/20211125120316577</guid>
+            <title><![CDATA['여타짜' 감독 "배성우 사진 출연? 내 모든 영화에 출연한 지인" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125131020203</link>
+            <guid>https://v.daum.net/v/20211125131020203</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 영화 '경관의 피'에서 호흡을 맞춘 조진웅가 최우식이 하트포즈를 취하고 있다. 조진웅과 최우식이 호흡을 맞춘 영화 '경관의 피'가 2022년 1월 극장에서 관객과 만난다. 25일 오전 온라인으로 영화 '경관의 피' 제작보고회가 진행됐다. '경관의 피'(감독 이규만)는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125120317550pfqz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '여타짜' 이지승 감독이 극 중 장면에 배성우의 사진이 사용된 이유를 밝혔다. 이지승 감독은 25일 서울 광진구 자양동 건대입구 롯데시네마에서 진행된 영화 '여타짜'(감독 이지승)의 언론배급시사회 및 기자간담회에서 배성우의 사진 출연에 대해 "배성우는 내가 연출한 영화인 '공정사회' '섬, 사라진 사람들'까지 모든 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FNEWS1%2F20211125131021061ztcl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 조진웅·최우식·박희순, 결이 다른 범죄물의 탄생[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125120316576</link>
-            <guid>https://v.daum.net/v/20211125120316576</guid>
+            <title><![CDATA['여타짜' 감독 "영화 속 이채영·정혜인 퀴어코드? 100% 사랑" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125130608113</link>
+            <guid>https://v.daum.net/v/20211125130608113</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]충무로가 사랑하는 배우 조진웅, 최우식, 박희순부터 권율, 박명훈까지. 대세들이 ‘경관의 피’로 만났다. 25일 영화 ‘경관의 피’ 온라인 제작발표회가 진행됐다. ‘경관의 피’는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이스 강윤(조진웅 분)과 그를 비밀리에 감시하는 임무를 맡게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FSPORTSSEOUL%2F20211125120321012ajml.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '여타짜'의 이지승 감독이 극중 이채영과 정혜인의 관계를 미묘하게 묘사한 이유에 대해 밝혔다. 이지승 감독은 25일 서울 광진구 자양동 건대입구 롯데시네마에서 진행된 영화 '여타짜'(감독 이지승)의 언론배급시사회 및 기자간담회에서 극중 미미(이채영 분)와 오자와(정혜인 분)의 관계에 대해 "원작을 보셨을 수 있는데]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FNEWS1%2F20211125130608911gvww.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 조진웅X최우식X박희순, 고급 수트美 뽐내는 경찰로[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125120112463</link>
-            <guid>https://v.daum.net/v/20211125120112463</guid>
+            <title><![CDATA["손등에 쥐나기도"..'여타짜' 이채영→김사희, 新타짜 탄생 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125130225969</link>
+            <guid>https://v.daum.net/v/20211125130225969</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 세 경찰의 정의가 부딪힌다. 조진웅, 최우식, 박희순 주연 '경관의 피'가 개봉을 앞뒀다. 영화 '경관의 피'(감독 이규만) 제작보고회가 11월 25일 온라인으로 열렸다. 조진웅, 최우식, 박희순, 권율, 박명훈, 이규만 감독이 참석한 가운데 영화에 대한 여러 이야기를 나누었다. 오는 1월 개봉하는 영화 '경관의 피'는 출처불명의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125120112102liea.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 이채영, 정혜인, 최민철, 김사희가 '여타짜'로 새로운 '타짜' 캐릭터의 탄생을 알렸다. 25일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '여타짜'(감독 이지승) 언론시사회가 진행됐다. 이날 배우 이채영, 정혜인, 최민철, 김사희, 이지승 감독이 참석했다. '여타짜'는 포커판에 뛰어든 미미(이채영 분)가 미스터리한 타짜]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fxportsnews%2F20211125130228405aitu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['지옥' 연상호 감독 "호불호 반응?..새로운 세계관, 빠져드는데 시간 필요해" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125115758183</link>
-            <guid>https://v.daum.net/v/20211125115758183</guid>
+            <title><![CDATA['여타짜' 감독 "女 복수극, 항상 하고픈 이야기" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125130000894</link>
+            <guid>https://v.daum.net/v/20211125130000894</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 연상호 감독 /사진=넷플릭스연상호 감독이 넷플릭스 '지옥'에 대해 많은 사람들이 작품에 대한 이야기를 나누는 것이 신기하다고 말했다. 연상호 감독은 25일 오전 화상인터뷰를 통해 넷플릭스 '지옥'에 대한 다양한 이야기를 전했다. '지옥'은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적인 현상이 발생하고,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125115759805bpnc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[‘여타짜’ 이지승 감독은 여성 복수극에 대한 애정을 드러냈다. 이지승 감독은 25일 오전 건대입구 롯데시네마에서 열린 영화 '여타짜(이지승 감독)' 언론시사회 및 기자간담회에서 "이번 영화가 나에게는 세번째 연출작이다. 세 편 모두 여성이 주인공이었고, 장르적으로는 복수 코드가 있었다"고 운을 뗐다. 이 감독은 이어 "이번 작품도 내게 한결 같은 느낌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstartoday%2F20211125130004258jisa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 권율 "평소 몸무게 69kg, 78kg까지 증량했다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125115627129</link>
-            <guid>https://v.daum.net/v/20211125115627129</guid>
+            <title><![CDATA['여타짜' 이지승 감독 "여성 복수극은 언제나 하고 싶은 이야기" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125125205758</link>
+            <guid>https://v.daum.net/v/20211125125205758</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 권율이 영화 속 캐릭터를 위해 증량했다고 털어놨다. 권율은 25일 온라인을 통해 진행된 영화 ‘경관의 피’의 제작보고회에서 “평소 몸무게는 69~70kg인데 영화를 위해 78kg까지 증량했다”라고 말했다. ‘경관의 피’(감독 이규만, 제공배급 ㈜에이스메이커무비웍스, 제작 리양필름)는 출처 불명의 막대한 후원금을 받으며 독보적인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fpoctan%2F20211125115628443otau.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[이지승 감독이 '여타짜' 연출 이유를 밝혔다. 이지승 감독은 25일 서울 광진구 롯데시네마 건대입구점에서 진행된 '여타짜(이지승 감독)' 언론시사회에서 "이번 영화가 나에게는 세번째 연출 작품이다. '여타짜'를 포함해 세 편 모두 여성이 주인공이었고, 장르적으로는 복수 코드가 있었다"고 말했다. 이지승 감독은 "그만큼 이번 작품도 내게는 한결 같은 느]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Filgansports%2F20211125125205444fzna.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 박희순 "최우식, 깐느초이,오스카초이, 사랑하는 사이" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125114846768</link>
-            <guid>https://v.daum.net/v/20211125114846768</guid>
+            <title><![CDATA['음주운전' 배성우, '여타짜'에 사진으로 등장..감독 "가까운 지인" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125125145748</link>
+            <guid>https://v.daum.net/v/20211125125145748</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 박희순이 영화 '경관의 피'에서 호흡을 맞춘 최우식에 대한 애정을 숨기지 않았다. 박희순은 25일 온라인으로 진행된 영화 '경관의 피' 제작발표회에서 "최우식과 애정하는 사이"라고 말해 눈길을 끌었다. '경관의 피'(감독 이규만)는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이스 강윤(조진웅)과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125114847379ftdp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '여타짜'에는 음주운전으로 활동을 중단한 배우 배성우가 등장한다.&nbsp; 25일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '여타짜'(감독 이지승) 언론시사회가 진행됐다. 이날 배우 이채영, 정혜인, 최민철, 김사희, 이지승 감독이 참석했다. '여타짜'에선 배성우의 얼굴을 볼 수 있다. 이채영이 연기한 미미의 아빠로, 사진으로만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fxportsnews%2F20211125125148578gyzk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 박희순 "대세? '마이네임' 오픈 후 잠깐 반짝하고 잠잠해져" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125114534603</link>
-            <guid>https://v.daum.net/v/20211125114534603</guid>
+            <title><![CDATA['여타짜' 감독 "열정가 정혜인, 먼저 머리카락 자르겠다고.." (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125125100728</link>
+            <guid>https://v.daum.net/v/20211125125100728</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 대세로 거듭난 박희순이 "잠깐 반짝한 것"이라고 겸손을 드러냈다. 박희순은 11월 25일 온라인으로 열린 영화 '경관의 피'(감독 이규만) 온라인 제작보고회를 통해 '대세 오브 대세'라는 수식어를 듣고 부끄러워했다. 이날 박희순은 "대세가 된 것을 실감하냐"는 질문을 받고 "'마이 네임' 오픈 후 잠깐 반짝 했는데, 지금 잠잠해졌]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125114534653tgjq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[‘여타짜’ 이지승 감독이 열정 넘치는 배우들에 대해 고마운 마음을 전했다. 이지승 감독은 25일 오전 건대입구 롯데시네마에서 열린 영화 '여타짜(이지승 감독)' 언론시사회 및 기자간담회에서 “(정)혜인 씨와 첫 미팅을 할 때 감독의 입장에서 머리를 정리해야 할 것 같아서 고민이 많았는데 먼저 머리를 자른다고 하더라"라고 운을 뗐다. 이어 "정혜인 배우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstartoday%2F20211125125102971bpgi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 최우식 "'기생충' 후 첫 영화, 강한 캐릭터 보여드릴 것" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125114210489</link>
-            <guid>https://v.daum.net/v/20211125114210489</guid>
+            <title><![CDATA['여타짜' 김사희·이채영 "영화사에 모여 카드 연습..열심히 했다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125124639666</link>
+            <guid>https://v.daum.net/v/20211125124639666</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]배우 최우식이 ‘기생충’ 후 첫 컴백작 ‘경관의 피’로 연기변신을 예고했다. 25일 영화 ‘경관의 피’ 온라인 제작발표회가 진행됐다. ‘경관의 피’는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이스 강윤(조진웅 분)과 그를 비밀리에 감시하는 임무를 맡게 된 원칙주의자 경찰 민재(최우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FSPORTSSEOUL%2F20211125114217138ujnb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '여타짜' 배우들이 카드 연습 과정을 전했다. 25일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '여타짜'(감독 이지승) 언론시사회가 진행됐다. 이날 배우 이채영, 정혜인, 최민철, 김사희, 이지승 감독이 참석했다. 이채영, 정혜인, 최민철, 김사희는 모두 극중에서 타짜로 등장한다. 이에 김사희는 "일단 사실 정말 카드게임]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fxportsnews%2F20211125124641382xrll.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[최우식 "'경관의 피' 찍다가 '기생충'으로 美 아카데미..정신 없었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125114058421</link>
-            <guid>https://v.daum.net/v/20211125114058421</guid>
+            <title><![CDATA['유체이탈자' 윤계상, 첫날 흥행 1위 이유있네..액션 끝판왕에 전율 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125124512628</link>
+            <guid>https://v.daum.net/v/20211125124512628</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 최우식이 '경관의 피' 촬영 도중 '기생충'으로 아카데미 시상식에 참석했던 기억을 회상했다. 최우식은 11월 25일 열린 영화 '경관의 피'(감독 이규만) 온라인 제작보고회를 통해 '기생충' 이후 첫 스크린 컴백작인 이번 영화에 임하는 각오를 전했다. 1월 개봉하는 영화 '경관의 피'는 출처불명의 막대한 후원금을 받으며 독보적인 검]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125114058104dfwo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 영화 ‘유체이탈자’에서 화끈한 액션으로 짜릿한 카타르시스를 선사한 윤계상의 연기에 이목이 집중되고 있다. 영화 ‘유체이탈자’는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 '강이안'(윤계상)이 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션물로, 참선한 소재와 설정, 윤계상의 1인 7역 도전, 그리고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fpoctan%2F20211125124512242lpog.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[최우식 "조진웅, 내 나이또래 남자배우라면 버킷리스트"('경관의 피') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125113632179</link>
-            <guid>https://v.daum.net/v/20211125113632179</guid>
+            <title><![CDATA["12kg 증량" 조진웅·최우식 '경관의 피', 비주얼 경찰·빌런 온다 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125123625464</link>
+            <guid>https://v.daum.net/v/20211125123625464</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 최우식이 조진웅에 대해 “꼭 호흡을 맞춰보고 싶었던 선배”라고 밝혔다. 최우식은 25일 오전 온라인을 통해 진행된 영화 ‘경관의 피’의 제작보고회에서 “저는 조진웅 선배와 연기할 기회가 있다고 해서 무조건 했다”라며 이같이 말했다. ‘경관의 피’(감독 이규만, 제공배급 ㈜에이스메이커무비웍스, 제작 리양필름)는 출처불명의 막대한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fpoctan%2F20211125113633242abyl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[멋진 비주얼의 경찰과 빌런이 온다. '경관의 피'에 출연하는 배우들은 작품을 위해 증량까지 결심했다. 열정이 듬뿍 담긴 이 영화에 이목이 집중될 수밖에 없다. 25일 영화 '경관의 피'의 온라인 제작보고회가 진행됐다. 이 자리에는 이규만 감독과 조진웅 최우식 박희순 권율 박명훈이 참석했다. '경관의 피'는 출처불명의 막대한 후원금을 받으며 독보적인 검거 실]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fhankooki%2F20211125123630113qfok.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 박희순 "'깐느 최'·'오스카 최' 최우식 사랑한다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125113039890</link>
-            <guid>https://v.daum.net/v/20211125113039890</guid>
+            <title><![CDATA['여타짜' 감독 "정혜인, 먼저 머리카락 자르겠다고..고맙다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125123612461</link>
+            <guid>https://v.daum.net/v/20211125123612461</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박희순이 최우식을 두고 "깐느 최, 오스카 최"라며 애정을 드러냈다. 최우식은 11월 25일 열린 영화 '경관의 피'(감독 이규만) 온라인 제작보고회를 통해 영화 '마녀'에 이어 다시 한 번 박희순과 호흡한 소감을 밝혔다. 이날 최우식은 "박희순 선배님과는 '마녀' 때 만났다. 그 때는 싸우는 관계였는데, 지금은 제가 선배님에게 보]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125113039848kmzg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 정혜인, 최민철이 '여타짜'를 위해 헤어스타일을 바꿨다. 25일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '여타짜'(감독 이지승) 언론시사회가 진행됐다. 이날 배우 이채영, 정혜인, 최민철, 김사희, 이지승 감독이 참석했다. 이날 이지승 감독은 정혜인, 최민철의 캐스팅 비하인드를 전했다. 그는 "(정)혜인 씨와 첫 미팅을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fxportsnews%2F20211125123615061rftl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 최우식 "조진웅과 호흡 영광, 버킷리스트였다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125112514623</link>
-            <guid>https://v.daum.net/v/20211125112514623</guid>
+            <title><![CDATA["신념있는 영화"..'경관의 피' 조진웅→박명훈, 2022년 새해 포문 열어젖힌다 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125122603162</link>
+            <guid>https://v.daum.net/v/20211125122603162</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]배우 최우식이 조진웅과의 호흡에 대한 소감을 밝혔다. 25일 영화 ‘경관의 피’ 온라인 제작발표회가 진행됐다. ‘경관의 피’는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이스 강윤(조진웅 분)과 그를 비밀리에 감시하는 임무를 맡게 된 원칙주의자 경찰 민재(최우식)의 위험한 수사를 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FSPORTSSEOUL%2F20211125112520002qygq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 경찰들의 신념을 담은 영화 '경관의 피'가 새해를 활짝 열어젖힐 예정이다. 25일 오전 온라인으로 영화 '경관의 피'(감독 이규만) 제작보고회가 진행됐다. 이날 현장에는 배우 조진웅과 최우식,&nbsp;박희순, 권율, 박명훈, 이규만 감독이 참석했다. 진행은 박경림이 맡았다. '경관의 피'는 출처불명의 막대한 후원금을 받으며 독보적인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fxportsnews%2F20211125122605157ftun.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 박희순 "경찰들이 수트와 고급 차로 비주얼 뽐내는 영화" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125112328525</link>
-            <guid>https://v.daum.net/v/20211125112328525</guid>
+            <title><![CDATA['지옥' 연상호 감독 "화살촉 방송 비호감?..자연스러운 반응" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125122424116</link>
+            <guid>https://v.daum.net/v/20211125122424116</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박희순이 '경관의 피'의 역대급 비주얼을 예고했다. 박희순은 11월 25일 온라인으로 열린 영화 '경관의 피'(감독 이규만) 제작보고회를 통해 극 중에서 수트 핏을 뽐낸다고 밝혀 기대를 자아냈다. 이날 박희순은 "기존 범죄물에서는 위법을 저지르는 빌런들이 멋있는 수트를 입고 차를 타고 다니지 않나"라며 "우리는 경찰들이 멋있는 수트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125112328240rbbs.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 연상호 감독 /사진=넷플릭스연상호 감독이 넷플릭스 '지옥' 속 화살촉의 인터넷 방송에 대한 불호 평이 많은 것에 대한 입장을 밝혔다. 연상호 감독은 25일 오전 화상인터뷰를 통해 넷플릭스 '지옥'에 대한 다양한 이야기를 전했다. '지옥'은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적인 현상이 발생하고,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125122427205gtlo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 조진웅 "뽀송뽀송한 최우식, 내재된 카리스마 나오더라" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125111450033</link>
-            <guid>https://v.daum.net/v/20211125111450033</guid>
+            <title><![CDATA['경관의 피' 우직한 조진웅→야리야리 최우식, 격렬한 액션 충돌 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125122410111</link>
+            <guid>https://v.daum.net/v/20211125122410111</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 조진웅과 최우식이 서로간 호흡에 대해 밝혔다. 조진웅은 11월 25일 온라인으로 열린 영화 '경관의 피'(감독 이규만) 온라인 제작보고회를 통해 최우식과 함께 연기한 소감을 전했다. 이날 조진웅은 최우식에 대해 "여리여리하고 뽀송뽀송하지 않나. 그러나 막상 촬영에 들어가니 내재된 카리스마가 나와 제가 기운을 더 받았다"고 말했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fnewsen%2F20211125111450413tbcu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[아시아경제 이이슬 기자] 배우 조진웅·최우식이 이끄는 범죄 드라마 '경관의 피'가 새해 극장가 포문을 연다. 조진웅은 25일 오전 진행된 '경관의 피'(감독 이규만) 온라인 제작보고회에서 "색다른 재미가 느껴져서 영화에 출연했다"고 밝혔다. '경관의 피'는 출처를 알 수 없는 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이스 강윤(조진웅)과 그를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fakn%2F20211125122411426lwgi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['장르만 로맨스'x'유체이탈자'x'연빠로', 극장가 이끄는 韓 영화 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125105406931</link>
-            <guid>https://v.daum.net/v/20211125105406931</guid>
+            <title><![CDATA["감개무량" 조진웅X최우식 '경관의 피', 강렬한 범죄드라마로 새해 첫 포문(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125122404109</link>
+            <guid>https://v.daum.net/v/20211125122404109</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '장르만 로맨스'부터 '유체이탈자' '연애 빠진 로맨스' 등 다양한 한국 영화들이 극장가에 활력을 더하고 있다. 지난 17일 개봉된 영화 '장르만 로맨스'(감독 조은지·제작 비리프)는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 영화다. '장르만 로맨스'는 배우로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Ftvdaily%2F20211125105407899ojtu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = '경관의 피'가 2022년 새해 관객들을 찾는다. 25일 오전 영화 '경관의 피'(감독 이규만) 제작보고회가 온라인으로 진행됐다. 이 자리에는 이규만 감독과 조진웅, 최우식, 박희순, 권율, 박명훈이 참석해 영화에 대한 다양한 이야기를 들려줬다. '경관의 피'는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FNEWS1%2F20211125122405792hxaa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서, 어느새 20대 대표 女배우[Oh!쎈 초점] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125103414012</link>
-            <guid>https://v.daum.net/v/20211125103414012</guid>
+            <title><![CDATA["신념과 액션으로"..'경관의 피' 조진웅X최우식, 2022년 첫 흥행 노린다 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125122358102</link>
+            <guid>https://v.daum.net/v/20211125122358102</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘연애 빠진 로맨스’에서 29세 청년 백수이자, 팟캐스트 운영을 꿈꾸는 함자영(전종서 분)은 솔로는 참을 수 있지만 외로움은 못 참는 여자다. 자영을 연기한 배우 전종서는 이번 영화에서도 캐릭터에 꼭 들어맞는 얼굴을 보여줬다. 평범한 캐릭터지만 그 안에 독특한 매력이 살아숨쉰다. 길고 깊은 눈매, 가지런한 치아로 해맑게 웃으며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fpoctan%2F20211125103415933kaji.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 배우 조진웅, 최우식, 박희순, 권율, 박명훈이 잘 짜인 강렬 범죄 수사극으로 뭉쳤다. 25일 오전 영화 '경관의 피'(감독 이규만) 제작보고회가 온라인으로 개최됐다. 행사에는 이규만 감독과 배우 조진웅, 최우식, 박희순, 권율, 박명훈이 참석했다. 영화 '경관의 피'는 사사키 조의 동명 소설을 원작으로 출처 불명의 막대한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fmydaily%2F20211125122358408klta.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["마동석도 응원"..'유체이탈자' 개봉 첫날 1위, 韓영화 활력 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211125100558897</link>
-            <guid>https://v.daum.net/v/20211125100558897</guid>
+            <title><![CDATA[[SE★현장] 조진웅X최우식 '경관의 피', 기존의 틀 깬 스타일리시한 범죄 영화(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211125122054042</link>
+            <guid>https://v.daum.net/v/20211125122054042</guid>
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진제공='유체이탈자'기발한 상상력과 압도적 액션을 선보인 영화 '유체이탈자'가 개봉일 박스오피스 1위에 올랐다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션이다. 25일 영진위 영화관입장권 통합전산망에 따르면 '유체이탈자']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125100559226vhim.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[서울경제] 스타일리시한 범죄 드라마가 탄생했다. 영화 '경관의 피'가 범죄 드라마의 한 획을 긋는다. 감시하는 경찰과 감시 당하는 경찰의 팀워크라는 색다른 설정으로 시선을 사로잡고. 신념과 의심 사이의 일촉즉발 긴장감으로 눈을 뗄 수 없게 만든다는 포부다. 25일 오전 영화 '경관의 피' 제작보고회가 온라인 생중계로 진행됐다. 배우 조진웅, 최우식, 박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fseouleconomy%2F20211125122059676cami.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[공식] 윤계상 '유체이탈자' 첫날 흥행 1위 등극→마동석 "계상이 파이팅" 응원 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2242,12 +2242,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FSpoChosun%2F20211125083411723mvff.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA['음주운전' 배성우, '여타짜'에 사진으로 등장..감독 "가까운 지인" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125125145748</link>
+            <guid>https://movie.v.daum.net/v/20211125125145748</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '여타짜'에는 음주운전으로 활동을 중단한 배우 배성우가 등장한다.&nbsp; 25일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '여타짜'(감독 이지승) 언론시사회가 진행됐다. 이날 배우 이채영, 정혜인, 최민철, 김사희, 이지승 감독이 참석했다. '여타짜'에선 배성우의 얼굴을 볼 수 있다. 이채영이 연기한 미미의 아빠로, 사진으로만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fxportsnews%2F20211125125148578gyzk.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
             <title><![CDATA[이유비, 뉴욕 올로케 멜로 '러브 어페어' 출연.."男주연은 차세대 한류스타" [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211124170520954</link>
             <guid>https://movie.v.daum.net/v/20211124170520954</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이유비가 영화 '러브 어페어' 출연을 확정했다. '러브 어페어'는 과거 뉴욕에서 서로 사랑했지만 이별하게 된 커플의 추억을 이별 대신 사랑으로 재현하기 위해, 뉴욕으로 대리 여행을 떠나 과거와 현재 사랑 퍼즐을 함께 맞춰 나간다는 멜로 영화다. 영화 '사랑을 놓치다' '로맨틱 아일랜드' 등의 각본을 쓴 이정섭 감독의 세]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fmydaily%2F20211124170520920sqkw.jpg" length="0" type="image//thumb/S732x228/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fmydaily%2F20211124170520920sqkw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[4천만부 판매 만화 실사화 '도쿄 리벤저스' 12월22일 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2258,20 +2266,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125083159920htbz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정재, 수트핏이 美쳤습니다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125070014364</link>
-            <guid>https://movie.v.daum.net/v/20211125070014364</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 이정재, 수트핏이 美쳤습니다 배우 이정재가 '올해의 인물'로 선정됐다. 이정재는 남성 매거진 지큐코리아가 선정한 '2021 맨 오브 더 이어(Men of the Year)'의 주인공이 됐다. 이정재는 2021년 넷플릭스 시리즈 '오징어 게임'을 통해 전세계적인 신드롬을 일으켰다. '오징어 게임'은 전세계 94개국에서 넷플릭스 '오늘의 톱]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fsportsdonga%2F20211125070015938ryxx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['쥬라기 월드: 도미니언' 2022년 6월 전세계 동시 개봉 [공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211124163809998</link>
             <guid>https://movie.v.daum.net/v/20211124163809998</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] ‘쥬라기 월드: 도미니언’ 2022년 6월 전세계 동시 개봉 [공식] 현존하는 지상 최대의 블록버스터 시리즈 ‘쥬라기 월드’의 3번째 작품인 ‘쥬라기 월드: 도미니 언’(수입ㅣ배급: 유니버설 픽쳐스, 감독: 콜린 트레보로우)이 내년 6월 전세계 동시 개봉을 앞두고 영화 팬들을 위한 ‘쥬라기 월드’ 스페셜 프롤로그 영상을 전세계 동시 공개했다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fsportsdonga%2F20211124163811155qdyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재, 수트핏이 美쳤습니다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125070014364</link>
+            <guid>https://movie.v.daum.net/v/20211125070014364</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 이정재, 수트핏이 美쳤습니다 배우 이정재가 '올해의 인물'로 선정됐다. 이정재는 남성 매거진 지큐코리아가 선정한 '2021 맨 오브 더 이어(Men of the Year)'의 주인공이 됐다. 이정재는 2021년 넷플릭스 시리즈 '오징어 게임'을 통해 전세계적인 신드롬을 일으켰다. '오징어 게임'은 전세계 94개국에서 넷플릭스 '오늘의 톱]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fsportsdonga%2F20211125070015938ryxx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[오영이] '연애 빠진 로맨스' 이렇게 발칙한 영화를 봤나..전종서X손석구 케미에 풍덩 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2290,14 +2298,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fstarnews%2F20211125093429507kdrm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['범죄도시' 연결고리로 이어진 윤계상 vs 손석구, 극과 극 장르로 맞대결 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124120210152</link>
-            <guid>https://movie.v.daum.net/v/20211124120210152</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자]《김지원의 인서트》영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.688만 명을 모은 흥행작 '범죄도시' 시즌1과 기획 단계부터 관심을 모은 개봉 예정작 '범죄도시' 시즌2의 악역들이 이번 연말 서로 다른]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2F10asia%2F20211124120214034ibnc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["멜로물 하고파"..'싸나희' 박명훈의 '순정' #연기 #아들 #봉준호(종합)[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211124174910457</link>
             <guid>https://movie.v.daum.net/v/20211124174910457</guid>
@@ -2306,12 +2306,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fpoctan%2F20211124174910493iqqt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['쥬라기 월드:도미니언' 2022년 6월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124143953195</link>
-            <guid>https://movie.v.daum.net/v/20211124143953195</guid>
+            <title><![CDATA['범죄도시' 연결고리로 이어진 윤계상 vs 손석구, 극과 극 장르로 맞대결 [TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211124120210152</link>
+            <guid>https://movie.v.daum.net/v/20211124120210152</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 프롤로그 영상[이데일리 스타in 박미애 기자] ‘쥬라기 월드’의 세 번째 시리즈 ‘쥬라기 월드:도미니언’이 내년 6월 전 세계 동시 개봉한다. ‘쥬라기 월드:도미니언’은 개봉 시기 확정과 함께 스페셜 프롤로그 영상을 공개했다. 새로운 공룡의 모습과 갑자기 등장한 공룡들로 인해 혼돈에 빠진 도시의 상황이 영상에 담겼다. 이 영상은 내년에 ‘쥬라기 월]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2FEdaily%2F20211124143956840nubh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]《김지원의 인서트》영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.688만 명을 모은 흥행작 '범죄도시' 시즌1과 기획 단계부터 관심을 모은 개봉 예정작 '범죄도시' 시즌2의 악역들이 이번 연말 서로 다른]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2F10asia%2F20211124120214034ibnc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조진웅·최우식·박희순·권율·박명훈 '경관의 피' 캐릭터 스틸 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2322,20 +2322,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fsportsdonga%2F20211124201635110fnny.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[파격적인 걸작 '티탄', 파격 캐스팅도 화제 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124113609036</link>
-            <guid>https://movie.v.daum.net/v/20211124113609036</guid>
+            <title><![CDATA['쥬라기 월드:도미니언' 2022년 6월 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211124143953195</link>
+            <guid>https://movie.v.daum.net/v/20211124143953195</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[칸영화제 역사상 가장 센세이셔널한 수상으로 손꼽히는 황금종려 수상작 '티탄'이 영화만큼 매력적이고 파격적인 캐스팅으로 화제다. '티탄'(감독 쥘리아 뒤쿠르노)은 어린 시절, 교통사고로 뇌에 티타늄을 심고 살아가던 여성이 기이한 욕망에 사로잡혀 일련의 사건에 휘말리다 10년 전 실종된 아들을 찾던 슬픈 아버지와 조우하게 되며 벌어지는 이야기를 담은 괴물 같은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fnocut%2F20211124113611909anoq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["모든 인물 멋있기를"..'킹메이커' 60·70년대 클래식 미쟝센 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124100833140</link>
-            <guid>https://movie.v.daum.net/v/20211124100833140</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[낭만적이면서도 새롭다. 12월 개봉을 앞두고 있는 영화 '킹메이커(변성현 감독)'가 1960-70년대의 클래식하고 세련된 느낌을 살리면서도 캐릭터들의 특색을 반영한 미장센으로 주목도를 높인다. '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Filgansports%2F20211124100836630qlia.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[스페셜 프롤로그 영상[이데일리 스타in 박미애 기자] ‘쥬라기 월드’의 세 번째 시리즈 ‘쥬라기 월드:도미니언’이 내년 6월 전 세계 동시 개봉한다. ‘쥬라기 월드:도미니언’은 개봉 시기 확정과 함께 스페셜 프롤로그 영상을 공개했다. 새로운 공룡의 모습과 갑자기 등장한 공룡들로 인해 혼돈에 빠진 도시의 상황이 영상에 담겼다. 이 영상은 내년에 ‘쥬라기 월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2FEdaily%2F20211124143956840nubh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[할리우드IS] 리들리 스콧, 흥행 참패 분석 "빌어먹을 핸드폰 세대" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2346,28 +2338,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Filgansports%2F20211124154109526barq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이유비, '러브 어페어' 출연 확정..뉴욕 올로케이션 멜로 영화 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124160253753</link>
-            <guid>https://movie.v.daum.net/v/20211124160253753</guid>
+            <title><![CDATA["모든 인물 멋있기를"..'킹메이커' 60·70년대 클래식 미쟝센 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211124100833140</link>
+            <guid>https://movie.v.daum.net/v/20211124100833140</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 한류스타와 호흡…내년 상반기 크랭크인 [더팩트ㅣ김샛별 기자] 배우 이유비가 멜로 영화로 극장 관객들과 만난다. 소속사 와이블룸은 24일 "이유비가 영화 '러브 어페어'(감독 이정섭) 출연을 확정했다"고 밝혔다. '러브 어페어'는 과거 뉴욕에서 서로 사랑했지만 이별하게 된 커플의 추억을 이별 대신 사랑으로 재현하기 위해 뉴욕으로 대리 여행을 떠나 과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2FTHEFACT%2F20211124160254856zorl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['배우 출신 감독' 데뷔작들, 호평 속 스크린 격돌 [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211125000023734</link>
-            <guid>https://movie.v.daum.net/v/20211125000023734</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조은지 '장르만 로맨스'· 제임스 다시 '메이드 인 이태리' 개봉&nbsp; [더팩트｜원세나 기자] 다채로운 영화의 개봉으로 활력을 되찾기 시작한 11월 극장가에 이색적인 이력이 돋보이는 두 작품이 시선을 모은다. 배우 출신 감독의 첫 데뷔작이 차례로 스크린에 걸리며 연기뿐만 아니라 연출력까지 갖췄다는 호평을 받고 있다. 예비관객들의 호기심까지 불러모은 작품은 바]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FTHEFACT%2F20211125000024952qrsd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[원진아, '말할 수 없는 비밀' 한국판 출연 확정..도경수와 호흡 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124075943099</link>
-            <guid>https://movie.v.daum.net/v/20211124075943099</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 17일 크랭크인…현재 촬영 중 [더팩트ㅣ김샛별 기자] 배우 원진아가 영화 '말할 수 없는 비밀' 출연을 확정, 도경수 신예은과 호흡을 맞춘다. 유본컴퍼니는 23일 "원진아가 '말할 수 없는 비밀' 한국판 리메이크작 여주인공으로 출연한다"며 "현재 촬영 중"이라고 밝혔다. '말할 수 없는 비밀'은 지난 2008년 개봉한 동명의 대만 영화를 리메이크하는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2FTHEFACT%2F20211124075946590ajfi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[낭만적이면서도 새롭다. 12월 개봉을 앞두고 있는 영화 '킹메이커(변성현 감독)'가 1960-70년대의 클래식하고 세련된 느낌을 살리면서도 캐릭터들의 특색을 반영한 미장센으로 주목도를 높인다. '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Filgansports%2F20211124100836630qlia.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[오늘(25일) 개봉 '싸나희순정' 관람 포인트 "감동·재미·시골 감성" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2378,20 +2354,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Filgansports%2F20211125090337198ulzm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김서형 출연확정, '비닐하우스'서 방문 요양보호사 된다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124155104206</link>
-            <guid>https://movie.v.daum.net/v/20211124155104206</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김서형이 영화 ‘비닐하우스’의 주연으로 나서며 독보적인 연기 행보를 이어나간다. 영화 ‘비닐하우스’(감독 이솔희)는 한국영화아카데미(KAFA) 제15기 장편제작 연구과정 작품 중 하나. 주인공 '문정'이 아들과 함께 비닐하우스가 아닌, 제대로 된 집에서 살기 위해 열심히 살아가던 중 예기치 못한 사건을 맞닥뜨리며 인생을 뒤흔들 선택의 기로에 놓이게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fstartoday%2F20211124155105406bheq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['배우 출신 감독' 데뷔작들, 호평 속 스크린 격돌 [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125000023734</link>
+            <guid>https://movie.v.daum.net/v/20211125000023734</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조은지 '장르만 로맨스'· 제임스 다시 '메이드 인 이태리' 개봉&nbsp; [더팩트｜원세나 기자] 다채로운 영화의 개봉으로 활력을 되찾기 시작한 11월 극장가에 이색적인 이력이 돋보이는 두 작품이 시선을 모은다. 배우 출신 감독의 첫 데뷔작이 차례로 스크린에 걸리며 연기뿐만 아니라 연출력까지 갖췄다는 호평을 받고 있다. 예비관객들의 호기심까지 불러모은 작품은 바]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2FTHEFACT%2F20211125000024952qrsd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[청불 시리즈 누적 1100만 '킹스맨' 3연타 홈런 성공할까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211124102145702</link>
-            <guid>https://movie.v.daum.net/v/20211124102145702</guid>
+            <title><![CDATA[파격적인 걸작 '티탄', 파격 캐스팅도 화제 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211124113609036</link>
+            <guid>https://movie.v.daum.net/v/20211124113609036</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['킹스맨' 브랜드에 대한 국내 관객들의 애정이 또 한번 폭발할 수 있을까. 12월 개봉하는 영화 '킹스맨: 퍼스트 에이전트'가 '킹스맨' 시리즈가 세운 역대급 기록과 함께 흥행에 대한 기대치를 높이고 있다. '킹스맨' 시리즈는 스파이 액션의 새로운 패러다임을 제시하며 전 세계적인 흥행 신드롬을 일으켰다. 국내에서는 강렬하면서도 신선한 액션과 매력적인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Filgansports%2F20211124102148008ljgl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[칸영화제 역사상 가장 센세이셔널한 수상으로 손꼽히는 황금종려 수상작 '티탄'이 영화만큼 매력적이고 파격적인 캐스팅으로 화제다. '티탄'(감독 쥘리아 뒤쿠르노)은 어린 시절, 교통사고로 뇌에 티타늄을 심고 살아가던 여성이 기이한 욕망에 사로잡혀 일련의 사건에 휘말리다 10년 전 실종된 아들을 찾던 슬픈 아버지와 조우하게 되며 벌어지는 이야기를 담은 괴물 같은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Fnocut%2F20211124113611909anoq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이유비, '러브 어페어' 출연 확정..뉴욕 올로케이션 멜로 영화 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211124160253753</link>
+            <guid>https://movie.v.daum.net/v/20211124160253753</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 한류스타와 호흡…내년 상반기 크랭크인 [더팩트ㅣ김샛별 기자] 배우 이유비가 멜로 영화로 극장 관객들과 만난다. 소속사 와이블룸은 24일 "이유비가 영화 '러브 어페어'(감독 이정섭) 출연을 확정했다"고 밝혔다. '러브 어페어'는 과거 뉴욕에서 서로 사랑했지만 이별하게 된 커플의 추억을 이별 대신 사랑으로 재현하기 위해 뉴욕으로 대리 여행을 떠나 과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2FTHEFACT%2F20211124160254856zorl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEN피플] 유태오, ♥니키리가 지켜주팠던 소년美→할리우드 정조준 예비 글로벌스타 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211124180901078</link>
+            <guid>https://movie.v.daum.net/v/20211124180901078</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 유태오가 영화 감독으로 데뷔한다. 자전적 다큐멘터리 영화 '로그 인 벨지움'을 선보이는 것. 감각적인 연기와 훌륭한 피지컬, 여기에 순수한 소년미까지 갖추며 주목받고 있는 그의 새로운 도전에 주목된다.'로그 인 벨지움'은 유태오의 자전적 다큐멘터리 영화다. 촬영 차 방문한 벨기에에서 코로나19 팬데믹으로 인해 낯선 호텔에서 자가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2F10asia%2F20211124180904601xkik.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["12kg 증량" 조진웅·최우식 '경관의 피', 비주얼 경찰·빌런 온다 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211125123625464</link>
+            <guid>https://movie.v.daum.net/v/20211125123625464</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[멋진 비주얼의 경찰과 빌런이 온다. '경관의 피'에 출연하는 배우들은 작품을 위해 증량까지 결심했다. 열정이 듬뿍 담긴 이 영화에 이목이 집중될 수밖에 없다. 25일 영화 '경관의 피'의 온라인 제작보고회가 진행됐다. 이 자리에는 이규만 감독과 조진웅 최우식 박희순 권율 박명훈이 참석했다. '경관의 피'는 출처불명의 막대한 후원금을 받으며 독보적인 검거 실]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fhankooki%2F20211125123630113qfok.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[진짜 연인처럼 보이고 싶어서..김혜수가 수십번 키스해준 남자스타 (다음 영화 ─ 매거진)]]></title>
