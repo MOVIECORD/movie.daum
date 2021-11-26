@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,6 +286,14 @@
             <pubDate>Thu, 18 Nov 2021 01:55:30 GMT</pubDate>
             <content:encoded><![CDATA[21.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F346e56f58875867d6d5648f18374ef43eb373db4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 템플]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114025</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114025</guid>
+            <pubDate>Fri, 26 Nov 2021 01:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62a44b6fd0ccf8bc8db81652e2d40fbe22bce1c1" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
