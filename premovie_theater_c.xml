@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 04:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc92cf743aea69e0ab468699937dd4bbcbbcf73f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엘리스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149783</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149783</guid>
-            <pubDate>Wed, 24 Nov 2021 23:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[21.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F149b0c17e9faf6e0a91871ca91f3d5ecf44cc61e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[고공 침투: 노 리턴]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154270</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154270</guid>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 26 Nov 2021 00:38:53 GMT</pubDate>
             <content:encoded><![CDATA[21.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F747dec97ae1849b2e633e599d207503958e489ce" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크리미널 카운트다운]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=80863</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=80863</guid>
+            <pubDate>Sun, 28 Nov 2021 05:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F23019A4751FA1C6E1D" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
