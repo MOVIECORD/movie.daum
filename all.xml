@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -784,20 +784,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
-            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
+            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -816,14 +816,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[무녀도 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=106209</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=106209</guid>
-            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5de15ac9b38b2051f5cced7218ae77114338114c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145338</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145338</guid>
@@ -838,6 +830,14 @@
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe0bc8741cecdf925d6c7a31205b43489fafdc08" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무녀도 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106209</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106209</guid>
+            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5de15ac9b38b2051f5cced7218ae77114338114c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -896,12 +896,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c2df58c95bd5284bd7dc467beb4a1cd6813e7c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[행복의 속도 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145328</guid>
-            <pubDate>Sun, 28 Nov 2021 07:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab11bc61008f428da97b1286bd335fd6a68c39a2" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[너에게 가는 길 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
+            <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[호빗 : 스마우그의 폐허 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -912,12 +912,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2772E94C527994442C" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[너에게 가는 길 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
-            <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[퍼스트 카우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135694</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135694</guid>
+            <pubDate>Mon, 29 Nov 2021 03:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사비나: 그리스도를 위한 고난, 나치 시대 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1996,6 +1996,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74e66c2a7a0fa7ef845bba1d53d5865363403c4e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[노 맨 오브 갓 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150930</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150930</guid>
+            <pubDate>Mon, 29 Nov 2021 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88c2c875421c32e67e6a133202551b73b812919a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[미씽: 사라진 소녀들 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155556</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155556</guid>
@@ -2010,6 +2018,22 @@
             <pubDate>Thu, 25 Nov 2021 01:57:36 GMT</pubDate>
             <content:encoded><![CDATA[21.12.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1bc98432431cfc4f55e17759691e67bf457c204" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[12시간마다 몸 바뀌는 남자, 그가 가진 유일한 한 가지 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211129115706380</link>
+            <guid>https://v.daum.net/v/20211129115706380</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;유체이탈자&gt; 포스터    ⓒ  ㈜에이비오엔터테인먼트  &nbsp;* 이 기사에는 영화의 주요 내용이 포함돼 있습니다. 무언가에 집중하다 보면 자기 자신의 위치를 잊을 때가 있다. 무언가 이루고 싶다는 의지와 집념은 그것에 몰입하게 만들지만 그 사이에 나라는 자아는 잠시 감춰진다. 어쩌면 그건 몰입이 선사하는 멋진 선물일지도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fohmynews%2F20211129115707648puog.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['듄',개봉 40일 만에 140만 돌파..예매율 1위 재탈환까지 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211129114656086</link>
+            <guid>https://v.daum.net/v/20211129114656086</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 올해 가장 놀라운 흥행 행보를 이어가고 있는 영화 '듄'이 140만 관객을 돌파했다. 또한 개봉 7주차에 접어들어 예매 1위를 기록하는 기염을 토했다. 29일 영화관입장권 통합전산망의 집계에 따르면 영화 '듄'이 28일까지 142만 2021명을 동원하며 개봉 40일 만에 140만 명 고지를 넘어섰다. 또한 28일부터 실]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FNEWS1%2F20211129114656986fpyk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한지민→서강준 '해피 뉴 이어' 12월 공개[공식] (다음영화 뉴스 ─ 최신)]]></title>
@@ -2156,22 +2180,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FSpoChosun%2F20211129104257516gqlh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박형식X한소희, 로맨스 '사운드트랙#1' 캐스팅[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211129093907781</link>
-            <guid>https://v.daum.net/v/20211129093907781</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[두 대세의 만남이다. 박형식·한소희가 로맨스 뮤직시네마 '사운드트랙#1'로 호흡을 맞춘다. 오는 2022년 공개 예정인 '사운드트랙#1'은 20년 지기 절친인 두 남녀가 2주 동안 한 집에 머물게 되면서 서로의 마음을 알아가는 이야기를 그린다. 박형식 한소희가 주연을, tvN '왕이 된 남자', '빈센조' 등을 통해 작품성과 시청률 두 마리 토끼를 잡은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fstartoday%2F20211129093909055uqwu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[류승룡→류현경 '장르만 로맨스', 新개념 콩가루 가족 5인방 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211129093041475</link>
-            <guid>https://v.daum.net/v/20211129093041475</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '장르만 로맨스'(감독 조은지)가 막장 콩가루 가족 5인방에 대한 모든 것을 밝힌다. 파격적인 소재를 유쾌하게 그리며 극장가를 웃음바다로 물들이고 있는 영화 '장르만 로맨스'가 복잡다단한 콩가루 집안의 관계성을 한눈에 정리해 이목을 집중시킨다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fxportsnews%2F20211129093043081pums.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[42회 청룡] "19년만에 빛난 '오아시스'"..'자산어보' 설경구X'세자매' 문소리가 보인 주연상의 품격 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211129072729608</link>
             <guid>https://movie.v.daum.net/v/20211129072729608</guid>
@@ -2204,20 +2212,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FSPORTSSEOUL%2F20211129084913890sdpm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 박용우 "뜨거웠던 현장..윤계상에게 많이 배웠다" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211128120011182</link>
-            <guid>https://movie.v.daum.net/v/20211128120011182</guid>
-            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '유체이탈자'(감독 윤재근)의 주연배우 박용우가 19일 오전 진행된 화상 라운드 인터뷰를 위해 포즈를 취하고 있다.  기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션 영화 '유체이탈자'는 오는 24일 개봉한다. /사진제공=에이비오엔터테인먼트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F28%2Fstarnews%2F20211128120015846kkly.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[42회 청룡] "361만 관객이 만든 기적"..'모가디슈' 최우수작품상X감독상 올킬 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211129072808615</link>
             <guid>https://movie.v.daum.net/v/20211129072808615</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["한국 영화는 한국 영화 관객이 있기에 존재한다." 올여름 위기의 극장가에 한줄기 빛이 된 액션 영화 '모가디슈'가 청룡영화상 최고의 영예를 차지하며 한국 영화의 자존심을 세웠다. 1991년 소말리아 내전으로 수도 모가디슈에 고립된 사람들의 생존을 건 탈출을 그린 액션 영화 '모가디슈'는 무더웠던 지난 7월 국내 여름 텐트폴 첫 번째 작품으로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FSpoChosun%2F20211129072808780yvrp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유체이탈자' 박용우 "뜨거웠던 현장..윤계상에게 많이 배웠다" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211128120011182</link>
+            <guid>https://movie.v.daum.net/v/20211128120011182</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '유체이탈자'(감독 윤재근)의 주연배우 박용우가 19일 오전 진행된 화상 라운드 인터뷰를 위해 포즈를 취하고 있다.  기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션 영화 '유체이탈자'는 오는 24일 개봉한다. /사진제공=에이비오엔터테인먼트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F28%2Fstarnews%2F20211128120015846kkly.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["아이는 왜 살렸나"..'지옥'을 둘러싼 QnA [스경연예연구소] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2244,14 +2252,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fseoul%2F20211129050736177hatb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[잊고 싶었던 11살의 나, 왕따 낙인 지워준 한마디 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211128182400249</link>
-            <guid>https://movie.v.daum.net/v/20211128182400249</guid>
-            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[홍현진 기자] 초등학교 운동장. 두 명의 아이가 자신의 팀에 들어갈 친구의 이름을 차례로 호명한다. 순서를 기다리는 아이들 사이로 선(최수인)이의 얼굴이 클로즈업된다. 똑단발 머리, 말간 얼굴. 이름이 나올 때마다 기대했다가 이내 실망했다가 끝내 자신의 이름이 불리지 않자 애써 체념하는 눈빛. 피구가 시작되자 선이는 금을 밟았다는 이유로 곧바로 아웃된다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F28%2Fohmynews%2F20211128182401411hwba.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['태일이' 엔딩 크레딧만 7분..9천명 후원 명단에 감동 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211128090005586</link>
             <guid>https://movie.v.daum.net/v/20211128090005586</guid>
@@ -2260,20 +2260,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F28%2Fstarnews%2F20211128090006732aszh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[잊고 싶었던 11살의 나, 왕따 낙인 지워준 한마디 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211128182400249</link>
+            <guid>https://movie.v.daum.net/v/20211128182400249</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[홍현진 기자] 초등학교 운동장. 두 명의 아이가 자신의 팀에 들어갈 친구의 이름을 차례로 호명한다. 순서를 기다리는 아이들 사이로 선(최수인)이의 얼굴이 클로즈업된다. 똑단발 머리, 말간 얼굴. 이름이 나올 때마다 기대했다가 이내 실망했다가 끝내 자신의 이름이 불리지 않자 애써 체념하는 눈빛. 피구가 시작되자 선이는 금을 밟았다는 이유로 곧바로 아웃된다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F28%2Fohmynews%2F20211128182401411hwba.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[마마무, 12월 3일 'WAW 콘서트 더 무비' 개봉..7년 간 활약상 총정리 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211129090006434</link>
             <guid>https://movie.v.daum.net/v/20211129090006434</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[그룹 마마무의 7년 간의 활약상을 담은 영화가 개봉된다. 소속사 RBW 측은 "걸그룹 마마무(솔라·문별·휘인·화사)의 단독 콘서트 실황을 담은 '마마무 2021 WAW 콘서트 더 무비'가 내달 3일 CGV용산아이파크몰을 포함해 전국 39개 CGV에서 동시 개봉된다. 본 콘서트는 물론 공연 준비과정 및 비하인드 영상도 포함되어 있는 만큼 팬들에게 특별한 선물]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fmksports%2F20211129090007863zepl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박형식♥한소희 '사운드트랙#1' 캐스팅 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211129080320196</link>
-            <guid>https://movie.v.daum.net/v/20211129080320196</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 박형식♥한소희 ‘사운드트랙#1’ 캐스팅 [공식] 로맨스 뮤직시네마 ‘사운드트랙#1’ 박형식과 한소희가 출연을 확정했다. 2022년 공개 예정인 ‘사운드트랙#1’(극본 안새봄/연출 김희원/제작 레드나인픽쳐스, 제나두 엔터테인먼트/제작투자 NHN벅스)은 20년 지기 절친인 두 남녀가 2주 동안 한 집에 머물게 되면서 서로의 마음을 알아가는 로맨스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fsportsdonga%2F20211129080322788tyas.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['생활연기 달인' 하정우.. 그의 과장과 허세는 왜 밉지 않지? (다음영화 뉴스 ─ 인기)]]></title>
@@ -2300,20 +2300,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fpoctan%2F20211129105346731qusy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[박형식♥한소희 '사운드트랙#1' 캐스팅 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211129080320196</link>
+            <guid>https://movie.v.daum.net/v/20211129080320196</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 박형식♥한소희 ‘사운드트랙#1’ 캐스팅 [공식] 로맨스 뮤직시네마 ‘사운드트랙#1’ 박형식과 한소희가 출연을 확정했다. 2022년 공개 예정인 ‘사운드트랙#1’(극본 안새봄/연출 김희원/제작 레드나인픽쳐스, 제나두 엔터테인먼트/제작투자 NHN벅스)은 20년 지기 절친인 두 남녀가 2주 동안 한 집에 머물게 되면서 서로의 마음을 알아가는 로맨스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fsportsdonga%2F20211129080322788tyas.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식]"한지민→이동욱"..티빙 오리지널 영화 '해피 뉴 이어', 티빙·극장 동시 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211129103436055</link>
+            <guid>https://movie.v.daum.net/v/20211129103436055</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]티빙 오리지널 영화 '해피 뉴 이어'(곽재용 감독,㈜하이브미디어코프 제작)가 12월 티빙과 극장을 통해 동시 공개된다. 영화 '해피 뉴 이어'가 오는 12월 티빙과 극장 동시 공개를 확정 짓고 런칭 영상을 공개했다. 이번에 공개된 런칭 영상은 15년째 남사친에게 고백을 망설이고 있는 호텔 매니저 소진으로 돌아온 한지민]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FSpoChosun%2F20211129103751265lfbo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 전종서X손석구 미공개 케미 스틸 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211127124302819</link>
+            <guid>https://movie.v.daum.net/v/20211127124302819</guid>
+            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='연애 빠진 로맨스'현실 공감을 자극하는 신선한 로맨스와 대세 배우들의 유쾌한 케미로 뜨거운 호평을 불러일으키고 있는 영화 '연애 빠진 로맨스'가 전종서와 손석구의 현실 케미를 생생히 담은 미공개 케미 스틸을 공개해 눈길을 끈다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F27%2Fstarnews%2F20211127124303338azum.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['스파이더맨: 노웨이 홈', 새로운 조력자는 닥터 스트레인지 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211129085902400</link>
             <guid>https://movie.v.daum.net/v/20211129085902400</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=김지원 기자]영화 '스파이더맨: 노 웨이 홈'이 새로운 조력자 닥터 스트레인지와의 케미를 선보인다.'스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이더맨 피터 파커(톰 홀랜드)가 문제를 해결하기 위해 닥터 스트레인지(베네딕트 컴버배치)의 도움을 받던 중 뜻하지 않게 멀티버스가 열리게 되고, 이를 통해 닥터 옥토퍼스(알프리드 몰리나) 등 각기 다른]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2F10asia%2F20211129085906111wgwz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 한지민X이동욱→강하늘X임윤아 '해피 뉴 이어', 12월 티빙-극장 동시 공개 확정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211129105102679</link>
-            <guid>https://movie.v.daum.net/v/20211129105102679</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 한지민, 이동욱, 강하늘, 임윤아, 원진아, 이혜영, 정진영, 김영광, 서강준, 이광수, 고성희, 이진욱, 조준영, 원지안까지 충무로 최고의 톱스타가 총출동한 티빙 오리지널 영화 '해피 뉴 이어'(곽재용 감독, 하이브미디어코프 제작)가 오는 12월 티빙과 극장을 통해 동시 개봉, 런칭 영상을 공개했다. 이번에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FSpoChosun%2F20211129105102264eiow.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박형식X한소희, 로맨스 '사운드트랙#1' 출연..설레는 케미 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2324,12 +2340,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fstarnews%2F20211129081828418vhyf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식]"한지민→이동욱"..티빙 오리지널 영화 '해피 뉴 이어', 티빙·극장 동시 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211129103436055</link>
-            <guid>https://movie.v.daum.net/v/20211129103436055</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]티빙 오리지널 영화 '해피 뉴 이어'(곽재용 감독,㈜하이브미디어코프 제작)가 12월 티빙과 극장을 통해 동시 공개된다. 영화 '해피 뉴 이어'가 오는 12월 티빙과 극장 동시 공개를 확정 짓고 런칭 영상을 공개했다. 이번에 공개된 런칭 영상은 15년째 남사친에게 고백을 망설이고 있는 호텔 매니저 소진으로 돌아온 한지민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FSpoChosun%2F20211129103751265lfbo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[99분의 런닝타임에 50년의 세월을 담아냈다는 극찬 받은 애니메이션 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kLTybfMw6I</link>
+            <guid>https://content.v.daum.net/v/kLTybfMw6I</guid>
+            <pubDate>Mon, 29 Nov 2021 03:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F27%2Fkinolights%2F20211127023434605nrpx.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[2,100억 원 넘게 쓰고 돌아온 '스파이더맨', 극장 구할까? (다음 영화 ─ 매거진)]]></title>
@@ -2482,14 +2498,6 @@
             <pubDate>Fri, 26 Nov 2021 02:28:47 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F24%2Ffanzeel%2F20211124084605097d1nf.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[32년 만에 후속편이 나왔다는 '전설의 먹깨비'로 유명한 호러 코미디 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kjIOqoEo5k</link>
-            <guid>https://content.v.daum.net/v/kjIOqoEo5k</guid>
-            <pubDate>Fri, 26 Nov 2021 01:54:53 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F25%2Fkinolights%2F20211125133807325x2qu.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[엔칸토: 마법의 세계, 세대화합의 장 (다음 영화 ─ 브런치)]]></title>
