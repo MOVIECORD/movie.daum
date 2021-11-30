@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
             <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>468,592명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>468,590명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -808,20 +808,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
-            <pubDate>Thu, 18 Nov 2021 00:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
             <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
+            <pubDate>Thu, 18 Nov 2021 00:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[강릉 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1606,6 +1606,14 @@
             <pubDate>Mon, 15 Nov 2021 05:12:02 GMT</pubDate>
             <content:encoded><![CDATA[21.12.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30e0f4354623d9b0fff0ae17ec3326d7c06c9149" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Sat, 23 Oct 2021 09:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오늘의 술자리 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -2470,6 +2478,78 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faedf02bea4707ea41f56801d65e6b4be278d967f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킬러는 메이드 사마 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153268</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153268</guid>
+            <pubDate>Tue, 30 Nov 2021 08:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98673b62a2bd99f3d88c080ba2ed2b3ac9976ee2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA['故다이애나 변신' 크리스틴 스튜어트, 2022 아카데미 여우주연상 확률 ↑ (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130165940072</link>
+            <guid>https://v.daum.net/v/20211130165940072</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp; 영국 전 왕세자비인 다이애나 스펜서의 이야기를 다룬 파블로 라라인 감독의 신작 '스펜서'의 주연 배우 크리스틴 스튜어트가 29일(현지시간) 미국 뉴욕에서 열린 제 31회 고담어워즈에서 배우 공로상을 수상했다. 배우 공로상 시상자로는 영화 '스틸 앨리스'에서 크리스틴 스튜어트와 호흡을 맞췄던 아카데미 수상 배우 줄리안 무어와 '스펜]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fpoctan%2F20211130165940588tjwt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["전태일 열사 중압감에 3개월 고심 끝에 연출 맡아" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130165144809</link>
+            <guid>https://v.daum.net/v/20211130165144809</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션 ‘태일이’(1일 개봉)에는 1960년대 후반 경제발전을 상징하는 청계고가도로가 종종 등장한다. 영화 중반부 기둥만 세워졌던 고가도로는 후반부에는 완성돼 있다. 전태일(1948~1970) 열사는 고가도로가 만들어질 때부터 완공된 이후까지 근로기준법 준수를 외치다 세상을 떠난다. 급격한 경제발전에도 불구하고 당시 노동자들의 열악한 현실은 제자리걸음이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fhankooki%2F20211130165146881remr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['언포기버블' 감독 "산드라 블록과 협업? 누가 마다할까" [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130165001745</link>
+            <guid>https://v.daum.net/v/20211130165001745</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '언포기버블' 노라 핑샤이트 감독이 산드라 블록과의 협업에 대해 언급했다.  30일 오전 영화 '언포기버블'의 온라인 기자간담회가 진행됐다. 현장에는 배우 산드라 블록과 노라 핑샤이트 감독이 참석했다.  영화 '언포기버블'(감독 노라 핑샤이트)은 긴 수감생활을 마치고 사회로 돌아온 여인이 자신을 받아주지 않는 냉담한 사회에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fxportsnews%2F20211130165004553raaw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성·고경표, 코로나 돌파 감염..연예계 다시 비상 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130163841387</link>
+            <guid>https://v.daum.net/v/20211130163841387</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 정우성, 고경표 / 사진=스타뉴스, JTBC 배우 정우성, 고경표가 코로나19 확진 판정을 받으며 연예계에 다시 비상이 걸렸다. 30일 정우성과 고경표의 코로나19 확진 소식이 전해졌다.  이날 아티스트컴퍼니 관계자는 스타뉴스에 "정우성이 지난 29일 코로나 확진 판정을 받았다. 정우성은 자가 격리에 들어가는 등 보건 당국 지침에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstarnews%2F20211130163842286kpvf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[설경구의 흥행 행보..'킹메이커'로 어게인? (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130163030086</link>
+            <guid>https://v.daum.net/v/20211130163030086</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=전동선 기자] 영화 '자산어보'로 남우주연상 4관왕을 달성하며 거침없는 행보를 이어가고 있는 배우 설경구가 '킹메이커' 속 ‘김운범’ 역으로 새로운 도전에 나선다. 올해 영화 '자산어보'로 제42회 청룡영화상, 제41회 한국영화평론가협회상, 제16회 대한민국 대학영화제, 제41회 황금촬영상 영화제에서 남우주연상 4관왕을 차지한 설경구가 '불한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Ftvreport%2F20211130163032973torc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["1984 가을의 전설"..'1984 최동원', 감동 ing (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130162730954</link>
+            <guid>https://v.daum.net/v/20211130162730954</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=전동선 기자] 1984년 가을 한국시리즈 7차전 4승 1패의 주인공, 대한민국 부산의 심장 무쇠팔 최동원의 인생 경기를 담은 최초의 다큐멘터리 영화 '1984 최동원'이 1만 관객을 돌파하며 극장가 의미 있는 입소문 열풍을 일으키고 있는 가운데 극장 동시 VOD 서비스를 오픈한다. 프로야구 역사상 가장 극적인 한국시리즈, 1984년 가을 그야말]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Ftvreport%2F20211130162731385rvdx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['미나리' 이코노미스트지가 선정 올해의 영화 14선 올라 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130155635713</link>
+            <guid>https://v.daum.net/v/20211130155635713</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 영화 ‘미나리’가 영국 이코노미스트지의 올해의 영화로 선정됐다.이코노미스트지는 올해 영국에서 개봉한 영화 중 14개를 뽑아 올해의 영화로 선정했다고 29일(현지시간) 전했다.이코노미스트지는 미나리에 대해 “아칸소의 한 농장에 사는 가족의 이야기”라며 “1980년대 달콤하지만 감성적이지 않은 매우 특별한 내용”이라고 평했다.또 미나리가 정이삭]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportskhan%2F20211130155636570xoye.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['고스트버스터즈 라이즈' 관람포인트 #뉴트로 감성 #열연 시너지 #고스트 캐릭터 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130155635712</link>
+            <guid>https://v.daum.net/v/20211130155635712</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]금주 개봉작 예매율 1위를 달리고 있는 '고스트버스터즈 라이즈'(수입/배급: 소니 픽쳐스)가 전 세대를 사로잡을 관전 포인트로 겨울 흥행작 등극을 예고한다. #X세대 사로잡을 첫 번째 라이징 포인트! 오리지널 매력 살리고, 생동감은 더하고! 금주 개봉작 예매율 1위를 달리며 뜨거운 관심을 받고 있는 '고스트버스터즈 라이즈'의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fmydaily%2F20211130155635383kraa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[산드라 블록 "'오겜' 등 韓 작품들 덕분에 다양한 시선에 눈 떠"(종합) (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211130155226572</link>
             <guid>https://v.daum.net/v/20211130155226572</guid>
@@ -2508,6 +2588,14 @@
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[할리우드스타 산드라 블록이 전과자 역을 맡아 소외된 여성의 이야기를 들려준다.영화 '언포기버블'을 통해서다. 산드라 블록은 최근 온라인을 진행된 영화 '언포기버블'(감독 노라 핑샤이트) 기자간담회에서 "각본을 잃고 푹 빠져버렸다. 특히 결말이 너무 좋았고 스릴도 넘친다. 관객들은 왜 주인공이 왜 이런 일을 저질렀는지 궁금해하고 영화가 끝날 때 루스처럼 할]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstartoday%2F20211130151510485kghl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '장르만 로맨스' 장르만 코미디 걸출한 연출 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211130150909717</link>
+            <guid>https://v.daum.net/v/20211130150909717</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이 영화, 일단 재미있다. ‘극한직업’에서 그랬듯 코미디에 있어선 영화 한 편을 자신의 장르로 만들어 버리는 류승룡이 ‘조은지’라는 재능 있는 신인 감독을 만나, 틀에 박히지 않은 코미디물을 만들어 냈다. 캐스팅도 신선하다. ‘장르만 로맨스’라고 이름 붙은 이 영화는 코미디의 탈을 쓴, 관계와 성장에 관한 이야기다. 자신의 외도로 인해 이혼 후 새 가정을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fcitylife%2F20211130150914423aszv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[정우성 코로나 확진, 이정재는 음성 [공식] (다음영화 뉴스 ─ 최신)]]></title>
@@ -2558,78 +2646,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fpoctan%2F20211130145051792ljbd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[산드라 블록 "'오겜' 등 다양한 韓 콘텐츠 흥미로워" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130144807727</link>
-            <guid>https://v.daum.net/v/20211130144807727</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드스타 산드라 블록이 ‘오징어 게임’을 비롯한 한국 콘텐츠에 대한 관심을 보여 눈길을 끌었다. 산드라 블록은 최근 온라인을 진행된 영화 '언포기버블'(감독 노라 핑샤이트) 기자간담회에서 "각본을 잃고 푹 빠져버렸다. 특히 결말이 너무 좋았고 스릴도 넘친다. 관객들은 왜 주인공이 왜 이런 일을 저질렀는지 궁금해하고 영화가 끝날 때 루스처럼 할 수 있을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstartoday%2F20211130144810111hfcc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['언포기버블' 감독 "산드라 블록 연기에 매료..해석 탁월해" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130144208477</link>
-            <guid>https://v.daum.net/v/20211130144208477</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드스타 산드라 블록이 전과자로 분한다. 사람과 사랑, 가족의 진정한 의미를 담은 영화 '언포기버블'을 통해서다. 산드라 블록은 최근 온라인을 진행된 영화 '언포기버블'(감독 노라 핑샤이트) 기자간담회에서 "각본을 잃고 푹 빠져버렸다. 특히 결말이 너무 좋았고 스릴도 넘친다. 관객들은 왜 주인공이 왜 이런 일을 저질렀는지 궁금해하고 영화가 끝날 때 루]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstartoday%2F20211130144213048ptua.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[고경표, 코로나 확진..유아인 등 '서울대작전' 배우·스태프 전원 검사 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130143359128</link>
-            <guid>https://v.daum.net/v/20211130143359128</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 고경표/사진=김창현 기자배우 고경표가 코로나19 확진 판정을 받으면서 넷플릭스 영화 '서울대작전'에 비상이 걸렸다. 마침 고경표와 배우들이 지난 29일 촬영을 진행했기 때문이다. 30일 고경표 소속사 씨엘엔컴퍼니 관계자는 "고경표가 오늘 코로나19 양성 판정을 받았다"며 "모든 스케줄을 취소하고 자가 격리 중"이라고 밝혔다. 고경표]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstarnews%2F20211130143400654yadd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['언포기버블' 산드라 블록 "사랑·사람 의미 담긴 각본에 매료" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130143301090</link>
-            <guid>https://v.daum.net/v/20211130143301090</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드스타 산드라 블록이 컴백한다. 사람과 사랑, 가족의 진정한 의미를 담은 영화 '언포기버블'을 통해서다. 산드라 블록은 최근 온라인을 진행된 영화 '언포기버블'(감독 노라 핑샤이트) 기자간담회에서 "각본을 먼저 읽은 후에 기존 미니 시리즈를 봤다. 이미 영화 각본에 푹 빠진 상태였는데 결말이 너무 좋았다. 수백 만 명의 사람들이 매일같이 경험하는 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstartoday%2F20211130143304269sgke.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[초조하게 살고 있는 당신이 봐야 할 영화 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130141210260</link>
-            <guid>https://v.daum.net/v/20211130141210260</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[원종빈 기자] * 이 기사에는 영화의 주요 내용이 포함돼 있습니다. 1990년 뉴욕, 식당에서 웨이터로 일하는&nbsp;'존(앤드루 가필드)'은 긴장과 두려움 속에서 8년간 준비한 뮤지컬의 워크숍을 앞두고&nbsp;마지막 작곡 작업에 몰두한다.&nbsp;그런데 서른 번째 생일과 인생의 중요한 기회가 될 수도 있는 공연을 며칠 앞두고 많은 일들이 갑작스레 몰려온다. 뉴욕이 아닌 곳에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fohmynews%2F20211130141212749iyzp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식]스티븐 스필버그作 '웨스트 사이드 스토리', 12월→내년 1월 개봉 연기 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130140225905</link>
-            <guid>https://v.daum.net/v/20211130140225905</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]스티븐 스필버그 감독의 첫 번째 뮤지컬 영화 '웨스트 사이드 스토리'가 당초 12월에서 1월로 개봉 연기 소식을 전했다. 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는 마리아와 토니의 사랑과 용기를 그린 뮤지컬 영화 '웨스트 사이드 스토리'가 2022년 1월 개봉을 확정짓고 메인 포스터를 공개했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130140447345ozuf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[산드라 블록 "여성이기 때문에..항상 시스템에 맞서" (언포기버블)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130135228543</link>
-            <guid>https://v.daum.net/v/20211130135228543</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '언포기버블' 산드라 블록이 작품에 대한 이야기를 전했다.  30일 오전 영화 '언포기버블'의 온라인 기자간담회가 진행됐다. 현장에는 배우 산드라 블록과 노라 핑샤이트 감독이 참석했다.  영화 '언포기버블'(감독 노라 핑샤이트)은 긴 수감생활을 마치고 사회로 돌아온 여인이 자신을 받아주지 않는 냉담한 사회에서 도망쳐 어린 시절]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fxportsnews%2F20211130135230213almr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['언포기버블' 산드라 블록 "'오징어 게임', 과감한 韓 콘텐츠에 매료" [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130135020479</link>
-            <guid>https://v.daum.net/v/20211130135020479</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 산드라 블록이 '언포기버블'에 대한 애정과 함께 한국 콘텐츠에 대한 관심을 드러냈다. 30일 넷플릭스 영화 '언포기버블'(감독 노라 핑샤이트) 온라인 간담회가 진행됐다. 이 자리에는 노라 핑샤이트 감독과 배우 산드라 블록이 참석했다. '언포기버블'은 수감생활을 마치고 사회로 돌아온 여인이 자신을 받아주지 않는 냉담한 사회에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fxportsnews%2F20211130135021280emaq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["이건 기적"..'오징어게임', 美고담어워즈 최초 수상·이정재는 불발[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211130134209269</link>
-            <guid>https://v.daum.net/v/20211130134209269</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 글로벌 신드롬의 주역 ‘오징어 게임’이 또 한 번 새역사를 썼다. 한국 드라마 최초로 미국 ‘고담 어워즈’에서 당당히 수상의 기쁨을 누린 것. 넷플릭스의 한국 오리지널 지리즈 '오징어 게임'이 29일(현지시각) 미국 뉴욕 치프리아니 월스트리트에서 열린 제31회 고담 어워즈(Gotham Awards)에서 '획기적인 시리즈-40분 이상 장편(Breakt]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstartoday%2F20211130134211711zibd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[애프터 청룡] "韓은 늘 좋은 콘텐츠가 있다"..'노배우' 윤여정, 기립박수 아깝지 않은 격조의 모두 발언 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211130072636654</link>
             <guid>https://movie.v.daum.net/v/20211130072636654</guid>
@@ -2662,6 +2678,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Fxportsnews%2F20211129164329252lejo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[애프터 청룡]조인성, 이런 인성 좋은 배우가 있네요..시상식 참석 연예인의 교과서 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130072505634</link>
+            <guid>https://movie.v.daum.net/v/20211130072505634</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['시상식 참석의 정석'이다. 연말연시 각종 시상식이 줄줄이 열리는 시즌, 참석 연예인들은 제42회 청룡영화상 시상식을 빛낸 조인성의 '품격'을 교과서로 삼으면 되겠다. 이번 청룡영화상에서 조인성이 출연한 영화 '모가디슈'는 최우수작품상, 감독상, 남우조연상, 미술상, 최다관객상, 청정원 인기스타상까지 무려 6관왕을 달성했다. '모가디슈'에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130072505842xhke.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['간호중' 이유영, 간호로봇·보호자 1인2역 소화 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211130092812201</link>
             <guid>https://movie.v.daum.net/v/20211130092812201</guid>
@@ -2686,20 +2710,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FiMBC%2F20211130083231889prye.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[역대 '스파이더맨' 시리즈 빌런 그대로 소환된 비결 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130082204517</link>
-            <guid>https://movie.v.daum.net/v/20211130082204517</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 역대 ‘스파이더맨’ 시리즈 빌런 그대로 소환된 비결 12월 15일 전 세계 최초 개봉을 확정하며 많은 관심을 받고 있는 ‘스파이더맨: 노 웨이 홈’에 ‘닥터 옥토퍼스’, ‘그린 고블린’, ‘일렉트로’ 등 역대 ‘스파이더맨’ 시리즈 빌런들이 과거 모습 그대로 등장한다고 알려져 이목을 모은다. 영화 ‘스파이더맨: 노 웨이 홈’은 정체가 탄로난 스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportsdonga%2F20211130082205699obgl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[가족애·향수 물씬.. 父子 감독의 대 이은 코미디 호러 명작 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211130050742195</link>
             <guid>https://movie.v.daum.net/v/20211130050742195</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1984년 개봉한 이반 라이트맨 감독의 영화 ‘고스트 버스터즈’는 1980년대를 대표하는 코미디 호러 명작으로 꼽힌다. ‘유령 잡는 회사’라는 독특한 설정으로 북미 전체 흥행 1위를 기록해 1989년엔 속편 ‘고스트 버스터즈 2’가 나왔고, 레이 파커 주니어가 부른 주제곡은 빌보드 3주 연속 1위에 올랐다. 이 밖에 게임, 애니메이션 등 다양한 분야에서 관]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fseoul%2F20211130050743895uqxc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[역대 '스파이더맨' 시리즈 빌런 그대로 소환된 비결 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130082204517</link>
+            <guid>https://movie.v.daum.net/v/20211130082204517</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 역대 ‘스파이더맨’ 시리즈 빌런 그대로 소환된 비결 12월 15일 전 세계 최초 개봉을 확정하며 많은 관심을 받고 있는 ‘스파이더맨: 노 웨이 홈’에 ‘닥터 옥토퍼스’, ‘그린 고블린’, ‘일렉트로’ 등 역대 ‘스파이더맨’ 시리즈 빌런들이 과거 모습 그대로 등장한다고 알려져 이목을 모은다. 영화 ‘스파이더맨: 노 웨이 홈’은 정체가 탄로난 스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportsdonga%2F20211130082205699obgl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['킹스맨: 퍼스트 에이전트' 콜라보 웹툰 공개, 최악의 빌런 라스푸틴 정체 확인하라 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2710,28 +2734,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2Ftvdaily%2F20211129155810537jlts.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[산드라 블록 "韓, 뛰어나고 과감한 콘텐츠로 모두 매료시켜" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130104406427</link>
-            <guid>https://movie.v.daum.net/v/20211130104406427</guid>
+            <title><![CDATA[[애프터 청룡] "밖에서도 인기 많을 줄 상상 못해"..구교환X송중기X임윤아X전여빈, 청룡 최고의 ★탄생 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130072508637</link>
+            <guid>https://movie.v.daum.net/v/20211130072508637</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 할리우드 배우 산드라 블록이 한국 콘텐츠에 대한 칭찬을 쏟아냈다.산드라 블록은 30일 오전 진행된 동영상스트리밍서비스(OTT) 넷플릭스 새 영화 ‘언포기버블’(감독 노라 핑샤이트) 온라인기자간담회에서 “한국은 정말 뛰어나고 과감한 콘텐츠를 보여준다. 거의 모든 사람들을 매료시킨다”고 밝혔다.산드라 블록은 “난 좋은 콘텐츠를 사랑하는 사람이다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportskhan%2F20211130104407471vbkf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정우성 코로나 확진, 이정재는 음성 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130150823678</link>
-            <guid>https://movie.v.daum.net/v/20211130150823678</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 정우성 코로나 확진, 이정재는 음성 [공식] 배우 정우성이 코로나19 확진 판정을 받았다. 30일 소속사 아티스트컴퍼니 관계자는 동아닷컴에 정우성이 지난 29일 밤 코로나19 확진 판정을 받았다고 밝혔다. 관계자는 “정우성은 백신 접종을 2차까지 모두 마친 상태였다”고 설명했다. 돌파감염 사례인 것. 관계자는 “정우성은 현재 자가격리 중이며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportsdonga%2F20211130150827877oojp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합]"이건 기적이다".. '오징어게임', 美고담 어워즈 韓드라마 최초 수상→이정재 수상은 불발 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130125407218</link>
-            <guid>https://movie.v.daum.net/v/20211130125407218</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자] '오징어 게임'이 또 다시 새기록을 새웠다. '오징어 게임'이 한국 드라마 최초로 미국 시상식인 고담 어워즈에서 수상의 기쁨을 누렸다. 넷플릭스의 한국 오리지널 지리즈 '오징어 게임'이 29일(현지시각) 미국 뉴욕 치프리아니 월스트리트에서 열린 제31회 고담 어워즈(Gotham Awards)에서 '획기적인 시리즈-4]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130125552693aafc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 폭발적인 반응을 얻은 최고의 핫스타가 올해 청룡영화상을 통해 탄생했다. 바로 구교환, 송중기, 임윤아, 전여빈이 그 주인공. 청룡영화상은 대중의 인기투표와 스포츠조선 연예 기자들의 투표로 수상자가 정해지는 인기스타상이 존재한다. 인기와 스타성의 척도를 파악할 수 있는 부문 중 하나로 그 해 가장 인기를 끈 스타들이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130072509037itsf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[5살 아이 윙크 하나로 전 세계 울린 영화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2742,6 +2750,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fohmynews%2F20211130105704015pnvh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[산드라 블록 "韓, 뛰어나고 과감한 콘텐츠로 모두 매료시켜" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130104406427</link>
+            <guid>https://movie.v.daum.net/v/20211130104406427</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 할리우드 배우 산드라 블록이 한국 콘텐츠에 대한 칭찬을 쏟아냈다.산드라 블록은 30일 오전 진행된 동영상스트리밍서비스(OTT) 넷플릭스 새 영화 ‘언포기버블’(감독 노라 핑샤이트) 온라인기자간담회에서 “한국은 정말 뛰어나고 과감한 콘텐츠를 보여준다. 거의 모든 사람들을 매료시킨다”고 밝혔다.산드라 블록은 “난 좋은 콘텐츠를 사랑하는 사람이다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportskhan%2F20211130104407471vbkf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합]"이건 기적이다".. '오징어게임', 美고담 어워즈 韓드라마 최초 수상→이정재 수상은 불발 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130125407218</link>
+            <guid>https://movie.v.daum.net/v/20211130125407218</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자] '오징어 게임'이 또 다시 새기록을 새웠다. '오징어 게임'이 한국 드라마 최초로 미국 시상식인 고담 어워즈에서 수상의 기쁨을 누렸다. 넷플릭스의 한국 오리지널 지리즈 '오징어 게임'이 29일(현지시각) 미국 뉴욕 치프리아니 월스트리트에서 열린 제31회 고담 어워즈(Gotham Awards)에서 '획기적인 시리즈-4]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130125552693aafc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성 코로나 확진, 이정재는 음성 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130150823678</link>
+            <guid>https://movie.v.daum.net/v/20211130150823678</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 정우성 코로나 확진, 이정재는 음성 [공식] 배우 정우성이 코로나19 확진 판정을 받았다. 30일 소속사 아티스트컴퍼니 관계자는 동아닷컴에 정우성이 지난 29일 밤 코로나19 확진 판정을 받았다고 밝혔다. 관계자는 “정우성은 백신 접종을 2차까지 모두 마친 상태였다”고 설명했다. 돌파감염 사례인 것. 관계자는 “정우성은 현재 자가격리 중이며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportsdonga%2F20211130150827877oojp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['故다이애나 변신' 크리스틴 스튜어트, 2022 아카데미 여우주연상 확률 ↑ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130165940072</link>
+            <guid>https://movie.v.daum.net/v/20211130165940072</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp; 영국 전 왕세자비인 다이애나 스펜서의 이야기를 다룬 파블로 라라인 감독의 신작 '스펜서'의 주연 배우 크리스틴 스튜어트가 29일(현지시간) 미국 뉴욕에서 열린 제 31회 고담어워즈에서 배우 공로상을 수상했다. 배우 공로상 시상자로는 영화 '스틸 앨리스'에서 크리스틴 스튜어트와 호흡을 맞췄던 아카데미 수상 배우 줄리안 무어와 '스펜]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fpoctan%2F20211130165940588tjwt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[고경표, 코로나 확진..유아인 등 '서울대작전' 배우·스태프 전원 검사 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130143359128</link>
+            <guid>https://movie.v.daum.net/v/20211130143359128</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 고경표/사진=김창현 기자배우 고경표가 코로나19 확진 판정을 받으면서 넷플릭스 영화 '서울대작전'에 비상이 걸렸다. 마침 고경표와 배우들이 지난 29일 촬영을 진행했기 때문이다. 30일 고경표 소속사 씨엘엔컴퍼니 관계자는 "고경표가 오늘 코로나19 양성 판정을 받았다"며 "모든 스케줄을 취소하고 자가 격리 중"이라고 밝혔다. 고경표]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstarnews%2F20211130143400654yadd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[윤계상 '유체이탈자'·전종서 '연애 빠진 로맨스'..韓영화 나란히 1~2위[종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211130084852031</link>
             <guid>https://movie.v.daum.net/v/20211130084852031</guid>
@@ -2750,44 +2798,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fpoctan%2F20211130084852715uktv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['킹메이커' 설경구, 정치인 도전 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130084701989</link>
-            <guid>https://movie.v.daum.net/v/20211130084701989</guid>
+            <title><![CDATA['타이거 마스크' 조한선, 존재감 제로→태껸 K히어로..인생캐 예고 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130104024309</link>
+            <guid>https://movie.v.daum.net/v/20211130104024309</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자]배우 설경구가 신작 '킹메이커'로 변신에 나선다.&nbsp; &nbsp;&nbsp;올해 영화 '자산어보'로 제42회 청룡영화상, 제41회 한국영화평론가협회상, 제16회 대한민국 대학영화제, 제41회 황금촬영상 영화제에서 남우주연상 4관왕을 차지한 설경구가 '불한당: 나쁜 놈들의 세상'에 이어 '킹메이커'로 다시 한번 변성현 감독과 호흡을 맞추게 됐다.이런 가운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2F10asia%2F20211130084705689ibbl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 배우 조한선이 인생 캐릭터를 예고했다. 영화 '타이거 마스크'는 노잼인생으로 살아온 한 남자가 우연히 전설의 호랑이 마스크를 얻게 된 후 하루아침에 다른 사람이 되어 펼치는 K히어로 코믹액션. 조한선은 극중 육건평 역을 맡았다. 육건평은 타이거 마스크를 만난 전과 후가 180도 완전히 달라지는 인물이다. 조한선은 이러한 특]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fxportsnews%2F20211130104026819rnfz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[속보]"지구상 가장 유명한 쇼"..'오징어게임', 美고담 어워즈서 韓작품 최초 수상 쾌거 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130123557932</link>
-            <guid>https://movie.v.daum.net/v/20211130123557932</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]넷플릭스 오리지널 '오징어 게임'이 한국 드라마 최초로 미국 시상식인 고담 어워즈에서 수상의 기쁨을 안았다. 넷플릭스 오리지널 '오징어 게임'이 29일(현지시각) 미국 뉴욕 치프리아니 월스트리트에서 열린 제31회 고담 어워즈(Gotham Awards)에서 '획기적인 시리즈-40분 이상 장편(Breakthrough Se]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130124003830ezhj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[최근 잠잠하던 '거장' 스티븐 스필버그가 전해온 반가운 소식 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/kMKJJ9UOmJ</link>
+            <guid>https://content.v.daum.net/v/kMKJJ9UOmJ</guid>
+            <pubDate>Tue, 30 Nov 2021 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fmaxmovie%2F20211130072314492ghbf.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA['지옥' 박정민 "시즌2? 연상호 감독님이 나는 안나온다고.." [인터뷰③] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130115603798</link>
-            <guid>https://movie.v.daum.net/v/20211130115603798</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 박정민 /사진=넷플릭스배우 박정민이 '지옥' 시즌2에 대해 "저는 몰라요"라고 말해 웃음을 자아냈다. 박정민은  30일 오전 화상인 터뷰를 통해 넷플릭스 '지옥'에 대한 다양한 이야기를 전했다. '지옥'은 예고 없이 등장한 지옥의 사자들에게 사람들이 지옥행 선고를 받는 초자연적인 현상이 발생하고, 이 혼란을 틈타 부흥한 종교단체 새]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstarnews%2F20211130115604743pcqo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["이건 기적"..'오징어게임', 美고담어워즈 최초 수상·이정재는 불발[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130134209269</link>
-            <guid>https://movie.v.daum.net/v/20211130134209269</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[올해 글로벌 신드롬의 주역 ‘오징어 게임’이 또 한 번 새역사를 썼다. 한국 드라마 최초로 미국 ‘고담 어워즈’에서 당당히 수상의 기쁨을 누린 것. 넷플릭스의 한국 오리지널 지리즈 '오징어 게임'이 29일(현지시각) 미국 뉴욕 치프리아니 월스트리트에서 열린 제31회 고담 어워즈(Gotham Awards)에서 '획기적인 시리즈-40분 이상 장편(Breakt]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fstartoday%2F20211130134211711zibd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[산드라 블록 "'오겜' 등 韓 작품들 덕분에 다양한 시선에 눈 떠"(종합) (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130155226572</link>
-            <guid>https://movie.v.daum.net/v/20211130155226572</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 할리우드 스타 산드라 블록이 '오징어 게임'의 성공을 언급하며 "한국 덕분에 다양한 시선에 눈을 떴다"고 밝혔다. 산드라 블록은 30일 넷플릭스가 공개한 넷플릭스 오리지널 영화 '언포기버블'(감독 노라 핑샤이트)의 온라인 간담회에서 최근 세계적으로 성공한 '오징어 게임'에 대해 "나는 좋은 콘텐츠를 정말 사랑하는 사람이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FNEWS1%2F20211130155227869wsgc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[최근 '40대' 중 가장 '소년미' 넘친다는 배우, 그의 실제 모습이 공개됐는데.. (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/krFXPYH3Lx</link>
+            <guid>https://content.v.daum.net/v/krFXPYH3Lx</guid>
+            <pubDate>Tue, 30 Nov 2021 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fmaxmovie%2F20211130065043321usql.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[4번의 은퇴번복 끝에 '진짜 마지막 작품' 공개 앞둔 미야자키 하야오 감독 (다음 영화 ─ 매거진)]]></title>
@@ -2932,22 +2964,6 @@
             <pubDate>Fri, 26 Nov 2021 10:14:51 GMT</pubDate>
             <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F26%2Ftailorcontents_cv%2F20211126083905205uykc.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['11살 연상 예술가♥' 배우, 해외에 갇히자 시작한 놀라운 일 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kbUANTpJcd</link>
-            <guid>https://content.v.daum.net/v/kbUANTpJcd</guid>
-            <pubDate>Fri, 26 Nov 2021 08:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F26%2Fmaxmovie%2F20211126045031665dz4j.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[외로워서 '데이팅 어플'로 만난 두 남녀의 결말은.. (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kTVFuzskMU</link>
-            <guid>https://content.v.daum.net/v/kTVFuzskMU</guid>
-            <pubDate>Fri, 26 Nov 2021 08:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F26%2Fmaxmovie%2F20211126041651689xc2u.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[라스트 나잇 인 소호,지알로를 향한 러브레터 (다음 영화 ─ 브런치)]]></title>
