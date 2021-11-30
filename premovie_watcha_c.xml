@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 03:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,6 +141,14 @@
             <pubDate>Tue, 30 Nov 2021 03:11:42 GMT</pubDate>
             <content:encoded><![CDATA[21.12.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbce1824b1de99866c871c225bd1f4145d0d22266" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[순종]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106776</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106776</guid>
+            <pubDate>Tue, 30 Nov 2021 04:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81a2572b8f1a574e06e77b123ced79dfbb092629" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
