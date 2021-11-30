@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 30 Nov 2021 01:48:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>TERU]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FZbxfhD-AvpMr5mPnCw9Xn2B5tyE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이게 호러영화야 서부극이야]]></title>
+            <link>https://brunch.co.kr/@@5fpi/257</link>
+            <guid>https://brunch.co.kr/@@5fpi/257</guid>
+            <pubDate>Tue, 30 Nov 2021 02:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FR62GY3cQxVnWiQrA93mz0nt97C0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[박우리가 함자영을 만났을 때]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Nov 2021 07:14:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>siwoorain]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4y6R%2Fimage%2FDRmIznkEsIb8T3Xx0yurHXgHawI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<프렌치 디스패치>기자가 사는, 기자가 쓰는 삶에 대해]]></title>
-            <link>https://brunch.co.kr/@@5XLU/391</link>
-            <guid>https://brunch.co.kr/@@5XLU/391</guid>
-            <pubDate>Thu, 11 Nov 2021 07:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2F3oZdUaYsjIVLBMQgz4f4_6Hegh8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
