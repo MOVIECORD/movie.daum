@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=125939</guid>
             <pubDate>Sun, 24 Oct 2021 23:12:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="screen_out">관객수</span>57,003명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44e1336d38ac01853b72f2acdeb5408054a83b12" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프렌치 디스패치 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
@@ -840,6 +840,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[타짜 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41442</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41442</guid>
+            <pubDate>Tue, 30 Nov 2021 23:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50841592373144d55b6128a1ed5624da540cb232" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
@@ -848,12 +856,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[타짜 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=41442</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=41442</guid>
-            <pubDate>Tue, 30 Nov 2021 23:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50841592373144d55b6128a1ed5624da540cb232" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[너에게 가는 길 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
+            <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[베네데타 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -918,14 +926,6 @@
             <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라임크라임 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145311</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145311</guid>
-            <pubDate>Wed, 01 Dec 2021 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498213e6c861c0f1e83304458c3f5d65b70ea3c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[호빗: 다섯 군대 전투 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1968,6 +1968,78 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98673b62a2bd99f3d88c080ba2ed2b3ac9976ee2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['유체이탈자' 개봉 2주차 1위..K-콘텐츠 저력[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201131735602</link>
+            <guid>https://v.daum.net/v/20211201131735602</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;기발한 상상력과 색다른 연출, 압도적 액션 등 다채로운 관람 포인트로 극장가를 사로잡은 영화 '유체이탈자'가 개봉 2주차에도 한국영화 예매율 1위의 자리를 굳건히 지키고 있어 눈길을 끈다. 개봉과 동시에 극장가에 짜릿한 액션 쾌감을 선사하며 남녀노소 관객들의 뜨거운 사랑을 받고 있는 영화 '유체이탈자'(감독 윤재근, 제공 에이비오엔]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fpoctan%2F20211201131736104ebwk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식]'이터널스', '블랙위도우' 제치고 올해 최고 외화 흥행작 등극..300만 돌파 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201131624579</link>
+            <guid>https://v.daum.net/v/20211201131624579</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]영화 '이터널스'(클로이 자오 감독) 2021년 외화 최고 흥행작으로 등극했다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '이터널스'가 1일 오전 9시 30분 기준 누적 관객수 300만503명을 달성했다. 이는 7월 개봉한 '블랙 위도우'의 누적 관객수(296만명)을 넘어선 것. '블랙 위도우' 보다 더 빠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2FSpoChosun%2F20211201131624567klca.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["이렇게 사랑스러웠나?" 전종서 '연애 빠진 로맨스'로 로코 데뷔 성공 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201130218248</link>
+            <guid>https://v.daum.net/v/20211201130218248</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 전종서가 '연애 빠진 로맨스'로 멜로 데뷔를 성공적으로 해냈다. 영화 '연애 빠진 로맨스'(감독 정가영)는 연애는 싫지만 외로운 건 더 싫은 ‘자영’(전종서)과 일도 연애도 뜻대로 안 풀리는 ‘우리’(손석구), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 작품이다. 전종서가 마음만은 연애에서 은퇴한 ‘자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fnewsen%2F20211201130220585gdro.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["출연료 깎아서라도 무조건 참여"..'해피 뉴 이어' 한지민·이동욱→강하늘·임윤아, 힐링 멜로 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201125252934</link>
+            <guid>https://v.daum.net/v/20211201125252934</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '해피 뉴 이어'가 한지민, 이동욱, 강하늘, 임윤아 등 역대급 캐스팅 라인업으로 예비 관객들의 기대감을 높였다. 티빙 오리지널 영화 '해피 뉴 이어' 측은 1일 오전, 온라인 제작보고회를 진행했다. 연출을 맡은 곽재용 감독과 출연 배우 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fmydaily%2F20211201125252794soyf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["14인 14색" '해피뉴이어' 이동욱·원진아·강하늘·윤아..연말연시 빛낼 로코[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201125021889</link>
+            <guid>https://v.daum.net/v/20211201125021889</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;14인 14색 러브 스토리가 온다. 1일 온라인을 통해 새 한국영화 ‘해피 뉴 이어’의 제작보고회가 진행된 가운데 이 자리에 연출을 맡은 곽재용 감독과 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안 등의 배우들이 참석했다. 영화 ‘해피 뉴 이어’(제공배급 CJ ENM 티빙(TVING), 제작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fpoctan%2F20211201125021301rfgg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["사위가 로맨스"..'해피 뉴 이어', ♥장인 만난 한지민·임윤아 등 14人(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201123150543</link>
+            <guid>https://v.daum.net/v/20211201123150543</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '로맨스 장인'을 만난 톱 배우들은 어떤 사랑 이야기를 보여줄까. 연말 출격할 '해피 뉴 이어'가 화려한 캐스팅으로 예비 관객들의 기대감을 높인다. 1일 오전 온라인으로 영화 '해피 뉴 이어'(감독 곽재용)의 제작보고회가 열렸다. 이날 제작보고회에는 곽재용 감독을 비롯해 한지민, 이동욱, 강하늘, 임윤아, 원진아,, 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2FNEWS1%2F20211201123152127rbct.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합] "코로나·마스크 없어"..'해피 뉴 이어' 한지민·이동욱→이광수 14人이 선사할 따뜻한 연말 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201122701418</link>
+            <guid>https://v.daum.net/v/20211201122701418</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 한지민, 이동욱, 강하늘, 임윤아라는 톱스타부터 영화계 신예까지 연말을 따뜻하게 해줄 영화 '해피 뉴 이어'가 14인 14색의 이야기로 찾아온다.1일 영화 '해피 뉴 이어'의 온라인 제작보고회가 열렸다. 곽재용 감독과 배우 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안이 참석했다.'해피]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2F10asia%2F20211201122704149fnzr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["힐링하길"..'해피 뉴 이어'가 그릴 14人 7色 로맨스 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201122638410</link>
+            <guid>https://v.daum.net/v/20211201122638410</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 해피 뉴 이어 / 사진=티빙, CJ ENM 제공 연말연시 설렘 지수를 높여줄 영화가 찾아온다. 화려한 캐스팅으로 무장한 영화 '해피 뉴 이어'다. 1일 오전 영화 '해피 뉴 이어'(감독 곽재용) 제작보고회가 온라인으로 진행됐다. 이날 행사에는 곽재용 감독을 비롯해 배우 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fstarnews%2F20211201122642634fyoc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해피 뉴 이어' 한지민X김영광→강하늘X임윤아가 만드는 한국판 '러브 액츄얼리' [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211201122440366</link>
+            <guid>https://v.daum.net/v/20211201122440366</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '해피 뉴 이어'가 각양각색의 배우들과 이야기로 관객들을 찾을 예정이다. 1일 오전 티빙 오리지널 영화 '해피 뉴 이어'(감독 곽재용)의 제작보고회가 온라인으로 진행됐다. 현장에는 배우&nbsp;한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안, 곽재용 감독이 참석했다. '해피 뉴 이어'는&nbsp;저마다의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fxportsnews%2F20211201122442615gpqq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['해피 뉴 이어' 한지민 "현실에서도 짝사랑 많이 했다" (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211201120417911</link>
             <guid>https://v.daum.net/v/20211201120417911</guid>
@@ -2056,78 +2128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fnewsen%2F20211201115258629yliv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[한지민 "실제로 짝사랑 많이 해봤다"('해피 뉴 이어') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201115201334</link>
-            <guid>https://v.daum.net/v/20211201115201334</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 한지민이 “일에 있어서 프로다운 모습이 있는데 연애에 있어서 허당기가 있다”라고 밝혔다. 한지민은 1일 오전 온라인을 통해 진행된 영화 ‘해피 뉴 이어’의 제작보고회에서 “15년된 남사친이 분명 자신을 좋아한다고 생각하고 용기를 내 고백을 망설이는 인물”이라며 이같이 말했다. ‘해피 뉴 이어’(제공배급 CJ ENM 티빙(TVI]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fpoctan%2F20211201115201222twgu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피뉴이어' 이동욱-원진아 "사내 연예 커플로 출연" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201115152325</link>
-            <guid>https://v.daum.net/v/20211201115152325</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1일 오전 영화 '해피 뉴 이어'의 제작보고회가 온라인으로 진행되었다. 이날 행사에는 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안, 곽재용 감독이 참석해 영화에 대해 이야기했다. 호텔의 대표를 연기한 이동욱은 "짝수 강박증이 있는 인물이다. 제 방 담당의 하우스 키퍼를 만나며 사랑에 빠지게 된다"며 원진아와의 관]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2FiMBC%2F20211201115156813eyun.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피뉴이어' 한지민-김영광-고성희 "세 사람의 삼각관계, 결과는 영화를 통해" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201114942219</link>
-            <guid>https://v.daum.net/v/20211201114942219</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1일 오전 영화 '해피 뉴 이어'의 제작보고회가 온라인으로 진행되었다. 이날 행사에는 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안, 곽재용 감독이 참석해 영화에 대해 이야기했다. 김영광의 오랜 여사친이면서 고성희와 삼각관계의 역할인 한지민은 "분명 저에게 마음이 있는 줄 알았고 그래서 고백을 하려는 순간 결혼을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2FiMBC%2F20211201114943801yjrh.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피뉴이어' 곽재용 감독 "제 사위가 로맨스..저는 로맨스 장인" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201114852194</link>
-            <guid>https://v.daum.net/v/20211201114852194</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=영상 캡처'해피 뉴 이어' 곽재용 감독이 로맨스에 대한 자신감을 드러냈다. 1일 오전 티빙 '해피 뉴 이어'(감독 곽재용) 제작보고회가 온라인 화상으로 진행 됐다. 이날 행사에는 곽재용 감독을 비롯해 배우 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안이 참석했다. '해피 뉴 이어'는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fstarnews%2F20211201115805677cxep.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴 이어' 원진아 "촬영장 분위기, 곽재용 감독 덕에 몽글몽글" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201114808157</link>
-            <guid>https://v.daum.net/v/20211201114808157</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 원진아가 화기애애했던 '해피 뉴 이어' 촬영장 분위기를 귀띔했다. 원진아는 12월 1일 온라인으로 진행된 영화 '해피 뉴 이어'(감독 곽재용) 제작보고회에서 곽재용 감독의 유머감각을 언급했다. 영화 '해피 뉴 이어'는 저마다의 사연을 안고 호텔 엠로스를 찾은 사람들이 각자의 방식으로 자신만의 인연을 만들어가는 이야기다.  한지민,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fnewsen%2F20211201114808896ipjn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피뉴이어' 이동욱X이광수 "출연료 깎아서라도 합류하고 싶었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201114315915</link>
-            <guid>https://v.daum.net/v/20211201114315915</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 백지연 기자] '해피 뉴 이어' 배우 이동욱이 출연료를 깎아서라도 작품에 임하고 싶었다고 알렸다. 1일 오전 영화 '해피 뉴 이어'(극본·연출 곽재용) 제작발표회가 진행돼 곽재용 감독을 비롯해 한지민, 이동욱, 김영광, 원진아, 강하늘 등 배우가 참석했다. '해피 뉴 이어'는 호텔 엠로스를 중심으로 15년째 고백을 망설이는 인물, 모두가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fsportstoday%2F20211201114316645gewv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴이어' 이동욱 "출연료 깎아서라도 꼭 출연하고 싶었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201114209863</link>
-            <guid>https://v.daum.net/v/20211201114209863</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 이동욱이 “호텔의 대표로서 젊고 능력 있는 인물이다”라고 밝혔다. 이동욱은 1일 오전 온라인을 통해 진행된 영화 ‘해피 뉴 이어’의 제작보고회에서 “하지만 짝수 강박증을 갖고 있다. 보이는 모든 것이 짝수가 아니면 불안해한다”라며 이같이 소개했다. ‘해피 뉴 이어’(제공배급 CJ ENM 티빙(TVING), 제작 하이브미디어코프]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fpoctan%2F20211201114210016bime.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['해피 뉴 이어' 이동욱 "화려한 캐스팅, 출연료 깎아서라도 참여해야" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201114105812</link>
-            <guid>https://v.daum.net/v/20211201114105812</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이동욱이 '해피 뉴 이어'에 "출연료를 깎아서라도 나오고 싶었다"며 애착을 드러냈다. 이동욱은 12월 1일 온라인으로 진행된 영화 '해피 뉴 이어'(감독 곽재용) 제작보고회에서 화려한 캐스팅의 일원으로 참여한 소감을 밝혔다. 12월 중 공개되는 영화 '해피 뉴 이어'는 저마다의 사연을 안고 호텔 엠로스를 찾은 사람들이 각자의 방식으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fnewsen%2F20211201114105404ozxq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이동욱 "개런티 깎아서라도 참여하고 싶었던 '해피뉴이어'" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211201114001752</link>
-            <guid>https://v.daum.net/v/20211201114001752</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이동욱이 '해피 뉴 이어'에 대한 자신감을 드러냈다.&nbsp; 12월 1일 곽재용 감독의 신작 '해피 뉴 이어'의 제작보고회가 온라인으로 진행됐다. 이날 행사에는 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안, 곽 감독이 참석했다.&nbsp; '도깨비' 저승사자부터 '구미호뎐' 구미호까지 인간계를 초월한 로맨틱함으로 많은 사랑]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fked%2F20211201114005106rwjh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[27살의 고니..'타짜', 또 보고 싶은 관람포인트 '셋' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211201090053327</link>
             <guid>https://movie.v.daum.net/v/20211201090053327</guid>
@@ -2136,20 +2136,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fstarnews%2F20211201090055150kkqn.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[애프터 청룡]조인성, 이런 인성 좋은 배우가 있네요..시상식 참석 연예인의 교과서 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130072505634</link>
-            <guid>https://movie.v.daum.net/v/20211130072505634</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['시상식 참석의 정석'이다. 연말연시 각종 시상식이 줄줄이 열리는 시즌, 참석 연예인들은 제42회 청룡영화상 시상식을 빛낸 조인성의 '품격'을 교과서로 삼으면 되겠다. 이번 청룡영화상에서 조인성이 출연한 영화 '모가디슈'는 최우수작품상, 감독상, 남우조연상, 미술상, 최다관객상, 청정원 인기스타상까지 무려 6관왕을 달성했다. '모가디슈'에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130072505842xhke.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[CJ ENM, 11개월간 못넘은 손익분기점.. '인해전술' '해피 뉴 이어'는 통과할까[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211201070101071</link>
             <guid>https://movie.v.daum.net/v/20211201070101071</guid>
             <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=김지원 기자]《김지원의 인서트》영화 속 중요 포인트를 확대하는 인서트 장면처럼 김지원 텐아시아 기자가 매주 수요일 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다.영화 '연애 빠진 로맨스'가 부진을 면치 못하고 있다. 이에 배급사 CJ ENM은 10여명의 최정상급 배우들을 앞세운 '해피 뉴 이어'를 연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2F10asia%2F20211201104304476aolz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2F10asia%2F20211201104304476aolz.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[[애프터 청룡]조인성, 이런 인성 좋은 배우가 있네요..시상식 참석 연예인의 교과서 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130072505634</link>
+            <guid>https://movie.v.daum.net/v/20211130072505634</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['시상식 참석의 정석'이다. 연말연시 각종 시상식이 줄줄이 열리는 시즌, 참석 연예인들은 제42회 청룡영화상 시상식을 빛낸 조인성의 '품격'을 교과서로 삼으면 되겠다. 이번 청룡영화상에서 조인성이 출연한 영화 '모가디슈'는 최우수작품상, 감독상, 남우조연상, 미술상, 최다관객상, 청정원 인기스타상까지 무려 6관왕을 달성했다. '모가디슈'에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130072505842xhke.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[설원에서 펼쳐지는 범죄 스릴러 영화 3 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2168,14 +2168,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fmydaily%2F20211130211403736egeh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['故다이애나 변신' 크리스틴 스튜어트, 2022 아카데미 여우주연상 확률 ↑ (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130165940072</link>
-            <guid>https://movie.v.daum.net/v/20211130165940072</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp; 영국 전 왕세자비인 다이애나 스펜서의 이야기를 다룬 파블로 라라인 감독의 신작 '스펜서'의 주연 배우 크리스틴 스튜어트가 29일(현지시간) 미국 뉴욕에서 열린 제 31회 고담어워즈에서 배우 공로상을 수상했다. 배우 공로상 시상자로는 영화 '스틸 앨리스'에서 크리스틴 스튜어트와 호흡을 맞췄던 아카데미 수상 배우 줄리안 무어와 '스펜]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fpoctan%2F20211130165940588tjwt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[이제훈 연출 '블루 해피니스', 정해인 의리의 노 개런티 출연 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211130102025468</link>
             <guid>https://movie.v.daum.net/v/20211130102025468</guid>
@@ -2192,6 +2184,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Filgansports%2F20211201083035033wiid.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["본 적 없던 섹시한 경찰들"..조진웅X최우식 '경관의 피', 스틸 공개 눈길 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130083434736</link>
+            <guid>https://movie.v.daum.net/v/20211130083434736</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]조진웅·최우식 주연의 범죄영화 '경관의 피'(이규만 감독, 리양필름㈜ 제작)가 카리스마와 매력을 모두 장착한 1차 보도스틸을 공개한다. 공개된 스틸에는 조진웅, 최우식, 박희순, 권율, 박명훈까지 매력적인 배우들이 캐릭터에 완벽 몰입한 현장을 확인할 수 있다. 광역수사대 반장으로 활약하는 박강윤 역의 조진웅]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130083434382bbkc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[박스오피스IS] 40만↑ '유체이탈자' 1위..'연애빠진로맨스' 2위 투톱 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211201073733567</link>
             <guid>https://movie.v.daum.net/v/20211201073733567</guid>
@@ -2200,12 +2200,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Filgansports%2F20211201073736409ynya.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["본 적 없던 섹시한 경찰들"..조진웅X최우식 '경관의 피', 스틸 공개 눈길 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130083434736</link>
-            <guid>https://movie.v.daum.net/v/20211130083434736</guid>
+            <title><![CDATA['故다이애나 변신' 크리스틴 스튜어트, 2022 아카데미 여우주연상 확률 ↑ (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130165940072</link>
+            <guid>https://movie.v.daum.net/v/20211130165940072</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 이승미 기자]조진웅·최우식 주연의 범죄영화 '경관의 피'(이규만 감독, 리양필름㈜ 제작)가 카리스마와 매력을 모두 장착한 1차 보도스틸을 공개한다. 공개된 스틸에는 조진웅, 최우식, 박희순, 권율, 박명훈까지 매력적인 배우들이 캐릭터에 완벽 몰입한 현장을 확인할 수 있다. 광역수사대 반장으로 활약하는 박강윤 역의 조진웅]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130083434382bbkc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp; 영국 전 왕세자비인 다이애나 스펜서의 이야기를 다룬 파블로 라라인 감독의 신작 '스펜서'의 주연 배우 크리스틴 스튜어트가 29일(현지시간) 미국 뉴욕에서 열린 제 31회 고담어워즈에서 배우 공로상을 수상했다. 배우 공로상 시상자로는 영화 '스틸 앨리스'에서 크리스틴 스튜어트와 호흡을 맞췄던 아카데미 수상 배우 줄리안 무어와 '스펜]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fpoctan%2F20211130165940588tjwt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN피플] 집안싸움? 박소담·최우식·송강호, 시의 적절한 새해 극장가 '출격' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2232,6 +2232,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2FSpoChosun%2F20211201085428765acnf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['킹스맨 : 퍼스트 에이전트', 최고의 매력 갖춘 캐릭터 총출동 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211201093605620</link>
+            <guid>https://movie.v.daum.net/v/20211201093605620</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='킹스맨 : 퍼스트 에이전트'12월 22일 개봉을 확정한는 영화 '킹스맨: 퍼스트 에이전트'가 최초의 독립 정보기관 '킹스맨'의 탄생을 함께한 역대급 매력의 캐릭터들을 담아낸 캐릭터 포스터와 예고편을 최초 공개했다. '킹스맨: 퍼스트 에이전트' 캐릭터 포스터는 최초의 독립 정보기관 '킹스맨'을 이끌며 자신만의 신념을 지켜온]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fstarnews%2F20211201093606228oiyu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] '돌파감염 확진' 정우성, 청룡영화상 역학조사와 무관 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211201094952139</link>
+            <guid>https://movie.v.daum.net/v/20211201094952139</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[아시아경제 이이슬 기자] 코로나19 백신 2차 접종을 마친 배우 정우성이 확진 판정을 받은 가운데, 사흘 전 참석한 청룡영화상 일정은 역학 조사에 포함되지 않는 것으로 알려졌다. 1일 영화계 관계자는 아시아경제에 "정우성이 지난 29일 유전자증폭(PCR) 검사에서 양성판정을 받아 자가격리에 돌입했다"며 "방역 당국 조사 결과, 사흘 전 열린 청룡영화상 일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fakn%2F20211201094953806hoyn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스펜서' 크리스틴 스튜어트, '2021 고담 어워즈' 배우 공로상 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211130160853227</link>
+            <guid>https://movie.v.daum.net/v/20211130160853227</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 크리스틴 스튜어트. 사진=게티이미지코리아‘스펜서’ 크리스틴 스튜어트, ‘2021 고담 어워즈’ 배우 공로상 영화 ‘스펜서’에서 故 다이애나 영국 왕세자비 역을 맡아 전 세계적 화제를 모으고 있는 배우 크리스틴 스튜어트가 11월 29일(현지시각) 뉴욕에서 열린 2021년 고담 어워즈에서 배우 공로상을 수상했다. 영국 전 왕세자비인 다이애나 스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fsportsdonga%2F20211130160855619nlsi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['매트릭스: 리저렉션' 캐릭터 포스터 공개, 새로운 전설의 주역들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211129171609393</link>
             <guid>https://movie.v.daum.net/v/20211129171609393</guid>
@@ -2248,44 +2272,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FSpoChosun%2F20211130072509037itsf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독] '돌파감염 확진' 정우성, 청룡영화상 역학조사와 무관 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211201094952139</link>
-            <guid>https://movie.v.daum.net/v/20211201094952139</guid>
+            <title><![CDATA[[종합] "코로나·마스크 없어"..'해피 뉴 이어' 한지민·이동욱→이광수 14人이 선사할 따뜻한 연말 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211201122701418</link>
+            <guid>https://movie.v.daum.net/v/20211201122701418</guid>
             <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[아시아경제 이이슬 기자] 코로나19 백신 2차 접종을 마친 배우 정우성이 확진 판정을 받은 가운데, 사흘 전 참석한 청룡영화상 일정은 역학 조사에 포함되지 않는 것으로 알려졌다. 1일 영화계 관계자는 아시아경제에 "정우성이 지난 29일 유전자증폭(PCR) 검사에서 양성판정을 받아 자가격리에 돌입했다"며 "방역 당국 조사 결과, 사흘 전 열린 청룡영화상 일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fakn%2F20211201094953806hoyn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 한지민, 이동욱, 강하늘, 임윤아라는 톱스타부터 영화계 신예까지 연말을 따뜻하게 해줄 영화 '해피 뉴 이어'가 14인 14색의 이야기로 찾아온다.1일 영화 '해피 뉴 이어'의 온라인 제작보고회가 열렸다. 곽재용 감독과 배우 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안이 참석했다.'해피]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2F10asia%2F20211201122704149fnzr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['킹스맨 : 퍼스트 에이전트', 최고의 매력 갖춘 캐릭터 총출동 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211201093605620</link>
-            <guid>https://movie.v.daum.net/v/20211201093605620</guid>
+            <title><![CDATA["출연료 깎아서라도 무조건 참여"..'해피 뉴 이어' 한지민·이동욱→강하늘·임윤아, 힐링 멜로 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211201125252934</link>
+            <guid>https://movie.v.daum.net/v/20211201125252934</guid>
             <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='킹스맨 : 퍼스트 에이전트'12월 22일 개봉을 확정한는 영화 '킹스맨: 퍼스트 에이전트'가 최초의 독립 정보기관 '킹스맨'의 탄생을 함께한 역대급 매력의 캐릭터들을 담아낸 캐릭터 포스터와 예고편을 최초 공개했다. '킹스맨: 퍼스트 에이전트' 캐릭터 포스터는 최초의 독립 정보기관 '킹스맨'을 이끌며 자신만의 신념을 지켜온]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fstarnews%2F20211201093606228oiyu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정해인, 이제훈 연출작 '블루 해피니스' 노개런티 출연한 의리 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130102807786</link>
-            <guid>https://movie.v.daum.net/v/20211130102807786</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 왓챠 오리지널 숏필름 프로젝트 '언프레임드'에서 이제훈이 연출한 영화 '블루 해피니스'에 대세 청춘배우들이 총출동한다. 영화 '블루 해피니스'(감독 이제훈)는 미래에 대한 불안과 고민을 마주한 채 평범한 삶을 꿈꾸는 취준생 찬영이 아무리 애써도 쉬이 잡히지 않는 행복을 쫓아가는 이야기를 담은 작품. 배우 정해인, 이동휘, 김다예,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fnewsen%2F20211130102807774ewzz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['타이거 마스크' 조한선, 존재감 제로→태껸 K히어로..인생캐 예고 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130104024309</link>
-            <guid>https://movie.v.daum.net/v/20211130104024309</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 배우 조한선이 인생 캐릭터를 예고했다. 영화 '타이거 마스크'는 노잼인생으로 살아온 한 남자가 우연히 전설의 호랑이 마스크를 얻게 된 후 하루아침에 다른 사람이 되어 펼치는 K히어로 코믹액션. 조한선은 극중 육건평 역을 맡았다. 육건평은 타이거 마스크를 만난 전과 후가 180도 완전히 달라지는 인물이다. 조한선은 이러한 특]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fxportsnews%2F20211130104026819rnfz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박소담 '특송', 2022년 1월 5일 개봉 확정..런칭 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211130133059967</link>
-            <guid>https://movie.v.daum.net/v/20211130133059967</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] '특송' 배우 박소담의 짜릿한 액션이 온다. 영화 '특송' 측은 30일 "2022년 1월 5일 개봉 확정 지었다"고 밝히며 런칭 포스터를 공개했다. '특송'은 성공률 100%의 특송 전문 드라이버 은하(박소담)가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화다. 런칭 포스터는 눈이 부시게 강렬한 헤드라이트를 내]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fseouleconomy%2F20211130133105361ufws.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '해피 뉴 이어'가 한지민, 이동욱, 강하늘, 임윤아 등 역대급 캐스팅 라인업으로 예비 관객들의 기대감을 높였다. 티빙 오리지널 영화 '해피 뉴 이어' 측은 1일 오전, 온라인 제작보고회를 진행했다. 연출을 맡은 곽재용 감독과 출연 배우 한지민, 이동욱, 강하늘, 임윤아, 원진아, 김영광, 이광수, 고성희, 조준영, 원지안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F01%2Fmydaily%2F20211201125252794soyf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[12시간마다 몸 바뀌는 남자에게 벌어진 음모, 어땠나? (다음 영화 ─ 매거진)]]></title>
