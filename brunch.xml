@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 08:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 09:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 02 Dec 2021 09:15:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Jonx]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FadAE%2Fimage%2FNCTG1ifxwKUkKr1t5B7DMkX-SLI" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[팬서비스일 수밖에 없는 속편]]></title>
+            <link>https://brunch.co.kr/@@1ibV/969</link>
+            <guid>https://brunch.co.kr/@@1ibV/969</guid>
+            <pubDate>Fri, 03 Dec 2021 09:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FaN16Bt3zwxYoKN2EFCqfNSxBKv0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[[감쪽같은 그녀 영화]]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Nov 2021 08:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FNiAtVnSod3BugNC00axRioB526A.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<장르만 로맨스> 이 영화 겉은 바삭, 속은 촉촉하다]]></title>
-            <link>https://brunch.co.kr/@@6dyt/747</link>
-            <guid>https://brunch.co.kr/@@6dyt/747</guid>
-            <pubDate>Wed, 17 Nov 2021 05:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FloDcpZSfWo0jPhppobnTep8WvbA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
