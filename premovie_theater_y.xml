@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 02:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 03:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[엔칸토: 마법의 세계]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
-            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[유체이탈자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔칸토: 마법의 세계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
+            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[연애 빠진 로맨스]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f172ff45e840b9d656366c43072f302047e426f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153426</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153426</guid>
-            <pubDate>Sat, 04 Dec 2021 13:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f5e140e8f8173d2f7e0e5a39b20ca507e9e0d7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[호빗: 다섯 군대 전투]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=73528</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=73528</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 04 Dec 2021 14:11:44 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50841592373144d55b6128a1ed5624da540cb232" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153426</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153426</guid>
+            <pubDate>Sat, 04 Dec 2021 13:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f5e140e8f8173d2f7e0e5a39b20ca507e9e0d7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
