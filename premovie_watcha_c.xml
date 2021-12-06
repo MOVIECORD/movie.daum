@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 04:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 01 Dec 2021 05:13:13 GMT</pubDate>
             <content:encoded><![CDATA[21.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ab6ada017d76f963d1d2e8257733008c4f54474" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[폴리와 함께]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=39398</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=39398</guid>
+            <pubDate>Mon, 06 Dec 2021 05:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F114B051A4B20E0D30C" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
