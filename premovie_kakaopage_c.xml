@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 15:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 16:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[리커버리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=107291</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=107291</guid>
-            <pubDate>Mon, 22 Nov 2021 16:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F17e78c9ba7bb646283d91a8e38be4636fe46ec50" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[스톱]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=94081</link>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 06 Dec 2021 16:16:46 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F161B454B516CAA310E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[제니스 웨딩]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=94901</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=94901</guid>
+            <pubDate>Tue, 07 Dec 2021 16:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00f7d5025fe23d857554e9e1fc5b871c69ff75ea" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
