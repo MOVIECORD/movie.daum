@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 저렇게 될까봐 겁난다]]></title>
+            <link>https://brunch.co.kr/@@5jTv/80</link>
+            <guid>https://brunch.co.kr/@@5jTv/80</guid>
+            <pubDate>Thu, 09 Dec 2021 06:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F2UcXTnbVnwmHrUCL5Xl9654f0tQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[<라스트 나잇 인 소호>낭만과 비극을 품은 런던의 거울]]></title>
             <link>https://brunch.co.kr/@@5XLU/404</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Dec 2021 09:14:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>훈수의 왕]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F73DT%2Fimage%2Fl3VxJpJt4_3C504hY-PPcpkfT7w.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <블루 재스민>과 <어디갔어, 버나뎃>]]></title>
-            <link>https://brunch.co.kr/@@cFuW/60</link>
-            <guid>https://brunch.co.kr/@@cFuW/60</guid>
-            <pubDate>Wed, 01 Dec 2021 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>노란하마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcFuW%2Fimage%2F9BoeMQ0wH59Im8NpftFyyCo2sTk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
