@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[몬스타엑스 : 더 드리밍]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155029</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155029</guid>
-            <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9de9398fdbfde28ae3932ad32f8e1e79dfd8ffe" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[듄]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
@@ -30,6 +22,14 @@
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스타엑스 : 더 드리밍]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155029</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155029</guid>
+            <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9de9398fdbfde28ae3932ad32f8e1e79dfd8ffe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[연애 빠진 로맨스]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[소설가 구보의 하루]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153111</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153111</guid>
-            <pubDate>Wed, 08 Dec 2021 23:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3965d6c2a149a1fc0a4e708a12a96f1e44557ffe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프렌치 디스패치]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
@@ -104,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[왼팔의복서 닉]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153107</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153107</guid>
+            <title><![CDATA[소설가 구보의 하루]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153111</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153111</guid>
             <pubDate>Wed, 08 Dec 2021 23:13:19 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3aef32478f904c31a0526a04bb2a9254e38dead3" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3965d6c2a149a1fc0a4e708a12a96f1e44557ffe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[태일이]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31a7349f2caef57f1af00b89fef63042eb822294" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[왼팔의복서 닉]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153107</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153107</guid>
+            <pubDate>Wed, 08 Dec 2021 23:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3aef32478f904c31a0526a04bb2a9254e38dead3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리슨]]></title>
