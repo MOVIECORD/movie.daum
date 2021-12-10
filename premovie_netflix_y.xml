@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 10 Dec 2021 05:12:31 GMT</pubDate>
             <content:encoded><![CDATA[21.12.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F456942930b07310d31ff31f59c0f540e82cee68c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아리사카]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155531</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155531</guid>
+            <pubDate>Fri, 10 Dec 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2b8a136b691c1e7dfbdbabb84f016bcb7f662d29" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모가디슈]]></title>
@@ -239,12 +247,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe0b96f0611dfb3b1d7cf998be52bf89771532074" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[안녕, 나의 소녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=116628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=116628</guid>
+            <pubDate>Fri, 10 Dec 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a566f942591c118263d5c7673c3a6b1aa7570e6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[프라미싱 영 우먼]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137668</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137668</guid>
             <pubDate>Fri, 10 Dec 2021 03:13:17 GMT</pubDate>
             <content:encoded><![CDATA[21.12.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6334feca17486aaad306eb523bdcfa93340649e3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[민날 무랄리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154686</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154686</guid>
+            <pubDate>Fri, 10 Dec 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd49f29473045389631178ba7612303991cc4e86" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스로부터 1000km]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155752</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155752</guid>
+            <pubDate>Fri, 10 Dec 2021 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae7f3c14303834e6e122a6f3893c2c1332b9f952" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
