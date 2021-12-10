@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 15:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 16:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 07 Dec 2021 16:20:56 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00f7d5025fe23d857554e9e1fc5b871c69ff75ea" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미씽: 사라진 여자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95992</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95992</guid>
+            <pubDate>Fri, 10 Dec 2021 16:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87c470f0a3f3ac61c64f6ac85e52bea8dfcbb8b4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
