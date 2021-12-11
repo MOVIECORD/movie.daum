@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 15:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 16:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가려진 시간]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=95646</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=95646</guid>
-            <pubDate>Fri, 26 Nov 2021 16:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8e9c82332bb44a6709ebc98730198925ba8935" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[시절인연]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=76527</link>
@@ -94,6 +86,14 @@
             <pubDate>Fri, 10 Dec 2021 16:19:15 GMT</pubDate>
             <content:encoded><![CDATA[21.12.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87c470f0a3f3ac61c64f6ac85e52bea8dfcbb8b4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[딜쿠샤]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=93139</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=93139</guid>
+            <pubDate>Sat, 11 Dec 2021 16:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1764df5165a6ad81de0e2fa92930c9857012c1" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
