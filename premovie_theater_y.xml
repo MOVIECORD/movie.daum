@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 13:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 14:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba439af5b010d24007a09e783b6b030b6fb11216" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 뉴욕 다이어리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
-            <pubDate>Wed, 08 Dec 2021 23:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프렌치 디스패치]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
@@ -158,6 +150,14 @@
             <pubDate>Sun, 12 Dec 2021 08:14:23 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 뉴욕 다이어리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Wed, 08 Dec 2021 23:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[티탄]]></title>

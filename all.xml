@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 13:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 14:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -840,14 +840,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba439af5b010d24007a09e783b6b030b6fb11216" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
-            <pubDate>Tue, 30 Nov 2021 23:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
@@ -918,6 +910,14 @@
             <pubDate>Mon, 06 Dec 2021 00:42:04 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Tue, 30 Nov 2021 23:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[티탄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2270,20 +2270,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F12%2FNEWS1%2F20211212090733564acvf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이틀 연속 수상' 고두심 vs 드라마 제작 무산 '번지점프' [업앤다운] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211212100020586</link>
-            <guid>https://movie.v.daum.net/v/20211212100020586</guid>
-            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN고두심이 영화 '빛나는 순간'으로 영화제작가협회상과 올해의 여성영화인시상식에서 수상하는 반면 영화 '번지점프를 하다' 드라마 리메이크는 원작 작가의 반대로 제작이 무산됐다. ▲▲ 배우 고두심이 한국영화제작가협회상과 올해의 여성영화인상에서 각각 수상의 기쁨을 누리게 됐다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F12%2Fstarnews%2F20211212100021503fnfa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['클리포드 더 빅 레드 독' 북미 흥행 성공→2편 제작도 확정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211212135140708</link>
             <guid>https://movie.v.daum.net/v/20211212135140708</guid>
             <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=하수정 기자] 올겨울 어른들에게는 동심을 아이들에게는 신나는 어드벤처를 선사할 최고 기대작 '클리포드 더 빅 레드 독'(감독 월트 베커, 제작 파라마운트픽쳐스, 배급 롯데엔터테인먼트)이 북미 흥행 성공에 힘입어 국내 개봉 전부터 2편 제작을 확정 지어 화제를 모으고 있다.&nbsp; 사랑받을수록 커~지는 강아지 클리포드와 12살 소녀 에밀리가 운명처럼 만]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F12%2Fpoctan%2F20211212135142035iyre.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이틀 연속 수상' 고두심 vs 드라마 제작 무산 '번지점프' [업앤다운] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211212100020586</link>
+            <guid>https://movie.v.daum.net/v/20211212100020586</guid>
+            <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN고두심이 영화 '빛나는 순간'으로 영화제작가협회상과 올해의 여성영화인시상식에서 수상하는 반면 영화 '번지점프를 하다' 드라마 리메이크는 원작 작가의 반대로 제작이 무산됐다. ▲▲ 배우 고두심이 한국영화제작가협회상과 올해의 여성영화인상에서 각각 수상의 기쁨을 누리게 됐다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F12%2Fstarnews%2F20211212100021503fnfa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['지옥' 연상호 감독, 김도윤에 '디즈니 영상' 추천한 이유 [★비하인드] (다음영화 뉴스 ─ 인기)]]></title>
