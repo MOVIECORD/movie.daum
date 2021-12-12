@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 22:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 23:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로닌, 마블의 미스터리한 전사]]></title>
+            <link>https://content.v.daum.net/v/kFGfgVBWdz</link>
+            <guid>https://content.v.daum.net/v/kFGfgVBWdz</guid>
+            <pubDate>Sun, 12 Dec 2021 23:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F12%2Fhero_nitko%2F20211212163642151lfwr.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[연기면 연기,외모면 외모 다 갖춘 부러운 월드스타의 또 부러운 근황]]></title>
             <link>https://content.v.daum.net/v/kMatprrEYe</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Dec 2021 08:16:25 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F09%2Fmaxmovie%2F2021120907311291571ld.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[베트남에서 너무 재미있다며 정식으로 돈내고 리메이크한 이 한국영화]]></title>
-            <link>https://content.v.daum.net/v/ksUc2qud62</link>
-            <guid>https://content.v.daum.net/v/ksUc2qud62</guid>
-            <pubDate>Thu, 09 Dec 2021 07:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F09%2Ffeelthemovie%2F20211209065529317fyvn.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
