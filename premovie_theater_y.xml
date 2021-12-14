@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 08:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3965d6c2a149a1fc0a4e708a12a96f1e44557ffe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해피 아워]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
-            <pubDate>Tue, 14 Dec 2021 02:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[포에버 퍼스트 러브]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147462</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147462</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 14 Dec 2021 06:14:56 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이터널스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
+            <pubDate>Tue, 14 Dec 2021 08:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2d3ee4afbc78b44e34534037e17f7f382e1b65c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
