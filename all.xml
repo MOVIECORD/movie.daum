@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 06:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>537,776명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>537,774명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -156,7 +156,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>775,869명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>775,870명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -172,7 +172,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>543,239명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>543,237명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -792,14 +792,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[돈 룩 업 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143035</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143035</guid>
-            <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f68c9c26a9041f134e1cb7feb4e4dbb1840e8da" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153426</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153426</guid>
@@ -814,6 +806,14 @@
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[돈 룩 업 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143035</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143035</guid>
+            <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f68c9c26a9041f134e1cb7feb4e4dbb1840e8da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몬스타엑스 : 더 드리밍 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -880,14 +880,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb63ca4c0749e90ed1029a78ea3d6691d35d16a42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[너에게 가는 길 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
-            <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[소설가 구보의 하루 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153111</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153111</guid>
@@ -926,6 +918,14 @@
             <pubDate>Tue, 14 Dec 2021 05:11:50 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f1e231bf33ac23b347d3021b37950867774f7fa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
+            <pubDate>Tue, 14 Dec 2021 06:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -968,14 +968,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac96ff34e33d0285ae78c82eec9d2564151a217b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노웨어 스페셜 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143893</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
-            <pubDate>Tue, 14 Dec 2021 05:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34ee68e23c182ca7bb74b4b5cc2079117a001c01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔드리스 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141607</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141607</guid>
@@ -1016,6 +1008,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4123c31005612fcdb4acaf7182d4397a9673b3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39887c8100b2aeaffca96f95f0d55e0f47d7c4a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
@@ -1030,6 +1030,14 @@
             <pubDate>Mon, 13 Dec 2021 06:16:16 GMT</pubDate>
             <content:encoded><![CDATA[21.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ac6e989adbec03496bb6eea20b8f58b3d33f3d7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노웨어 스페셜 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143893</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
+            <pubDate>Tue, 14 Dec 2021 05:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34ee68e23c182ca7bb74b4b5cc2079117a001c01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[2솔져스: 배틀필드 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1078,14 +1086,6 @@
             <pubDate>Thu, 09 Dec 2021 00:41:07 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F370c3ae8b4e1f61bfe51c1611343fd51c203fd73" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빅샤크4: 바다공룡 대모험 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154786</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154786</guid>
-            <pubDate>Mon, 13 Dec 2021 10:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F89273f1465a49ef52245bf959454dbb50b56d36d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이소켄의 선택 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2023,6 +2023,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c60d80710ec400895d93fddb51f3e1f1537249146348" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[제보자 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=81355</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=81355</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2535394853FBD03C0A" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[순종 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=106776</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=106776</guid>
@@ -2215,6 +2223,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F862cd1fc261c413c7e9416c3c43d8a411849fed7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[다윗과 골리앗 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108640</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108640</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28da18bc7df062cda72863318344552197f6d1b8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[콘솔 워즈 ([다음영화] 왓챠 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155178</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155178</guid>
@@ -2245,6 +2261,134 @@
             <pubDate>Mon, 13 Dec 2021 05:12:32 GMT</pubDate>
             <content:encoded><![CDATA[21.12.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9412578e769e1b49650fd1bbb857e4be70227459" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스위밍 풀 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=36653</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=36653</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A90B18CADB" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[적인걸2: 신도해왕의 비밀 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=73673</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=73673</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F243A9C4B52429A1502" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘 시크레토 : 비밀의 눈동자 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=55829</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=55829</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F16707A364CBE83B772" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에브리타임 룩 앳 유 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=119236</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=119236</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2f6cd120869f4f87ac6034ff47bcbdba1550453075778" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아 : 디 아베니레 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148882</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148882</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0f625c59a7ef5bfc0ed4dad30e0e11eae76f868" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[좀비 사파리 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=103956</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=103956</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bed968e54126e377b3cdf4d3da55b9225420a65" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크리미널 게임: 보석 사기단 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=119682</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=119682</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47cec62d9e59424e870bc3c79f1fd39c1545379572374" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[버터플라이 복서 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124703</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124703</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0abecd1c3c5cff30281539e16b19ebdec26cc105" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 지구전쟁: 얼리전스 오브 파워 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117423</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117423</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff868cf4019b2d3d5f63aca5dedbd1fb3047cff36" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 히어로: 메모리 리메인즈 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123098</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123098</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8198bf0c292040a4aea683c91d1daf841549590574140" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리틀드래곤 코코넛 2: 정글대탐험 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138638</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138638</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6aae389e32396fb9f8294d597a55e1ed38d0144" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[특수부대 풍운 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153846</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153846</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F06429a2e4ec1c6ddb28d29dea75ba1d123ff16ed" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아 : 더 크레푸스콜로 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148883</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148883</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffcb57690e78a42ddc2cdc6423b4c4e64971ee5bc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[익스트랙션: 솔져스 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139251</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139251</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e168a8f7660d750022d4cad0b8d2e09034535c9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신 강시선생 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152178</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152178</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2998d15dcdbe129e746c653f971d403c99c243b9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드래곤 솔져 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152007</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152007</guid>
+            <pubDate>Tue, 14 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2be16319cf3d109b7cadf18e2bf4a45fd8d5ce79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 로즈 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
@@ -2319,14 +2463,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f8eb18b4c376a9ac368f8becc2526a3f458795a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[2솔져스: 배틀필드 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154042</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154042</guid>
-            <pubDate>Mon, 13 Dec 2021 01:59:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5673172adeb26cccf7eb577dc6b681975f63c56e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[디어 에반 핸슨 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
@@ -2357,6 +2493,30 @@
             <pubDate>Mon, 13 Dec 2021 03:13:59 GMT</pubDate>
             <content:encoded><![CDATA[21.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F408ec2664edb379f4558a4895dc69453bc385e47" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA['화사한 그녀' 엄정화→김재화, 캐스팅 확정..이달 크랭크인[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211214150250568</link>
+            <guid>https://v.daum.net/v/20211214150250568</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '화사한 그녀'가 엄정화, 송새벽, 방민아, 박호산, 손병호, 김재화 등 배우 캐스팅을 확정짓고 본격 촬영에 돌입한다. '화사한 그녀'(감독 이승준, 제작 신영이엔씨 조이앤시네마, 제공배급 제이앤씨미디어그룹)는 인생 역전을 꿈꾸는 지혜(엄정화 분)와 그녀의 딸이 600억 재산을 보유한 문화재 브로커의 집안에 잠입하면서 벌어지는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fpoctan%2F20211214150250293pete.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이혜영X정진영 황혼 로맨스 (해피 뉴 이어) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211214145412213</link>
+            <guid>https://v.daum.net/v/20211214145412213</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 이혜영X정진영 황혼 로맨스 (해피 뉴 이어) 새해를 준비하는 우리 모두의 로맨스를 그린 티빙 오리지널 영화 ‘해피 뉴 이어’에서 이혜영과 정진영이 함께 호흡을 맞춰 빛나는 앙상블을 선보인다. 배우 이혜영과 정진영이 영화 ‘해피 뉴 이어’를 통해 40년 만에 다시 만난 첫사랑으로 호흡을 맞춘다. 영화 ‘해피 뉴 이어’는 저마다의 사연을 안고 호]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fsportsdonga%2F20211214145414061uvfs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['2시의 데이트' 안보현 캐스팅, 김선호 자리 대체한다 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211214144607927</link>
+            <guid>https://v.daum.net/v/20211214144607927</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 배우 안보현이 김선호의 자리를 대신한다. 영화 '2시의 데이트'(감독 이상근·제작 외유내강) 측은 14일 공식입장을 통해 "대세 배우 임윤아와 안보현 두 배우의 캐스팅을 완료하고 2022년 4월 크랭크인을 앞두고 있다"고 밝혔다. '2시의 데이트'는 상상초월 비밀을 가진 아랫집 여자를 윗집 남자가 매일 만나게 되면서 벌어지는 따]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Ftvdaily%2F20211214144610624juqj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[레이디 가가x아담 드라이버 '하우스 오브 구찌', 1월12일 韓극장 개봉 (다음영화 뉴스 ─ 최신)]]></title>
@@ -2495,30 +2655,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fmydaily%2F20211214101615868xsgn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['도그데이즈' 유해진·윤여정·김윤진→이현우·탕준상까지, 역대급 캐스팅 확정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211214100053707</link>
-            <guid>https://v.daum.net/v/20211214100053707</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자]&nbsp;영화 '도그데이즈'(가제)에 배우&nbsp;유해진, 윤여정, 김윤진, 정성화, 김서형, 이현우, 탕준상이 출연한다. 14일 '도그데이즈'(감독 김덕민, 제공배급&nbsp;CJ ENM,&nbsp;제작&nbsp;CJ ENM·JK필름,&nbsp;공동제작&nbsp;자이온 이엔티)&nbsp;측은 유해진, 윤여정, 김윤진, 정성화, 김서형, 이현우, 탕준상 등 출연진의 캐스팅을 확정했다고 밝혔다.&nbsp; '도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fpoctan%2F20211214100054750jpne.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['유체이탈자', '연빠로' 꺾고 1위 탈환 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211214093809853</link>
-            <guid>https://v.daum.net/v/20211214093809853</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '유체이탈자'가 '연애 빠진 로맨스'가 꿰찼던 1위 자리를 되찾았다. 14일 영화진흥위원회 통합전산망에 따르면 영화 '유체이탈자'(감독 윤재근·제작 비에이엔터테인먼트)가 전날 1만248명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 77만5869명이다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Ftvdaily%2F20211214093810640tzpl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정해인X구교환 'D.P.', 시즌2 제작 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211214092533322</link>
-            <guid>https://v.daum.net/v/20211214092533322</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] D.P. / 사진=넷플릭스 'D.P.' 시즌2 제작이 확정됐다. 14일 넷플릭스는 이같은 사실을 밝혔다. 'D.P.'(디피)는 탈영병들을 잡는 군무 이탈 체포조(D.P.) 준호와 호열이 다양한 사연을 가진 이들을 쫓으며 미처 알지 못했던 현실을 마주하는 이야기를 그린 넷플릭스 시리즈다. 'D.P.'는 김보통 작가의 웹툰 'D.P]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fstarnews%2F20211214093748116ygku.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['블랙 팬서' 슈리, 백신 거부로 2편 퇴출설..소식통 "촬영 합류할 것" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211213105039245</link>
             <guid>https://movie.v.daum.net/v/20211213105039245</guid>
@@ -2551,14 +2687,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fseouleconomy%2F20211214091529881iffe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 안보현, 임윤아 만난다..'2시의 데이트' 주연 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214113230128</link>
-            <guid>https://movie.v.daum.net/v/20211214113230128</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] [단독] 안보현, 임윤아 만난다…‘2시의 데이트’ 주연 배우 안보현이 임윤아와 만난다. 14일 동아닷컴 취재 결과 안보현은 영화 ‘2시의 데이트’에 남자 주인공으로 합류한다. 앞서 전 여자친구와의 사생활 스캔들로 작품에서 하차한 김선호의 공백을 완벽하게 메울 것으로 기대된다. 복서와 모델을 거쳐 연기자로 도약한 안보현은 2016년 영화 ‘히야]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fsportsdonga%2F20211214113233208adhs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['로마의 휴일', 영화 속 휴일[클래식의 품격/노혜진의 엔딩 크레디트] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211214030227377</link>
             <guid>https://movie.v.daum.net/v/20211214030227377</guid>
@@ -2573,6 +2701,14 @@
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완전한 성장을 이루는 스파이더맨이 전할 메시지다. 영화 '스파이더맨: 노 웨이 홈(존 왓츠 감독)'이 진정한 히어로로 거듭나는 스파이더맨을 통해 힘있는 메시지를 전할 예정이다. '스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이더맨 피터 파커(톰 홀랜드)가 문제를 해결하기 위해 닥터 스트레인지(베네딕트 컴버배치)의 도움을 받던 중 뜻하지 않게 멀티버스]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Filgansports%2F20211214083207665rxnq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 안보현, 임윤아 만난다..'2시의 데이트' 주연 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214113230128</link>
+            <guid>https://movie.v.daum.net/v/20211214113230128</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] [단독] 안보현, 임윤아 만난다…‘2시의 데이트’ 주연 배우 안보현이 임윤아와 만난다. 14일 동아닷컴 취재 결과 안보현은 영화 ‘2시의 데이트’에 남자 주인공으로 합류한다. 앞서 전 여자친구와의 사생활 스캔들로 작품에서 하차한 김선호의 공백을 완벽하게 메울 것으로 기대된다. 복서와 모델을 거쳐 연기자로 도약한 안보현은 2016년 영화 ‘히야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fsportsdonga%2F20211214113233208adhs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[에베레스트 크기 혜성이 6개월 뒤 지구와 충돌한다면 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2591,14 +2727,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fpoctan%2F20211214075952286gftv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]류승완 "'모가디슈' 모든 관객에 감사..'밀수' 차기작은 '베테랑2'" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214080533144</link>
-            <guid>https://movie.v.daum.net/v/20211214080533144</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '모가디슈' 류승완 감독2021년 한국영화계는 코로나19 팬데믹이 2년째 이어지면서 고난이 쌓이는 한편 새로운 활로를 개척하는 시기였습니다. 한해를 마무리하면서 스타뉴스가 그 속에서 빛났던 올해의 영화인들을 만났습니다. 첫 주자는 '모가디슈' 류승완 감독입니다. 류승완 감독의 '모가디슈'는 올해 가장 많은 관객을 동원한 한국영화이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fstarnews%2F20211214080534869cffe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[안보현, '2시의 데이트' 김선호 빈자리 채운다..4월 크랭크인[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211214132247245</link>
             <guid>https://movie.v.daum.net/v/20211214132247245</guid>
@@ -2607,12 +2735,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fpoctan%2F20211214132247539gbrm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[단독]류승완 "'모가디슈' 모든 관객에 감사..'밀수' 차기작은 '베테랑2'" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214080533144</link>
+            <guid>https://movie.v.daum.net/v/20211214080533144</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '모가디슈' 류승완 감독2021년 한국영화계는 코로나19 팬데믹이 2년째 이어지면서 고난이 쌓이는 한편 새로운 활로를 개척하는 시기였습니다. 한해를 마무리하면서 스타뉴스가 그 속에서 빛났던 올해의 영화인들을 만났습니다. 첫 주자는 '모가디슈' 류승완 감독입니다. 류승완 감독의 '모가디슈'는 올해 가장 많은 관객을 동원한 한국영화이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fstarnews%2F20211214144442719zwsa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[애프터스크리닝] 기억해야 할 명대사의 향연, 설경구가 보여준 캐릭터의 깊이감 '킹메이커' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211213163721082</link>
             <guid>https://movie.v.daum.net/v/20211213163721082</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[▶ 줄거리 세상을 바꾸기 위해 도전하는 정치인 ‘김운범’ 앞에 그와 뜻을 함께하고자 선거 전략가 ‘서창대’가 찾아온다. 열세인 상황 속에서 ‘서창대’는 아무도 상상하지 못한 선거 전략을 펼치고 ‘김운범’은 선거에 연이어 승리하며, 당을 대표하는 대통령 후보까지 올라서게 된다. 대통령 선거를 향한 본격적인 행보가 시작되고 그들은 당선을 위해 총력을 기울인다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2FiMBC%2F20211213163727237optk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 황정민, 전도연과 '길복순' 연기 호흡 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214133532541</link>
+            <guid>https://movie.v.daum.net/v/20211214133532541</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 황정민이 넷플릭스 오리지널 '길(KILL)복순'에 출연한다. 14일 iMBC 취재 결과 황정민이 '길복순'에 합류해 전도연, 설경구, 구교환, 이솜 등과 연기 호흡을 맞출 예정이다.  '길복순'은 여성 킬러의 이야기를 담은 작품이다. 영화 '불한당: 나쁜 놈들의 세상'을 연출한 변성한 감독의 신작으로 기대를 모은다. 설경구, 정도연, 구교환, 이솜]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2FiMBC%2F20211214133533426xeac.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 김선호 하차→안보현 투입 '2시의 데이트', 2022년 4월 크랭크 인 확정 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214140005258</link>
+            <guid>https://movie.v.daum.net/v/20211214140005258</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 사생활 논란으로 하차한 배우 김선호를 대신해 안보현이 투입된 로맨스 코미디 영화 '2시의 데이트'(이상근 감독, 외유내강 제작)가 내년 4월 첫 삽을 뜬다. '엑시트' 이상근 감독과 제작사 외유내강이 다시 조우한 '2시의 데이트'가 2022년 4월 크랭크 인을 앞두고 시나리오 완성 및 남녀 주인공 캐스팅을 확정했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2FSpoChosun%2F20211214140005369chhn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호 하차 '2시의 데이트', 안보현 캐스팅 확정..'임윤아와 로코 호흡' [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214140419473</link>
+            <guid>https://movie.v.daum.net/v/20211214140419473</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 안보현이 영화 '2시의 데이트'에서 갑작스럽게 하차한 김선호의 빈자리를 채운다. 소녀시대 멤버 겸 배우 임윤아의 상대역으로 낙점된 것. 제작사 외유내강 측은 "'2시의 데이트'에 임윤아와 안보현의 캐스팅을 완료했다"라며 "오는 2022년 4월 크랭크인 예정"이라고 공식 입장을 밝혔다. '2시의 데이트'는 상상초월 비밀을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fmydaily%2F20211214140419865fbgg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이현우, '도그 데이즈' 캐스팅..김선호 빈자리 채웠다 [단독] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2631,20 +2791,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fsportsdonga%2F20211214070009330mkho.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[종합IS] 김선호 아웃 '도그데이즈'·'2시의데이트' 캐스팅 재정비 출항 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214132235242</link>
+            <guid>https://movie.v.daum.net/v/20211214132235242</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김선호 하차 이슈를 겪어야 했던 두 편의 영화가 캐스팅을 재정비하고 나란히 공식 출항 소식을 알렸다. 14일 영화 '도그데이즈(가제·김덕민 감독)' 측과 '2시의 데이트(이상근 감독)' 측은 공식 보도자료를 통해 최종 캐스팅 확정 라인업과 크랭크업 일정을 공개했다. '도그데이즈'는 12월 말 첫 촬영을 목표로 하고 있으며, '2시의 데이트'는 2022]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Filgansports%2F20211214132236624abyn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[다니엘 헤니, '도그 데이즈' 출연..윤여정·김윤진·유해진 만난다 [단독] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211213125355335</link>
             <guid>https://movie.v.daum.net/v/20211213125355335</guid>
             <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 다니엘 헤니가 영화 ‘도그 데이즈’에 캐스팅됐다. 13일 OSEN 취재 결과 다니엘 헤니는 최근 ‘도그 데이즈’(감독 김덕민)의 시나리오를 받고 출연을 결정했다. ‘도그 데이즈’는 각양각색의 매력을 지닌 사람들이 반려견과 함께 살며 한층 성장하게 되는 과정을 그린 따뜻한 드라마 장르의 영화. 앞서 윤여정, 김윤진, 유해진 등의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2Fpoctan%2F20211213125355803uqvn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 황정민, 전도연과 '길복순' 연기 호흡 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214133532541</link>
-            <guid>https://movie.v.daum.net/v/20211214133532541</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황정민이 넷플릭스 오리지널 '길(KILL)복순'에 출연한다. 14일 iMBC 취재 결과 황정민이 '길복순'에 합류해 전도연, 설경구, 구교환, 이솜 등과 연기 호흡을 맞출 예정이다.  '길복순'은 여성 킬러의 이야기를 담은 작품이다. 영화 '불한당: 나쁜 놈들의 세상'을 연출한 변성한 감독의 신작으로 기대를 모은다. 설경구, 정도연, 구교환, 이솜]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2FiMBC%2F20211214133533426xeac.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["40년만 다시 만난 첫사랑"..'해피 뉴 이어' 이혜영X정진영의 '황혼 로맨스' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2655,28 +2815,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fmydaily%2F20211214082541973mcwv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[95분 원테이크 '원샷' 12월 개봉..테러집단과 액션 사투극 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211213132934136</link>
-            <guid>https://movie.v.daum.net/v/20211213132934136</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[테러집단과의 대결을 한 테이크로 숨막히게 그려낸다. 독특한 촬영 스타일로 기대감을 높이는 범죄 액션 영화 '원샷(제임스 넌 감독)'이 12월 국내 개봉한다. '원샷'은 예고된 테러의 배후를 아는 놈을 이송하기 위해, 악명 높은 테러리스트들이 수감된 일급비밀의 섬에 도착한 네이비 씰과 놈을 탈옥시키려는 테러단과의 실시간 대결을 그린 단 원테이크의 리얼타]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2Filgansports%2F20211213132938599whjm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[전태일 열사 삶 그린 '태일이', 10만 관객 돌파 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211213093010658</link>
-            <guid>https://movie.v.daum.net/v/20211213093010658</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전태일 열사의 삶을 그려낸 최초의 애니메이션 '태일이'가 10만 관객을 돌파했다. 13일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '태일이'(감독 홍준표)는 주말인 지난 10~12일 동안 관객 5002명을 동원하며 누적 관객 수 10만 92명 기록했다. '태일이'는 1970년 평화시장에서 부당한 노동 환경을 바꾸기 위해 뜨겁게 싸웠던 청년 전태일의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2Fnocut%2F20211213093013879qnqb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합IS] 김선호 아웃 '도그데이즈'·'2시의데이트' 캐스팅 재정비 출항 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214132235242</link>
-            <guid>https://movie.v.daum.net/v/20211214132235242</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김선호 하차 이슈를 겪어야 했던 두 편의 영화가 캐스팅을 재정비하고 나란히 공식 출항 소식을 알렸다. 14일 영화 '도그데이즈(가제·김덕민 감독)' 측과 '2시의 데이트(이상근 감독)' 측은 공식 보도자료를 통해 최종 캐스팅 확정 라인업과 크랭크업 일정을 공개했다. '도그데이즈'는 12월 말 첫 촬영을 목표로 하고 있으며, '2시의 데이트'는 2022]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Filgansports%2F20211214132236624abyn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이정재가 골든 글로브를 들어올릴 수 있을까? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/k8M7QmtHMO</link>
+            <guid>https://content.v.daum.net/v/k8M7QmtHMO</guid>
+            <pubDate>Tue, 14 Dec 2021 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2FBoiledMovie%2F20211214061311274byld.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[은퇴 번복한 '스파이더맨', 4편에서도 활약할까? (다음 영화 ─ 매거진)]]></title>
@@ -2829,14 +2973,6 @@
             <pubDate>Fri, 10 Dec 2021 23:13:55 GMT</pubDate>
             <content:encoded><![CDATA[씨네플레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F09%2Fcineplay%2F20211209065159537lgaf.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 정도면 반칙 아닙니까? 출연진만 봐도 황홀한 할리우드 초호화 캐스팅 영화 10편 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/kMYB5k5sWf</link>
-            <guid>https://content.v.daum.net/v/kMYB5k5sWf</guid>
-            <pubDate>Fri, 10 Dec 2021 23:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[씨네플레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F09%2Fcineplay%2F20211209064424754esws.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[신박하고 잔잔하면서 씁쓸한 맛 (다음 영화 ─ 브런치)]]></title>
