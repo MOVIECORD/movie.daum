@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 03:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 04:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -816,14 +816,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
-            <pubDate>Thu, 18 Nov 2021 00:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[돈 룩 업 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143035</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143035</guid>
@@ -854,6 +846,14 @@
             <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 디스패치 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129414</guid>
+            <pubDate>Thu, 18 Nov 2021 00:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[티탄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2430,6 +2430,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F408ec2664edb379f4558a4895dc69453bc385e47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[TEN리뷰] '스파이더맨: 노 웨이 홈', 멀티버스로 하나 된 역대 스파이더맨..MCU의 분기점 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211215130102018</link>
+            <guid>https://v.daum.net/v/20211215130102018</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]3개의 '스파이더맨'이 차원의 문이 열리며 하나의 세계관으로 통합을 이뤘다. 각기 다른 팀에서 에이스로 활동하던 선수들이 올스타전에서 하나의 팀으로 뭉치는 것처럼, 3명의 스파이더맨이 원팀으로 뭉치는 순간이 짜릿하다.지금껏 평범한 고등학생이라는 사실을 비밀로 한 채 스파이더맨으로 살아온 피터 파커. 미스테리오로 인해 정체가 까발려지고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2F10asia%2F20211215130108176gcco.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['킹메이커' 알고 보면 더 재밌는 제작 비하인드 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211215122606443</link>
+            <guid>https://v.daum.net/v/20211215122606443</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '킹메이커'가 알고 보면 더욱 재미있는 제작 비하인드를 공개했다. 영화 '킹메이커'(감독 변성현·제작 씨앗필름)는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마다. '킹메이커'의 알고 보면 더욱 재미있는 포인트 중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Ftvdaily%2F20211215122609642gofj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['하우스 오브 구찌' 13개국 박스오피스 1위..1월12일 韓개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211215122606442</link>
+            <guid>https://v.daum.net/v/20211215122606442</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '하우스 오브 구찌'가 화려한 볼거리로 전 세계 관객들을 사로잡으며 폭발적인 관심을 불러일으키고 있다. 세기의 거장 리들리 스콧 감독이 연출을 맡고 레이디 가가, 아담 드라이버, 자레드 레토, 제레미 아이언스, 알 파치노 등 이름만으로도 기대를 높이는 할리우드 최고 배우들의 캐스팅으로 화제를 모은 '하우스 오브 구찌'가 놀라운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fpoctan%2F20211215122607753hkmd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['드라이브 마이 카' 니시지마 히데토시 "송강호 팬, 함께 연기하고파" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211215120528079</link>
             <guid>https://v.daum.net/v/20211215120528079</guid>
@@ -2566,28 +2590,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Ftvdaily%2F20211215104008333bicn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC초점] "위드코로나X마동석이 살린 11월 극장"..11월 극장 위너 '이터널스', 올해 관객수 최고치 경신 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211215103642317</link>
-            <guid>https://v.daum.net/v/20211215103642317</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 위드코로나로 잠깐의 흥행 물꼬를 튼 11월 극장가, 승자는 마블의 '이터널스'(클로이 자오 감독)였다. 지난 11월 1일부터 위드코로나가 시행되면서 영화관 영업시간 제한이 풀렸다. 백신패스관에서는 취식 허용과 함께 좌석 띄어앉기가 해제됐다. 여기에 11월 1일부터 영화관 입장료 할인권 지원사업이 실행되었고, 11월]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2FSpoChosun%2F20211215103643027phhq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[배두나X공유가 마주한 미스터리..'고요의 바다', 메인 포스터 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211215103016031</link>
-            <guid>https://v.daum.net/v/20211215103016031</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 고요의 바다 / 사진=넷플릭스'고요의 바다'가 강렬한 비주얼의 메인 포스터를 공개했다. 15일 넷플릭스 측은 '고요의 바다'의 거대한 미스터리 시작을 알리는 메인 포스터를 공개해 기대감을 높였다. '고요의 바다'는 필수 자원의 고갈로 황폐해진 근미래의 지구, 특수 임무를 받고 달에 버려진 연구기지로 떠난 정예 대원들의 이야기를 담은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fstarnews%2F20211215103017868xkpi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["쉿!"..'스파이더맨: 노 웨이 홈' 최고 예매 개봉, 스포와의 전쟁 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211215103004018</link>
-            <guid>https://v.daum.net/v/20211215103004018</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 스파이더맨: 노 웨이 홈 / 사진=영화 포스터 '스파이더맨: 노 웨이 홈'이 개봉하는 가운데, 스포일러(영화 등의 줄거리나 내용을 예비 관객에서 미리 밝히는 행위)와의 전쟁이 선포됐다. 영화 '스파이더맨: 노 웨이 홈'이 팬데믹 이후 사전 예매량 최고치를 달성한 가운데, 15일 개봉했다. 이날 영화진흥위원회 영화관입장권통합전산망에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fstarnews%2F20211215103007258ckcj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[홍종선의 배우발견⑭-2] 강인해진 티모시 살라메, 이젠 우리의 미래를 지키는 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211213161651445</link>
+            <guid>https://movie.v.daum.net/v/20211213161651445</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘핫 썸너 나이츠’를 통해 마음껏 망가지고 거칠어졌지만, 그래도 ‘소년’이었다. 티모시 살라메에게서 소년의 기운을 털어내고 남자로 각인시킨 영화가 있었으니 ‘더 킹: 헨리 5세’(감독 데이비드 미쇼, 배급 넷플릭스, 2019)이다.이 영화에서 티모시 살라메는 새로운 왕의 모습을 보여 주었다. 흔히 역사고전극에서 왕은 용맹하고 지혜로운 왕이거나 광기 어린 폭]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2Fdailian%2F20211213161654829bjet.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[[애프터스크리닝] 무라카미 하루키의 단편을 영화로, 상실과 위로의 이야기 '드라이브 마이 카' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
@@ -2598,28 +2606,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2FiMBC%2F20211214224538809knra.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[홍종선의 배우발견⑭-2] 강인해진 티모시 살라메, 이젠 우리의 미래를 지키는 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211213161651445</link>
-            <guid>https://movie.v.daum.net/v/20211213161651445</guid>
-            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘핫 썸너 나이츠’를 통해 마음껏 망가지고 거칠어졌지만, 그래도 ‘소년’이었다. 티모시 살라메에게서 소년의 기운을 털어내고 남자로 각인시킨 영화가 있었으니 ‘더 킹: 헨리 5세’(감독 데이비드 미쇼, 배급 넷플릭스, 2019)이다.이 영화에서 티모시 살라메는 새로운 왕의 모습을 보여 주었다. 흔히 역사고전극에서 왕은 용맹하고 지혜로운 왕이거나 광기 어린 폭]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2Fdailian%2F20211213161654829bjet.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[BTS 노래 '씽2게더'에서 듣는다..글로벌 팝스타 히트곡 총망라 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211215084811820</link>
             <guid>https://movie.v.daum.net/v/20211215084811820</guid>
             <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 팝스타들의 히트곡을 모두 만날 수 있다. 영화 '씽2게더'는 U2, 콜드플레이, 테일러 스위프트, 빌리 아일리시, 아델, 숀 멘데스, 카밀라 카베요, 그리고 BTS까지 최고의 글로벌 팝스타들의 히트곡 40여곡이 담길 것을 알려 기대감을 높이고 있다. '씽2게더는 오디션 그 이후 전 세계가 주목하는 쇼 스테이지에 오르기 위한 크루들의 고군분투 도]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Filgansports%2F20211215084814138fhsu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['매트릭스4' 새로운 스토리 공개 "기억 잃은 네오 다시 빨간약" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214164333245</link>
-            <guid>https://movie.v.daum.net/v/20211214164333245</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[네오가 18년 만에 돌아온다. 12월 22일 개봉하는 영화 '매트릭스: 리저렉션(라나 워쇼스키 감독)'이 2D, 2D IMAX, 4DX, 수퍼4D, 돌비 비전과 돌비 애트모스가 적용된 돌비 시네마로 상영된다. 상영 포맷 확정과 함께 그간 베일에 가려져 있떤 스토리를 일부 공개했다. 공개된 스토리에 따르면 구원자인 자신의 존재를 잊은 채 토마스 앤더슨으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Filgansports%2F20211214164333954ukfn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['스파이더맨: 노 웨이 홈' 오늘(15일) 개봉..예매율 95.4% '흥행 예고' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2646,12 +2638,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Filgansports%2F20211215090410826clpu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['웨스트 사이드 스토리' 제79회 골든글로브 작품상 포함 4개 부문 노미네이트 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214174300173</link>
-            <guid>https://movie.v.daum.net/v/20211214174300173</guid>
+            <title><![CDATA['매트릭스4' 새로운 스토리 공개 "기억 잃은 네오 다시 빨간약" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214164333245</link>
+            <guid>https://movie.v.daum.net/v/20211214164333245</guid>
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 스티븐 스필버그 감독의 첫 번째 뮤지컬 영화 '웨스트 사이드 스토리'가 제79회 골든글로브 시상식의 4개 부문에 노미네이트됐다. '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는 마리아와 토니의 사랑과 용기를 그린 작품이다. '웨스트 사이드 스토리'가 13일(이하 현지시각), 제79회]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fxportsnews%2F20211214174302016qbpu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[네오가 18년 만에 돌아온다. 12월 22일 개봉하는 영화 '매트릭스: 리저렉션(라나 워쇼스키 감독)'이 2D, 2D IMAX, 4DX, 수퍼4D, 돌비 비전과 돌비 애트모스가 적용된 돌비 시네마로 상영된다. 상영 포맷 확정과 함께 그간 베일에 가려져 있떤 스토리를 일부 공개했다. 공개된 스토리에 따르면 구원자인 자신의 존재를 잊은 채 토마스 앤더슨으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Filgansports%2F20211214164333954ukfn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[OTT 위크] 시즌, 오리지널 영화 '낫아웃'은 무슨 영화? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211215090107185</link>
+            <guid>https://movie.v.daum.net/v/20211215090107185</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[seezn(시즌) 오리지널 영화 ‘낫아웃’의 주연을 맡은 배우 정재광이 ‘제42회 청룡영화상’에서 신인남우상을 받으며 작품에 대한 관심이 증폭되고 있다. 지난 6월 개봉한 ‘낫아웃’은 특별할 것 없던 열아홉 고교야구 입시생 ‘광호’가 잘 될 것 같았던 신인 드래프트에서 탈락한 이후, 야구를 계속하기 위해 고군분투하며 불법적인 일에 손을 대며 벌어지는 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Filgansports%2F20211215090108612ytgi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[TOP10에 韓영화 2편..외화에 주도권 빼앗긴 2021 극장가 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2662,12 +2662,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2FEdaily%2F20211215060029624ribk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[OTT 위크] 시즌, 오리지널 영화 '낫아웃'은 무슨 영화? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211215090107185</link>
-            <guid>https://movie.v.daum.net/v/20211215090107185</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[seezn(시즌) 오리지널 영화 ‘낫아웃’의 주연을 맡은 배우 정재광이 ‘제42회 청룡영화상’에서 신인남우상을 받으며 작품에 대한 관심이 증폭되고 있다. 지난 6월 개봉한 ‘낫아웃’은 특별할 것 없던 열아홉 고교야구 입시생 ‘광호’가 잘 될 것 같았던 신인 드래프트에서 탈락한 이후, 야구를 계속하기 위해 고군분투하며 불법적인 일에 손을 대며 벌어지는 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Filgansports%2F20211215090108612ytgi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['웨스트 사이드 스토리' 제79회 골든글로브 작품상 포함 4개 부문 노미네이트 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214174300173</link>
+            <guid>https://movie.v.daum.net/v/20211214174300173</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 스티븐 스필버그 감독의 첫 번째 뮤지컬 영화 '웨스트 사이드 스토리'가 제79회 골든글로브 시상식의 4개 부문에 노미네이트됐다. '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는 마리아와 토니의 사랑과 용기를 그린 작품이다. '웨스트 사이드 스토리'가 13일(이하 현지시각), 제79회]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fxportsnews%2F20211214174302016qbpu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[주지훈 박성웅 '젠틀맨' 크랭크업..자필 사인 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211213151213961</link>
+            <guid>https://movie.v.daum.net/v/20211213151213961</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[웨이브 첫 오리지널 영화…내년 극장· 웨이브 동시 개봉 [더팩트ㅣ이한림 기자] 주지훈 박성웅 주연 범죄 오락 영화 '젠틀맨'이 크랭크업했다. 13일 웨이브에 따르면 영화 '젠틀맨'은 최근 촬영을 모두 마쳤다. 이에 주지훈 등 출연 배우들은 크랭크업을 기념한 촬영 소감을 친필 메시지로 전했다. 주지훈은 "늦여름부터 초겨울까지 '젠틀맨'과 함께한 시간이 빠르]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F13%2FTHEFACT%2F20211213151214870pygy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 물에 취한 사연→3일 속성 친구 만들기..빠져드는 TMI (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214180147723</link>
+            <guid>https://movie.v.daum.net/v/20211214180147723</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)가 볼수록 푹 빠져드는 TMI 비하인드를 공개했다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)가 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 영화다.&nbsp; 첫 번째는 마음만은 연애 은퇴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fxportsnews%2F20211214180149574vrtj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[日 '드라이브 마이 카' 계속되는 수상..'기생충'·'미나리' 행보 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2686,20 +2702,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fxportsnews%2F20211214095025577enoa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스' 물에 취한 사연→3일 속성 친구 만들기..빠져드는 TMI (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214180147723</link>
-            <guid>https://movie.v.daum.net/v/20211214180147723</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)가 볼수록 푹 빠져드는 TMI 비하인드를 공개했다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서 분)과 일도 연애도 뜻대로 안 풀리는 우리(손석구)가 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 영화다.&nbsp; 첫 번째는 마음만은 연애 은퇴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fxportsnews%2F20211214180149574vrtj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['화사한 그녀' 엄정화→김재화, 캐스팅 확정..이달 크랭크인[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211214150250568</link>
             <guid>https://movie.v.daum.net/v/20211214150250568</guid>
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '화사한 그녀'가 엄정화, 송새벽, 방민아, 박호산, 손병호, 김재화 등 배우 캐스팅을 확정짓고 본격 촬영에 돌입한다. '화사한 그녀'(감독 이승준, 제작 신영이엔씨 조이앤시네마, 제공배급 제이앤씨미디어그룹)는 인생 역전을 꿈꾸는 지혜(엄정화 분)와 그녀의 딸이 600억 재산을 보유한 문화재 브로커의 집안에 잠입하면서 벌어지는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fpoctan%2F20211214150250293pete.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]송강호x이병헌x전도연 '비상선언' 내년 1월 개봉 철회..다음 기약 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211215084327695</link>
+            <guid>https://movie.v.daum.net/v/20211215084327695</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 송강호와 이병헌, 전도연, 박해준, 김소진, 임시완, 김남길 등(왼쪽 상단부터 시계방향으로) 등 영화 '비상선언' 출연진. '비상선언'은 당초 내년 1월 개봉을 발표했으나 최근 코로나19 확산 등을 이유로 연기하기로 결정했다. 송강호와 이병헌, 전도연 등이 출연해 2022년 1월 한국영화 최고 기대작으로 꼽혔던 '비상선언'이 결국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fstarnews%2F20211215084328442fsjc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호의 불안한 빈자리 [이슈&톡] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211214174807355</link>
+            <guid>https://movie.v.daum.net/v/20211214174807355</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지현 기자] 배우 이현우, 안보현이 김선호의 빈자리를 채운다. 제작진의 새로운 카드는 전화위복이 될 수 있을까. 분명한 건 김선호의 빈자리가 좁아지고 있다는 것이다. 14일 영화 '도그데이즈' 측은 캐스팅 소식을 알리며 애초 김선호가 맡을 예정이었던 캐릭터를 이현우가 대신한다고 밝혔다. 같은 날 김선호가 출연할 또 다른 작품이었던 영화 '2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Ftvdaily%2F20211214174808137mpwb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[11월 위드코로나+'이터널스' 효과..극장 매출액·관객수 ↑ (다음영화 뉴스 ─ 인기)]]></title>
@@ -2724,30 +2748,6 @@
             <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어제까지는 가족, 오늘부터는 라이벌이다. 2019년 개봉해 칸영화제 황금종려상과 아카데미 4관왕을 차지하고 1031만 관객을 모은 영화 ‘기생충’(감독 봉준호). K콘텐츠 흥행 시대를 연 영광의 주역 송강호, 최우식, 박소담, 이선균이 연말 연초 제각기 다른 영화로 맞붙는다. 먹지 않으면 먹히는 진흙탕 싸움이다. “가장 완벽한 계획이 뭔지 알아? 무계획이야]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fchosun%2F20211214030558578qlxh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]송강호x이병헌x전도연 '비상선언' 내년 1월 개봉 철회..다음 기약 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211215084327695</link>
-            <guid>https://movie.v.daum.net/v/20211215084327695</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 송강호와 이병헌, 전도연, 박해준, 김소진, 임시완, 김남길 등(왼쪽 상단부터 시계방향으로) 등 영화 '비상선언' 출연진. '비상선언'은 당초 내년 1월 개봉을 발표했으나 최근 코로나19 확산 등을 이유로 연기하기로 결정했다. 송강호와 이병헌, 전도연 등이 출연해 2022년 1월 한국영화 최고 기대작으로 꼽혔던 '비상선언'이 결국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fstarnews%2F20211215084328442fsjc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[컬러 사진 선구자 생애 그린 '사울 레이터' 실제 작품 사진 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214170935098</link>
-            <guid>https://movie.v.daum.net/v/20211214170935098</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금 찍었다고 해도 무방할 만큼 세련됐다. 1950년대 뉴욕의 일상을 담은 사진들로 '컬러 사진의 선구자'로 불리는 사울 레이터의 삶과 예술 세계를 담은 영화 '사울 레이터: 인 노 그레이트 허리(토머스 리치 감독)'가 보도스틸과 작품사진을 공개하며 기대감을 높이고 있다. 먼저 사울 레이터가 작업실로도 사용한 아파트가 담긴 보도스틸 3종에서는 오래된]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Filgansports%2F20211214170939153wanb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '파워 오브 도그' 골든글로브 작품상 등 6개 부문 후보 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211214093201595</link>
-            <guid>https://movie.v.daum.net/v/20211214093201595</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 작품·감독·각본 등 주요 부문 후보 선정 남우주연·여우조연·남우조연에도 올라 '웨스트 사이드 스토리' 4개 부문 후보 '벨파스트' 역시 4개 부문서 후보 지명 [서울=뉴시스] 손정빈 기자 = 제인 캠피온 감독의 영화 '파워 오브 도그'(The Power of the Dog)가 내년 초 열리는 골든글로브 시상식에서 최다인 6개 부문 후보에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fnewsis%2F20211214093201150yvao.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['스파이더맨'의 빌런이 무더기로 나왔던 그 영화 (다음 영화 ─ 매거진)]]></title>
