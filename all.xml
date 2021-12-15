@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 15:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 16:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -944,14 +944,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64fc0c9df934f8e2b1c709bcb4b5667647bb5ee3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Thu, 09 Dec 2021 04:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac96ff34e33d0285ae78c82eec9d2564151a217b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[끝없음에 관하여 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134340</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134340</guid>
@@ -966,6 +958,14 @@
             <pubDate>Thu, 09 Dec 2021 00:41:07 GMT</pubDate>
             <content:encoded><![CDATA[21.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d03a3c1dae3e2f2f404a16b7b6028bc87c91d40" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Thu, 09 Dec 2021 04:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac96ff34e33d0285ae78c82eec9d2564151a217b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리버 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1085,22 +1085,6 @@
             <pubDate>Wed, 15 Dec 2021 12:19:30 GMT</pubDate>
             <content:encoded><![CDATA[21.12.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9d91cdeb30408f5309a4356e3dba01f4a5975e8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스엔 용기를 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129470</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129470</guid>
-            <pubDate>Fri, 10 Dec 2021 03:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd332c57f98874e08926f8b7a476e85771551539329316" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 선물 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129619</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129619</guid>
-            <pubDate>Fri, 10 Dec 2021 03:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc30b312708fc4d2fb560fd98cb1a48ff1552227200113" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[키드 디텍티브 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1551,30 +1535,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F114B051A4B20E0D30C" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[모가디슈 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Sat, 23 Oct 2021 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[서치 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=117952</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=117952</guid>
-            <pubDate>Wed, 15 Dec 2021 06:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe345f9a9a4f5e0a4dee5e44bd49a86d6681c14d5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[별빛 히어로 스타빔 - 우당탕탕 새해맞이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156011</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156011</guid>
-            <pubDate>Wed, 15 Dec 2021 08:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22031de6d0d2f810ebc1fc7c0ed01139c94b945b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[퍼프 - 산호초의 경이로움 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156156</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156156</guid>
@@ -1982,22 +1942,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2535394853FBD03C0A" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[파일 : 4022일의 사육 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=85413</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=85413</guid>
-            <pubDate>Mon, 29 Nov 2021 16:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff02910e6c82d6715a9e3476c652cb9050f385ffa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[작은형 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=93142</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=93142</guid>
-            <pubDate>Wed, 01 Dec 2021 05:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ab6ada017d76f963d1d2e8257733008c4f54474" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[장고:분노의 추적자 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=65577</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=65577</guid>
@@ -2172,14 +2116,6 @@
             <pubDate>Tue, 14 Dec 2021 06:15:29 GMT</pubDate>
             <content:encoded><![CDATA[21.12.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28da18bc7df062cda72863318344552197f6d1b8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[콘솔 워즈 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155178</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155178</guid>
-            <pubDate>Wed, 08 Dec 2021 05:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a817e8ade5490de308110ea66d13943cb448d65" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[페어웰 ([다음영화] 왓챠 ─ 공개예정)]]></title>
@@ -2406,20 +2342,140 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff80d3ec3f8f6405e8d9b6f95609ea9eaec89e3d8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미첼 가족과 기계 전쟁 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149361</guid>
-            <pubDate>Wed, 15 Dec 2021 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff4a80394893910b0b185183d28bcaa57ca222a48" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[자카르타 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2398</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2398</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1919A9144CFDD2DB22" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[디어 에반 핸슨 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
-            <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[그녀에게 잠들다 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2858</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2858</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10ABE72AA32B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[두사부일체 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3232</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3232</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1340FB10AB84D0DC30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[좋은 사람 있으면 소개시켜줘 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3696</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3696</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AC86948A59" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[색즉시공 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3853</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3853</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F136F1B10AB89CEA7BF" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[루터 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38889</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38889</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc2dfa2c9e77beb90f797497d3fc9811a7fa7a74b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애술사 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40843</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40843</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AC6759BAAD" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아파트 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41218</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41218</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A8FFFF9387" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[생, 날선생 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41391</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41391</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12110210A8FD7A5651" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[브로큰 러브송 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=64265</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=64265</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1117913F4E87150E39" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[섹스 후, 5일간의 여행 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=68765</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=68765</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F997fe0709203392d9772cf8e7e2fa4abe37abda2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[폭스캐처 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=76311</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=76311</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2637C03D54C8A9A711" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 가장 소중한 선물 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=81590</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=81590</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F217284475280A0722B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕 자두야 스페셜 : 인어공주 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=83694</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=83694</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F220F414D52CC3A3E2F" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[화끈한 써비스 : 어느잔인한 미용사의 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=91628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=91628</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0691a152e1de1ff383fb3b1b690352b2fcfb1a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어폴로지 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=102723</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=102723</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ea3b747a32827e50a7a93adcd6eedcb1346f5c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블러드 골드 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=119830</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=119830</guid>
+            <pubDate>Wed, 15 Dec 2021 16:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1e698a749001b61976816a7afdf084a8d42f09f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리버 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
@@ -2502,14 +2558,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F14%2Fpoctan%2F20211214160701346epfv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[아내의 불륜과 죽음.. 이 남자가 겪어야 했던 비극들 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211215172402350</link>
-            <guid>https://movie.v.daum.net/v/20211215172402350</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;드라이브 마이 카&gt; 공식 포스터.    ⓒ 영화사 조아  &nbsp; 연출가 남편과 배우인 아내가 결혼해 가정을 꾸렸다. 아내는 시나리오를 쓰기 시작했고, 남편은 여기에 조언하며 이야기를 완성해간다. 겉으로 보면 서로에게 좋은 영향을 주는 완벽한 부부의 모습이다. 감정의 파고 없이 평온한 두 사람의 일상은 우연히 출장이 연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fohmynews%2F20211215172403786lvrz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[D:영화 뷰] '듄'·'연애 빠진 로맨스', 코로나19 속 특별한 흥행이변 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211215104428633</link>
             <guid>https://movie.v.daum.net/v/20211215104428633</guid>
@@ -2532,6 +2580,14 @@
             <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '리슨'(감독 아냐 로사)이 전 세대 관객들의 뜨거운 호응 속에 개봉 2주차에도 작지만 큰 진심의 힘을 이어간다. '리슨'은 루(메이지 슬라이 분) 가족의 가난과 실직, 그리고 장애에도 아무런 귀를 기울여주지 않던 세상과 이들의 헤어짐을 그린 영화로, 강제 입양이라는 실제 사건을 배경으로 하고 있다. 가족의 이야기를 통해]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fxportsnews%2F20211215095345091igjv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아내의 불륜과 죽음.. 이 남자가 겪어야 했던 비극들 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211215172402350</link>
+            <guid>https://movie.v.daum.net/v/20211215172402350</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;드라이브 마이 카&gt; 공식 포스터.    ⓒ 영화사 조아  &nbsp; 연출가 남편과 배우인 아내가 결혼해 가정을 꾸렸다. 아내는 시나리오를 쓰기 시작했고, 남편은 여기에 조언하며 이야기를 완성해간다. 겉으로 보면 서로에게 좋은 영향을 주는 완벽한 부부의 모습이다. 감정의 파고 없이 평온한 두 사람의 일상은 우연히 출장이 연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F15%2Fohmynews%2F20211215172403786lvrz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[섬세하고 여린 남자 조롱했던 마초.. 그 이면의 비밀 (다음영화 뉴스 ─ 인기)]]></title>
