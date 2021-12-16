@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 09:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 10:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 13 Dec 2021 06:16:16 GMT</pubDate>
             <content:encoded><![CDATA[21.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5673172adeb26cccf7eb577dc6b681975f63c56e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그레이트 샤크2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156017</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156017</guid>
+            <pubDate>Thu, 16 Dec 2021 10:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F509661cd10024873b1ffa551ca92fd52757d86b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어나더 라운드]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 16 Dec 2021 00:40:51 GMT</pubDate>
             <content:encoded><![CDATA[21.12.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9d2f22c47071434f25b15cc68b6b6e3c42c1d98f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[필로포비아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152118</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152118</guid>
-            <pubDate>Thu, 16 Dec 2021 00:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a147e138de22f6e4c7537007ef63ec044208795" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
