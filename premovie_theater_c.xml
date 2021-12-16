@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 00:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 01:58:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F370c3ae8b4e1f61bfe51c1611343fd51c203fd73" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그런 일은 일어나지 않았지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156026</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156026</guid>
+            <pubDate>Thu, 16 Dec 2021 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9cddf0f935ca2dcaa03e661f95409e6e06248620" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[러브 액츄얼리]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=38754</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=38754</guid>
@@ -135,6 +143,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19cc9a14f6c04ba6983251eeb7f53cd058119647" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[인생게임]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132334</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132334</guid>
+            <pubDate>Thu, 16 Dec 2021 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9484792a8cc8ba03318d4d63f42448881b7843ee" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[사막을 건너 호수를 지나]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134522</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134522</guid>
@@ -149,22 +165,6 @@
             <pubDate>Thu, 16 Dec 2021 00:40:51 GMT</pubDate>
             <content:encoded><![CDATA[21.12.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a147e138de22f6e4c7537007ef63ec044208795" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타이거마스크]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155756</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155756</guid>
-            <pubDate>Thu, 16 Dec 2021 00:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fda5c3f14e1e1bd1febe4c42f045a03536d8ec982" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[긴 하루]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155801</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155801</guid>
-            <pubDate>Thu, 16 Dec 2021 00:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd43898ce842258326f302377ed79631ce8a697e4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
