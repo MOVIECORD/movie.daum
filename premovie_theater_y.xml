@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f5e140e8f8173d2f7e0e5a39b20ca507e9e0d7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해피 아워]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
-            <pubDate>Thu, 16 Dec 2021 07:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[왼팔의복서 닉]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153107</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153107</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 16 Dec 2021 05:12:16 GMT</pubDate>
             <content:encoded><![CDATA[21.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d03a3c1dae3e2f2f404a16b7b6028bc87c91d40" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[너에게 가는 길]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
+            <pubDate>Thu, 16 Dec 2021 08:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
