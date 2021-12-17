@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 17:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 18:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 16 Dec 2021 10:13:42 GMT</pubDate>
             <content:encoded><![CDATA[21.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F509661cd10024873b1ffa551ca92fd52757d86b7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
+            <pubDate>Fri, 17 Dec 2021 18:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba3b18bf02fe800df05aca1a840d31cf222915c0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어나더 라운드]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 16 Dec 2021 01:57:36 GMT</pubDate>
             <content:encoded><![CDATA[21.12.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9484792a8cc8ba03318d4d63f42448881b7843ee" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사막을 건너 호수를 지나]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134522</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134522</guid>
-            <pubDate>Thu, 16 Dec 2021 00:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9d2f22c47071434f25b15cc68b6b6e3c42c1d98f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
