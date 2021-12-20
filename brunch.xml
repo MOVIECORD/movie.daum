@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 09:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 10:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 20 Dec 2021 09:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdrJQ%2Fimage%2FUrEnC01zFhCUdhM-2viJXjJdM9Y.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[울적할 때도 있지만, 저는 제 인생이 좋아요.]]></title>
+            <link>https://brunch.co.kr/@@aRXQ/137</link>
+            <guid>https://brunch.co.kr/@@aRXQ/137</guid>
+            <pubDate>Mon, 20 Dec 2021 10:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>솔립]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaRXQ%2Fimage%2FJ06LkTvCiANLnDNnHvkThWjlem0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[수능 다음 날, 선생님 눈을 똑바로 보고 말했다]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Dec 2021 05:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FOVXhz3yW-oXgVe0BcW_mQKMcAZk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[양면의 시대 속 매혹적인 개인의 단면들]]></title>
-            <link>https://brunch.co.kr/@@46ud/68</link>
-            <guid>https://brunch.co.kr/@@46ud/68</guid>
-            <pubDate>Mon, 06 Dec 2021 05:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>피링스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F46ud%2Fimage%2FZ1WrpShBxuwbo3xEZ8B-6-CQaUM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
