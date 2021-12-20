@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 03:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 04:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
             <pubDate>Wed, 08 Dec 2021 00:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,770,172명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,770,170명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>575,212명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>575,210명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -124,7 +124,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=128406</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128406</guid>
             <pubDate>Tue, 30 Nov 2021 23:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>113,905명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>113,907명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba439af5b010d24007a09e783b6b030b6fb11216" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -776,20 +776,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
-            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152081</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152081</guid>
             <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
+            <pubDate>Wed, 24 Nov 2021 00:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아멜리에 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -3590,6 +3590,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['스파이더맨' 톰 홀랜드, 내년 2월 '언차티드'로 돌아온다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211220131255056</link>
+            <guid>https://v.daum.net/v/20211220131255056</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] ‘스파이더맨’ 톰 홀랜드, 내년 2월 ‘언차티드’로 돌아온다 2022년 액션 어드벤처 블록버스터의 새로운 시작을 알리는 영화 ‘언차티드’(수입/배급: 소니 픽쳐스)가 2월 국내 개봉을 확정하고, 1차 예고편을 최초 공개했다. 영화 ‘언차티드’는 ‘네이선(톰 홀랜드)'과 '설리(마크 월버그)'가 함께 트레저 헌터로 인류 역사상 최고의 미스터리와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2Fsportsdonga%2F20211220131257480dzsk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[D-2 '킹스맨: 퍼스트 에이전트' 개봉 예정작 예매율 1위 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211220125516803</link>
+            <guid>https://v.daum.net/v/20211220125516803</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '킹스맨: 퍼스트 에이전트'가 개봉을 이틀 앞둔 가운데, 개봉 예정작 예매율 1위에 등극했다. 12월 20일 영화진흥위원회 통합전산망 집계에 따르면, 오는 22일 개봉하는 영화 '킹스맨: 퍼스트 에이전트'가 개봉 예정작 중 예매율 1위 및 전체 2위를 차지하며 또 한 번의 흥행 열풍을 예고하고 있다. '킹스맨: 퍼스트 에이전트'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2Fnewsen%2F20211220125518062rqcc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['웨스트 사이드 스토리' 美영화연구소 올해의 영화상→크리틱스 초이스 최다 부문 노미 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211220123939591</link>
+            <guid>https://v.daum.net/v/20211220123939591</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '웨스트 사이드 스토리'가 미국영화연구소 선정 2021년 올해의 영화상을 수상한 데 이어, 제27회 크리틱스 초이스 어워즈에 최다 부문 노미네이트됐다. 오는 1월 12일 개봉하는 영화 '웨스트 사이드 스토리'(감독 스티븐 스필버그)는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는 ‘마리아’ 와 ‘토니’의 사랑과 용]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2Fnewsen%2F20211220123940028iyno.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['언포기버블', 산드라 블록이 선사하는 묵직한 감동 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211220121835344</link>
+            <guid>https://v.daum.net/v/20211220121835344</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이즈 ize 정유미(칼럼니스트)2021년이 가기 전에 넷플릭스가 '올해의 영화'로 꼽을 만한 수작을 내놓았다. 지난 10일 공개와 함께 넷플릭스 인기 콘텐츠에 오른 '언포기버블'은 2018년 넷플릭스 히트작 '버드박스'의 주연배우 산드라 블록이 제작과 주연을 맡은 영화다. 넷플릭스와 산드라 블록이 3년 만에 의기투합해 기대를 모은 작품으로, '버드박스'&nbsp;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2FIZE%2F20211220121837851swvd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['인간수업' '마이네임' '종말의 바보' 넷플릭스X김진민 감독, 3연타석 홈런 칠까 [종합] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211220114753465</link>
             <guid>https://v.daum.net/v/20211220114753465</guid>
@@ -3716,38 +3748,6 @@
             <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 김진민 감독, 정성주 작가 / 사진=넷플릭스넷플릭스(Netflix)가 김진민 감독과 다시 한번 손잡고 새로운 시리즈 '종말의 바보' 제작을 확정했다. 20일 넷플릭스는 이 같은 사실을 알리며 '인간수업', '마이네임'의 김진민 감독이 '종말의 바보'로 넷플릭스와 세 번째 만난다고 밝혔다. '종말의 바보'는 지구와 소행성 충돌까지 2]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2Fstarnews%2F20211220095617540zkhl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[스크린 싹쓸이 '스파이더맨: 노 웨이 홈', 300만 돌파 목전 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211220095101717</link>
-            <guid>https://v.daum.net/v/20211220095101717</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;스파이더맨: 노 웨이 홈&gt; 한 장면    ⓒ 소니픽쳐스엔터테인먼트  &nbsp;크리스마스를 한 주 앞둔 극장에는 오직 &lt;스파이더맨: 노 웨이 홈&gt;만 존재했다. 엄청난 스크린독과점이지만 코로나19 이후 워낙 영화시장이 침체를 겪고 있는 탓에 영화계는 회복의 마중물 역할이 되기를 기대하는 표정이 역력했다. 지난 15일 개봉 이후 9]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2Fohmynews%2F20211220095103070vqac.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 스티븐 스필버그作 '웨스트 사이드 스토리', 美영화연구소 '올해의 영화' 선정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211220095046702</link>
-            <guid>https://v.daum.net/v/20211220095046702</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 뮤지컬 음악 영화 '웨스트 사이드 스토리'(스티븐 스필버그 감독)가 미국영화연구소 선정 2021년 올해의 영화상을 수상한 데 이어, 제27회 크리틱스 초이스 어워즈에 최다 부문 노미네이트되어 이목을 집중시킨다. 스티븐 스필버그 감독의 첫 번째 뮤지컬 영화 '웨스트 사이드 스토리'가 해외 언론과 평단의 뜨거운 관심을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2FSpoChosun%2F20211220095046348pawz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 비틀즈 해체 전 마지막 라이브 공연 담은 '비틀즈: 겟 백', 22일 디즈니+서 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211220094139335</link>
-            <guid>https://v.daum.net/v/20211220094139335</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 디즈니+가 오는 22일 전설적인 밴드 비틀즈 멤버들의 해체 전 마지막 라이브 공연과 비하인드 스토리를 만나볼 수 있는 뮤직 다큐멘터리 영화 '비틀즈: 겟 백'(피터 잭슨 감독)을 공개한다. 이번에 공개된 메인 포스터는 비틀즈 멤버들의 밝은 모습이 시선을 사로잡는다. 특히 이번 작품은 음악 역사의 중요한 순간인 196]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2FSpoChosun%2F20211220094139268xepu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정혜인 "'골때녀' 혜컴? 축구 영화 찍을래요" [인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211220093435011</link>
-            <guid>https://v.daum.net/v/20211220093435011</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 정혜인은 ‘잘생쁨’(잘생기고 예쁨)을 대표한다. 짧은 머리, 선 굵은 이목구비, 보이시한 스타일링 뿐만 아니라 SBS ‘골 때리는 그녀들’(이하 ‘골때녀’)에서 숨겨진 축구 실력까지 자랑하며 인기를 얻고 있다. 베컴 아닌 ‘혜컴’은 그를 부르는 또 다른 수식어다.“어릴 때 별명이 없어서 꼭 하나 갖고 싶었는데 ‘혜컴’이라고들 불러주니]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F20%2Fsportskhan%2F20211220093436729hvtb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독]허준호 "작품상 받는 자리에서 뒤에 서 있는 배우가 되고 싶었다" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
