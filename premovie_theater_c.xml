@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 07:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 08:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 14 Dec 2021 06:15:04 GMT</pubDate>
             <content:encoded><![CDATA[21.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39887c8100b2aeaffca96f95f0d55e0f47d7c4a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그레이트 샤크2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156017</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156017</guid>
+            <pubDate>Thu, 16 Dec 2021 10:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F509661cd10024873b1ffa551ca92fd52757d86b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노트르담]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 13 Dec 2021 06:16:16 GMT</pubDate>
             <content:encoded><![CDATA[21.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5673172adeb26cccf7eb577dc6b681975f63c56e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그레이트 샤크2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156017</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156017</guid>
-            <pubDate>Thu, 16 Dec 2021 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[21.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F509661cd10024873b1ffa551ca92fd52757d86b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프랑스]]></title>
