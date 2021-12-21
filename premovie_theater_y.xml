@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 08:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f5e140e8f8173d2f7e0e5a39b20ca507e9e0d7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[소설가 구보의 하루]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153111</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153111</guid>
-            <pubDate>Wed, 08 Dec 2021 23:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3965d6c2a149a1fc0a4e708a12a96f1e44557ffe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[간호중]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142558</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142558</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 15 Dec 2021 23:13:06 GMT</pubDate>
             <content:encoded><![CDATA[21.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 조선사람입니다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144627</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144627</guid>
+            <pubDate>Tue, 21 Dec 2021 08:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3db5dc3dc7a8726bea5b014d34932870b968ff3f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
