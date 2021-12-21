@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 06:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[끝없음에 관하여]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134340</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134340</guid>
-            <pubDate>Wed, 15 Dec 2021 23:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피부를 판 남자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143876</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143876</guid>
@@ -96,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d03a3c1dae3e2f2f404a16b7b6028bc87c91d40" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마이 뉴욕 다이어리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Tue, 21 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[해피 아워]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
             <pubDate>Sat, 18 Dec 2021 22:11:55 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[왼팔의복서 닉]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153107</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153107</guid>
-            <pubDate>Tue, 14 Dec 2021 04:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3aef32478f904c31a0526a04bb2a9254e38dead3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 21 Dec 2021 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없음에 관하여]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134340</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134340</guid>
+            <pubDate>Wed, 15 Dec 2021 23:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

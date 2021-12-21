@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 06:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
             <pubDate>Wed, 08 Dec 2021 00:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,769,989명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,769,985명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -840,14 +840,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[끝없음에 관하여 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134340</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134340</guid>
-            <pubDate>Thu, 09 Dec 2021 00:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피부를 판 남자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143876</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143876</guid>
@@ -856,20 +848,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d03a3c1dae3e2f2f404a16b7b6028bc87c91d40" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마이 뉴욕 다이어리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
+            <pubDate>Tue, 21 Dec 2021 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c4d4fe00a91718313cfe6e3f964af7e02b7951e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[해피 아워 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
             <pubDate>Sat, 18 Dec 2021 22:11:55 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[왼팔의복서 닉 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153107</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153107</guid>
-            <pubDate>Tue, 14 Dec 2021 04:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3aef32478f904c31a0526a04bb2a9254e38dead3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -926,6 +918,14 @@
             <pubDate>Wed, 10 Nov 2021 00:39:22 GMT</pubDate>
             <content:encoded><![CDATA[21.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없음에 관하여 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134340</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134340</guid>
+            <pubDate>Thu, 09 Dec 2021 00:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -3614,6 +3614,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b41b1df401efce1a960e62d70f2b77ded762030" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["'스파이더맨' 퇴근하면 못 봐" 10시 제한에 분노한 영화산업계 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211221150726628</link>
+            <guid>https://v.daum.net/v/20211221150726628</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사진제공=한국상영관협회코로나19 확진자수가 늘면서 방역 강화 조치로 영화관 영업시간이 밤 10시까지로 제한되자 다시 위기에 놓인 영화 산업 관계자들이 손실 전액 보상 등을 요구했다.영화 관계자들은 21일 오전 국회의사당 앞에서 정부 지원을 촉구하는 결의대회를 열고 “영화계에 대한 지원책이 언제나 사각지대에 놓여있다”고 주장했다.국내 멀티플렉스 3사와 전국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fdonga%2F20211221150728930dnzz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[제시카 차스테인→판빙빙 '355', 2022년 2월 韓극장 개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211221145909242</link>
+            <guid>https://v.daum.net/v/20211221145909242</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] '블랙 위도우', '본' 시리즈&nbsp;제작진이 선사하는 초대형 액션 블록버스터 '355'가 2022년 2월 국내 극장 개봉을 확정짓고&nbsp;런칭 포스터를 공개했다. '355'(감독 사이먼 킨버그, 수입 조이앤시네마, 배급 스튜디오산타클로스 제이앤씨미디어그룹)는 인류를 위협하는 글로벌 범죄조직에 맞서기 위해 전 세계에서 뭉친 최정예 블랙 에이전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fpoctan%2F20211221145910270vzji.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨' 벌써 300만 관객.. MCU 위에 SSU 있다? (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211221143333193</link>
+            <guid>https://v.daum.net/v/20211221143333193</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[파죽지세다. 신종 코로나바이러스 감염증(코로나19) 확산 이후 이런 흥행이 없다. ‘스파이더맨: 노 웨이 홈’(노 웨이 홈)이 코로나19 이전이라도 눈에 띄었을 관객몰이를 하고 있다. 개봉일(15일)에만 관객 63만4,934명을 모았다.  21일 오전엔 상영 7일 만에 300만(20일까지 298만6,226명) 관객을 돌파했다. 코로나19 대유행 이후 최단]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fhankooki%2F20211221143336237wmql.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['클리포드 더빅레드독' 거대 강아지 이야기..1억2천만부 원작소설 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211221141235316</link>
+            <guid>https://v.daum.net/v/20211221141235316</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원작자의 소망을 가득 담았다. 온 가족에게 행복 판타지를 선사할 영화 '클리포드 더 빅 레드 독(월트 베커 감독)'이 주인공 클리포드가 3M 슈퍼 사이즈가 된 이유와 특별한 이름이 탄생하게 된 비하인드를 공개했다. 사랑받을수록 커지는 클리포드와 12살 소녀 에밀리가 운명처럼 만나면서 펼쳐지는 '클리포드 더 빅 레드 독'은 지난 58년간 전 세계인들을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Filgansports%2F20211221141236769bqvt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[김신록, '지옥'을 찢다 [인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20211221132931808</link>
             <guid>https://v.daum.net/v/20211221132931808</guid>
@@ -3635,7 +3667,7 @@
             <guid>https://v.daum.net/v/20211221131622496</guid>
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;정부가 영업시간 및 모임 인원 제한 등 사회적 거리두기 조치를 강화하며 국내 극장가가 다시 패닉에 빠졌다. 업계에서는 방역패스 지침에, 시간제한까지 맞물리면서 국내 영화계가 또 다시 얼어붙었다는 볼멘소리를 내고 있다. 한국상영관협회를 비롯해 극장사, 한국영화프로듀서조합, 수입배급사협회 등 영화단체 소속 영화인들은 21일 여의도 국회]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fpoctan%2F20211221131622694cxop.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fpoctan%2F20211221150156951bomv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한효주 '해적:도깨비 깃발'로 4년만 스크린 컴백..아크로바틱까지 소화 (다음영화 뉴스 ─ 최신)]]></title>
@@ -3666,8 +3698,8 @@
             <link>https://v.daum.net/v/20211221114709601</link>
             <guid>https://v.daum.net/v/20211221114709601</guid>
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]“영화관이 살아야 소상공인이 살아난다.” 20일 오전 10시 서울 국회의사당 앞. 영화 제작자 그리고 감독 및 극장관계자들이 한 자리에 모였다. 이는 최악의 위기를 맞은 영화계를 살리자는 호소였으며, 한 사람 한 사람의 눈빛과 행동은 그 어느때 보다 강렬했다. 한국상영관협회 주최로 마련된 결의대회는 영화업계]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2FSPORTSSEOUL%2F20211221115204687mpkq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]“영화관이 살아야 소상공인이 살아난다.” 20일 오전 10시 서울 국회의사당 앞에 영화 제작자 그리고 감독 및 극장관계자들이 한 자리에 모였다. 이는 최악의 위기를 맞은 영화계를 살리자는 호소였으며, 한 사람 한 사람의 눈빛과 행동은 그 어느때 보다 강렬했다. 한국상영관협회 주최로 마련된 결의대회는 영화업계]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2FSPORTSSEOUL%2F20211221150320875fyrl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한국상영관협회 "영화산업 붕괴 직전, 극장 영업시간 해제 촉구" (다음영화 뉴스 ─ 최신)]]></title>
@@ -3740,38 +3772,6 @@
             <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;새해 첫 한국영화 '경관의 피'가 스페셜 포스터와 2차 보도스틸을 공개했다. 비주얼만으로도 시선을 강탈하는 다섯 배우들의 모습에 영화를 향한 기대감이 높아지고 있다. '경관의 피'(감독 이규만, 제공배급 에이스메이커무비웍스, 제작 리양필름)는 위법 수사도 개의치 않는 광수대 에이스 강윤(조진웅 분)과 그를 감시하게 된 언더커버 신입]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fpoctan%2F20211221103518186oajo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화인들, 거리로 나섰다.."영화 산업 붕괴 직전..대책 촉구" [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211221102123798</link>
-            <guid>https://v.daum.net/v/20211221102123798</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=김휘선 기자 hwijpg@코로나19로 큰 피해를 입은 영화업계가 정부의 방역 강화 조치로 영화산업이 무너져가고 있다며 정부에 강력한 대책 마련을 촉구했다. 한국상영관협회를 비롯해 각 극장사, 한국영화프로듀서조합, 수입배급사협회 등 영화단체 소속 영화인들은 21일 오전 10시 여의도 국회의사당 앞에 모여 '영화업계 정부지원 호]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fstarnews%2F20211221102124558wyqy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["마스크 안 벗는 극장, 상대적으로 안전"..영업시간 해제 촉구[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211221101149420</link>
-            <guid>https://v.daum.net/v/20211221101149420</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;코로나19로 가장 큰 피해를 입은 한국영화업계가 정부의 방역 강화 조치로 영화산업이 무너져가고 있다며 정부에 강력한 대책 마련을 촉구했다. 한국상영관협회를 비롯해 각 극장사,&nbsp;한국영화프로듀서조합,&nbsp;수입배급사협회 등 영화단체 소속 영화인들은&nbsp;21일 오전&nbsp;10시 서울 여의도 국회의사당 앞에 모여&nbsp;‘영화업계 정부지원 호소 결의 대회’를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fpoctan%2F20211221101150411qjky.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["영화산업 붕괴 직전..영업시간 제한 해제·손실 보상" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211221100908308</link>
-            <guid>https://v.daum.net/v/20211221100908308</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 장기 기근에 시달리고 있는 영화계다. 정부의 방역 강화 조치로 또 한 번 위기를 맞게 되자, 49명의 영화인들이 정부에 대책 마련을 촉구하며 거리로 나섰다. 한국상영관협회를 비롯해 각 극장사, 한국영화프로듀서조합, 수입배급사협회 등 영화단체 소속 영화인들은 21일 오전 10시 여의도 국회의사당 앞에 모여 ‘영화업계 정부지원 호소 결의 대회’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2Fstartoday%2F20211221100910248ugve.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 영화단체 "韓영화 산업 붕괴 직전..영업시간 제한 해제→피해 및 손실 보상" 촉구 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211221100822270</link>
-            <guid>https://v.daum.net/v/20211221100822270</guid>
-            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 코로나19로 큰 피해를 입은 영화업계가 정부의 방역 강화 조치에 따른 피해를 호소, 대책 마련을 촉구했다. 한국상영관협회를 비롯해 각 극장사, 한국영화프로듀서조합, 수입배급사협회 등 영화단체 소속 영화인들은 21일 오전 10시 여의도 국회의사당 앞에 모여 '영화업계 정부지원 호소 결의 대회'를 개최했다. 이 자리에는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F21%2FSpoChosun%2F20211221100822404pkov.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독]허준호 "작품상 받는 자리에서 뒤에 서 있는 배우가 되고 싶었다" [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -4126,6 +4126,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6wHY%2Fimage%2FdJLwvUL9kjCqs99ip2TmD0w2EwU.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[[영화] 파워 오브 도그 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@c9ZQ/20</link>
+            <guid>https://brunch.co.kr/@@c9ZQ/20</guid>
+            <pubDate>Tue, 21 Dec 2021 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>프리양]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fc9ZQ%2Fimage%2Flx-Rl7P9lhXfMhdsr7ophjcu8N0.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이래도 아기 거미를 안 사랑해? (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@cYkN/27</link>
+            <guid>https://brunch.co.kr/@@cYkN/27</guid>
+            <pubDate>Tue, 21 Dec 2021 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이재]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcYkN%2Fimage%2F5P0KW4HAQ23tPeA-xmkvjHQ1THw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨:노웨이 홈-가장 피터 파커다운 스파이더맨 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@9Uc8/287</link>
+            <guid>https://brunch.co.kr/@@9Uc8/287</guid>
+            <pubDate>Tue, 21 Dec 2021 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kyung film]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Uc8%2Fimage%2FW4hIby2PfLqOFoLFZji-5pquYlU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[[영화] 첨밀밀 (Comrades) (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@3cN1/16</link>
             <guid>https://brunch.co.kr/@@3cN1/16</guid>
@@ -4228,30 +4252,6 @@
             <pubDate>Fri, 10 Dec 2021 04:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcqS0%2Fimage%2FkehUNHiglEoakN9PPAu0fS75JRk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 저렇게 될까봐 겁난다 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5jTv/80</link>
-            <guid>https://brunch.co.kr/@@5jTv/80</guid>
-            <pubDate>Thu, 09 Dec 2021 06:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F2UcXTnbVnwmHrUCL5Xl9654f0tQ.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<라스트 나잇 인 소호>낭만과 비극을 품은 런던의 거울 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5XLU/404</link>
-            <guid>https://brunch.co.kr/@@5XLU/404</guid>
-            <pubDate>Tue, 07 Dec 2021 08:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2Fyr4a_ELJJS7sqDHqfKnIdU9tb-M.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[원더우먼 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@3kT/5307</link>
-            <guid>https://brunch.co.kr/@@3kT/5307</guid>
-            <pubDate>Tue, 07 Dec 2021 08:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나는 누군가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3kT%2Fimage%2FueZzJ3rcLGLfUFZjAZjtoDmekQg.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
