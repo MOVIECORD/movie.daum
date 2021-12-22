@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 12:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 13:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[몬스타엑스 : 더 드리밍]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155029</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155029</guid>
+            <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9de9398fdbfde28ae3932ad32f8e1e79dfd8ffe" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[티탄]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151808</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151808</guid>
             <pubDate>Sun, 12 Dec 2021 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이 캣]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122261</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122261</guid>
-            <pubDate>Wed, 22 Dec 2021 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff51bdf88c5c4688dddad2667f91131279976602e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[마이 뉴욕 다이어리]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f68c9c26a9041f134e1cb7feb4e4dbb1840e8da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[몬스타엑스 : 더 드리밍]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155029</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155029</guid>
-            <pubDate>Thu, 09 Dec 2021 04:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9de9398fdbfde28ae3932ad32f8e1e79dfd8ffe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노아의 방주 2: 새로운 세계로]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143930</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143930</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 22 Dec 2021 11:11:09 GMT</pubDate>
             <content:encoded><![CDATA[21.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d03a3c1dae3e2f2f404a16b7b6028bc87c91d40" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 조선사람입니다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144627</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144627</guid>
+            <pubDate>Wed, 22 Dec 2021 13:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3db5dc3dc7a8726bea5b014d34932870b968ff3f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
