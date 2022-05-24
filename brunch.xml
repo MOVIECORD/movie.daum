@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 06:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 24 May 2022 05:31:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>INA]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6grH%2Fimage%2FuL-TET4heJeNtivqp3ersAXUaG8" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 닮고 싶은 사람]]></title>
+            <link>https://brunch.co.kr/@@1XuA/301</link>
+            <guid>https://brunch.co.kr/@@1XuA/301</guid>
+            <pubDate>Tue, 24 May 2022 06:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Pearl K]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1XuA%2Fimage%2FqOF7URD-bZfdAxArdomcQNi1uRE" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 패왕별희 선택적 리뷰, 해석]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:54:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>주제모름]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6X51%2Fimage%2Fg0CcYu5gyljZz_MPCgEu74CiWrA.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화같은 이야기]]></title>
-            <link>https://brunch.co.kr/@@7EAm/871</link>
-            <guid>https://brunch.co.kr/@@7EAm/871</guid>
-            <pubDate>Tue, 24 May 2022 02:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>섭카]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7EAm%2Fimage%2FISao02rl3PoY0gKvj09ki8iyNd4" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
