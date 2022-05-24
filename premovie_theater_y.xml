@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 10:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 11:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe74268d738b699a57aab379c5522ba3bca362fbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[크로스 더 라인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148184</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148184</guid>
-            <pubDate>Tue, 24 May 2022 09:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69c95c094daad3ae8471b8110b8822d328890db6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 엉덩이 탐정: 수플레 섬의 비밀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153204</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153204</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 24 May 2022 06:28:57 GMT</pubDate>
             <content:encoded><![CDATA[22.05.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3c61886cf010f788d3b7d4be9813e550c009076" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[중경삼림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=17033</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=17033</guid>
+            <pubDate>Tue, 24 May 2022 11:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
