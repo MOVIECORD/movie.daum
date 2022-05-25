@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 04:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 05:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Tue, 24 May 2022 05:30:06 GMT</pubDate>
             <content:encoded><![CDATA[22.06.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AC681E1B12" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쉘로우 그레이브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2058</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2058</guid>
+            <pubDate>Wed, 25 May 2022 05:26:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad3437d193720591a89abc5e65cf08c2fcd0b2dc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
