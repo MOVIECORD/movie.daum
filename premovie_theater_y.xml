@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F864bda5dd54ff661f276e826c749800fd83a7765" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어부바]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144227</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144227</guid>
-            <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[민스미트 작전]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154400</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154400</guid>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
             <content:encoded><![CDATA[22.04.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F144a58726e78372bc4b79a789058a8e443dc3e22" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어부바]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144227</guid>
+            <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼스트 러브]]></title>
