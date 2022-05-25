@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 02:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97e040403f133b6e6a79272dae83fbbe612f5788" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[실종]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154171</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154171</guid>
+            <pubDate>Wed, 25 May 2022 03:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뜨거운 피]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
@@ -155,13 +163,6 @@
             <title><![CDATA[허리케인 쓰나미]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144059</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144059</guid>
-            <pubDate>Tue, 24 May 2022 23:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파라노말 2020]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144219</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144219</guid>
             <pubDate>Tue, 24 May 2022 23:23:59 GMT</pubDate>
             <content:encoded><![CDATA[22.05]]></content:encoded>
         </item>
