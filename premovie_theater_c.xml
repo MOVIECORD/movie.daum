@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 09:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 10:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[윤시내가 사라졌다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146597</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146597</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd174cd7fb84108136744bde6f68b1eba5bd6822" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[개인레슨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155624</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155624</guid>
@@ -128,12 +120,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a505148c50ee3c119f07d0b90b18113488e6a50" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[괴물, 유령, 자유인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141710</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141710</guid>
+            <pubDate>Wed, 25 May 2022 10:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F790154c396e64f40addbcd769e028927d6e5c1c8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[올리 마키의 가장 행복한 날]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=102922</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=102922</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
             <content:encoded><![CDATA[22.06.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fe7ff3173dd268e17894030c2a285773ac24d2e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤시내가 사라졌다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146597</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146597</guid>
+            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd174cd7fb84108136744bde6f68b1eba5bd6822" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애프터 체르노빌]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 23:23:59 GMT</pubDate>
             <content:encoded><![CDATA[22.05.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이터널 로드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=118787</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=118787</guid>
-            <pubDate>Tue, 24 May 2022 23:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1145b7b04938bbe80f6ed45a8abeb562c24b25bb" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
