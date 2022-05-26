@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 02:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,12 +176,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AC681E1B12" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[윤희에게]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=128144</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=128144</guid>
+            <pubDate>Thu, 26 May 2022 02:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcea46ee3ddc14f1191d288183b27096d1575349146438" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[쉘로우 그레이브]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2058</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2058</guid>
             <pubDate>Wed, 25 May 2022 05:26:17 GMT</pubDate>
             <content:encoded><![CDATA[22.06.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad3437d193720591a89abc5e65cf08c2fcd0b2dc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 주: 사라진 VIP]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=121369</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=121369</guid>
+            <pubDate>Thu, 26 May 2022 02:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62a1145c988a419bb88ccebbc1e4c38e1579678173231" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
