@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 03:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:39:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a505148c50ee3c119f07d0b90b18113488e6a50" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[특수요원 빼꼼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155632</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155632</guid>
+            <pubDate>Thu, 26 May 2022 04:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a78affe8ba74e86f9fe29d5f2bec620d00a9c8d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[괴물, 유령, 자유인]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141710</guid>
@@ -155,14 +163,6 @@
             <pubDate>Wed, 25 May 2022 23:23:29 GMT</pubDate>
             <content:encoded><![CDATA[22.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5beb4e98a2fbfd76696598173f6c40c8f5f8c4f8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[윈터 헝거]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159426</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159426</guid>
-            <pubDate>Wed, 25 May 2022 23:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ca05575cdc75090442b1c8babef3d5e471a0eaa" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
