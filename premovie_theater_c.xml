@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,19 +40,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[핑크퐁과 아기상어의 월드투어쇼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160617</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160617</guid>
-            <pubDate>Wed, 25 May 2022 23:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.28]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[카시오페아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
             <content:encoded><![CDATA[22.06.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[핑크퐁과 아기상어의 월드투어쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160617</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160617</guid>
+            <pubDate>Wed, 25 May 2022 23:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화피사]]></title>
@@ -69,6 +69,14 @@
             <pubDate>Tue, 24 May 2022 09:28:30 GMT</pubDate>
             <content:encoded><![CDATA[22.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84e5baee2cf01b8295d8f2379d4cb437bcb8edc6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[셀링 이소벨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159713</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159713</guid>
+            <pubDate>Fri, 27 May 2022 05:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ae47a6aef2fa420c33faf0ac2f9cc264b1d5419" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[특수요원 빼꼼]]></title>
@@ -155,14 +163,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=144219</guid>
             <pubDate>Wed, 25 May 2022 23:23:29 GMT</pubDate>
             <content:encoded><![CDATA[22.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[식스 미닛 투 미드나잇]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148624</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148624</guid>
-            <pubDate>Wed, 25 May 2022 23:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5beb4e98a2fbfd76696598173f6c40c8f5f8c4f8" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
