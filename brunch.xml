@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 27 May 2022 05:48:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>호은]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdBy9%2Fimage%2F_Pdgsw1WLJ-gBlRtP1VBL1j_3hA.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[스스로 칼을 빼어든 자와 거울을 들어주는 이]]></title>
+            <link>https://brunch.co.kr/@@dFLK/12</link>
+            <guid>https://brunch.co.kr/@@dFLK/12</guid>
+            <pubDate>Fri, 27 May 2022 06:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>모운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdFLK%2Fimage%2Fn1KK0e15vfXOc66_LEr6P20Btk0" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[너희 무슬림 여자 대통령 본 적 있니?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 05:31:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>INA]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6grH%2Fimage%2FuL-TET4heJeNtivqp3ersAXUaG8" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 닮고 싶은 사람]]></title>
-            <link>https://brunch.co.kr/@@1XuA/301</link>
-            <guid>https://brunch.co.kr/@@1XuA/301</guid>
-            <pubDate>Tue, 24 May 2022 06:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Pearl K]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1XuA%2Fimage%2FqOF7URD-bZfdAxArdomcQNi1uRE" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
