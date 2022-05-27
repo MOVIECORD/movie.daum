@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 08:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,14 +55,6 @@
             <content:encoded><![CDATA[22.05.28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤시내가 사라졌다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146597</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146597</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd174cd7fb84108136744bde6f68b1eba5bd6822" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[화피사]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158848</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158848</guid>
@@ -109,6 +101,14 @@
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
             <content:encoded><![CDATA[22.06.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fe7ff3173dd268e17894030c2a285773ac24d2e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤시내가 사라졌다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146597</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146597</guid>
+            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd174cd7fb84108136744bde6f68b1eba5bd6822" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애프터 체르노빌]]></title>
