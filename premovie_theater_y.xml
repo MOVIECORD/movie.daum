@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 19:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 20:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뜨거운 피]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
-            <pubDate>Thu, 26 May 2022 11:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피는 물보다 진하다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158844</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158844</guid>
             <pubDate>Tue, 24 May 2022 23:23:52 GMT</pubDate>
             <content:encoded><![CDATA[22.05.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed58d7965845aca8b46037cb08ab771432568f7a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨거운 피]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125271</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125271</guid>
+            <pubDate>Thu, 26 May 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[안녕하세요]]></title>
