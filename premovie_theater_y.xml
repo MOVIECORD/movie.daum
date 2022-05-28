@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 08:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 09:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아치의 노래, 정태춘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[몬스터 싱어: 매직 인 파리]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=63792</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=63792</guid>
             <pubDate>Wed, 25 May 2022 23:23:21 GMT</pubDate>
             <content:encoded><![CDATA[22.05.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cb01acd1813872535e5ba45a8de589ed7ad7d0c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아치의 노래, 정태춘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
+            <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[셧 인]]></title>
@@ -110,6 +110,13 @@
             <pubDate>Fri, 27 May 2022 06:29:49 GMT</pubDate>
             <content:encoded><![CDATA[22.05.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e06f776e191821efe1c0ba65b0222d87d49a5b6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[핑크퐁과 아기상어의 월드투어쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160617</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160617</guid>
+            <pubDate>Sat, 28 May 2022 09:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나를 만나는 길]]></title>
@@ -158,14 +165,6 @@
             <pubDate>Sat, 28 May 2022 03:14:04 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f1bbf358d905c6a526940b1c81d3196015c3e7b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[파리, 13구]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152019</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152019</guid>
-            <pubDate>Sat, 28 May 2022 06:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe878d2022fbf3a7ad9587fcb1aa4c94f319c8d0e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
