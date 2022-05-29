@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 23:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 02:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,13 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e06f776e191821efe1c0ba65b0222d87d49a5b6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[핑크퐁과 아기상어의 월드투어쇼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160617</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160617</guid>
-            <pubDate>Sat, 28 May 2022 09:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.28]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나를 만나는 길]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114296</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114296</guid>
@@ -165,6 +158,14 @@
             <pubDate>Sat, 28 May 2022 03:14:04 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f1bbf358d905c6a526940b1c81d3196015c3e7b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파리, 13구]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152019</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152019</guid>
+            <pubDate>Sun, 29 May 2022 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe878d2022fbf3a7ad9587fcb1aa4c94f319c8d0e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
