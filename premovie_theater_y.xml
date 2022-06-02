@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b2f8065b9484a5be21bf332da7ea64235a755f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나를 만나는 길]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114296</guid>
-            <pubDate>Wed, 01 Jun 2022 08:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F864bda5dd54ff661f276e826c749800fd83a7765" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[히든]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160087</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160087</guid>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 25 May 2022 23:23:21 GMT</pubDate>
             <content:encoded><![CDATA[22.05.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cb01acd1813872535e5ba45a8de589ed7ad7d0c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 만나는 길]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114296</guid>
+            <pubDate>Wed, 01 Jun 2022 08:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F864bda5dd54ff661f276e826c749800fd83a7765" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[핑크퐁과 아기상어의 월드투어쇼]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,7 +155,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,476,700명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,476,698명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -909,14 +909,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b2f8065b9484a5be21bf332da7ea64235a755f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나를 만나는 길 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114296</guid>
-            <pubDate>Mon, 30 May 2022 02:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F864bda5dd54ff661f276e826c749800fd83a7765" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[히든 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160087</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160087</guid>
@@ -939,6 +931,14 @@
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
             <content:encoded><![CDATA[22.05.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cb01acd1813872535e5ba45a8de589ed7ad7d0c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 만나는 길 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114296</guid>
+            <pubDate>Mon, 30 May 2022 02:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F864bda5dd54ff661f276e826c749800fd83a7765" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[핑크퐁과 아기상어의 월드투어쇼 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1674,11 +1674,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F182df339e963eaff000278e74ba5621e1e9b7bb0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[필로우 북 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2307</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2307</guid>
+            <pubDate>Tue, 24 May 2022 02:53:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0ba5d0a81cb26304570df470d77ffa600c720eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[디스트럭션 베이비 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=105013</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=105013</guid>
             <pubDate>Tue, 24 May 2022 02:53:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.07]]></content:encoded>
+            <content:encoded><![CDATA[22.06.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa01fcb347d035dc0f245e22a7eed7409f5667d8a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -1686,16 +1694,8 @@
             <link>https://movie.daum.net/moviedb/main?movieId=111778</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=111778</guid>
             <pubDate>Tue, 24 May 2022 02:53:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb46cf0c3fc919ab1e3707bab66e0aeaf79da6a54" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[필로우 북 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=2307</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=2307</guid>
-            <pubDate>Tue, 24 May 2022 02:53:50 GMT</pubDate>
             <content:encoded><![CDATA[22.06.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0ba5d0a81cb26304570df470d77ffa600c720eb" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb46cf0c3fc919ab1e3707bab66e0aeaf79da6a54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[계춘할망 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
@@ -1776,6 +1776,70 @@
             <pubDate>Mon, 30 May 2022 16:34:25 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58904db939096ff1a54eba5889d030b8355f2124" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이지훈, 로맨스 영화 '최악의 이웃과 사랑에 빠지는 방법' 주연 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602152103860</link>
+            <guid>https://v.daum.net/v/20220602152103860</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] 배우 이지훈이 '최악의 이웃과 사랑에 빠지는 방법: 언택브 러브'에 캐스팅 됐다. 2일 소속사 케이원엔터테인먼트에 따르면 이지훈은 2015년 개봉한 프랑스 영화를 원작으로 한 리메이크작 '최악의 이웃과 사랑에 빠지는 방법: 언택브 러브'(이하 '최악의 이웃과 사랑에 빠지는 방법' 주연으로 출연한다. '최악의 이웃과 사랑에 빠지는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fsportstoday%2F20220602152104643qnet.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시2'→'쥬라기월드3'→'탑건:매버릭', 극장가 활짝[MK무비] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602152102859</link>
+            <guid>https://v.daum.net/v/20220602152102859</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오랜 만에 제대로 활력이 넘치는 극장가다. ‘범죄도시2’와 ‘쥬라기 월드3’가 쌍끌이 흥행에 성공하며 극장가가 활짝 핀 가운데 톰 크루즈의 ‘탑건 :매버릭'도 출격 준비를 마쳤다. 2일 영화진흥위원회 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '쥬라기 월드: 도미니언'(이하 '쥬라기 월드3')은 개봉 날 76만3649명을 동원해 누적관객수 76만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fstartoday%2F20220602152104065kcqw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC인터뷰] "송강호 수상, 최고의 순간"..국경 없는 '브로커', 고레에다 감독의 성공적인 韓영화 입성기(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602150545207</link>
+            <guid>https://v.daum.net/v/20220602150545207</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 칸을 점령하고 한국 극장을 정조준한 고레에다 히로카즈(60) 감독. 그가 첫 한국 영화 연출작에 대한 모든 것을 공개했다. 휴먼 영화 '브로커'(영화사 집 제작)를 연출한 고레에다 히로카즈 감독. 2일 오후 서울 종로구 삼청동에서 스포츠조선과 가진 인터뷰를 통해 '브로커'를 만들게 된 계기부터 첫 한국 영화를 연출한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FSpoChosun%2F20220602150545426xvvj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[고레에다 히로카즈 감독 "늘 신선한 송강호→목소리 매력적 이지은"(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602150228032</link>
+            <guid>https://v.daum.net/v/20220602150228032</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 생애 첫 한국영화 연출작 '브로커' 개봉을 앞둔 일본의 고레에다 히로카즈 감독. 그가 "한국에는 매력적인 배우가 너무 많다"며 한국 영화계에 특별한 애정을 보였다. 영화 '브로커'를 연출한 고레에다 히로카즈 감독은 6월 2일 서울 종로구 모처에서 진행된 언론 인터뷰를 통해 영화 개봉을 앞둔 소감 등을 밝혔다. 오는 8일 개봉하는 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fnewsen%2F20220602150230725pvei.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[손석구X최귀화, '범죄도시2' 공약 "천만 돌파 시 '컬투쇼' 재출연하겠다" [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602145759822</link>
+            <guid>https://v.daum.net/v/20220602145759822</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 손석구, 최귀화가 '두시탈출 컬투쇼' 청취자를 만났다. 2일 방송된 SBS 파워FM 라디오 '두시탈출 컬투쇼'에는 영화 '범죄도시2' 주역 손석구, 최귀화가 등장했다. '범죄도시2'는 괴물 형사 마석도(마동석)와 금천서 강력반이 베트남 일대를 장악한 범죄자 강해상(손석구)을 잡기 위해 펼치는 통쾌한 범죄 소탕 작전을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fmydaily%2F20220602145759631eeaq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[탕웨이 "맑은 박해일 눈빛에 휘말려" (헤어질결심)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602145627758</link>
+            <guid>https://v.daum.net/v/20220602145627758</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '헤어질 결심' 박해일과 탕웨이가 서로의 매력에 대해 언급했다. 2일 오전 서울 종로구 JW메리어트호텔 동대문 스퀘어 그랜드볼룸에서 영화 '헤어질 결심'(감독 박찬욱)의 제작보고회가 열렸다. 현장에는 배우 박해일, 탕웨이, 박찬욱 감독이 참석했다. '헤어질 결심'은&nbsp;산에서 벌어진 변사 사건을 수사하게 된 형사 해준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fxportsnews%2F20220602145629678cnrn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합] '칸의 남자' 박찬욱의 '헤어질 결심'.."칸 트로피보다 궁금한건 관객의 평가" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602145001563</link>
+            <guid>https://v.daum.net/v/20220602145001563</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자] 박찬욱 감독이 영화 ‘헤어질 결심’으로 국내 팬들을 만날 준비를 마쳤다. 2일 오전 서울 동대문 JW메리어트 호텔에서 영화 '헤어질 결심'(감독 박찬욱) 제작보고회가 열렸다. 이날 현장에는 박찬욱 감독과 배우 박해일, 탕웨이가 참석해 영화에 대한 다양한 이야기를 나눴다. 제75회 칸 국제영화제에서 감독상을 품에 안고 돌아온 박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2F10asia%2F20220602145007555aszx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이동하, 소지섭 소속사 51K와 전속계약[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220602143906189</link>
+            <guid>https://v.daum.net/v/20220602143906189</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동하가 소지섭이 속한 51K와 전속 계약을 체결했다. 2일 소속사 51K는 이 같은 소식을 알리며 “다수의 작품을 통해 배우로서 입지를 견고히 다지고 있는 이동하가 앞으로 다양한 연기 활동을 할 수 있도록 전폭적인 지지와 응원을 아끼지 않을 것”이라고 밝혔다. 2009년 뮤지컬 ‘그리스’로 데뷔한 이동하는 ‘옥탑방 고양이’, ‘라카지’, ‘싱글즈’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fstartoday%2F20220602143907670amsn.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['브로커' 고레에다 감독 "아이유 캐스팅? '나의아저씨'에 홀딱 반해..가수인줄 몰라" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1874,68 +1938,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FSpoChosun%2F20220602135837522lcla.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['헤어질 결심' 박찬욱 감독 "칸 영화제 수상보다 韓 개봉 가장 긴장된다" [SE★현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602134512066</link>
-            <guid>https://v.daum.net/v/20220602134512066</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 칸 국제영화제에서 감독상을 수상하며 한국 영화계에 한 획을 그은 박찬욱 감독이 영화 '헤어질 결심'에 대한 애정을 드러냈다. 수상에 들뜨기보다 작품의 깊은 의미를 들여다봐주길 원하는 박 감독의 마음이 고스란히 묻어난다. 2일 오전 서울 종로구 JW 메리어트 동대문 스퀘어 서울에서 '헤어질 결심' 제작보고회가 개최됐다. 박찬욱 감독과 배우 탕웨]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fseouleconomy%2F20220602134516218zchj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 "非폭력·노출? 미묘한 내면 보여주기 위해" (헤어질결심)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602133007645</link>
-            <guid>https://v.daum.net/v/20220602133007645</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) '헤어질 결심' 박찬욱 감독이 작품에 대한 이야기를 전했다. 2일 오전 서울 종로구 JW메리어트호텔 동대문 스퀘어 그랜드볼룸에서 영화 '헤어질 결심'(감독 박찬욱)의 제작보고회가 열렸다. 현장에는 배우 박해일, 탕웨이, 박찬욱 감독이 참석했다. '헤어질 결심'은&nbsp;산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일 분)이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fxportsnews%2F20220602133011461eowg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['컴온 컴온' 호아킨 피닉스X'브로커' 송강호, 특별한 관계 특별한 여정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602132954638</link>
-            <guid>https://v.daum.net/v/20220602132954638</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]제75회 칸영화제 남우주연상을 수상한 송강호 주연의 ‘브로커’와 역시 제70회 칸영화제 남우주연상을 수상한 바 있는 호아킨 피닉스 주연의 ‘컴온 컴온’이 6월 극장가에 각각 특별한 관계, 특별한 동행의 로드무비로 스크린에 나와 관객들을 사로잡을 예정이다. 영화 ‘조커’로 아카데미시상식을 비롯한 각종 남우주연상을 수상한 명배우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fmydaily%2F20220602132954455anxf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[칸영화제 주목한 '헤어질 결심', 어떤 영화일까 [들어봤더니] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602124515542</link>
-            <guid>https://v.daum.net/v/20220602124515542</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해외 평론가들이 영화 ‘헤어질 결심’(감독 박찬욱)에 준 종합 평점은 3.2(4점 만점)다. 제75회 칸영화제 경쟁 부문에 진출한 19편 작품 중 가장 높은 점수다. 영화에 대한 좋은 평가는 박찬욱 감독의 세 번째 칸영화제 수상(감독상)으로 이어졌다. 히치콕 영화 같다고 평한 외신도 있었고, 이전 박찬욱 감독 영화와 달라졌다는 얘기도 나온다. 영등위로부]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fkukinews%2F20220602124516354hwxh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["팬데믹 이전 수준"..'쥬라기 월드', 외신도 주목한 韓 스코어 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602124512533</link>
-            <guid>https://v.daum.net/v/20220602124512533</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 한국에서 전 세계 최초 개봉된 '쥬라기 월드: 도미니언'이 압독적인 흥행세를 기록했다. 기록적인 오프닝 스코어로 '쥬라기' 시리즈의 마지막 대미를 장식한 '쥬라기 월드: 도미니언'이다. 영화 '쥬라기 월드: 도미니언'(감독 콜린 트레보로우·배급 유니버설 픽쳐스)은 마침내 세상 밖으로 나온 공룡들로 인해 인류는 이제껏 경험하지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Ftvdaily%2F20220602124515041hpfy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["수사 100%·로맨스 100%"..'헤어질 결심' 박찬욱 감독의 자신감 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602123202428</link>
-            <guid>https://v.daum.net/v/20220602123202428</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박찬욱 감독이 '헤어질 결심'으로 칸 영화제 감독상을 거머쥐고 돌아왔다. 자극적인 맛을 쏙 뺀 박찬욱 표 담백한 맛에 관심이 쏠리는 상황. 박 감독은 완성도를 자신하며 기대를 당부했다. 2일 오전 서울 종로구 JW메리어트 동대문 스퀘어 서울 그랜드볼룸에서 영화 '헤어질 결심' 제작보고회가 개최됐다. 이날 현장에는 박찬욱 감독과 주연 배우 탕웨이, 박해일이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fked%2F20220602123206062zhxn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["韓반응 궁금해"..폭력·노출 버린 박찬욱, 탕웨이x박해일 만난 멜로수사 '헤어질 결심'[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602123201427</link>
-            <guid>https://v.daum.net/v/20220602123201427</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 말초신경을 자극하는 폭력과 정사 장면이 없는 박찬욱 감독의 새 영화는 어떨까. 칸의 선택을 받은 데 이어 한국 관객들도 호응할 지 관심이 모아지고 있다. 2일 오전 JW 메리어트 동대문 스퀘어 서울 그랜드볼룸에서는 영화 '헤어질 결심'의 제작보고회가 열렸다. 이 자리에는 박찬욱 감독, 주연 배우 탕웨이, 박해일 등이 참석했다.&nbsp;]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fpoctan%2F20220602123203080jqnj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심' 박찬욱 "탕웨이의 한국어 대사 귀 기울여 들어보시길" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220602122132184</link>
-            <guid>https://v.daum.net/v/20220602122132184</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2일 오전 JW 메리어트 동대문 스퀘어 서울에서 영화 '헤어질 결심'의 제작보고회가 진행되었다. 이날 행사에는 박찬욱 감독, 탕웨이, 박해일이 참석해 영화에 대해 이야기했다. 이번 '헤어질 결심'을 통해 기존에 선보였던 작품과 사뭇 분위기가 많이 달라졌다는 평을 받은 박찬욱 감독은 "그 전 영화는 말초신경 자극적인 표현을 서슴치 않았다. 폭력과 정사,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FiMBC%2F20220602122134132creg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[마릴린 먼로, 역사상 가장 논란의 죽음 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220531173301727</link>
+            <guid>https://movie.v.daum.net/v/20220531173301727</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;마릴린 먼로 미스터리&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 어느덧 60년이 되었다. '마릴린 먼로'가 온갖 논란을 뒤로 한 채 세상을 등진 지 말이다. LA에서 태어난 그녀는 LA에서 죽었고 LA에 묻혔다. 영원한 할리우드의 상징이라 하지 않을 수 없다. 공식적으로 마릴린은 1962년 8월 4일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2Fohmynews%2F20220531173302447bmgv.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA['범죄도시2' 손석구 문신의 비밀, 싹 풀렸다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1944,14 +1952,6 @@
             <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배우 손석구가 연기하는 강해상의 잔혹함이 영화계를 뒤덮었다. ‘범죄도시2’ 포스터를 비롯해 손석구가 연기하는 강해상은 가슴 부분에 한자로 이뤄진 문신을 하고 있다. 강해상이 잔혹함으로 관객들에게 강렬한 인상을 심어줬기에 그가 새긴 문신의 의미에 대해서도 궁금증이 쏠렸다. 이에 대한 정답은 ‘범죄도시2’를 연출한 이상용 감독이 직접 답한 적이 있다. 그]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2Fsportskhan%2F20220601141217025rcqj.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
-            <title><![CDATA[마릴린 먼로, 역사상 가장 논란의 죽음 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220531173301727</link>
-            <guid>https://movie.v.daum.net/v/20220531173301727</guid>
-            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;마릴린 먼로 미스터리&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 어느덧 60년이 되었다. '마릴린 먼로'가 온갖 논란을 뒤로 한 채 세상을 등진 지 말이다. LA에서 태어난 그녀는 LA에서 죽었고 LA에 묻혔다. 영원한 할리우드의 상징이라 하지 않을 수 없다. 공식적으로 마릴린은 1962년 8월 4일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2Fohmynews%2F20220531173302447bmgv.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[배우 이지훈, 6년 만에 스크린 복귀..무명가수로 변신 예고 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1986,14 +1986,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fsportskhan%2F20220602081227211aiww.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[스한초점] '브로커''마녀2''헤어질 결심'..6월 극장가 신작 딛고 '북적' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602070013773</link>
-            <guid>https://movie.v.daum.net/v/20220602070013773</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 팬데믹 시대, 긴 터널의 끝이 보이는 걸까. 6월 극장가에 모처럼 신작들이 쏟아진다. 제75회 칸국제영화제에서 수상 낭보를 전해온 '브로커'와 '헤어질 결심'부터 기대작 '마녀2', 그리고 '쥬라기 월드: 도미니언', '탑건: 매버릭', '버즈라이트이어' 등 외화 대작들이 신작에 목말랐던 극장가를 가득 채운다. ◆]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FSpoHankook%2F20220602070015447rpsc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[리뷰] '브로커' 송강호·강동원·이지은의 담백한 위로..세상 모든 사랑에게 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220601070008150</link>
             <guid>https://movie.v.daum.net/v/20220601070008150</guid>
@@ -2002,12 +1994,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2FSpoHankook%2F20220601070010454yhub.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['헤어질 결심' 박찬욱 "탕웨이를 쓰기 위해 중국인 여자 설정을 만들었다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602122128183</link>
-            <guid>https://movie.v.daum.net/v/20220602122128183</guid>
+            <title><![CDATA[[스한초점] '브로커''마녀2''헤어질 결심'..6월 극장가 신작 딛고 '북적' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602070013773</link>
+            <guid>https://movie.v.daum.net/v/20220602070013773</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2일 오전 JW 메리어트 동대문 스퀘어 서울에서 영화 '헤어질 결심'의 제작보고회가 진행되었다. 이날 행사에는 박찬욱 감독, 탕웨이, 박해일이 참석해 영화에 대해 이야기했다. 박찬욱 감독은 영화 '헤어질 결심'에 대해 "박해일이 연기하는 형사는 일밖에 모르는 사람이긴 한데 불면증이 있어서, 밤에도 잠을 못자니까 잠복근무를 해서 부하들이 싫어하는, 책임감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FiMBC%2F20220602122130825cdqg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 팬데믹 시대, 긴 터널의 끝이 보이는 걸까. 6월 극장가에 모처럼 신작들이 쏟아진다. 제75회 칸국제영화제에서 수상 낭보를 전해온 '브로커'와 '헤어질 결심'부터 기대작 '마녀2', 그리고 '쥬라기 월드: 도미니언', '탑건: 매버릭', '버즈라이트이어' 등 외화 대작들이 신작에 목말랐던 극장가를 가득 채운다. ◆]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FSpoHankook%2F20220602070015447rpsc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['초여름의 낭만을 즐기자'..제10회 무주산골영화제 오늘 개막 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2018,12 +2010,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fyonhap%2F20220602070010242vsil.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독]방탄소년단 뷔, 강동원 '브로커' VIP시사 참석 위해 조기 귀국 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602115843256</link>
-            <guid>https://movie.v.daum.net/v/20220602115843256</guid>
+            <title><![CDATA['헤어질 결심' 박찬욱 "탕웨이를 쓰기 위해 중국인 여자 설정을 만들었다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602122128183</link>
+            <guid>https://movie.v.daum.net/v/20220602122128183</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 2일 인천국제공항을 통해 입국하는 방탄소년단 멤버 뷔/사진=임성균 기자방탄소년단 멤버 뷔가 절친한 연예계 동료 강동원이 출연한 영화 '브로커' VIP 시사회에 참석하기 위해 다른 멤버들보다 먼저 한국에 도착했다. 뷔는 백악관 일정을 마치고 2일 오전 인천국제공항을 통해 입국했다. 앞서 뷔는 지난달 31일 오후3시(한국시간 1일 오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fstarnews%2F20220602115845034ysoj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[2일 오전 JW 메리어트 동대문 스퀘어 서울에서 영화 '헤어질 결심'의 제작보고회가 진행되었다. 이날 행사에는 박찬욱 감독, 탕웨이, 박해일이 참석해 영화에 대해 이야기했다. 박찬욱 감독은 영화 '헤어질 결심'에 대해 "박해일이 연기하는 형사는 일밖에 모르는 사람이긴 한데 불면증이 있어서, 밤에도 잠을 못자니까 잠복근무를 해서 부하들이 싫어하는, 책임감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FiMBC%2F20220602122130825cdqg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[서영희X김보민 '뒤틀린 집', 7월 개봉 확정..색다른 괴담이 온다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2034,36 +2026,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2Fxportsnews%2F20220531173253397wwoe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박찬욱, 16년 만에 '청불' 떼다'..헤어질 결심' 15세 관람가 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602043901379</link>
-            <guid>https://movie.v.daum.net/v/20220602043901379</guid>
+            <title><![CDATA[[단독]방탄소년단 뷔, 강동원 '브로커' VIP시사 참석 위해 조기 귀국 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602115843256</link>
+            <guid>https://movie.v.daum.net/v/20220602115843256</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 칸영화제 감독상에 빛나는 영화 '헤어질 결심'이 15세 이상 관람가 등급을 받았다. '헤어질 결심'은 국내 개봉을 앞두고 영상물등급위원회에 심의를 넣었다. 영등위는 "주제를 비롯해 흉기로 상대를 찌르는 살상 행위와 뺨을 때리는 구타 장면, 자해와 증거 인멸의 시도 등에서 폭력성 및 모방위험의 수위가 다소 높다"면서도 "구]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FSBSfunE%2F20220602043902681xjms.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['귀신경찰' 김수미X신현준, 11년만의 재회..웃음 터졌다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602084037761</link>
-            <guid>https://movie.v.daum.net/v/20220602084037761</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='귀신경찰' '맨발의 기봉이', '가문의 영광' 시리즈를 통해 완벽한 케미를 선보였던 김수미와 신현준이 11년 만에 다시 만났다. 영화 '귀신경찰'(감독 김영준)이 김수미, 신현준, 정준호 세 배우의 유쾌한 조우로 개봉 전부터 화제를 모은 가운데, 보는 이들의 기대 지수를 무한 상승시키는 유쾌한 현장을 공개했다. '귀신경]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fstarnews%2F20220602084038256fnor.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[장혁, 전설의 킬러로 변신! '더 킬러: 죽어도 되는 아이' 7월 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220531171225790</link>
-            <guid>https://movie.v.daum.net/v/20220531171225790</guid>
-            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] 배우 장혁 주연 영화 ‘더 킬러: 죽어도 되는 아이’가 오는 7월 국내와 북미 동시 개봉한다. 액션 영화 ‘더 킬러: 죽어도 되는 아이’(감독 최재훈)는 호화로운 은퇴 생활을 즐기던 업계 최강 킬러 ‘의강’이 겁도 없이 자신을 건드린 놈들을 끝까지 쫓아 응징하는 스트레이트 액션이다. ‘더 킬러: 죽어도 되는 아이’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2FSPORTSSEOUL%2F20220531171226312euse.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[마녀2가 온다②] 신시아의 '마녀2', 확장된 '마녀 유니버스' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220601070013155</link>
-            <guid>https://movie.v.daum.net/v/20220601070013155</guid>
-            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오리지널 감독X제작진과 새로운 마녀…관객들 기대감 UP '범죄도시2'가 흥행가도를 달리고 있는 가운데 다음 달 15일 개봉을 확정한 영화 '마녀2'가 2022년 상반기 또다른 속편 기대작으로 주목을 받고 있다. 전작인 '마녀'가 2018년 극장가에 센세이션을 일으켰던 만큼 속편에 대한 영화 팬들의 관심은 상당히 높다. '마녀'가 일으킨 화제를 다시 한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2FTHEFACT%2F20220601070016651suep.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 2일 인천국제공항을 통해 입국하는 방탄소년단 멤버 뷔/사진=임성균 기자방탄소년단 멤버 뷔가 절친한 연예계 동료 강동원이 출연한 영화 '브로커' VIP 시사회에 참석하기 위해 다른 멤버들보다 먼저 한국에 도착했다. 뷔는 백악관 일정을 마치고 2일 오전 인천국제공항을 통해 입국했다. 앞서 뷔는 지난달 31일 오후3시(한국시간 1일 오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fstarnews%2F20220602115845034ysoj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[시네마 클래식] 2022년 칸 영화제 경쟁 부문 진출작 정리 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2074,12 +2042,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fchosun%2F20220602000117854kplx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['헤어질 결심' 탕웨이 "지금껏 박해일이 한 연기 중 이번 연기가 최고" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602114828880</link>
-            <guid>https://movie.v.daum.net/v/20220602114828880</guid>
+            <title><![CDATA['귀신경찰' 김수미X신현준, 11년만의 재회..웃음 터졌다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602084037761</link>
+            <guid>https://movie.v.daum.net/v/20220602084037761</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2일 오전 JW 메리어트 동대문 스퀘어 서울에서 영화 '헤어질 결심'의 제작보고회가 진행되었다. 이날 행사에는 박찬욱 감독, 탕웨이, 박해일이 참석해 영화에 대해 이야기했다. 탕웨이는 현장에서 분장이 완성된 자신을 보고 굉장히 놀랬다고 하며 "전혀 다른 제 모습이 너무 좋았다. 이전에 해보지 않았던 스타일을 해서 기뻤고 다른 캐릭터를 할때마다 다른 모]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FiMBC%2F20220602114831121sbph.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='귀신경찰' '맨발의 기봉이', '가문의 영광' 시리즈를 통해 완벽한 케미를 선보였던 김수미와 신현준이 11년 만에 다시 만났다. 영화 '귀신경찰'(감독 김영준)이 김수미, 신현준, 정준호 세 배우의 유쾌한 조우로 개봉 전부터 화제를 모은 가운데, 보는 이들의 기대 지수를 무한 상승시키는 유쾌한 현장을 공개했다. '귀신경]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fstarnews%2F20220602084038256fnor.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[CIX 배진영 영화 '더 앤티크 샵' 오늘(2일) 태국·캄보디아·라오스 상영 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2090,12 +2058,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fnewsen%2F20220602073150786npfx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['헤어질 결심' 박찬욱 "탕웨이의 한국어 대사 귀 기울여 들어보시길" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602122132184</link>
-            <guid>https://movie.v.daum.net/v/20220602122132184</guid>
+            <title><![CDATA[박찬욱, 16년 만에 '청불' 떼다'..헤어질 결심' 15세 관람가 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602043901379</link>
+            <guid>https://movie.v.daum.net/v/20220602043901379</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2일 오전 JW 메리어트 동대문 스퀘어 서울에서 영화 '헤어질 결심'의 제작보고회가 진행되었다. 이날 행사에는 박찬욱 감독, 탕웨이, 박해일이 참석해 영화에 대해 이야기했다. 이번 '헤어질 결심'을 통해 기존에 선보였던 작품과 사뭇 분위기가 많이 달라졌다는 평을 받은 박찬욱 감독은 "그 전 영화는 말초신경 자극적인 표현을 서슴치 않았다. 폭력과 정사,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FiMBC%2F20220602122134132creg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 칸영화제 감독상에 빛나는 영화 '헤어질 결심'이 15세 이상 관람가 등급을 받았다. '헤어질 결심'은 국내 개봉을 앞두고 영상물등급위원회에 심의를 넣었다. 영등위는 "주제를 비롯해 흉기로 상대를 찌르는 살상 행위와 뺨을 때리는 구타 장면, 자해와 증거 인멸의 시도 등에서 폭력성 및 모방위험의 수위가 다소 높다"면서도 "구]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FSBSfunE%2F20220602043902681xjms.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[장혁, 전설의 킬러로 변신! '더 킬러: 죽어도 되는 아이' 7월 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220531171225790</link>
+            <guid>https://movie.v.daum.net/v/20220531171225790</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] 배우 장혁 주연 영화 ‘더 킬러: 죽어도 되는 아이’가 오는 7월 국내와 북미 동시 개봉한다. 액션 영화 ‘더 킬러: 죽어도 되는 아이’(감독 최재훈)는 호화로운 은퇴 생활을 즐기던 업계 최강 킬러 ‘의강’이 겁도 없이 자신을 건드린 놈들을 끝까지 쫓아 응징하는 스트레이트 액션이다. ‘더 킬러: 죽어도 되는 아이’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2FSPORTSSEOUL%2F20220531171226312euse.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['헤어질 결심' 탕웨이 "지금껏 박해일이 한 연기 중 이번 연기가 최고" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602114828880</link>
+            <guid>https://movie.v.daum.net/v/20220602114828880</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2일 오전 JW 메리어트 동대문 스퀘어 서울에서 영화 '헤어질 결심'의 제작보고회가 진행되었다. 이날 행사에는 박찬욱 감독, 탕웨이, 박해일이 참석해 영화에 대해 이야기했다. 탕웨이는 현장에서 분장이 완성된 자신을 보고 굉장히 놀랬다고 하며 "전혀 다른 제 모습이 너무 좋았다. 이전에 해보지 않았던 스타일을 해서 기뻤고 다른 캐릭터를 할때마다 다른 모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2FiMBC%2F20220602114831121sbph.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[마녀2가 온다②] 신시아의 '마녀2', 확장된 '마녀 유니버스' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220601070013155</link>
+            <guid>https://movie.v.daum.net/v/20220601070013155</guid>
+            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오리지널 감독X제작진과 새로운 마녀…관객들 기대감 UP '범죄도시2'가 흥행가도를 달리고 있는 가운데 다음 달 15일 개봉을 확정한 영화 '마녀2'가 2022년 상반기 또다른 속편 기대작으로 주목을 받고 있다. 전작인 '마녀'가 2018년 극장가에 센세이션을 일으켰던 만큼 속편에 대한 영화 팬들의 관심은 상당히 높다. '마녀'가 일으킨 화제를 다시 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F01%2FTHEFACT%2F20220601070016651suep.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[탕웨이 "'헤어질 결심' 이야기 처음 듣고 흥분..참여 영광"[MK★현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602110010278</link>
+            <guid>https://movie.v.daum.net/v/20220602110010278</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 탕웨이가 ‘헤어질 결심’ 출연 계기를 밝혔다. 2일 오전 서울 종로구 JW메리어트 동대문 스퀘어 서울에서 영화 ‘헤어질 결심’(감독 박찬욱) 제작보고회가 열렸다. ‘만추’ 이어 11년 만에 한국영화 출연한 탕웨이는 “제가 감독님께 처음 이 이야기를 들었을 때 한 시간 반 정도의 시간이 소요됐다”라고 운을 뗐다. 이어 “그때 기억을 하다 보니 계속 물]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fmksports%2F20220602110012900wlve.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[4200명 뚫고 캐스팅 됐지만 잊혀졌던 배우, 지금은.. (다음 영화 ─ 매거진)]]></title>
