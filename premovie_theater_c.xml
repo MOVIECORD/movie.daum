@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 02:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 04:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd174cd7fb84108136744bde6f68b1eba5bd6822" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[탑건: 매버릭]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
+            <pubDate>Thu, 02 Jun 2022 04:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[애프터 체르노빌]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157389</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157389</guid>
@@ -46,6 +54,14 @@
             <pubDate>Wed, 01 Jun 2022 02:18:16 GMT</pubDate>
             <content:encoded><![CDATA[22.06.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[버즈 라이트이어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155087</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
+            <pubDate>Wed, 01 Jun 2022 23:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F40544401324b5cb1a9a6a36d2b9ce3cda1e1a6e1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[실종]]></title>
@@ -143,27 +159,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbfde329b1a199bb7b24f8097e186f9d6fc3922b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[버즈 라이트이어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155087</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
-            <pubDate>Wed, 01 Jun 2022 23:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F40544401324b5cb1a9a6a36d2b9ce3cda1e1a6e1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 렛지]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159484</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159484</guid>
             <pubDate>Wed, 01 Jun 2022 23:24:02 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7735e0e609102480e1d39477c90a002bbac8494d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[개들의 도시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160603</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160603</guid>
-            <pubDate>Wed, 01 Jun 2022 23:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
         </item>
     </channel>
 </rss>
