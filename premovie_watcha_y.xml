@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 23:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 01:49:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Tue, 31 May 2022 02:02:13 GMT</pubDate>
             <content:encoded><![CDATA[22.06.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43b78cde98431700e717960351d94206e6ea4553" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[친구]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2870</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2870</guid>
+            <pubDate>Fri, 03 Jun 2022 01:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A7E347C052" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어린 신부]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38755</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38755</guid>
+            <pubDate>Fri, 03 Jun 2022 01:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12110210A90925129C" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
