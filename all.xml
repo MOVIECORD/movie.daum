@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 05:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 06:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>6,546,766명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>6,546,763명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=127221</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127221</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,754,390명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,754,388명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -163,7 +163,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=127221</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127221</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,818,158명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,818,156명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -853,20 +853,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[카시오페아 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애프터 양 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151102</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151102</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
             <content:encoded><![CDATA[22.06.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[카시오페아 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
+            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피는 물보다 진하다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1666,6 +1666,86 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8aa301ece40593ec02034927bac76f838785eb3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사랑에 관한 짧은 필름 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=17476</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=17476</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0123ea2219c85a26e156770d451e43d260ac27aa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[살인에 관한 짧은 필름 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1418</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1418</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0931a1dd153535e2910291d0daaa2b3eef940b49" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[장화신은 고양이 디 오리지널 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=51065</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=51065</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1177554B4F863A5A31" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파라노이드 파크 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43594</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43594</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F156F1B10AC6B1643C0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[천주정 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=79167</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=79167</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F212C344B531F6AF333" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑에 빠진 것처럼 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=71383</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=71383</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2238204E52378EF101" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[온 더 로드 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=57646</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=57646</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2535FE48531E1DC60E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로슈포르의 숙녀들 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=31592</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=31592</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7d9fe00a724cdc9ee8d65e30186bdd1564469131920" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[당나귀 공주 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=52773</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=52773</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Febf1b2dbe34f4dd2bb939bf85d091e9b1564468958366" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[롤라 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=48726</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=48726</guid>
+            <pubDate>Fri, 03 Jun 2022 06:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38872dd556ff4b5e8f0c1728dfed7a891564469183306" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[방법: 재차의 ([다음영화] 왓챠 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139670</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139670</guid>
@@ -2103,6 +2183,62 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff28462f3bb7cc1ea00323127176a6802b431ec68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰①] '브로커' 고레에다 히로카즈 "이지은 최고, 목소리 힘 대단" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220603152144709</link>
+            <guid>https://v.daum.net/v/20220603152144709</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고레에다 히로카즈 감독이 이지은(아이유)를 극찬했다. 3일 서울 종로구 소격동 한 카페에서 영화 '브로커' 고레에다 히로카즈 감독 인터뷰가 진행됐다. 8일 개봉하는 '브로커'는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다. 이지은은 극 중 아기를 베이비 박스에 두고 왔지만 다시 찾으러 오는 엄마 소영으로 열]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Filgansports%2F20220603152145128wytn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[지구 두바퀴 반, '흙수저'의 아주 특별한 세계일주 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220603150600071</link>
+            <guid>https://v.daum.net/v/20220603150600071</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] 이 리뷰에선 극장 개봉 위주로 '독립' - '예술' 영화 범주에 속하는 작품들을 개봉시기에 맞춰 소개하고 있다. 하지만 갈수록 극장 개봉이 영화 소개의 절대 기준이 아니게 되고, '온라인 개봉'이라는 변칙적 용어가 사용되는 빈도가 늘어간다. 예전부터 사실상 VOD나 IPTV 서비스 제공에 '개봉작'이라는 글자를 보태기 위해 1일 개봉, 심지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fohmynews%2F20220603150604258magb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['닥터 스트레인지2' 안방 1열에서 본다..22일 디즈니+ 공개 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220603145521745</link>
+            <guid>https://v.daum.net/v/20220603145521745</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 디즈니+를 통해 '닥터 스트레인지: 대혼돈의 멀티버스'가 공개된다. 영화 '닥터 스트레인지: 대혼돈의 멀티버스'(감독 샘 레이미·배급 월트디즈니 컴퍼니)는 모든 상상을 초월하는 광기의 멀티버스 속, MCU 사상 최초로 끝없이 펼쳐지는 차원의 균열과 뒤엉킨 시공간을 그린 수퍼내추럴 스릴러 블록버스터이다. 이번 작품은 '광기의 멀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Ftvdaily%2F20220603145526254zyau.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['니얼굴' 캐리커처 작가 정은혜, 못 말리는 모녀 케미로 눈길 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220603144834557</link>
+            <guid>https://v.daum.net/v/20220603144834557</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]예쁜 얼굴을 안 예쁘게 그려주는 캐리커처 작가 은혜씨의 특별한 일상을 담은 영화 '니얼굴'이 선배 아티스트이자 은혜씨의 어머니 장차현실 작가와의 유쾌 발랄 모녀 케미로 기대를 모은다. 제25회 부산국제영화제, 제12회 광주여성영화제 초청 및 제18회 서울환경영화제 우수상을 받으며 화제를 모은 영화 '니얼굴'이 특급 모녀 케미로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fmydaily%2F20220603144834807fpig.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['닥터 스트레인지2', 디즈니 플러스서 22일 공개[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220603143600151</link>
+            <guid>https://v.daum.net/v/20220603143600151</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[580만 관객을 동원하며 극장가를 달군 영화 '닥터 스트레인지: 대혼돈의 멀티버스'(이하 '닥터 스트레인지2')가 오는 22일 디즈니+에서 공개된다. '닥터 스트레인지2'는 개봉 3주 만에 전편의 흥행 기록을 뛰어넘은 것은 물론 올해 사전 최고 예매량 경신, 역대 어린이날 최다 관객수 경신 등 기록을 썼다. 스크린에 이어 이번에는 OTT 디즈니+를 통해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fstartoday%2F20220603143602984znki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['닥터 스트레인지2', 22일 디즈니+ 공개 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220603142550818</link>
+            <guid>https://v.daum.net/v/20220603142550818</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 580만 관객을 동원하며 2022년 극장가를 뜨겁게 달군 영화 '닥터 스트레인지: 대혼돈의 멀티버스'가 오는 22일 디즈니+에서 공개된다. '닥터 스트레인지: 대혼돈의 멀티버스'는 개봉 3주 만에 전편의 흥행 기록을 뛰어넘은 것은 물론, 2020-2022년 사전 최고 예매량 경신, 역대 어린이날 최다 관객수 경신 등 기록을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fmydaily%2F20220603142550246xkuc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['메뚜기 월드'가 된 '쥬라기 월드3'의 의미와 한계 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220603142401751</link>
+            <guid>https://v.daum.net/v/20220603142401751</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;영화 &lt;쥬라기 월드: 도미니언&gt; 포스터    ⓒ 유니버설 픽쳐스  &nbsp; *이 기사엔 영화의 스포일러가 포함돼 있습니다.&nbsp; 공룡들의 터전이었던 이슬라 누블라 섬이 파괴되고,&nbsp;섬을 벗어나 세상 밖에 자리 잡은&nbsp;공룡들. 세계가 혼란에 휩싸인 가운데 '오웬(크리스 프랫)'과 '클레어(브라이스 달라스 하워드)'는 공룡들을 보살피고,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fohmynews%2F20220603142402469sbub.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[불법체류자 누나의 죽음.. 거장이 말하고 싶었던 '처참한 비극' (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220603141200427</link>
             <guid>https://v.daum.net/v/20220603141200427</guid>
@@ -2164,7 +2300,7 @@
             <guid>https://v.daum.net/v/20220603120656903</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[아시아경제 이이슬 기자] 할리우드 배우 톰 크루즈(59)가 팬데믹을 뚫고 10번째 내한을 확정했다. 톰 크루즈가 이달 영화 '탑건: 매버릭'(감독 조셉 코신스키)으로 내한한다는 사실은 2일 오후 아시아경제 단독 보도로 알려졌다. 롯데엔터테인먼트는 3일 오전 "톰 크루즈와 영화 제작자 제리 브룩하이머, 배우 제이 엘리스·그렉 타잔 데이비스가 오는 18일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fakn%2F20220603120657890rfnv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fakn%2F20220603143731341ogxr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['탑건' 톰 크루즈 10번째 내한, 코로나 뛰어 넘은 韓 사랑 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
@@ -2207,62 +2343,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fohmynews%2F20220603112401626abvd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["한국행 위해 최대한 노력" 톰 크루즈, 18일 10번째 내한 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220603112356371</link>
-            <guid>https://v.daum.net/v/20220603112356371</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 영화 '탑건: 매버릭'의 주역인 배우 톰 크루즈가 18일&nbsp;한국을 10번째 방문한다.&nbsp; '탑건: 매버릭'의 주역 톰 크루즈와 제작자 제리 브룩하이머, 뉴 스타 제이 엘리스, 그렉 타잔 데이비스가 오는 18일&nbsp;내한을 확정했다. 이들은 '탑건: 매버릭'의 국내 개봉일인 22일에 앞서 한국을 찾아 영화 홍보 프로모션을 소화할 예정이다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fpoctan%2F20220603112356654vdpj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['마녀2' 종적 감춘 김다미와 소녀 신시아의 비밀..극비 프로젝트 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220603112059224</link>
-            <guid>https://v.daum.net/v/20220603112059224</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 마녀의 기원이 공개된다. 6월 15일 개봉하는 영화 '마녀 Part2. The Other One'(이하 '마녀2', 감독 박훈정)은 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 ‘소녀’ 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린 액션 영화. 6월 3일 공개된 ‘마녀의 기원’ 영상은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fnewsen%2F20220603112059275whcy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] '탑건: 매버릭' 톰 크루즈, 10번째 한국行..팬데믹 이래 첫 내한 행사 개최 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220603111232795</link>
-            <guid>https://v.daum.net/v/20220603111232795</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 항공 액션 영화 '탑건: 매버릭'(조셉 코신스키 감독)의 주역 톰 크루즈가 오는 18일 10번째 내한을 확정했다. '탑건: 매버릭' 국내 프로모션으로 톰 크루즈, 영화 제작자 제리 브룩하이머와 함께 톰 크루즈가 발굴한 뉴 스타들이 함께한다. '탑건: 매버릭'의 톰 크루즈와 제작자 제리 브룩하이머, 뉴 스타 제이 엘리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2FSpoChosun%2F20220603111233108axxt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈, '탑건: 매버릭'으로 10번째 내한 성사 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220603111220783</link>
-            <guid>https://v.daum.net/v/20220603111220783</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] '탑건: 매버릭' 출연진 톰 크루즈, 제이 엘리스, 그렉 타잔 테이비스와 제작자 제리 브룩하이머가 한국을 찾는다. 이는 톰 크루즈 생애 10번째 공식 내한이다. 영화 '탑건: 매버릭'측에 따르면 톰 크루즈, 제이 엘리스, 그렉 타잔 테이비스, 제리 브룩하이머가 18일 내한을 확정했다. 이들은 '탑건: 매버릭' 국내 개봉일인 22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fsportstoday%2F20220603111221308zpgb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 톰 크루즈, 18일 내한 확정 "10번째 한국 방문" [공식입장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220603111124732</link>
-            <guid>https://v.daum.net/v/20220603111124732</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '탑건: 매버릭'(감독 조셉 코신스키)의 주역 톰 크루즈가 18일 한국을 방문한다. '탑건: 매버릭'의 주역 톰 크루즈와 제작자 제리 브룩하이머, 뉴 스타 제이 엘리스, 그렉 타잔 데이비스가 오는 18일 내한을 확정했다. 이들은 '탑건: 매버릭'의 국내 개봉일인 22일에 앞서 한국을 찾아 영화 홍보 프로모션을 소화할 예]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fxportsnews%2F20220603111126958jafy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["톰 크루즈, 18일 한국 온다"..'탑건:매버릭'으로 10번째 내한[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220603111028693</link>
-            <guid>https://v.daum.net/v/20220603111028693</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '탑건: 매버릭' 주역 톰 크루즈가 내한한다. 6월 3일 롯데엔터테인먼트에 따르면 톰 크루즈, 제리 브룩하이머, 제이 엘리스, 그렉 타잔 데이비스가 6월 18일 한국을 10번째 방문한다. 영화 '탑건: 매버릭' 국내 개봉일인 6월 22일에 앞서 한국을 찾아 영화 홍보 프로모션을 소화할 예정이다. 톰 크루즈는 1994년 첫 내한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fnewsen%2F20220603111028253svqf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["韓 10번째 방문" 톰 크루즈, '탑건: 매버릭' 주역들과 18일 내한[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220603110806564</link>
-            <guid>https://v.daum.net/v/20220603110806564</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 크리스토퍼 맥쿼리, 톰 크루즈, 조셉 코신스키, 제리 브룩하이머 / 사진=롯데엔터테인먼트 '탑건: 매버릭'의 주역 톰 크루즈가 6월 18일 한국을 10번째 방문한다. '탑건: 매버릭' 국내 프로모션으로 톰 크루즈와 영화 제작자 제리 브룩하이머와 함께 톰 크루즈가 발굴한 뉴 스타들이 함께한다. 영화 '탑건: 매버릭'의 주역 톰 크]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fstarnews%2F20220603110807297ehyl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['범죄도시2' 하준 허동원 밝힌 #마동석 #은인 #액션 #흥행[인터뷰 종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220602173756939</link>
             <guid>https://movie.v.daum.net/v/20220602173756939</guid>
@@ -2271,12 +2351,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fpoctan%2F20220602173757678chhp.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[고레에다 히로카즈 "생명에 대한 긍정적 시선 위해 노골적 대사 투입" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603080140620</link>
-            <guid>https://movie.v.daum.net/v/20220603080140620</guid>
+            <title><![CDATA['탑건' 톰 크루즈 10번째 내한, 코로나 뛰어 넘은 韓 사랑 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603120407823</link>
+            <guid>https://movie.v.daum.net/v/20220603120407823</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[송강호, 강동원, 이지은, 배두나, 이주영 등 배우와 함께 칸 영화제 경쟁부문에 초청된 영화 '브로커'를 만든 고레에다 히로카즈 감독을 만났다. 삼청동의 한 카페에서 만난 고레에다 히로카즈 감독은 질문 하나 하나에도 오랜 시간 생각을 한 뒤 답변을 하는 신중한 모습을 보였다. 고레에다 히로카즈 감독은 가족애가 잘 드러나는 작품들을 만들며 한국에 많은 팬]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2FiMBC%2F20220603080142202jtdj.jpg" length="0" type="image//thumb/S732x228/"/>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 미국 배우 톰 크루즈가 '탑건: 매버릭'으로 한국을 찾는다. 22일 개봉되는 영화 '탑건: 매버릭'(감독 조셉 코신스키·배급 롯데엔터테인먼트)은 교관으로 컴백한 최고의 파일럿 매버릭(톰 크루즈)과 함께 생사를 넘나드는 미션에 투입되는 새로운 팀원들의 이야기를 다룬 항공 액션 블록버스터. 톰 크루즈와 제이 엘리스, 그렉 타잔 테]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Ftvdaily%2F20220603120408184yozg.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
             <title><![CDATA[판권 가치 100% 상승..K무비 달라진 위상 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2303,6 +2383,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fsportsdonga%2F20220603065729817croj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[고레에다 히로카즈 "생명에 대한 긍정적 시선 위해 노골적 대사 투입" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603080140620</link>
+            <guid>https://movie.v.daum.net/v/20220603080140620</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[송강호, 강동원, 이지은, 배두나, 이주영 등 배우와 함께 칸 영화제 경쟁부문에 초청된 영화 '브로커'를 만든 고레에다 히로카즈 감독을 만났다. 삼청동의 한 카페에서 만난 고레에다 히로카즈 감독은 질문 하나 하나에도 오랜 시간 생각을 한 뒤 답변을 하는 신중한 모습을 보였다. 고레에다 히로카즈 감독은 가족애가 잘 드러나는 작품들을 만들며 한국에 많은 팬]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2FiMBC%2F20220603080142202jtdj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[무주산골영화제, 숲으로 떠나는 열 번째 영화 소풍 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220603084053471</link>
             <guid>https://movie.v.daum.net/v/20220603084053471</guid>
@@ -2319,6 +2407,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fmydaily%2F20220602132954455anxf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[지구 두바퀴 반, '흙수저'의 아주 특별한 세계일주 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603150600071</link>
+            <guid>https://movie.v.daum.net/v/20220603150600071</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] 이 리뷰에선 극장 개봉 위주로 '독립' - '예술' 영화 범주에 속하는 작품들을 개봉시기에 맞춰 소개하고 있다. 하지만 갈수록 극장 개봉이 영화 소개의 절대 기준이 아니게 되고, '온라인 개봉'이라는 변칙적 용어가 사용되는 빈도가 늘어간다. 예전부터 사실상 VOD나 IPTV 서비스 제공에 '개봉작'이라는 글자를 보태기 위해 1일 개봉, 심지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fohmynews%2F20220603150604258magb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['범죄도시2'→'쥬라기월드', 팬데믹에 얼어붙은 극장가 해동 [ST이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220602173805945</link>
             <guid>https://movie.v.daum.net/v/20220602173805945</guid>
@@ -2327,44 +2423,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fsportstoday%2F20220602173807051yjvn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[영화 역사상 처음..톰 크루즈 '탑건: 매버릭', 美 해군기지서 촬영 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603085104762</link>
-            <guid>https://movie.v.daum.net/v/20220603085104762</guid>
+            <title><![CDATA[엔데믹 신호탄..'뽀로로 극장판 드래곤캐슬 대모험' 여름 개봉 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603102322637</link>
+            <guid>https://movie.v.daum.net/v/20220603102322637</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 영화 '탑건: 매버릭'이 실제 미 해군기지에서 촬영한 비하인드를 공개했다. '탑건: 매버릭'은 교관으로 컴백한 최고의 파일럿 매버릭(톰 크루즈 분)과 함께 생사를 넘나드는 미션에 투입되는 새로운 팀원들의 이야기를 다룬 항공 액션 블록버스터. 톰 크루즈 필모그래피 사상 최고 오프닝을 기록하며 전 세계 박스오피스 고공비행 중인 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2F10asia%2F20220603085106727mwqs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['쥬라기 월드' 6편의 시리즈 관통하는 주제의식 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602154500956</link>
-            <guid>https://movie.v.daum.net/v/20220602154500956</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &nbsp;        ▲ &nbsp;&lt;쥬라기 월드: 도미니언&gt; 포스터    ⓒ 유니버설 픽쳐스   &nbsp; '쥬라기 공원' 시리즈의 6번째 작품이자 '쥬라기 월드' 시리즈 세 번째 영화인 &lt;쥬라기 월드: 도미니언&gt;은 할리우드 브랜드 블록버스터의 기조를 따른다. 팬들의 향수를 자극하는 원조 출연진과 오마주를 선보]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fohmynews%2F20220602154505680dqxo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건' 톰 크루즈 10번째 내한, 코로나 뛰어 넘은 韓 사랑 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603120407823</link>
-            <guid>https://movie.v.daum.net/v/20220603120407823</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 미국 배우 톰 크루즈가 '탑건: 매버릭'으로 한국을 찾는다. 22일 개봉되는 영화 '탑건: 매버릭'(감독 조셉 코신스키·배급 롯데엔터테인먼트)은 교관으로 컴백한 최고의 파일럿 매버릭(톰 크루즈)과 함께 생사를 넘나드는 미션에 투입되는 새로운 팀원들의 이야기를 다룬 항공 액션 블록버스터. 톰 크루즈와 제이 엘리스, 그렉 타잔 테]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Ftvdaily%2F20220603120408184yozg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["기존 박찬욱 작품과는 다른 맛"..'헤어질 결심' 韓관객에도 통할까 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602114406705</link>
-            <guid>https://movie.v.daum.net/v/20220602114406705</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 기존 박찬욱 감독의 작품들과는 다른 색다른 맛을 담고 있는 영화 '헤어질 결심'이 극장가를 찾는다. '헤어질 결심'(감독 박찬욱·제작 모호필름)의 제작보고회가 서울 종로구 JW메리어트 동대문 스퀘어 서울 그랜드블룸에서 진행됐다. 현장에는 박찬욱 감독을 비롯해 배우 탕웨이, 박해일이 참석해 작품에 대한 이야기를 나눴다. '헤어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Ftvdaily%2F20220602114407696hljw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['마녀2', 총 7개국서 40년 넘게 진행된 극비 프로젝트 '마녀의 기원 공개' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603132316202</link>
-            <guid>https://movie.v.daum.net/v/20220603132316202</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '마녀 Part2. The Other One'(이하 '마녀2')가 '마녀 유니버스'의 실체를 확인할 수 있는 '마녀의 기원' 영상을 공개했다. '마녀2'(감독 박훈정)는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린 액션]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fmydaily%2F20220603132316132krjl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 어린이 관객들을 극장에 돌아오게 하는 신호탄이 될 '뽀로로 극장판 드래곤캐슬 대모험'이 올여름 개봉한다. 3일 NEW는 이 같은 소식을 전했다. '뽀로로 극장판 드래곤캐슬 대모험'은 악당 마법사에게 막강한 힘의 '드래곤 하트'를 빼앗긴 꼬마 왕 '아서'가 뽀로로와 친구들과 함께 드래곤캐슬을 되찾기 위해 펼치는 이야기. '뽀로로 극]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fstarnews%2F20220603102323281avin.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[가족이 되기 위해선 '핏줄'보다 중요한 게 있다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2375,28 +2439,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fohmynews%2F20220603112401626abvd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['범죄도시2' 하루만에 정상 탈환! 마동석 흥행작 톱3 등극 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603104209488</link>
-            <guid>https://movie.v.daum.net/v/20220603104209488</guid>
+            <title><![CDATA[영화 역사상 처음..톰 크루즈 '탑건: 매버릭', 美 해군기지서 촬영 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603085104762</link>
+            <guid>https://movie.v.daum.net/v/20220603085104762</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 대한민국 대표&nbsp;범죄&nbsp;액션 시리즈 영화 '범죄도시2'가 영진위 통합전산망 기준, 외화 '쥬라기 월드: 도미니언'을 제치고 하루 만에 박스오피스 정상을 탈환했다. 더불어 개봉 16일 만에 이전 팬데믹 이후 최고 흥행작 '스파이더맨: 노 웨이 홈'(2021)의 최종 관객수 7,551,990명을 뛰어넘고 최근 3년간 최고 흥행 영화로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fpoctan%2F20220603104210166ppal.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 영화 '탑건: 매버릭'이 실제 미 해군기지에서 촬영한 비하인드를 공개했다. '탑건: 매버릭'은 교관으로 컴백한 최고의 파일럿 매버릭(톰 크루즈 분)과 함께 생사를 넘나드는 미션에 투입되는 새로운 팀원들의 이야기를 다룬 항공 액션 블록버스터. 톰 크루즈 필모그래피 사상 최고 오프닝을 기록하며 전 세계 박스오피스 고공비행 중인 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2F10asia%2F20220603085106727mwqs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[배우 이지훈, 6년 만에 스크린 복귀..무명가수로 변신 예고 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220602080014832</link>
-            <guid>https://movie.v.daum.net/v/20220602080014832</guid>
+            <title><![CDATA[불법체류자 누나의 죽음.. 거장이 말하고 싶었던 '처참한 비극' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603141200427</link>
+            <guid>https://movie.v.daum.net/v/20220603141200427</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;토리 앤 로키타&gt;를 연출한 쟝 피에르 다르덴(Jean-Pierre Dardenne, 왼쪽)과 뤽 다르덴(luc dardenneluc). 두 사람은 이 영화로 제75회 칸영화제 특별상인 '75주년상'을 받았다.    ⓒ 이선필  &nbsp; 벨기에 출신 거장 다르덴 형제가 스무 번째 작품을 들고 3년 만에 칸영화제를 찾았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fohmynews%2F20220603141204440eaov.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['쥬라기 월드' 6편의 시리즈 관통하는 주제의식 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602154500956</link>
+            <guid>https://movie.v.daum.net/v/20220602154500956</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 배우 이지훈이 6년 만에 스크린에 복귀한다. 이지훈의 소속사 케이원엔터테인먼트는 이지훈이 영화 '최악의 이웃과 사랑에 빠지는 방법: 언택트 러브'(이하 '최악의 이웃과 사랑에 빠지는 방법') 주연을 맡는다고 2일 밝혔다. 영화는 2015년 개봉한 동명의 프랑스 영화를 리메이크한 작품으로 하나의 벽을 사이에 두고 살아가는 두]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fyonhap%2F20220602080014282fftf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈, 10번째 내한 확정..'탑건: 매버릭' 주역들과 18일 온다 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603105733048</link>
-            <guid>https://movie.v.daum.net/v/20220603105733048</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 올해 기대작 '탑건: 매버릭' 주역들이 한국을 찾는다. 3일 수입 및 배급사 롯데엔터테인먼트에 따르면 톰 크루즈는 오는 18일 한국을 10번째 방문한다. 이외에도 제작자 제리 브룩하이머, 뉴 스타 제이 엘리스, 그렉 타잔 데이비스도 이날 내한을 확정했다. 이들은 '탑건: 매버릭'의 국내 개봉일인 오는 22일에 앞서 한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2FNEWS1%2F20220603105734827kyjp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김준모 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &nbsp;        ▲ &nbsp;&lt;쥬라기 월드: 도미니언&gt; 포스터    ⓒ 유니버설 픽쳐스   &nbsp; '쥬라기 공원' 시리즈의 6번째 작품이자 '쥬라기 월드' 시리즈 세 번째 영화인 &lt;쥬라기 월드: 도미니언&gt;은 할리우드 브랜드 블록버스터의 기조를 따른다. 팬들의 향수를 자극하는 원조 출연진과 오마주를 선보]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fohmynews%2F20220602154505680dqxo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[예측할 수 없는 스토리..전 세계인이 푹 빠진 이유 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2407,6 +2471,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2FEdaily%2F20220603000118879otam.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['마녀2', 총 7개국서 40년 넘게 진행된 극비 프로젝트 '마녀의 기원 공개' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603132316202</link>
+            <guid>https://movie.v.daum.net/v/20220603132316202</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '마녀 Part2. The Other One'(이하 '마녀2')가 '마녀 유니버스'의 실체를 확인할 수 있는 '마녀의 기원' 영상을 공개했다. '마녀2'(감독 박훈정)는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린 액션]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fmydaily%2F20220603132316132krjl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[고레에다 히로카즈 "칸에 도배된 '브로커' 현수막, CJ의 힘 느꼈다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220603140144156</link>
             <guid>https://movie.v.daum.net/v/20220603140144156</guid>
@@ -2415,12 +2487,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2FiMBC%2F20220603140149695wigv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['미즈 마블' 이만 벨라니 "박서준, 정말 멋있어! 그 이상은 말 못해" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603104723643</link>
-            <guid>https://movie.v.daum.net/v/20220603104723643</guid>
+            <title><![CDATA[국내외 스타 배우·감독 총출동..6월 영화관 볼 게 많다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603091644687</link>
+            <guid>https://movie.v.daum.net/v/20220603091644687</guid>
             <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] “박서준, 멋있지만 그 이상은 말하기 어려워.” 3일 오전, 디즈니 플러스 드라마 ‘미즈 마블’ 화상 기자간담회가 열렸다. 아딜 엘 아르비, 빌라 팔라 감독과 주연 배우 이만 벨라니가 참석해 작품에 관한 이야기를 나눴다. 이만 벨라니가 출연하게 된 영화 ‘더 마블스’에는 한국배우 박서준도 출연했다. 이에 대해 이만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2FSPORTSSEOUL%2F20220603104727648fmzn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[기사내용 요약 영화관 부활 조짐…6월 기대작 속속 개봉 송강호 '브로커' 박찬욱 '헤어질 결심' 등 톰 크루즈 액션 블록버스터 '탑건:매버릭' 5월 상승세 6월 이어받아 여름방학으로 [서울=뉴시스] 손정빈 기자 = 5월 영화 관객수는 1455만명이었다. 4월(312만명)보다 4.6배 많았다. 코로나19 사태 이전인 2019년 5월(1806만명)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fnewsis%2F20220603091644677ecka.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["기존 박찬욱 작품과는 다른 맛"..'헤어질 결심' 韓관객에도 통할까 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220602114406705</link>
+            <guid>https://movie.v.daum.net/v/20220602114406705</guid>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 기존 박찬욱 감독의 작품들과는 다른 색다른 맛을 담고 있는 영화 '헤어질 결심'이 극장가를 찾는다. '헤어질 결심'(감독 박찬욱·제작 모호필름)의 제작보고회가 서울 종로구 JW메리어트 동대문 스퀘어 서울 그랜드블룸에서 진행됐다. 현장에는 박찬욱 감독을 비롯해 배우 탕웨이, 박해일이 참석해 작품에 대한 이야기를 나눴다. '헤어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Ftvdaily%2F20220602114407696hljw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 너무 야위어서 대중 놀래킨 '배우', 알츠하이머 때문이었나? (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/E028efHks4</link>
+            <guid>https://content.v.daum.net/v/E028efHks4</guid>
+            <pubDate>Fri, 03 Jun 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fmaxmovie%2F20220603062232009nxid.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[부잣집 딸인줄 알았는데.. 알고보니 교도소에서 태어남 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EI4qHJC6eZ</link>
+            <guid>https://content.v.daum.net/v/EI4qHJC6eZ</guid>
+            <pubDate>Fri, 03 Jun 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fharmony%2F20220603040559692m9qq.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[강동원 이전에 아이유가 기댔던 이 남자, 알고 보니.. (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/EjWnHalemA</link>
+            <guid>https://content.v.daum.net/v/EjWnHalemA</guid>
+            <pubDate>Fri, 03 Jun 2022 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fmaxmovie%2F202206030551473657mao.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[서로 예쁘고 잘생겨서 첫만남에 쳐다보지 못했다는 남녀 배우 (다음 영화 ─ 매거진)]]></title>
@@ -2557,30 +2661,6 @@
             <pubDate>Tue, 31 May 2022 07:24:07 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2Ffeelthemovie%2F20220531032352929hrcf.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['칸' 빛낸 박해일, 이번엔 OOO으로 완벽 변신하다! (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/EUXlffmwoJ</link>
-            <guid>https://content.v.daum.net/v/EUXlffmwoJ</guid>
-            <pubDate>Tue, 31 May 2022 07:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2Fmaxmovie%2F202205310631359246zcl.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 칸 영화제서 탕웨이와 아이유를 이긴 이 여성 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/ETyyypEirB</link>
-            <guid>https://content.v.daum.net/v/ETyyypEirB</guid>
-            <pubDate>Tue, 31 May 2022 03:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2Ffeelthemovie%2F20220531023120052l6qv.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[칸 빛낸 한국 영화인, <헤어질 결심> 박찬욱 감독 X <브로커> 송강호 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/ECEBJEOAYP</link>
-            <guid>https://content.v.daum.net/v/ECEBJEOAYP</guid>
-            <pubDate>Tue, 31 May 2022 03:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[무비스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F31%2FMOVIST%2F20220531112303698jfvm.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<브로크백 마운틴>보편적이면서도 보편적이지 않은 이야기 (다음 영화 ─ 브런치)]]></title>
