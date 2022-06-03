@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 16:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 17:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -877,28 +877,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a78affe8ba74e86f9fe29d5f2bec620d00a9c8d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어부바 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144227</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144227</guid>
-            <pubDate>Tue, 31 May 2022 15:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[피는 물보다 진하다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158844</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158844</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
             <content:encoded><![CDATA[22.05.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed58d7965845aca8b46037cb08ab771432568f7a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[배드 가이즈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
-            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -909,12 +893,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[어부바 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144227</guid>
+            <pubDate>Tue, 31 May 2022 15:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나를 만나는 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114296</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114296</guid>
             <pubDate>Mon, 30 May 2022 02:02:09 GMT</pubDate>
             <content:encoded><![CDATA[22.05.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F864bda5dd54ff661f276e826c749800fd83a7765" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배드 가이즈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156440</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156440</guid>
+            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e205ec697a1386b146b4f8c709f06bcf72c84f4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오마주 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1746,14 +1746,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38872dd556ff4b5e8f0c1728dfed7a891564469183306" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[호텔 룸 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=88763</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=88763</guid>
-            <pubDate>Tue, 24 May 2022 02:53:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F182df339e963eaff000278e74ba5621e1e9b7bb0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[필로우 북 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2307</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2307</guid>
@@ -2090,20 +2082,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Fstarnews%2F20220603102323281avin.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[전주영화제 2관왕 '경아의 딸' 메인 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220603104318529</link>
-            <guid>https://movie.v.daum.net/v/20220603104318529</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['경아의 딸' 메인 포스터가 공개됐다. 16일 개봉을 확정한 배우 김정영, 하윤경 주연의 '경아의 딸(김정은 감독)'이 메인 포스터를 공개했다. '경아의 딸'은 세상을 믿지 않는 경아와 세상에 지고 싶지 않은 연수가 지우고 싶은 사건을 겪으며 어긋나고 또 기대어 나아가는 이야기를 그린 영화로, 단편으로 청룡영화제부터 미쟝센단편영화제, 서울독립영화제 등]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Filgansports%2F20220603104320469ipkv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['다음 소희' 김시은, 칸 영화제 빛냈다.."귀한 경험 오래 간직할 것" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220602180425820</link>
             <guid>https://movie.v.daum.net/v/20220602180425820</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '다음 소희' 김시은의 칸 국제영화제 비하인드가 포착됐다. 한국 영화 최초로 칸 국제영화제 비평가주간 폐막작에 선정된 영화 '다음 소희'(감독 정주리)가 현지 공식 일정을 성황리에 마무리한 가운데, 주연 소희 역을 맡은 김시은의 감동이 생생하게 담긴 비하인드가 공개됐다. '다음 소희'는 제67회 칸 국제영화제 주목할 만한 시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fxportsnews%2F20220602180427706iufe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전주영화제 2관왕 '경아의 딸' 메인 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220603104318529</link>
+            <guid>https://movie.v.daum.net/v/20220603104318529</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['경아의 딸' 메인 포스터가 공개됐다. 16일 개봉을 확정한 배우 김정영, 하윤경 주연의 '경아의 딸(김정은 감독)'이 메인 포스터를 공개했다. '경아의 딸'은 세상을 믿지 않는 경아와 세상에 지고 싶지 않은 연수가 지우고 싶은 사건을 겪으며 어긋나고 또 기대어 나아가는 이야기를 그린 영화로, 단편으로 청룡영화제부터 미쟝센단편영화제, 서울독립영화제 등]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F03%2Filgansports%2F20220603104320469ipkv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[거장의 투박한 위로  공감은 각자의 몫, '브로커' (다음영화 뉴스 ─ 인기)]]></title>
