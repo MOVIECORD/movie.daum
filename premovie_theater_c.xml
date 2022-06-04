@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 06:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 07:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73a3d766b1ac211970bbac40920d22822d2a0d36" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[미친 능력]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156396</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156396</guid>
+            <pubDate>Sat, 04 Jun 2022 07:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2261246f28175f63c8d5e1e8cd3cb00cdae77682" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[니얼굴]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145325</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145325</guid>
@@ -157,13 +165,6 @@
             <pubDate>Wed, 01 Jun 2022 23:24:02 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7735e0e609102480e1d39477c90a002bbac8494d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[개들의 도시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160603</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160603</guid>
-            <pubDate>Thu, 02 Jun 2022 07:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
         </item>
     </channel>
 </rss>
