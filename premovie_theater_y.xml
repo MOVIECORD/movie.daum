@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 10:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 11:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피는 물보다 진하다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158844</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158844</guid>
-            <pubDate>Tue, 24 May 2022 23:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed58d7965845aca8b46037cb08ab771432568f7a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[특수요원 빼꼼]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155632</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155632</guid>
@@ -80,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a78affe8ba74e86f9fe29d5f2bec620d00a9c8d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[피는 물보다 진하다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158844</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158844</guid>
+            <pubDate>Tue, 24 May 2022 23:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed58d7965845aca8b46037cb08ab771432568f7a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아치의 노래, 정태춘]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
             <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[우연과 상상]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148296</guid>
-            <pubDate>Wed, 01 Jun 2022 15:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b2f8065b9484a5be21bf332da7ea64235a755f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배드 가이즈]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Fri, 03 Jun 2022 04:28:06 GMT</pubDate>
             <content:encoded><![CDATA[22.05.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[우연과 상상]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148296</guid>
+            <pubDate>Wed, 01 Jun 2022 15:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b2f8065b9484a5be21bf332da7ea64235a755f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[안녕하세요]]></title>
