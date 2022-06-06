@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 08:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 09:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2261246f28175f63c8d5e1e8cd3cb00cdae77682" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[니얼굴]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145325</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145325</guid>
+            <pubDate>Fri, 03 Jun 2022 03:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[크리미널 트위스트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159041</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159041</guid>
@@ -88,6 +96,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[경아의 딸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159312</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159312</guid>
+            <pubDate>Fri, 27 May 2022 10:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73a3d766b1ac211970bbac40920d22822d2a0d36" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[모어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
+            <pubDate>Mon, 06 Jun 2022 09:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0718c9b199c6baab20250e1bcf9584fba2a2c58e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[산사나무 아래]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=60283</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=60283</guid>
@@ -109,22 +133,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160685</guid>
             <pubDate>Fri, 03 Jun 2022 23:21:11 GMT</pubDate>
             <content:encoded><![CDATA[22.06.10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경아의 딸]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159312</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159312</guid>
-            <pubDate>Fri, 27 May 2022 10:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73a3d766b1ac211970bbac40920d22822d2a0d36" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[니얼굴]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145325</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145325</guid>
-            <pubDate>Fri, 03 Jun 2022 03:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[허슬]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 01 Jun 2022 02:18:16 GMT</pubDate>
             <content:encoded><![CDATA[22.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbfde329b1a199bb7b24f8097e186f9d6fc3922b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 렛지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159484</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159484</guid>
-            <pubDate>Wed, 01 Jun 2022 23:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7735e0e609102480e1d39477c90a002bbac8494d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
