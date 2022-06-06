@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 03:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 04:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b2f8065b9484a5be21bf332da7ea64235a755f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오마주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154187</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154187</guid>
-            <pubDate>Wed, 25 May 2022 23:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbeb137937d5cdbe97b3f6bc8d885f8b639d09e64" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[히든]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160087</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160087</guid>
+            <pubDate>Mon, 06 Jun 2022 04:36:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6cfc4c81ab70894a4c22a954ba9ef102a9399f2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피는 물보다 진하다]]></title>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 02 Jun 2022 04:07:19 GMT</pubDate>
             <content:encoded><![CDATA[22.05.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78fb569a394e1eca68145df28165bf61fdc9ee5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오마주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154187</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154187</guid>
+            <pubDate>Wed, 25 May 2022 23:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbeb137937d5cdbe97b3f6bc8d885f8b639d09e64" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나를 만나는 길]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 05 Jun 2022 04:26:50 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[파리, 13구]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152019</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152019</guid>
-            <pubDate>Mon, 06 Jun 2022 03:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe878d2022fbf3a7ad9587fcb1aa4c94f319c8d0e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
