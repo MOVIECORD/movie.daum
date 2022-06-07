@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[실종]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154171</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154171</guid>
-            <pubDate>Wed, 25 May 2022 03:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[경아의 딸]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159312</guid>
@@ -133,6 +125,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160685</guid>
             <pubDate>Fri, 03 Jun 2022 23:21:11 GMT</pubDate>
             <content:encoded><![CDATA[22.06.10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[실종]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154171</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154171</guid>
+            <pubDate>Wed, 25 May 2022 03:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[허슬]]></title>
