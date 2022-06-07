@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 07:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 08:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 07 Jun 2022 07:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수차미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2zbl%2Fimage%2FVTtGZanl5Ft91ipaD1za-3VdPfE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<애프터 양> 기억이라는 정체성]]></title>
+            <link>https://brunch.co.kr/@@4prc/96</link>
+            <guid>https://brunch.co.kr/@@4prc/96</guid>
+            <pubDate>Tue, 07 Jun 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4prc%2Fimage%2FFRroiQOFIr3d0whYZhTXcyZ6Xxc" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<브로크백 마운틴>보편적이면서도 보편적이지 않은 이야기]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 May 2022 08:30:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>예령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Hpw%2Fimage%2FpYpLQhk1M5Q7-EW1vJZacaaHbEk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<브로크백 마운틴> - 이데올로기에 금지된 사랑]]></title>
-            <link>https://brunch.co.kr/@@907a/43</link>
-            <guid>https://brunch.co.kr/@@907a/43</guid>
-            <pubDate>Fri, 27 May 2022 08:30:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>강유현]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F907a%2Fimage%2FJqffsAZT3ZKgrh-DLvMUDq5Yj1A.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
