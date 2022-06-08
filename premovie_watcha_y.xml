@@ -1,8 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-06-08T05:21:53.444Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Jun 2022 06:29:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너스 베티]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2753</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2753</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F113616214B8226C20F" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[터스크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=87237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=87237</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16c844ae2999ba4fc134a12374cc64c0eff068b3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[광야의 40일]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=90864</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=90864</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb701b38c8f28c5393d9a2a6bfd27b5b5e1c16bdc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[플래닝 하트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=27013</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=27013</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31f5ad134f788a678d452cf6195128236b7f89e6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용의 가족]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=12230</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=12230</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1440D410AE3A22F6C2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 피플 아이브 슬렙 위드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=76071</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=76071</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1928CB4D50FE50CA2E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서극의 뱀파이어 헌터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=39447</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=39447</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AB8FCB28A0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쌍도여걸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=27170</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=27170</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F130D7C10AE3E8DCE57" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[묘탐쌍웅]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=15620</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=15620</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아요부귀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38175</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38175</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[웨스트 사이드 스토리: 디 오리지널]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157113</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157113</guid>
+            <pubDate>Wed, 08 Jun 2022 06:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd42db5fbc7d6f8df567728532aed61a1dd729252" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
