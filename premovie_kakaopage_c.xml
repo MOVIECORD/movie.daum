@@ -4,7 +4,7 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 03:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 04:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,28 @@
             <pubDate>Thu, 02 Jun 2022 16:37:25 GMT</pubDate>
             <content:encoded><![CDATA[22.06.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff28462f3bb7cc1ea00323127176a6802b431ec68" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[내마음에 그린]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142083</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142083</guid>
+            <pubDate>Thu, 09 Jun 2022 04:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.20]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[식물생활]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144067</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144067</guid>
+            <pubDate>Thu, 09 Jun 2022 04:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F517f5456481dd0f050bd6d9a540834d331fada39" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러러쉬]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148657</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148657</guid>
+            <pubDate>Thu, 09 Jun 2022 04:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.20]]></content:encoded>
         </item>
     </channel>
 </rss>
