@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 15:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 16:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[족구왕]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=81599</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=81599</guid>
-            <pubDate>Wed, 25 May 2022 16:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F260AD54753D05B1B0A" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[그 후]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=111496</link>
@@ -100,6 +92,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=148657</guid>
             <pubDate>Thu, 09 Jun 2022 04:35:25 GMT</pubDate>
             <content:encoded><![CDATA[22.06.20]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[플라이 미 투 더 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=75383</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=75383</guid>
+            <pubDate>Thu, 09 Jun 2022 16:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F21635947528E3D9F38" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
