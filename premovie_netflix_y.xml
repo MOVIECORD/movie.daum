@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Thu, 09 Jun 2022 07:21:44 GMT</pubDate>
             <content:encoded><![CDATA[22.06.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd34cae7bfd4cca8e6f1acfb372fdb3cb3dcef8da" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[글램 걸스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160791</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160791</guid>
+            <pubDate>Mon, 13 Jun 2022 07:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ea8ffb2c4db2b707dcf538b1218f7c4890fe78e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

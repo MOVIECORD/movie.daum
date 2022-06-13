@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,14 @@
             <pubDate>Fri, 10 Jun 2022 05:20:13 GMT</pubDate>
             <content:encoded><![CDATA[22.06.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2726664D520B2DFA0B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[화장실의 피에타]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=93245</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=93245</guid>
+            <pubDate>Mon, 13 Jun 2022 07:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F51e6b2d66e9fee53221eb72703d1fabfe7edd43c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
