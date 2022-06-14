@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 06:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 07:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,503,854명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,503,852명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>773,332명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>773,328명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,626,446명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,626,435명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -1030,6 +1030,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[헤어질 결심 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144854</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144854</guid>
+            <pubDate>Tue, 14 Jun 2022 04:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[꼭두각시 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160719</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160719</guid>
@@ -1090,14 +1098,6 @@
             <pubDate>Fri, 10 Jun 2022 15:25:35 GMT</pubDate>
             <content:encoded><![CDATA[22.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80689b2b8962a4c4c1f03c7dea825a005be3efcb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어질 결심 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144854</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144854</guid>
-            <pubDate>Tue, 14 Jun 2022 04:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[1945 그레이트 워 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2284,6 +2284,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9afd6529e97596d857d013fcdcb94a80119fd12" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["팬데믹 전 귀환 아닌 진화"..제26회 BIFAN, 변화의 경계선 위 도전 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220614161004839</link>
+            <guid>https://v.daum.net/v/20220614161004839</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 제26회 부천국제판타스틱영화제(BIFAN)가 신종 코로나바이러스 감염증(코로나19) 팬데믹 이후 2년 만에 전면 대면 영화제 개최를 선언하며 관객과의 만남을 예고했다. 14일 오전 경기 부천시 길주로 부천시청 1층 판타스틱 큐브에서 제26회 부천국제판타스틱영화제 공식 기자회견이 열렸다. 이 자리에는 정지영 조직위원장과 신철]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fxportsnews%2F20220614161006269bopn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["진화하려면 이상해져야한다" 새로움·다양성으로 돌아온 '제26회 BIFAN'[SS현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220614160827786</link>
+            <guid>https://v.daum.net/v/20220614160827786</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동대문DDP | 황혜정기자    [스포츠서울 | 황혜정기자] “진화하려면 이상해져야 한다.” 제26회 부천국제판타스틱영화제(BIFAN)가 ‘이상해도 괜찮아’(Stay Strange)를 슬로건으로 창작자와 영화팬을 위한 영화제로 새롭게 돌아온다. 14일 서울시 동대문구 동대문DDP플라자에서 열린 부천국제판타스틱영화제(BIFAN)기자간담회에서 정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FSPORTSSEOUL%2F20220614160829310cyfp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[톰 크루즈 대표작 경신한 '탑건:매버릭', 국내 흥행은 어떨까 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220614160351651</link>
+            <guid>https://v.daum.net/v/20220614160351651</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자]할리우드 톱스타 톰 크루즈의 출세작 ‘탑건’이 36년 만에 속편으로 돌아온다. 오는 22일 국내 개봉하는 ‘탑건:매버릭’이 그것. 지난달 27일 북미에서 개봉한 ‘탑건:매버릭’(감독 조셉 코신스키)은 12일까지 전 세계에서 7억 4700만 달러(약 9646억원)를 벌어들여 ‘우주 전쟁’(2005)의 2억 3400만 달러(약]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FEdaily%2F20220614160354650mqwf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['제26회 BIFAN' 총 268편 상영 "팬문화 고민담아 BL섹션도 만들어" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220614155431332</link>
+            <guid>https://v.daum.net/v/20220614155431332</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동대문DDP | 황혜정기자    [스포츠서울 | 황혜정기자] 제26회 부천국제판타스틱영화제(BIFAN)에선 공식 선정작 42편을 포함해 총 268편을 상영한다. 창작자에 대한 관심뿐만 아니라 팬 문화에 대한 고민으로 ‘BL섹션’도 창설했다. 부천국제판타스틱영화제 기자간담회가 14일 서울시 동대문구 동대문DDP플라자에서 열렸다. 김영덕 프로그래머]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FSPORTSSEOUL%2F20220614155432343stmp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['제26회 BIFAN' 개막작 '멘'·폐막작 '뉴 노멀'.."논쟁적, 욕 먹을 각오하고 있어" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220614153557658</link>
+            <guid>https://v.daum.net/v/20220614153557658</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동대문DDP | 황혜정기자    [스포츠서울 | 황혜정기자] 제26회 부천국제판타스틱영화제(BIFAN)의 개막작으로는 ‘멘’(알렉스 가랜드 감독)이, 폐막작으로는 ‘뉴 노멀’(정범식 감독)이 선정됐다. 부천국제판타스틱영화제 기자간담회가 14일 서울 동대문구 동대문DDP플라자에서 열렸다. 신철 집행위원장은 “올해는 많은 해외 게스트들이 오실 예정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FSPORTSSEOUL%2F20220614153601797nypg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["축제다운 축제"..26회 BIFAN, 2년 만에 대면 개최[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220614153310547</link>
+            <guid>https://v.daum.net/v/20220614153310547</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[관객들과 다시 만나는 BIFAN이 축제다운 축제를 예고하며 닻을 올렸다. 14일 오후 서울 중구 동대문디자인플라자(DDP) 살림터 서울 온 화상스튜디오에서 제26회 부천국제판타스틱영화제(BIFAN) 기자회견이 열렸다. 정지영 조직위원장, 신철 집행위원장, 김영덕 수석 프로그래머, 남종석 프로그래머, 모은영 프로그래머, 박진형 프로그래머가 참석했다. 올해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstartoday%2F20220614153312612bcbl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["시즌3에선 야쿠자 빌런이"..'범죄도시2' 감독이 답했다[스경연예연구소] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220614152737269</link>
             <guid>https://v.daum.net/v/20220614152737269</guid>
@@ -2396,54 +2444,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fpoctan%2F20220614140916074ohzy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[신시아 "캐스팅 되고 3주만에 촬영 시작, 현장에서 많은 걸 배웠다" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220614140119713</link>
-            <guid>https://v.daum.net/v/20220614140119713</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박훈정 감독의 시리즈 영화 '마녀 2'를 통해 화려하게 데뷔한 배우 신시아를 만났다. 신시아는 1,408:1의 경쟁률을 뚫고 3차에 걸친 오디션을 통해 새로운 마녀로 발탁된 신인배우로 비밀 연구소 '아크'에서 실험체로 평생을 지내다 세상 밖으로 나온 '소녀'를 맡아 아이 같은 순수함과 파괴적인 본성을 동시에 지닌 야누스적인 매력의 캐릭터를 그려냈다. 박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FiMBC%2F20220614140123082unko.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['엘비스', '보헤미안 랩소디'처럼 흥행한 음악영화 될까..7월13일 개봉 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220614134644237</link>
-            <guid>https://v.daum.net/v/20220614134644237</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;전세계가 사랑한 전설의 슈퍼스타 엘비스의 음악과 생애를 담은 영화 ‘엘비스’가 ‘보헤미안 랩소디’와 ‘로켓맨’의 뒤를 잇는 레전드 음악영화로 주목받고 있다. ‘엘비스’(감독 바즈 루어만, 수입배급 워너브러더스 코리아)는 트럭을 몰던 무명가수 엘비스가 그를 한눈에 알아 본 스타 메이커 톰 파커를 만나 단 하나의 전설이 되기까지 전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fpoctan%2F20220614134644920zjma.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[개봉 D-1 '마녀2' 오늘(14일) 트위터 블루룸 라이브로 미리 만난다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220614134312124</link>
-            <guid>https://v.daum.net/v/20220614134312124</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '마녀2'가 개봉을 하루 앞둔 가운데, 이날 오후 8시 트위터 블루룸 라이브를 통해 예비 관객들과 만난다. 6월 15일 개봉하는 영화 '마녀 Part2. The Other One'(이하 '마녀2', 감독 박훈정)은 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 ‘소녀’ 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fnewsen%2F20220614134312158gdll.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭', 톰 크루즈가 선사한 어메이징한 130분 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220614133509811</link>
-            <guid>https://v.daum.net/v/20220614133509811</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 정유미(칼럼니스트)최고 중의 최고가 돌아왔다. 그의 이름은 피트 미첼. 콜 사인은 매버릭. 이름과 콜 사인은 헷갈려도 톰 크루즈가 땅에선 오토바이를 타고, 하늘에선 비행기를 타고 질주하는 영화 '탑건'을 잊지 못할 것이다. 미 해군 전투기 조종사의 성장과 사랑을 그린 1980년대 전설의 액션 블록버스터 '탑건'이 속편이라는 날개를 달고 다시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FIZE%2F20220614133511781sgrg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['뽀로로' '명탐정 코난' '미니언즈2' 여름 극장가 어린이 관객 불러모을까 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220614132219376</link>
-            <guid>https://v.daum.net/v/20220614132219376</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] '범죄도시2'가 천만 영화로 등극하는 등 극장가가 활력을 되찾고 있는 가운데 올여름 개봉하는 애니메이션들이 어린이 관객을 동반한 가족관객을 다시 극장으로 돌아올 수 있게 할지 주목된다. 14일 배급사 NEW에 따르면 '뽀로로 극장판 드래곤캐슬 대모험'이 7월28일 개봉한다. '뽀로로 극장판 드래곤캐슬 대모험'은 악당 마법사에게 막]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstarnews%2F20220614132221054zydx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['사망한 구스' 안소니 에드워즈, '탑건:매버릭' 극찬 "톰 크루즈 임수 완수"[Oh!llywood] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220614121356281</link>
-            <guid>https://v.daum.net/v/20220614121356281</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 안소니 에드워즈가 영화 ‘탑건’의 속편 ‘탑건: 매버릭’을 극찬했다. 13일(현지 시간) 안소니 에드워즈가 새 영화 ‘탑건: 매버릭’을 관람한 뒤 “환상적이다. 너무 재미있게 봤다”라는 후기를 내놓은 것으로 알려졌다. 최근 안소니 에드워즈는 할리우드 연예매체 ET와 진행된 인터뷰에서 “첫 번째 영화를 찍었다는 게 충분히 운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fpoctan%2F20220614121357889vtli.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[흥행과는 담쌓은 중년 여성 감독이 건넨 말 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220613172101925</link>
             <guid>https://movie.v.daum.net/v/20220613172101925</guid>
@@ -2460,14 +2460,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FSPORTSSEOUL%2F20220614060122252dgyi.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['카시오페아' 서현진 "원동력=연기, 앞으로 더 잘하고 싶어요" [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220613153713730</link>
-            <guid>https://movie.v.daum.net/v/20220613153713730</guid>
-            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 이미 연기로 인정받았지만, 스스로는 아직 한참이나 멀었다며 겸손이다. 연기를 더 잘하고 싶다는 생각이 지금의 배우 서현진을 만든 원동력이었다. 지난 1일 개봉된 영화 '카시오페아'(감독 신연식·제작 루스이소니도스)는 변호사, 엄마, 딸로 완벽한 삶을 살아가려고 노력했던 수진(서현진)이 알츠하이머로 기억을 잃어가며 아빠 인우(안]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Ftvdaily%2F20220613153714576rvjl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[천만 돌파 '범죄도시2', 韓영화X극장가 부활 [ST이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220613161104144</link>
             <guid>https://movie.v.daum.net/v/20220613161104144</guid>
@@ -2482,6 +2474,14 @@
             <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 제2의 ‘보헤미안 랩소디’?…‘엘비스’ 7월 13일 개봉 확정 [공식] 영화 ‘엘비스’가 7월 13일 개봉을 확정지었다. 전 세계가 사랑한 전설의 슈퍼스타 ‘엘비스 프레슬리’의 음악과 생애를 담은 영화 ‘엘비스’가 7월 13일 개봉을 확정했다. ‘엘비스’는 트럭을 몰던 무명가수 ‘엘비스’가 그를 한 눈에 알아 본 스타메이커 ‘톰 파커’를 만나]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fsportsdonga%2F20220613200011153ppgh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['카시오페아' 서현진 "원동력=연기, 앞으로 더 잘하고 싶어요" [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220613153713730</link>
+            <guid>https://movie.v.daum.net/v/20220613153713730</guid>
+            <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 이미 연기로 인정받았지만, 스스로는 아직 한참이나 멀었다며 겸손이다. 연기를 더 잘하고 싶다는 생각이 지금의 배우 서현진을 만든 원동력이었다. 지난 1일 개봉된 영화 '카시오페아'(감독 신연식·제작 루스이소니도스)는 변호사, 엄마, 딸로 완벽한 삶을 살아가려고 노력했던 수진(서현진)이 알츠하이머로 기억을 잃어가며 아빠 인우(안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Ftvdaily%2F20220613153714576rvjl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[스크린 돌아온 홍수아 '감동주의보' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2516,14 +2516,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fpoctan%2F20220613180645575rjqo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[톰 크루즈의, 톰 크루즈라 가능한..36년 세월을 무색게 한 '탑건2' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220614043059913</link>
-            <guid>https://movie.v.daum.net/v/20220614043059913</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘탑건’(1986)이 나온 지 36년, 그사이 세상은 급변했다. 베를린 장벽이 무너졌고 정보통신혁명이 일어났다. 군사분야도 크게 변했다. 미 해군 주력기 F-14는 퇴물 신세가 됐다. 무인기가 주요 전술 도구로 등장했고 전투기들끼리 싸우는 방식마저 달라졌다. 무엇보다 24세 주연배우 톰 크루즈의 나이는 어느덧 60세. 속편 ‘탑건: 매버릭’의 제작이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fhankooki%2F20220614043101161swwl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["한여름엔 공포영화지"..'데쓰 캘린더', 흥행 계보이을까 [TF프리즘] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220614070002587</link>
             <guid>https://movie.v.daum.net/v/20220614070002587</guid>
@@ -2532,12 +2524,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FTHEFACT%2F20220614070005926lxam.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김희선, 평범한 주부→복수의 여신 변신..욕망 레이스[블랙의 신부] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220614093225263</link>
-            <guid>https://movie.v.daum.net/v/20220614093225263</guid>
+            <title><![CDATA[톰 크루즈의, 톰 크루즈라 가능한..36년 세월을 무색게 한 '탑건2' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220614043059913</link>
+            <guid>https://movie.v.daum.net/v/20220614043059913</guid>
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 김희선 / 사진=넷플릭스넷플릭스(Netflix)의 '블랙의 신부'가 평범한 주부에서 복수를 위해 욕망의 레이스에 올라서는 서혜승(김희선 분)의 캐릭터 스틸을 공개했다. 사랑이 아닌 조건을 거래하는 상류층 결혼정보회사에서 펼쳐지는 복수와 욕망의 스캔들을 그린 넷플릭스 시리즈 '블랙의 신부'가 김희선의 새로운 모습을 예고하는 서혜승]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstarnews%2F20220614093227023akmq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[영화 ‘탑건’(1986)이 나온 지 36년, 그사이 세상은 급변했다. 베를린 장벽이 무너졌고 정보통신혁명이 일어났다. 군사분야도 크게 변했다. 미 해군 주력기 F-14는 퇴물 신세가 됐다. 무인기가 주요 전술 도구로 등장했고 전투기들끼리 싸우는 방식마저 달라졌다. 무엇보다 24세 주연배우 톰 크루즈의 나이는 어느덧 60세. 속편 ‘탑건: 매버릭’의 제작이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fhankooki%2F20220614043101161swwl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[26회 BIFAN 포스터 공개..신철 "'이상해도 괜찮아' 슬로건 유지"[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2546,6 +2538,14 @@
             <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;제26회 부천국제판타스틱영화제(BIFAN, 집행위원장 신철)가 올해 열릴 영화제의 공식 포스터를 13일 공개했다. 슬로건 ‘이상해도 괜찮아’(Stay Strange)를 반영한 4종 시리즈 포스터다. 얼음 조각으로 만든 필름 영사기가 녹아내리면서 그 안의 정체가 드러나는 기획 시리즈. 팬데믹을 벗어나 3년 만에 본격 대면 축제가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fpoctan%2F20220613175335014kgjq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김희선, 평범한 주부→복수의 여신 변신..욕망 레이스[블랙의 신부] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220614093225263</link>
+            <guid>https://movie.v.daum.net/v/20220614093225263</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 김희선 / 사진=넷플릭스넷플릭스(Netflix)의 '블랙의 신부'가 평범한 주부에서 복수를 위해 욕망의 레이스에 올라서는 서혜승(김희선 분)의 캐릭터 스틸을 공개했다. 사랑이 아닌 조건을 거래하는 상류층 결혼정보회사에서 펼쳐지는 복수와 욕망의 스캔들을 그린 넷플릭스 시리즈 '블랙의 신부'가 김희선의 새로운 모습을 예고하는 서혜승]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstarnews%2F20220614093227023akmq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['탑건: 매버릭', 톰 크루즈가 선사한 어메이징한 130분 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2572,6 +2572,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstartoday%2F20220614114209808mjiy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[전도연x송강호 '비상선언', 예고편 전세계 동시 공개..8월 극장 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220614140914038</link>
+            <guid>https://movie.v.daum.net/v/20220614140914038</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 올 여름 유일한 항공재난 영화 '비상선언' 측이 공식 예고편을 전세계에 동시 공개했다. 제74회 칸영화제(2021) 비경쟁 부문 공식 초청작 '비상선언'이 전세계 동시에 공식 예고편을 14일 공개했다. 해외 유력 매체 버라이어티 및 국내 포털 사이트 네이버를 통해 공개한 이번 예고편은 1분 32초간 폭발적인 긴장감을 이어가다 마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fpoctan%2F20220614140916074ohzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[신시아 "캐스팅 되고 3주만에 촬영 시작, 현장에서 많은 걸 배웠다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220614140119713</link>
+            <guid>https://movie.v.daum.net/v/20220614140119713</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박훈정 감독의 시리즈 영화 '마녀 2'를 통해 화려하게 데뷔한 배우 신시아를 만났다. 신시아는 1,408:1의 경쟁률을 뚫고 3차에 걸친 오디션을 통해 새로운 마녀로 발탁된 신인배우로 비밀 연구소 '아크'에서 실험체로 평생을 지내다 세상 밖으로 나온 '소녀'를 맡아 아이 같은 순수함과 파괴적인 본성을 동시에 지닌 야누스적인 매력의 캐릭터를 그려냈다. 박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FiMBC%2F20220614140123082unko.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[톰 크루즈 인생작 된 '탑건:매버릭' 북미서만 5천억원↑ 벌었다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220613141246236</link>
             <guid>https://movie.v.daum.net/v/20220613141246236</guid>
@@ -2586,22 +2602,6 @@
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=영화 포스터 천만 관객을 돌파한 영화 '범죄도시2'의 질주가 멈추지 않고 있다. 14일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '범죄도시2'는 전날 12만 2597명의 관객을 동원해 박스오피스 1위를 유지했다. 누적 관객 수는 1062만 6465명. 지난 주말 대한민국 영화 사상 역대 28번째 천만 영화이자,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstarnews%2F20220614080246174wgix.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[신시아 "캐스팅 되고 3주만에 촬영 시작, 현장에서 많은 걸 배웠다" [인터뷰M] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220614140119713</link>
-            <guid>https://movie.v.daum.net/v/20220614140119713</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박훈정 감독의 시리즈 영화 '마녀 2'를 통해 화려하게 데뷔한 배우 신시아를 만났다. 신시아는 1,408:1의 경쟁률을 뚫고 3차에 걸친 오디션을 통해 새로운 마녀로 발탁된 신인배우로 비밀 연구소 '아크'에서 실험체로 평생을 지내다 세상 밖으로 나온 '소녀'를 맡아 아이 같은 순수함과 파괴적인 본성을 동시에 지닌 야누스적인 매력의 캐릭터를 그려냈다. 박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FiMBC%2F20220614140123082unko.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[전도연x송강호 '비상선언', 예고편 전세계 동시 공개..8월 극장 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220614140914038</link>
-            <guid>https://movie.v.daum.net/v/20220614140914038</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 올 여름 유일한 항공재난 영화 '비상선언' 측이 공식 예고편을 전세계에 동시 공개했다. 제74회 칸영화제(2021) 비경쟁 부문 공식 초청작 '비상선언'이 전세계 동시에 공식 예고편을 14일 공개했다. 해외 유력 매체 버라이어티 및 국내 포털 사이트 네이버를 통해 공개한 이번 예고편은 1분 32초간 폭발적인 긴장감을 이어가다 마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fpoctan%2F20220614140916074ohzy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['칸영화제' 남우&여우주연상을 한 '스크린'에서 볼 수 있다니 (다음 영화 ─ 매거진)]]></title>
