@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 15:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 16:37:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -854,14 +854,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[카시오페아 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
@@ -876,6 +868,14 @@
             <pubDate>Wed, 01 Jun 2022 02:18:16 GMT</pubDate>
             <content:encoded><![CDATA[22.06.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0470c1f644a7cb713dfd592409d2d591e93b4bc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
+            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[윤시내가 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1105,38 +1105,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=159309</guid>
             <pubDate>Tue, 14 Jun 2022 05:34:12 GMT</pubDate>
             <content:encoded><![CDATA[22.06]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미니멀리즘 - 비우는 사람들의 이야기 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=112006</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=112006</guid>
-            <pubDate>Mon, 13 Jun 2022 06:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47eb38268361194173555b0c893a591c3be2188e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 브론즈 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=91247</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=91247</guid>
-            <pubDate>Mon, 13 Jun 2022 06:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F208a65d999778cf224e0c33ba90449dcae2542e8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나쁜 녀석들 II ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=34437</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=34437</guid>
-            <pubDate>Mon, 13 Jun 2022 06:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A90D090546" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[호기심 많은 조지 - 서부로 떠나요 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151301</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151301</guid>
-            <pubDate>Mon, 13 Jun 2022 06:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe53b5c4ec5f6051eb58c1c2aca52dde70d11c166" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[금단의 비즈니스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1579,14 +1547,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F180D650B4B6B82E32B" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[제니퍼 로페즈: 내 인생의 하프타임 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159441</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159441</guid>
-            <pubDate>Tue, 24 May 2022 05:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F651c274570abd304a9b298db981e845c5caedef4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[켄타우로스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160314</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160314</guid>
@@ -1816,22 +1776,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160218</guid>
             <pubDate>Tue, 14 Jun 2022 06:28:31 GMT</pubDate>
             <content:encoded><![CDATA[22.07.11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[붕붕 달려라 깜이 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=95479</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=95479</guid>
-            <pubDate>Tue, 31 May 2022 05:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ae291e6c6a280382bd3f1039117bd16f7c4ab83" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[택시 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=91730</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=91730</guid>
-            <pubDate>Tue, 31 May 2022 05:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F106614bcd15af89dacf6d187cb1874dfb1f49648" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하우 아이 리브: 내가 사는 이유 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -2214,30 +2158,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F93910e6dd9929e1776b75c6b845e530b8958f020" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[반숙소녀 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=102043</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=102043</guid>
-            <pubDate>Mon, 30 May 2022 16:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2538c0ed11940945b6a9b9c1de4d24009affc48f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킬 리스트 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=65599</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=65599</guid>
-            <pubDate>Mon, 30 May 2022 16:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe12c5567bae5b38e199fa45a3c8d6b0dad290cf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[하우 아이 리브: 내가 사는 이유 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=68806</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=68806</guid>
-            <pubDate>Mon, 30 May 2022 16:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58904db939096ff1a54eba5889d030b8355f2124" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[연쇄살인마의 이중생활 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141932</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141932</guid>
@@ -2314,6 +2234,30 @@
             <pubDate>Mon, 13 Jun 2022 15:41:26 GMT</pubDate>
             <content:encoded><![CDATA[22.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9afd6529e97596d857d013fcdcb94a80119fd12" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 고양이로소이다 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=105702</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=105702</guid>
+            <pubDate>Tue, 14 Jun 2022 16:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1b2697c6d822ceb56486515e5aaed1e8a068b566" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오디션 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=84947</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=84947</guid>
+            <pubDate>Tue, 14 Jun 2022 16:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff8874421a64d9677167016f0fff0c436a374db7b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[벨지안 랩소디 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96769</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96769</guid>
+            <pubDate>Tue, 14 Jun 2022 16:36:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa27c04fc9fd2d02df776e46e3f03c5f784d4bc76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모든 얼굴이 아름다워 보이는 마법..작가 정은혜의 '니얼굴' (다음영화 뉴스 ─ 최신)]]></title>
@@ -2564,14 +2508,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fpoctan%2F20220614090150991atfx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['마녀2' 조민수 "'마녀'로 젊은이 문화 속에 들어가 고맙고 행복하다"[SS인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220614060120964</link>
-            <guid>https://movie.v.daum.net/v/20220614060120964</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] “20대가 저를 가리키면서 ‘어~ ‘마녀’ 나왔잖아요!’ 한다. 내가 ‘마녀’ 시리즈로 인해 그 아이들의 문화 안에 들어가 있다는 게 너무 고맙고 행복하다. 자연스럽게 그들 문화 안으로 동참하는 ‘마녀’. 연기자로서 행복이다.” 거침없고 솔직한 언변이었다. 단순히 문답을 이어나간 것이 아니라 되레 기자에게 질문을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FSPORTSSEOUL%2F20220614060122252dgyi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["다운증후군 낯선 외모, 그 뒤 은혜씨의 매력"..'니얼굴'이 전한 재미와 감동 [종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220614200001368</link>
             <guid>https://movie.v.daum.net/v/20220614200001368</guid>
@@ -2580,12 +2516,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstarnews%2F20220614200003445grie.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['브로커' 188개국 선판매, 해외에서도 특별한 여정 이어간다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220614103119807</link>
-            <guid>https://movie.v.daum.net/v/20220614103119807</guid>
+            <title><![CDATA['마녀2' 조민수 "'마녀'로 젊은이 문화 속에 들어가 고맙고 행복하다"[SS인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220614060120964</link>
+            <guid>https://movie.v.daum.net/v/20220614060120964</guid>
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 제75회 칸 국제영화제 남우주연상 수상작 '브로커'가 전 세계 총 188개국 판매를 기록한 가운데, 해외 각지에서 개봉일을 확정하고 있다. 영화 '브로커'(감독 고레에다 히로카즈·제작 영화사 집)는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다. 한국 영화 최초로 칸 국제영화제 남우주연상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Ftvdaily%2F20220614103120718tuen.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] “20대가 저를 가리키면서 ‘어~ ‘마녀’ 나왔잖아요!’ 한다. 내가 ‘마녀’ 시리즈로 인해 그 아이들의 문화 안에 들어가 있다는 게 너무 고맙고 행복하다. 자연스럽게 그들 문화 안으로 동참하는 ‘마녀’. 연기자로서 행복이다.” 거침없고 솔직한 언변이었다. 단순히 문답을 이어나간 것이 아니라 되레 기자에게 질문을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FSPORTSSEOUL%2F20220614060122252dgyi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['경아의 딸' 김정은 감독 "여성들의 포용과 이해 그리고 싶었죠" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2594,6 +2530,14 @@
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = "서로에게 상처를 주기도 하지만 진심으로 사과하고 이해하면서 혐오가 아닌 포용과 이해로 나아가는 여성들의 모습을 그리고 싶었습니다." 김정은 감독의 첫 장편영화 '경아의 딸'은 가부장제의 가치관을 내면화한 엄마 경아(김정영 분)가 교사인 딸 연수(하윤경)의 디지털 성폭력 피해 사실을 마주하며 벌어지는 이야기를 그렸다. 경아]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fyonhap%2F20220614150723274uqmw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['브로커' 188개국 선판매, 해외에서도 특별한 여정 이어간다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220614103119807</link>
+            <guid>https://movie.v.daum.net/v/20220614103119807</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 제75회 칸 국제영화제 남우주연상 수상작 '브로커'가 전 세계 총 188개국 판매를 기록한 가운데, 해외 각지에서 개봉일을 확정하고 있다. 영화 '브로커'(감독 고레에다 히로카즈·제작 영화사 집)는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다. 한국 영화 최초로 칸 국제영화제 남우주연상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Ftvdaily%2F20220614103120718tuen.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[리뷰] '버즈 라이트이어' 디즈니 픽사의 무한 상상, '토이스토리' 그 이상의 감동 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2612,6 +2556,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fstartoday%2F20220614183604355bjms.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['니얼굴' 정은혜 작가 "'우블스' 즐거웠던 추억..그립다" [N현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220614182027817</link>
+            <guid>https://movie.v.daum.net/v/20220614182027817</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '니얼굴' 정은혜 작가가 tvN 주말드라마 '우리들의 블루스'로 많은 관심을 받고 있는 소감을 밝혔다. 14일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '니얼굴'(감독 서동일) 언론시사회가 진행됐다. 이날 자리에는 서동일 감독을 비롯해 정은혜 작가, 장차현실 작가가 참석해 이야기를 나눴다. 이날 정은혜 작가는 "]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FNEWS1%2F20220614182028228bfpk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[천만 돌파 '범죄도시2', 韓영화X극장가 부활 [ST이슈] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220613161104144</link>
             <guid>https://movie.v.daum.net/v/20220613161104144</guid>
@@ -2626,14 +2578,6 @@
             <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 제2의 ‘보헤미안 랩소디’?…‘엘비스’ 7월 13일 개봉 확정 [공식] 영화 ‘엘비스’가 7월 13일 개봉을 확정지었다. 전 세계가 사랑한 전설의 슈퍼스타 ‘엘비스 프레슬리’의 음악과 생애를 담은 영화 ‘엘비스’가 7월 13일 개봉을 확정했다. ‘엘비스’는 트럭을 몰던 무명가수 ‘엘비스’가 그를 한 눈에 알아 본 스타메이커 ‘톰 파커’를 만나]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F13%2Fsportsdonga%2F20220613200011153ppgh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['니얼굴' 정은혜 작가 "'우블스' 즐거웠던 추억..그립다" [N현장] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220614182027817</link>
-            <guid>https://movie.v.daum.net/v/20220614182027817</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '니얼굴' 정은혜 작가가 tvN 주말드라마 '우리들의 블루스'로 많은 관심을 받고 있는 소감을 밝혔다. 14일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '니얼굴'(감독 서동일) 언론시사회가 진행됐다. 이날 자리에는 서동일 감독을 비롯해 정은혜 작가, 장차현실 작가가 참석해 이야기를 나눴다. 이날 정은혜 작가는 "]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2FNEWS1%2F20220614182028228bfpk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[소년 '앤디'가 반했던 영화가 바로 이 영화! <버즈 라이트이어> (다음 영화 ─ 매거진)]]></title>
