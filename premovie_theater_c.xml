@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 02:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:00:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,14 @@
             <content:encoded><![CDATA[22.06.16]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
+            <pubDate>Tue, 14 Jun 2022 23:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[우스운게 딱! 좋아!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160636</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160636</guid>
@@ -155,14 +163,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160717</guid>
             <pubDate>Tue, 14 Jun 2022 23:21:34 GMT</pubDate>
             <content:encoded><![CDATA[22.06.22]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
-            <pubDate>Tue, 14 Jun 2022 23:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

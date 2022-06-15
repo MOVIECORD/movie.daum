@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 02:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:00:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,22 @@
             <pubDate>Wed, 15 Jun 2022 02:08:38 GMT</pubDate>
             <content:encoded><![CDATA[22.06.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1a17a58798052ec541be6c96095f29e12e47ed8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 침공]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158872</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158872</guid>
+            <pubDate>Wed, 15 Jun 2022 03:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6cba45cf19cc97cda6155efbef9a4fe83157bc86" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비하인드 컷]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158039</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158039</guid>
+            <pubDate>Wed, 15 Jun 2022 03:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6923e9a4b79e84bdfc6c09f2750de80c1ab6ca1" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
