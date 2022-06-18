@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 15:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 16:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78fb569a394e1eca68145df28165bf61fdc9ee5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[카시오페아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
-            <pubDate>Sat, 18 Jun 2022 10:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아치의 노래, 정태춘]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 17 Jun 2022 20:22:07 GMT</pubDate>
             <content:encoded><![CDATA[22.06.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd174cd7fb84108136744bde6f68b1eba5bd6822" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[올리 마키의 가장 행복한 날]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=102922</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=102922</guid>
+            <pubDate>Sat, 18 Jun 2022 16:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fe7ff3173dd268e17894030c2a285773ac24d2e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
