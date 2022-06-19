@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 02:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 03:58:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,262,609명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,262,607명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -854,14 +854,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faab470210934341d20f7a65f397ef495a50afc3e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[애프터 양 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151102</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151102</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[닥터 스트레인지: 대혼돈의 멀티버스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127221</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127221</guid>
@@ -876,6 +868,14 @@
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
             <content:encoded><![CDATA[22.05.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터 양 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151102</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151102</guid>
+            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 렛지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -894,14 +894,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78fb569a394e1eca68145df28165bf61fdc9ee5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[벰 : 비컴 휴먼 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145303</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145303</guid>
@@ -916,6 +908,14 @@
             <pubDate>Thu, 09 Jun 2022 01:55:10 GMT</pubDate>
             <content:encoded><![CDATA[22.06.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[카시오페아 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
+            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65efe2b2983961db24d721052e3b93300660a1ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우연과 상상 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -942,12 +942,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd174cd7fb84108136744bde6f68b1eba5bd6822" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[올리 마키의 가장 행복한 날 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=102922</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=102922</guid>
-            <pubDate>Sat, 18 Jun 2022 16:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fe7ff3173dd268e17894030c2a285773ac24d2e" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[아치의 노래, 정태춘 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
+            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1968,6 +1968,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2c64686a71a86192db24923ec720923aa809852" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[박은빈 "초현실적 이야기와 캐릭터 사이에서 인간적 부분을 담당" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220619124529964</link>
+            <guid>https://v.daum.net/v/20220619124529964</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박훈정 감독의 야심작 '마녀 2'에서 소녀를 지키는 '경희'를 연기한 박은빈을 만났다. 박은빈은 영화 '마녀 2'에서 돌아가신 아버지가 남긴 농장에서 남동생 '대길'과 함께 지내는 '경희'를 맡아 우연히 만난 '소녀'의 도움으로 위기 상황에서 벗어나고, 비범한 능력을 가졌지만 갈 곳 없는 '소녀'를 농장으로 데려와 보살피며 호의를 베풀어주는 따뜻한 심성의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2FiMBC%2F20220619124532489rseb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최불암-김혜자 떠올리게 만든 엄정화-황정민의 호흡 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220619113904838</link>
+            <guid>https://v.daum.net/v/20220619113904838</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 과거 최수종과 하희라부터 장동건과 고소영, 현빈과 손예진까지 연예인부부들은 영화나 드라마에서 커플로 출연했다가 실제 결혼까지 이어진 경우가 많다. 특히 최수종과 하희라 부부는 결혼 후에도 2010년에 방영된 KBS 드라마 &lt;프레지던트&gt;에서 또 다시 부부 사이로 출연하기도 했다. 하지만 때로는 실제로 아무 사이도 아닌 배우들이 작품 속에서 진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fohmynews%2F20220619113907442tepo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['마녀2' 토우 리더 중국인 아니었다..카리스마 신예 채원빈 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220619110224257</link>
             <guid>https://v.daum.net/v/20220619110224257</guid>
@@ -2112,22 +2128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fpoctan%2F20220619075921153rgkq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['마녀2', 개봉 4일 만에 100만 관객 돌파..흥행 순항 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220619075735600</link>
-            <guid>https://v.daum.net/v/20220619075735600</guid>
-            <pubDate>Sat, 18 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='마녀2' 영화 '마녀2'가 개봉 나흘 만에 누적관객수 100만 명을 돌파했다. 19일 영진위 영화관입장권 통합전산망에 따르면 '마녀2'는 지난 18일 42만 4254명의 관객을 동원했다. 지난 15일 개봉해 나흘간 누적관객수는 109만 7718명이다. 2위는 '범죄도시2'로 23만 4579명이 봤다. 누적관객수는 112]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fstarnews%2F20220619075736810txcn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰크루즈, 오늘(19일) 레드카펫 팬미팅..'탑건:매버릭' 홍보 돌입[MK무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220619074200538</link>
-            <guid>https://v.daum.net/v/20220619074200538</guid>
-            <pubDate>Sat, 18 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 스타 톰 크루즈(60)가 신작 ‘탑건: 매버릭’으로 10번째 방한해 본격적인 홍보 활동에 돌입한다. 지난 17일 입국해 순식간에 공항을 팬미팅 현장으로 바꿔버린 톰 크루즈가 오늘(19일) '레드카펫' 행사에 참석해 더 많은 한국 팬들과 만난다. 이날 오후 5시 롯데월드타워 야외광장에서는 톰 크루즈의 신작 '탑건: 매버릭' 레드카펫 행사가 열린다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fstartoday%2F20220619074204115tujg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[D:이슈] 조연에서 주연으로..장애인 배우가 장애를 연기하다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220617153510395</link>
             <guid>https://movie.v.daum.net/v/20220617153510395</guid>
@@ -2144,12 +2144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F17%2Fakn%2F20220617151545599neco.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['경아의 딸' 다양성 영화 1위..입소문·공감 호평 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220617112710066</link>
-            <guid>https://movie.v.daum.net/v/20220617112710066</guid>
-            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘경아의 딸’(감독 김정은)이 관람객들의 입소문을 타고 다양성 영화 박스오피스 1위에 등극했다. 천만 관객을 기록한 흥행작 ‘범죄도시2’부터 ‘마녀2’의 강렬한 등장으로 극장가가 고무된 가운데  영화 ‘경아의 딸’ 역시 다양성 영화의 힘을 보여주며 활력을 더하고 있다. 영화는 세상을 믿지 않는 경아와 세상에 지고 싶지 않은 연수가 지우고 싶은 사건]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F17%2Fstartoday%2F20220617112713268qjqf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[TEN인터뷰] 악플에도 단단한 홍수아 "많은 성형으로 中 스타일 된 나, 성격은 그대로" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619100101249</link>
+            <guid>https://movie.v.daum.net/v/20220619100101249</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] "(성형 후) 악성 댓글을 받는 건 예상했어요. 예상한 것처럼 비난이 많이 쏟아지더라고요. 저도 사람인지라 속상할 때가 많아요. 하지만 그만큼 정보를 많이 물어보기도 했어요. (웃음) 개인적으로 지금 제 얼굴에 만족해요. 전에는 조연에 그치는 얼굴이었는데 이제는 여러 이미지를 표현할 수 있게 된 것 같아요. 많은 성형으로 얼굴이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2F10asia%2F20220619100107021vnfj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["누나 팬 됐다" '골프왕3' 장민호, 체대 언니 박선영 전천후 만능캐 면모 감탄 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2160,12 +2160,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fpoctan%2F20220619080305429lhav.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[TEN인터뷰] 악플에도 단단한 홍수아 "많은 성형으로 中 스타일 된 나, 성격은 그대로" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619100101249</link>
-            <guid>https://movie.v.daum.net/v/20220619100101249</guid>
+            <title><![CDATA['마녀2' 토우 리더 중국인 아니었다..카리스마 신예 채원빈 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619110224257</link>
+            <guid>https://movie.v.daum.net/v/20220619110224257</guid>
             <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] "(성형 후) 악성 댓글을 받는 건 예상했어요. 예상한 것처럼 비난이 많이 쏟아지더라고요. 저도 사람인지라 속상할 때가 많아요. 하지만 그만큼 정보를 많이 물어보기도 했어요. (웃음) 개인적으로 지금 제 얼굴에 만족해요. 전에는 조연에 그치는 얼굴이었는데 이제는 여러 이미지를 표현할 수 있게 된 것 같아요. 많은 성형으로 얼굴이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2F10asia%2F20220619100107021vnfj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 신인배우 채원빈이 '마녀2'를 통해 독특한 매력을 보여주며 관객을 사로잡고 있다. 채원빈은 영화 '마녀 Part2. The Other One'(이하 '마녀2', 감독 박훈정)에 강렬한 캐릭터로 관객들의 호기심을 자극하고 있다. '마녀2'는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 '소녀(신시아)' 앞에 각기 다른]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fnewsen%2F20220619110224720ehwk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최불암-김혜자 떠올리게 만든 엄정화-황정민의 호흡 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619113904838</link>
+            <guid>https://movie.v.daum.net/v/20220619113904838</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 과거 최수종과 하희라부터 장동건과 고소영, 현빈과 손예진까지 연예인부부들은 영화나 드라마에서 커플로 출연했다가 실제 결혼까지 이어진 경우가 많다. 특히 최수종과 하희라 부부는 결혼 후에도 2010년에 방영된 KBS 드라마 &lt;프레지던트&gt;에서 또 다시 부부 사이로 출연하기도 했다. 하지만 때로는 실제로 아무 사이도 아닌 배우들이 작품 속에서 진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fohmynews%2F20220619113907442tepo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['조재현 딸' 조혜정, 다운증후군 배우 정은혜 '니얼굴' 응원.."우울할 때 보길" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2192,6 +2200,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fnewsen%2F20220619083852560qmjq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[톰 크루즈 '탑건: 매버릭', 전체 예매율 1위..국내 흥행 예약[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619075919605</link>
+            <guid>https://movie.v.daum.net/v/20220619075919605</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올 여름 글로벌을 강타한 최고의 흥행 신드롬 영화 '탑건: 매버릭'이 전체 예매율 1위에 등극했다. 19일 영화진흥위원회 영화관입장권 통합전산망 실시간 예매율을 보면 '탑건: 매버릭'은 이날 오전 7시 기준 28.4%를 달성했다. 이는 전체 예매율 1위에 해당하는 수치. 한국영화 '마녀2'(감독 박훈정, 제공배급 NEW)가 26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fpoctan%2F20220619075921153rgkq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] '감동주의보', 총체적 난국 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619100011214</link>
+            <guid>https://movie.v.daum.net/v/20220619100011214</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 감동주의보 / 사진=영화 스틸컷총체적 난국이다. 영화의 제목은 '감동주의보'지만, 감동은 눈 씻고 찾아볼 수도 없다. 물론 재미도 없다. 로맨스 코미디를 내세웠지만 어디서 웃고 웃어야 할지, 또 어디서 설렘을 느껴야 할지 도저히 갈피를 잡을 수 없는 '감동주의보'다. '감동주의보'는 큰 감동을 받으면 생명이 위험해지는 감동병을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fstarnews%2F20220619100012481pdfu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['마녀2' 4일만에 100만 돌파..전작보다 앞선 기록[박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619081503762</link>
+            <guid>https://movie.v.daum.net/v/20220619081503762</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '마녀2'가 개봉 4일 만에 100만 관객을 돌파했다. 6월 19일 영화진흥위원회 통합전산망 집계에 따르면 18일 영화 '마녀 Part2. The Other One'(이하 '마녀2', 감독 박훈정)이 42만4,665명을 모으며 4일 연속 박스오피스 정상을 차지했다. 누적 관객은 109만8,129명으로, 지난 15일 개봉한 후 줄곧]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fnewsen%2F20220619081503333aueu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['마녀2' 4일 연속 1위 109만↑ 동원..본편 기록 넘을까 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220619073946531</link>
             <guid>https://movie.v.daum.net/v/20220619073946531</guid>
@@ -2208,60 +2240,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fstartoday%2F20220619070335027jzny.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] '감동주의보', 총체적 난국 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619100011214</link>
-            <guid>https://movie.v.daum.net/v/20220619100011214</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 감동주의보 / 사진=영화 스틸컷총체적 난국이다. 영화의 제목은 '감동주의보'지만, 감동은 눈 씻고 찾아볼 수도 없다. 물론 재미도 없다. 로맨스 코미디를 내세웠지만 어디서 웃고 웃어야 할지, 또 어디서 설렘을 느껴야 할지 도저히 갈피를 잡을 수 없는 '감동주의보'다. '감동주의보'는 큰 감동을 받으면 생명이 위험해지는 감동병을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fstarnews%2F20220619100012481pdfu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈 '탑건: 매버릭', 전체 예매율 1위..국내 흥행 예약[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619075919605</link>
-            <guid>https://movie.v.daum.net/v/20220619075919605</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올 여름 글로벌을 강타한 최고의 흥행 신드롬 영화 '탑건: 매버릭'이 전체 예매율 1위에 등극했다. 19일 영화진흥위원회 영화관입장권 통합전산망 실시간 예매율을 보면 '탑건: 매버릭'은 이날 오전 7시 기준 28.4%를 달성했다. 이는 전체 예매율 1위에 해당하는 수치. 한국영화 '마녀2'(감독 박훈정, 제공배급 NEW)가 26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fpoctan%2F20220619075921153rgkq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['마녀2' 4일만에 100만 돌파..전작보다 앞선 기록[박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619081503762</link>
-            <guid>https://movie.v.daum.net/v/20220619081503762</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '마녀2'가 개봉 4일 만에 100만 관객을 돌파했다. 6월 19일 영화진흥위원회 통합전산망 집계에 따르면 18일 영화 '마녀 Part2. The Other One'(이하 '마녀2', 감독 박훈정)이 42만4,665명을 모으며 4일 연속 박스오피스 정상을 차지했다. 누적 관객은 109만8,129명으로, 지난 15일 개봉한 후 줄곧]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fnewsen%2F20220619081503333aueu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['마녀2', 개봉 4일 만에 100만 관객 돌파..흥행 순항 [★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220619075735600</link>
             <guid>https://movie.v.daum.net/v/20220619075735600</guid>
             <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='마녀2' 영화 '마녀2'가 개봉 나흘 만에 누적관객수 100만 명을 돌파했다. 19일 영진위 영화관입장권 통합전산망에 따르면 '마녀2'는 지난 18일 42만 4254명의 관객을 동원했다. 지난 15일 개봉해 나흘간 누적관객수는 109만 7718명이다. 2위는 '범죄도시2'로 23만 4579명이 봤다. 누적관객수는 112]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fstarnews%2F20220619075736810txcn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['마녀2' 개봉 4일 만에 100만 관객 돌파, 전편보다 빠르다 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619095514113</link>
-            <guid>https://movie.v.daum.net/v/20220619095514113</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '마녀2'가 누적 관객 수 100만을 돌파했다. 19일 오전 영화진흥위원회 통합전산망에 따르면 '마녀 Part2. The Other One'(감독 박훈정·제작 영화사 금월, 이하 '마녀 2')은 전날 42만4665명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 109만8129명으로, 개봉 4일 만에 100만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Ftvdaily%2F20220619095515426dkeu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['마녀2', 개봉 4일만에 100만 돌파 속 박스오피스 1위 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619093341774</link>
-            <guid>https://movie.v.daum.net/v/20220619093341774</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '마녀 파트2. 디 아더 원(The Other One)'(이하 '마녀2')이 박스오피스 정상을 달리고 있다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '마녀2'는 지난 18일 하루동안 42만4665명의 관객을 동원했다. 누적 관객수는 109만8129명이다. 지난 15일 개봉해 당일부터 박스오피스 1]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2FNEWS1%2F20220619093342093gjzm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈 '탑건: 매버릭', 전체 예매율 1위 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619090922387</link>
-            <guid>https://movie.v.daum.net/v/20220619090922387</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '탑건: 매버릭'이 전체 예매율 1위에 등극, 흥행 돌풍을 예고했다. 19일 영진위 영화관입장권 통합전산망 집계에 따르면 이날 오전 9시께 기준 '탑건 매버릭'은 30.9%를 넘어서며 전체 예매율 1위를 기록 중이다. 예매 관객 수는 12만 9,532명. 이와 함께 오늘(19일) 오후 5시, 드디어 코로나19 팬데믹 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fmydaily%2F20220619090922645yhbc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[어쩌면 지구를 구할, '괴짜' 과학자의 장대한 실험 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2272,20 +2256,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fohmynews%2F20220619104201736lsyu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[톰 크루즈 '탑건: 매버릭', 전체 예매율 1위 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619090922387</link>
+            <guid>https://movie.v.daum.net/v/20220619090922387</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '탑건: 매버릭'이 전체 예매율 1위에 등극, 흥행 돌풍을 예고했다. 19일 영진위 영화관입장권 통합전산망 집계에 따르면 이날 오전 9시께 기준 '탑건 매버릭'은 30.9%를 넘어서며 전체 예매율 1위를 기록 중이다. 예매 관객 수는 12만 9,532명. 이와 함께 오늘(19일) 오후 5시, 드디어 코로나19 팬데믹 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fmydaily%2F20220619090922645yhbc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['마녀2', 개봉 4일만에 100만 돌파 속 박스오피스 1위 [Nbox] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619093341774</link>
+            <guid>https://movie.v.daum.net/v/20220619093341774</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '마녀 파트2. 디 아더 원(The Other One)'(이하 '마녀2')이 박스오피스 정상을 달리고 있다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '마녀2'는 지난 18일 하루동안 42만4665명의 관객을 동원했다. 누적 관객수는 109만8129명이다. 지난 15일 개봉해 당일부터 박스오피스 1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2FNEWS1%2F20220619093342093gjzm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[죗값 대신 실험쥐 신세? 범죄자의 인권에 던진 질문 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220619103301780</link>
+            <guid>https://movie.v.daum.net/v/20220619103301780</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;넷플릭스 &lt;스파이더헤드&gt; 스틸컷 (IMDB)    ⓒ IMDB  &nbsp; 언뜻 봐서는 최첨단으로 시설과 아름다운 풍경을 자랑하는 요양 시설 같은 건물은 사실 교도소다. 중죄를 저질렀지만 교도소가 아닌 프로젝트에 자원한 죄수들이 모여 있다. 천재 과학자 스티브(크리스 헴스워스)는 감정을 조절하는 여러 신약을 재소자들에게 실험 중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fohmynews%2F20220619103306770kqeb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["다음 세대는 더 나은 세상에서" 배두나의 책임감[★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220619100014221</link>
             <guid>https://movie.v.daum.net/v/20220619100014221</guid>
             <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배두나 / 사진=CJ ENM어느덧 24년 차 배우가 된 배두나에게는 전보다 더 중요한 자신만의 '세계'가 생겼다. 역할보다는 작품, 그리고 선후배 배우들을 아우르는 태도까지. "다음 세대가 저보다 더 나은 삶을 살기를 바란다"라는 바람을 전한 배두나의 모습에서는 여유와 책임감이 묻어났다. '브로커'는 베이비 박스를 둘러싸고 관계]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fstarnews%2F20220619100016154edpr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[박's 오피스] 서현진 vs 여진구.. 국내 OTT 신작 대결 승자는? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220619062306748</link>
-            <guid>https://movie.v.daum.net/v/20220619062306748</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[편집자주]박 기자가 소개하는 '안방극장계' 박스오피스! OTT가 활보하는 시대인 만큼 독자들에게 집에서 볼 만한 신선한 작품들을 소개해드립니다. OTT서비스를 통해 6월에 개봉할 국내 신작들을 소개한다. 사진은 왼쪽부터 웨이브 '왜 오수재인가'·디즈니+ '링크: 먹고 사랑하라 죽이게'·왓챠 '최종병기 앨리스'. /사진=웨이브·디즈니+·왓챠 제공온라인동영상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fmoneyweek%2F20220619062308820wxyb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[디즈니+가 아이들만 보는 곳이라고? (다음 영화 ─ 매거진)]]></title>
