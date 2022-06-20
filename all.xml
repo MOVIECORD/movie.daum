@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,460,320명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,460,315명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -862,14 +862,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 노비스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145810</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145810</guid>
-            <pubDate>Fri, 17 Jun 2022 08:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78fb569a394e1eca68145df28165bf61fdc9ee5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=47111</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=47111</guid>
@@ -900,6 +892,14 @@
             <pubDate>Thu, 09 Jun 2022 01:55:10 GMT</pubDate>
             <content:encoded><![CDATA[22.06.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 노비스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145810</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145810</guid>
+            <pubDate>Fri, 17 Jun 2022 08:29:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78fb569a394e1eca68145df28165bf61fdc9ee5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[벰 : 비컴 휴먼 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -966,6 +966,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[모어 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
+            <pubDate>Tue, 14 Jun 2022 23:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 윌벤져스: 수상한 캠핑대소동 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160414</guid>
@@ -988,14 +996,6 @@
             <pubDate>Fri, 03 Jun 2022 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[22.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모어 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
-            <pubDate>Tue, 14 Jun 2022 23:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[컴온 컴온 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1146,6 +1146,22 @@
             <pubDate>Thu, 02 Jun 2022 04:07:34 GMT</pubDate>
             <content:encoded><![CDATA[22.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1aba544582910fddc7dcff87020d36b9c5912d3f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 헌터 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129181</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129181</guid>
+            <pubDate>Mon, 20 Jun 2022 05:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F53ca570ee48bf0116f943dc30d295f6c11051f63" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 테이블 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106296</guid>
+            <pubDate>Mon, 20 Jun 2022 05:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac23426ef7cfcb2568e77e153472117d242fc512" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이리지스터블 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1631,6 +1647,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f78b50463b4ce03c89bf5182f420ddc044234b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[퐁네프의 연인들 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=11151</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=11151</guid>
+            <pubDate>Mon, 20 Jun 2022 05:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F275F70485458177216" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[닷핵퀀텀 : 숨겨진 몬스터의 비밀 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=65851</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=65851</guid>
@@ -1690,6 +1714,14 @@
             <content:encoded><![CDATA[22.06.30]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애플 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143890</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143890</guid>
+            <pubDate>Mon, 20 Jun 2022 05:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f52247004d6040d5b7f8b6b2afc9463a8f40935" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[허니 보이 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127655</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127655</guid>
@@ -1704,6 +1736,14 @@
             <pubDate>Tue, 14 Jun 2022 16:36:05 GMT</pubDate>
             <content:encoded><![CDATA[22.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa27c04fc9fd2d02df776e46e3f03c5f784d4bc76" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[부니베어: 로거빅 컴백홈 프로젝트 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=112968</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=112968</guid>
+            <pubDate>Mon, 20 Jun 2022 05:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31af8873fe067c5e91ef79504fb1d840059b61cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[플라이 미 투 더 문 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
@@ -1930,6 +1970,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2c64686a71a86192db24923ec720923aa809852" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[종합]칸의 남자·칸의 여왕 '2천만' 신화 쓸까..이륙 준비 마친 '비상선언' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620140802635</link>
+            <guid>https://v.daum.net/v/20220620140802635</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자]화려한 라인업을 자랑하는 영화 '비상선언'이 드디어 국내 관객을 만날 준비를 마쳤다. 20일 오전 서울 소공동 웨스틴조선에서 '비상선언' 제작보고회가 열렸다. 행사에는 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준과 한재림 감독이 참여했다. 진행은 박경림이 맡았다. 영화 개봉 확정 소감을 묻는 말에 송강호는 “]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2F10asia%2F20220620140806002opaj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["선물같은 일"..'비상선언' 이병헌→임시완 회상한 '칸' (엑's 현장)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620135004963</link>
+            <guid>https://v.daum.net/v/20220620135004963</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 칸 영화제에 다녀온 '비상선언' 팀이 지난해 현지에서 느낀 바를 전했다.&nbsp; 20일 오전 서울 중구 소공동 웨스틴조선호텔 그랜드볼룸에서 영화 '비상선언'(감독 한재림) 제작보고회가 진행됐다. 이날 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준과 한재림 감독이 참석했다.&nbsp; '비상선언'은 사상 초유의 항공테러로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fxportsnews%2F20220620135007436vjbx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["믿기지 않는 캐스팅"..'비상선언' 천만 흥행, 시동 걸까[스경X현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620134730890</link>
+            <guid>https://v.daum.net/v/20220620134730890</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“송강호, 이병헌, 전도연은 세계적으로도 상징성 있는 배우들이고 임시완, 김남길 등도 큰 작품에서 주연을 하고 있는 배우들이잖아요? ‘비상선언’에서 이들이 다 같이 출연한다는 것 자체가 나조차도 안 믿겨졌고, 찍으면서도 몇 개의 영화를 찍는 것처럼 혼란이 계속 왔어요. 막상 찍은 걸 보니 장면 장면 잘 어우러지고, 배우들이 잘 살아있어서 배우들의 관록과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fsportskhan%2F20220620135845029zzqj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['토르: 러브 앤 썬더', 어벤져스급 캐스팅..할리우드 ★ 총출동 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620134352795</link>
+            <guid>https://v.daum.net/v/20220620134352795</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=월트디즈니컴퍼니 코리아'토르: 러브 앤 썬더'가 할리우드 대표 스타들이 총출동한 어벤져스급 캐스팅으로 이목을 집중시킨다. 7월 6일 개봉을 앞둔 영화 '토르: 러브 앤 썬더'는 천둥의 신 '토르'가 '킹 발키리', '코르그', 그리고 '마이티 토르'로 거듭난 전 여자친구 '제인'과 팀을 이뤄, 신 도살자 '고르'의 우주적 위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fstarnews%2F20220620134353764iyvb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['비상선언' 한재림 감독 "한국사회 재난 지켜보며 연출 결심" (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220620132912352</link>
             <guid>https://v.daum.net/v/20220620132912352</guid>
@@ -2056,38 +2128,6 @@
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '비상선언'이 개봉 연기라는 힘든 시간을 보낸 뒤,&nbsp;드디어 개봉한다.&nbsp; 20일 오전 서울 중구 소공동 웨스틴조선호텔 그랜드볼룸에서 영화 '비상선언'(감독 한재림) 제작보고회가 진행됐다. 이날 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준과 한재림 감독이 참석했다.&nbsp; '비상선언'은 사상 초유의 항]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fxportsnews%2F20220620115826419ghqj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["목표는 당연히 천만".. '비상선언', 이유 있는 자신감  [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620115804356</link>
-            <guid>https://v.daum.net/v/20220620115804356</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 칸 영화제에 초청됐던 '비상선언'이 천만 관객을 향해 달려간다.재난 상황 속에 깊이 있는 메시지와 감정선을 녹여 냈다. 여기에 리얼리티를 강조한 연출이 예고됐다. 이유 있는 자신감을 지닌 '비상선언'이다. 20일 오전 서울 중구 웨스턴조선 호텔에서 영화 '비상선언'(감독 한재림·제작 MAGNUM 9) 제작보고회가 진행됐다. 자리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fsportstoday%2F20220620115805348jhik.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["이천만 영화 탄생"..송강호X이병헌X전도연 '비상선언', 흥행 향해 이륙 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620115803355</link>
-            <guid>https://v.daum.net/v/20220620115803355</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 웨스틴 조선=김미화 기자] 베우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준이 20일 오전 서울 중구 웨스텐조선호텔에서 진행된 영화 '비상선언'(감독 한재림) 제작보고회에 참석해 포즈를 취하고 있다.  사상 초유의 항공테러로 무조건적 착륙을 선포한 비행기를 두고 벌어지는 리얼리티 항공재난 영화 '비상선언'은 오는 8월 개봉 예정이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fstarnews%2F20220620115804535nqas.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['비상선언'전도연 "당연히 천만이 넘을 영화" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620115742349</link>
-            <guid>https://v.daum.net/v/20220620115742349</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오전  웨스틴조선 호텔 그랜드볼룸에서 영화 '비상선언'의 제작보고회가 진행되었다. 이날 행사에는 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준, 한재림 감독이 참석해 영화에 대해 이야기했다. 국민들을 지켜야 하는 국토부 장관 '숙희'를 연기한 전도연은 "영화 개봉을 하게되서 굉장히 기쁘고 꿈같다. 너무 오랜만에 무대라 떨린다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FiMBC%2F20220620115744308wvtg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SE★현장] 칸이 먼저 알아본 '비상선언', 초호화 캐스팅으로 천만 관객 겨냥(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620115704336</link>
-            <guid>https://v.daum.net/v/20220620115704336</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 칸 영화제에서 먼저 주목받은 영화 '비상선언'이 드디어 국내 관객을 만날 준비를 마쳤다. 코로나19 팬데믹으로 두 번 개봉일을 미룬 끝에 확정한 결과라 더욱 뜻깊다고. 초호화 캐스팅에 칸 영화제까지 업은 '비상선언'은 천만 관객을 목표로 올여름 극장가를 강타할 예정이다. 20일 오전 서울 중구 웨스턴조선 호텔에서 '비상선언'(감독 한재림) 제]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fseouleconomy%2F20220620115709599bmvl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["한국 팬들이 나를 완벽하게 해"..톰 크루즈가 전한 진심 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2250,7 +2290,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F19%2Fpoctan%2F20220619213537565hqnk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[중국에서 활동정지 된 여배우를 구원한 한국 영화 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[중국에서 활동정지 받은 여배우를 구원한 한국 영화 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EOCjnDWCIU</link>
             <guid>https://content.v.daum.net/v/EOCjnDWCIU</guid>
             <pubDate>Mon, 20 Jun 2022 04:33:41 GMT</pubDate>
@@ -2410,6 +2450,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2Ffeelthemovie%2F20220616073116324fnak.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[<스파이더헤드> 죗값 대신 실험에 참가한 죄수 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@6dyt/835</link>
+            <guid>https://brunch.co.kr/@@6dyt/835</guid>
+            <pubDate>Mon, 20 Jun 2022 05:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2F7BofGlQH4T5rELUeBQyINqwd9Z4.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<브로커> 설득에 실패한 '그렇게 어머니가 된다' (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@HI6/136</link>
+            <guid>https://brunch.co.kr/@@HI6/136</guid>
+            <pubDate>Mon, 20 Jun 2022 05:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고요한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FHI6%2Fimage%2FifDJoA7pVaY0nSrAwr_23lruskw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[<브로커> 수평의 여정이 수직적인 세상에 가져올 변화 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@5XLU/486</link>
             <guid>https://brunch.co.kr/@@5XLU/486</guid>
@@ -2552,22 +2608,6 @@
             <pubDate>Wed, 08 Jun 2022 03:32:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>심슨]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdfKn%2Fimage%2F2A7H51XFKyKyTpiMNAsSDJ2lQyY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 끝에 우연과 일어나는 희망 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@3ify/552</link>
-            <guid>https://brunch.co.kr/@@3ify/552</guid>
-            <pubDate>Wed, 08 Jun 2022 03:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>MONORESQUE]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3ify%2Fimage%2FqAwAHMV2rKFQCkWEfmaI4CnMcn4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[범죄도시2 (2022)] (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@3iL8/44</link>
-            <guid>https://brunch.co.kr/@@3iL8/44</guid>
-            <pubDate>Wed, 08 Jun 2022 01:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서보원]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3iL8%2Fimage%2FucU6Pvdm9PsNydT0ROAiskbp5zo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
