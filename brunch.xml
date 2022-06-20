@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 06:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 20 Jun 2022 05:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고요한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FHI6%2Fimage%2FifDJoA7pVaY0nSrAwr_23lruskw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '브로커'-고레에다 월드의 스포츠  장면들]]></title>
+            <link>https://brunch.co.kr/@@dJAW/10</link>
+            <guid>https://brunch.co.kr/@@dJAW/10</guid>
+            <pubDate>Mon, 20 Jun 2022 07:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>한성윤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdJAW%2Fimage%2Fiy8i7Wim0K5aziRnyuVw0tABfjI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<브로커> 수평의 여정이 수직적인 세상에 가져올 변화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Jun 2022 03:32:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>재완]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4JXY%2Fimage%2F2O-eY6mFvQJMBxFl5YOKbdZpURo.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[공룡을 활용하지 못하는 공룡 영화]]></title>
-            <link>https://brunch.co.kr/@@dfKn/123</link>
-            <guid>https://brunch.co.kr/@@dfKn/123</guid>
-            <pubDate>Wed, 08 Jun 2022 03:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>심슨]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdfKn%2Fimage%2F2A7H51XFKyKyTpiMNAsSDJ2lQyY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
