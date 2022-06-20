@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=146758</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146758</guid>
             <pubDate>Tue, 31 May 2022 09:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,458,123명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,458,120명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,460,313명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,460,310명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -966,20 +966,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 윌벤져스: 수상한 캠핑대소동 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160414</guid>
-            <pubDate>Thu, 09 Jun 2022 01:55:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7267cd7cccb1af1d5fe306be5c0c63925282b19d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[모어 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
             <pubDate>Tue, 14 Jun 2022 23:21:34 GMT</pubDate>
             <content:encoded><![CDATA[22.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 윌벤져스: 수상한 캠핑대소동 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160414</guid>
+            <pubDate>Thu, 09 Jun 2022 01:55:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7267cd7cccb1af1d5fe306be5c0c63925282b19d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[룸 쉐어링 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2034,12 +2034,124 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2c64686a71a86192db24923ec720923aa809852" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['헤어질 결심' 박찬욱 감독 "관객이 스스로 다가와 매력을 느끼는 게 목표" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620171227038</link>
+            <guid>https://v.daum.net/v/20220620171227038</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '헤어질 결심'에 담긴 배우와 제작진의 디테일한 노력이 공개됐다. 6월 29일 개봉하는 영화 '헤어질 결심'(감독 박찬욱)은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박해일)이 사망자의 아내 '서래'(탕웨이)를 만나고 의심과 관심을 동시에 느끼며 시작되는 이야기를 그린 작품. 20일 공개된 제작 기록 영상은 배우와 제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fnewsen%2F20220620171227612jfgg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합]4년 만에 내한한 톰 크루즈 "韓 40번도 더 오고파"..팬데믹 이겨낸 감동의 '탑건' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620171001934</link>
+            <guid>https://v.daum.net/v/20220620171001934</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자]'톰 아저씨' 톰 크루즈가 전설의 비행 조종사 매버릭으로 관객들과 만날 준비를 마쳤다. 20일 오후 서울 롯데호텔월드에서 영화 '탑건: 매버릭' 내한 프레스&nbsp;컨퍼런스가 열렸다. 이날 행사에는 톰 크루즈와 제리 브룩하이머 프로듀서, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스가 참석했다. 이날 톰 크루즈는 열 번째]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2F10asia%2F20220620171006170aysu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["40번 더 올게요" 톰 크루즈의 여전한 한국 사랑 [들어봤더니] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620170302651</link>
+            <guid>https://v.daum.net/v/20220620170302651</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 톰 크루즈가 인기작의 명성을 또 한 번 이어간다. 오는 22일 개봉을 앞둔 영화 ‘탑건: 매버릭’(감독 조셉 코신스키)은 전설의 파일럿 매버릭(톰 크루즈)가 훈련학교 교관으로 발탁되며 절체절명의 미션에 도전하는 이야기를 그린다. 화려한 항공 액션에 전편과 연결고리를 확실히 살리며 국내 개봉 전부터 호평을 얻고 있다. ‘탑건’ 시리즈의 주역 톰 크루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fkukinews%2F20220620170303604timt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["40번 더 韓 올것"..'탑건 : 매버릭' 톰 크루즈, 사랑할 수 밖에 [스타현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620170011526</link>
+            <guid>https://v.daum.net/v/20220620170011526</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 롯데호텔 잠실=김미화 기자] 배우 톰 크루즈가 20일 오후 서울 송파구 롯데호텔 월드에서 진행된 영화 '탑건: 매버릭' 내한 기자간담회에 참석해 포즈를 취하고 있다.  전설의 전투기 조종사 '매버릭' 피트 미첼 대령이 파일럿 교육 기관인 탑건의 교관으로 복귀하면서 벌어지는 이야기를 그린 '탑건:매버릭'은 오는 22일 개봉된다. /2022.06.2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fstarnews%2F20220620170012993fkav.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰-영화 '탑건: 매버릭']극한의 리얼리즘, 극장서 봐야 제대로 눈호강 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620165645365</link>
+            <guid>https://v.daum.net/v/20220620165645365</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 톰 크루즈가 환갑을 바라보는 나이에 초심으로 돌아가려는 듯, 36년 전 본인을 세계적 스타덤에 올려놓은 ‘탑건’(1986)의 속편 ‘탑건: 매버릭’으로 돌아왔다. 영화는 컴퓨터그래픽(CG), 특수효과(VFX) 없이 제작이 어려운 요즘 할리우드의 흐름을 거스르는 고전적이고 리얼한 스턴트를 바탕으로 박진감 넘치는 액션을 선사하며, 극장에서 영화를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fseouleconomy%2F20220620165649736ztij.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["촬영 아니라 군대 느낌" '탑건2' 깜짝 비하인드 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620165401246</link>
+            <guid>https://v.daum.net/v/20220620165401246</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필, 이정민 기자] ▲ &nbsp;톰 크루즈 배우가 20일 오후 서울 송파구의 한 호텔에서 열린 영화 &lt;탑건: 매버릭&gt; 기자회견에서 동료배우들과 주먹인사를 하고 있다.    ⓒ 이정민  &nbsp;&nbsp; 데뷔 이후 40년 넘게 톱 배우 반열에서 흔들리지 않는 이가 얼마나 될까. 영화 &lt;탑건: 매버릭&gt;(아래 &lt;탑건2&gt;)으로 지난 18일부터 내한해 홍보 일정을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fohmynews%2F20220620165402874ivwv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['탑건: 매버릭' 톰 크루즈 "10번째 내한 영광, 다른 차원 즐거움 추가돼" [SE★현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620165108164</link>
+            <guid>https://v.daum.net/v/20220620165108164</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 영화 ‘탑건: 매버릭’ 홍보 차 내한한 톰 크루즈가 한국에 대한 애정을 드러냈다. 톰에게도 한국 관객들에게도 잊을 수 없는 행복한 순간이다. 20일 오후 서울 롯데호텔 월드에서 ‘탑건: 매버릭’(감독 조셉 코신스키) 프레스 컨퍼런스가 개최됐다. 배우 톰 크루즈, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스와 제작자 제리 브룩하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fseouleconomy%2F20220620165113543xbjk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["당연히 천만 영화"..'비상선언' 송강호x전도연, 칸영화제 男女주연의 위엄(종합)[현장의 재구성] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620164837067</link>
+            <guid>https://v.daum.net/v/20220620164837067</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“저는 당연히 천만(관객)을 넘을 거라고 생각한다.(웃음)” 배우 전도연이 20일 서울 소공동 웨스틴조선호텔 그랜드볼룸에서 진행된 영화 ‘비상선언’의 제작보고회에서 “흥행적으로 보면 제가 가장 흥행에 대해 아쉬움을 갖고 있는 배우다.(웃음) 그래서 이 영화를 하면서 흥행 기대는 100% 있었다”라며 흥행 성공 여부를 묻는 질문에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fpoctan%2F20220620171154086hiae.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["울어도 괜찮아"..36년 만에 돌아온 '탑건:매버릭', 톰 크루즈의 진심 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620163701612</link>
+            <guid>https://v.daum.net/v/20220620163701612</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["'탑건' 이후 많은 팬이 수년간 후속작을 원했다. '탑건: 매버릭'은 여러분을 위한 영화다. 영화 보면서 우셔도 괜찮다." 현존하는 최고의 액션 배우 톰 크루즈가 36년간 '탑건' 후속작을 기다려온 한국의 중장년층 팬들을 향해 이같이 말했다. '탑건:매버릭'(조셉 코신스키 감독)은 톰 크루즈를 일약 스타덤에 올려놓았던 1987년 개봉된 영화 '탑건'의 속]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fked%2F20220620164405132enmt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[내한한 톰 크루즈 "한국에 30번, 40번 더 오고 싶어요" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620163609581</link>
+            <guid>https://v.daum.net/v/20220620163609581</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 배우 톰 크루즈가 20일 서울 송파구 잠실동 롯데호텔월드에서 열린 영화 '탑건: 매버릭' 기자 간담회에서 포즈를 취하고 있다. 뉴시스  “드디어 4년 만에 한국에 다시 왔는데, 그 에너지를 온전히 느낄 수 있었습니다. 우리 모두가 다시 연결되고 있음을 느꼈습니다. 마스크 너머 여러분&nbsp;미소를 볼 수 있었습니다.&nbsp;한국에 서른번, 마흔번이라도 더]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fsegye%2F20220620163609621hzni.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[10번째 내한 톰 아저씨..아름다운 한국, 30~40번 더 오고 싶다"[SS현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620163524546</link>
+            <guid>https://v.daum.net/v/20220620163524546</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 톰 크루즈가 20일 서울 송파구 롯데호텔 월드점에서 진행된 영화 ‘탑건: 매버릭’ 프레스 컨퍼런스에서 취재진을 향해 포즈를 취하고 있다. 사진| 박진업기자 upandup@sportsseoul.com    [스포츠서울|조은별기자]1994년 처음으로 한국 땅을 밟은 지 28년, 벌써 10번째 내한이지만 톰 크루즈는 변]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FSPORTSSEOUL%2F20220620163525650qixq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['탑건' 그렉 타잔 데이비스 "톰 크루즈 만든 비행 트레이닝 프로그램, 토하며 탔다"[SS현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620163133400</link>
+            <guid>https://v.daum.net/v/20220620163133400</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 그렉 타잔 데이비스가 20일 서울 송파구 롯데호텔 월드점에서 진행된 영화 ‘탑건: 매버릭’ 프레스 컨퍼런스에서 취재진을 향해 포즈를 취하고 있다. 2022. 6. 20. 박진업기자 upandup@sportsseoul.com    [스포츠서울|조은별기자]영화 ‘탑건:매버릭’에서 코요태 역을 연기한 배우 그렉 타잔 데이비스가 톰 크루즈가 직접]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FSPORTSSEOUL%2F20220620163134865rlfy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[열번째 한국 온 '탑건; 매버릭' 톰 크루즈 "중장년 팬들, 영화 보고 울어도 좋습니다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620163038361</link>
+            <guid>https://v.daum.net/v/20220620163038361</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] “이 영화를 보면서 다들 울어도 좋습니다. 여러분들을 비롯한 모두를 위해 만든 영화입니다. 모두가 영화관에 앉아서 함께 영화를 관람한다는 것 자체가 아름다운 경험입니다.” 철저한 팬 서비스 덕분에 ‘친절한 톰 아저씨’라는 별명마저 붙은 할리우드 스타 톰 크루즈가 영화 ‘탑건: 매버릭’ 홍보차 통산 열 번째로 한국을 찾았다. 톰 크루즈의 신작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fseouleconomy%2F20220620163736623tjyp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["10번째 내한? 30번·40번도.." 톰 크루즈, 열정 빛난 '탑건: 매버릭'(종합) [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220620163009343</link>
+            <guid>https://v.daum.net/v/20220620163009343</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 열정 그 자체인 톰 크루즈가 10번째 방문한 한국에 대한 애정을 아낌없이 표했다. 내년 여름에 다시 돌아오겠다고 약속한 그는 앞으로 30번, 40번이라도 내한을 더하겠다며 계속해서 재미있는 이야기로 한국 관객들과 소통하고 싶은 바람을 드러냈다. 20일 오후 서울 송파구 올림픽로 롯데호텔 월드에서 영화 '탑건: 매버릭'(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FNEWS1%2F20220620163009583smxa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[SE★현장] '탑건: 매버릭' 톰 크루즈니까 가능한 36년 만의 귀환(종합) (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220620161845889</link>
             <guid>https://v.daum.net/v/20220620161845889</guid>
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 톰 크루즈가 아니면 할 수 없는 영화다. 톰 크루즈가 36년 만의 후속편 ‘탑건: 매버릭’을 발표하며 영광을 재현했다. 전작의 색깔은 잊지 않으면서 향수까지 불어일으킨 글로벌 대작이다. 20일 오후 서울 롯데호텔 월드에서 ‘탑건: 매버릭’(감독 조셉 코신스키) 프레스 컨퍼런스가 개최됐다. 배우 톰 크루즈, 마일즈 텔러, 글렌 포웰, 제이 엘리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fseouleconomy%2F20220620161850636glzs.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fseouleconomy%2F20220620165935545dtgo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["올 때마다 놀라워"..'탑건:매버릭' 톰 크루즈 10번 내한에도 진심(종합)[Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
@@ -2080,118 +2192,6 @@
             <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 김종은 기자] '탑건' 신드롬의 주역 톰 크루즈와 제리 브룩하이머가 36년 만에 후속편을 선보인 이유를 들려줬다. 영화 '탑건: 매버릭'(감독 조셉 코신스키·배급 롯데엔터테인먼트)의 내한 프레스 컨퍼런스가 20일 오후 서울 송파구 롯데호텔 월드 3층 크리스탈볼룸에서 진행됐다. 현장에는 배우 톰 크루즈를 비롯해 제리 브룩하이머 프로듀서, 마일]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Ftvdaily%2F20220620155526827lrdm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["꿈의 실현"..'탑건: 매버릭' 톰 크루즈, 10번째 내한의 이유 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620155215602</link>
-            <guid>https://v.daum.net/v/20220620155215602</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠투데이 최혜진 기자] 할리우드 배우 톰 크루즈의 꿈이 실현됐다. 한국은 그 꿈을 펼치는 장이다. 최선의 노력을 담은 작품을 공유하고 이를 한국 관객들과 소통할 수 있게 돼 영광이라는 톰 크루즈다. 20일 오후 서울시 송파구에 위치한 롯데호텔 월드 크리스탈볼룸에서 영화 '탑건: 매버릭'(감독 조셉 코신스키·배급 롯데엔터테인먼트) 내한 프레스 컨퍼런스가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fsportstoday%2F20220620155216905smjb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건' 프로듀서 "행운 같은 톰 크루즈, 스펀지 같은 사람..덕분에 한국 왔다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620154502221</link>
-            <guid>https://v.daum.net/v/20220620154502221</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=류예지 기자] 제리 브룩하이머 프로듀서가 함께한 배우들에게 고마움을 전했다. 20일 오후 서울 롯데호텔월드에서 영화 '탑건 매버릭' 내한 프레스&nbsp;컨퍼런스가 열렸다. 이날 행사에는 톰 크루즈와 제리 브룩하이머 프로듀서, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스가 참석했다. 이날 제리 프로듀서는 톰 크루즈를 비롯한 배우들에게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2F10asia%2F20220620154504907tmtd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 제이 앨리스 "실제로 전투기 조종을 할 줄은 몰랐다, 엄청난 연습했다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620154445197</link>
-            <guid>https://v.daum.net/v/20220620154445197</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오후 롯데호텔 월드  3층 크리스탈볼룸에서는 영화 '탑건: 매버릭'의 프레스 컨퍼런스가 진행되었다. 이날 행사에는 톰 크루즈와 제리 브룩하이머 프로듀서, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스 등 팀 탑건 6인이 참석해 영화 '탑건: 매버릭'에 대해 이야기했다. '탑건: 매버릭'에서 페이백을 연기한 제이 앨리스는 "어메이징]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FiMBC%2F20220620154446933xkwi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["K팝 아이돌급"..톰 크루즈→마일즈 텔러, 팀 '탑건', 완벽한 내한 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620154348144</link>
-            <guid>https://v.daum.net/v/20220620154348144</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 롯데호텔 잠실=김미화 기자] /사진=이동훈 기자 할리우드 톱 배우 톰 크루즈가 36년 만에 '탑건' 후속편 '탑건 : 매버릭'을 들고 한국을 찾았다. 톰 크루즈와 함께 한국을 찾은 '팀 탑건'은 K하트 부터 V까지 완벽한 K팬 서비스를 자랑하며 시선을 사로잡았다. 20일 오후 서울 잠심 롯데월드호텔에서 영화 '탑건 : 매버릭' 내한 기자간담회가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fstarnews%2F20220620154350087ujzk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 그렉 타잔 데이비스 "영화 찍는게 아니라 해군에 입대해 조종사가 된 것 같았다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620154245120</link>
-            <guid>https://v.daum.net/v/20220620154245120</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오후 롯데호텔 월드  3층 크리스탈볼룸에서는 영화 '탑건: 매버릭'의 프레스 컨퍼런스가 진행되었다. 이날 행사에는 톰 크루즈와 제리 브룩하이머 프로듀서, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스 등 팀 탑건 6인이 참석해 영화 '탑건: 매버릭'에 대해 이야기했다. '탑건: 매버릭'에서 코요테를 연기한 그렉 타잔 데이비스는 "한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FiMBC%2F20220620154248441duzd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['MZ세대 V'까지..추앙한다, 톰 크루즈[스경X현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620154220103</link>
-            <guid>https://v.daum.net/v/20220620154220103</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 톰 크루즈는 추앙받아 마땅하다. 손하트, 볼하트, 게다가 ‘MZ세대 V’포즈까지 거침없었다. 입담도 ‘톱’이었다. 36년만의 ‘탑건’ 후속작 ‘탑건: 매버릭’(감독 조셉 코신스키)을 전세계 흥행시킨 이유를, 짧은 시간 톰 크루즈에게서 엿볼 수 있었다. 톰 크루즈는 20일 오후 서울 송파구 롯데호텔 월드에서 진행된 ‘탑건: 매버릭’(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fsportskhan%2F20220620154222165djqy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 톰 크루즈 "속편, 실망시키고 싶지 않았다..울어도 좋아" [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620154003973</link>
-            <guid>https://v.daum.net/v/20220620154003973</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 톰 크루즈가 '탑건'의 36년 만의 속편인 '탑건: 매버릭' 작업을 통해 느꼈던 다양한 감회와 함께 4년 만에 한국을 찾은 남다른 마음을 전했다. 20일 서울 송파구 잠실동 롯데호텔 월드 3층 크리스탈볼룸에서 영화 '탑건: 매버릭'(감독 조셉 코신스키) 내한 기자간담회가 열렸다. 이 자리에는 배우 톰 크루즈와 함께 제작자 제]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fxportsnews%2F20220620154004885fkjg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 톰 크루즈 "36년만의 속편, 실망시키기 싫어 부담 컸다" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620153824912</link>
-            <guid>https://v.daum.net/v/20220620153824912</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 할리우드 스타 톰 크루즈가 영화 '탑건'의 속편을 36년만에 내놓으며 부담감을 크게 느꼈었다고 말했다. 톰 크루즈는 20일 오후 서울 송파구 올림픽로 롯데호텔 월드에서 진행된 영화 '탑건: 매버릭'(감독 조셉 코신스키) 주역들의 내한 기자회견에서 36년 만에 '탑건'의 시퀄을 선보이게 된 것에 대해 "지난 수년간 사람들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FNEWS1%2F20220620153824705lhbb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈 "한국, 내년·내후년에도 또 오고 앞으로 40번은 더 올 것" ('탑건: 매버릭') [MD현장](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620153813900</link>
-            <guid>https://v.daum.net/v/20220620153813900</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '친절한 톰 아저씨' 톰 크루즈가 특급 한국 팬 사랑과 '탑건: 매버릭'에 대한 진정성 있는 열연을 엿보게 하며 예비 관객들의 마음을 정조준했다. 20일 서울 송파구 롯데호텔 월드 크리스탈볼룸에선 영화 '탑건: 매버릭'의 내한 프레스 컨퍼런스가 진행됐다. 매버릭 역의 톰 크루즈를 필두로 제작자 제리 브룩하이머, 마일즈 텔러(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fmydaily%2F20220620153813757ahpc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 글랜 포웰 "톰 크루즈는 어린시절부터 동경해온 스타, 함께 해서 영광" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620153744868</link>
-            <guid>https://v.daum.net/v/20220620153744868</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오후 롯데호텔 월드  3층 크리스탈볼룸에서는 영화 '탑건: 매버릭'의 프레스 컨퍼런스가 진행되었다. 이날 행사에는 톰 크루즈와 제리 브룩하이머 프로듀서, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스 등 팀 탑건 6인이 참석해 영화 '탑건: 매버릭'에 대해 이야기했다. '탑건: 매버릭'에서 행맨을 연기한 글렌 포웰은 "한국을 정말]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FiMBC%2F20220620153746153owop.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 마일즈 텔러 "톰 크루즈는 누구보다 앞장서서 많이 하는 사람" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620153345685</link>
-            <guid>https://v.daum.net/v/20220620153345685</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오후 롯데호텔 월드  3층 크리스탈볼룸에서는 영화 '탑건: 매버릭'의 프레스 컨퍼런스가 진행되었다. 이날 행사에는 톰 크루즈와 제리 브룩하이머 프로듀서, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스 등 팀 탑건 6인이 참석해 영화 '탑건: 매버릭'에 대해 이야기했다. 마일즈 텔러는 "이런 영화는 국제적인 관객을 위한 영화라 생각한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FiMBC%2F20220620153346856jfzc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['탑건: 매버릭' 톰 크루즈 "영화를 보며 울어도 괜찮다. 모두 즐겨라!" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620153145553</link>
-            <guid>https://v.daum.net/v/20220620153145553</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오후 롯데호텔 월드  3층 크리스탈볼룸에서는 영화 '탑건: 매버릭'의 프레스 컨퍼런스가 진행되었다. 이날 행사에는 톰 크루즈와 제리 브룩하이머 프로듀서, 마일즈 텔러, 글렌 포웰, 제이 엘리스, 그렉 타잔 데이비스 등 팀 탑건 6인이 참석해 영화 '탑건: 매버릭'에 대해 이야기했다. 생애 10번째 내한을 한 톰 크루즈는 헐리우드 배우로는 최대 방]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FiMBC%2F20220620153148815qkkm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['우리들의 블루스'서 주목받은 다운증후군 배우의 진면목 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620153001416</link>
-            <guid>https://v.daum.net/v/20220620153001416</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;니얼굴&gt; 포스터 이미지    ⓒ 영화사 진진  &nbsp; 다큐멘터리 영화 &lt;니얼굴&gt;을 영화제에서 첫 소개되던 2020년에 만났다. 몇 곳의 영화제를 순회한 뒤 소규모로 극장 개봉하는 정석적인 과정을 거치게 될 줄 알았다. 배급사도 붙었다는데 통 소식이 들려오지 않았다. 좋은 작품인데 또 이렇게 '창고 영화'가 되고 마는가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fohmynews%2F20220620153005550pvgi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈 "한국의 50대 男 팬들에? '탑건: 매버릭' 보고 울어도 돼" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220620152819360</link>
-            <guid>https://v.daum.net/v/20220620152819360</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 톰 크루즈가 '탑건: 매버릭'을 기다리는 한국의 50대 남성 팬들에게 "영화를 보고 울어도 된다"고 조언해 웃음을 줬다. 톰 크루즈는 20일 오후 서울 송파구 올림픽로 롯데호텔 월드에서 진행된 영화 '탑건: 매버릭'(감독 조셉 코신스키) 주역들의 내한 기자회견에서 영화를 기다리는 50대 남성 팬들에게 하고 싶은 말을 묻]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2FNEWS1%2F20220620152820858ywiw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["한국 팬들이 나를 완벽하게 해"..톰 크루즈가 전한 진심 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2362,7 +2362,7 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fmaxmovie%2F20220620061553750irys.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[24년만에 다시 재회한 영화 '탑건' 커플 남녀 스타 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[24년만에 다시 재회한 영화 '탑건' 커플 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/EC0cjyImhT</link>
             <guid>https://content.v.daum.net/v/EC0cjyImhT</guid>
             <pubDate>Mon, 20 Jun 2022 06:32:45 GMT</pubDate>
@@ -2538,6 +2538,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdJAW%2Fimage%2Fiy8i7Wim0K5aziRnyuVw0tABfjI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[저 우주를 넘어, 라이트이어 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@aNyH/293</link>
+            <guid>https://brunch.co.kr/@@aNyH/293</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>타츠루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaNyH%2Fimage%2FWWrd4t0prgE-qXo4drlic_Gn5DU" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[서울국제어린이영화제, 음악의 힘 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@79Hy/107</link>
+            <guid>https://brunch.co.kr/@@79Hy/107</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김로진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F79Hy%2Fimage%2FbYv94FSIMml8dgKDY13z4a507C8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[진실과 정의를 오로지 법으로 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@dBy9/19</link>
+            <guid>https://brunch.co.kr/@@dBy9/19</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>호은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdBy9%2Fimage%2F_ezPRRn8IW6NJpOssuA5N8tNlvs.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[설명할 수 없는 어딘가에 갇혀있는 사람들 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5fpi/359</link>
+            <guid>https://brunch.co.kr/@@5fpi/359</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FraxB7qH9qwsLn_zTZbQAxd3L828.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[일상을 깨뜨린 시스템에 대한 분노, 마녀 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@535y/523</link>
+            <guid>https://brunch.co.kr/@@535y/523</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Rabbitgumi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F535y%2Fimage%2F2rhNhUOuR4MhCuf13v_XAQv6l7I.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 아빠랑 동갑인데 왠지 형이라고 불러야 할 듯 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5fpi/358</link>
+            <guid>https://brunch.co.kr/@@5fpi/358</guid>
+            <pubDate>Mon, 20 Jun 2022 08:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FuIB9j_KfonB1PcsXESCVrrlPp2o.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[<브로커> 수평의 여정이 수직적인 세상에 가져올 변화 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@5XLU/486</link>
             <guid>https://brunch.co.kr/@@5XLU/486</guid>
@@ -2624,54 +2672,6 @@
             <pubDate>Thu, 09 Jun 2022 03:34:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5c1Q%2Fimage%2FwD5zlza6vwtMSHWI7njEnR71iD4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[별만 보고 따라가다 헤맬 뻔 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5jTv/133</link>
-            <guid>https://brunch.co.kr/@@5jTv/133</guid>
-            <pubDate>Wed, 08 Jun 2022 06:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2FCtt0sG4BHFLmjonJGSefT0dED7c.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 리뷰] <쥬라기 월드 : 도미니언> 간단 리뷰 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5AcO/60</link>
-            <guid>https://brunch.co.kr/@@5AcO/60</guid>
-            <pubDate>Wed, 08 Jun 2022 06:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>티백 자판기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5AcO%2Fimage%2F7314xsI0qUfPshw5JCSdEsnTwm4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구 입덕자여, 최고난도 공식 데뷔작을 부수어보자 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@bYQT/52</link>
-            <guid>https://brunch.co.kr/@@bYQT/52</guid>
-            <pubDate>Wed, 08 Jun 2022 05:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>삐뚜로 빼뚜로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbYQT%2Fimage%2FhEwM385kFRQELx1k5s5L7YxWxLY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<카시오페아> 30년 만에 쓰는 아빠의 육아 일기 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6dyt/829</link>
-            <guid>https://brunch.co.kr/@@6dyt/829</guid>
-            <pubDate>Wed, 08 Jun 2022 03:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FKhE0gVoIffJWcY428phTE4x4KVc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌면 용기는 한 잔의 와인 같다. (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5LYu/181</link>
-            <guid>https://brunch.co.kr/@@5LYu/181</guid>
-            <pubDate>Wed, 08 Jun 2022 03:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Jade in x]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5LYu%2Fimage%2FL0jGBZNuAyidj0SroY7hVrRftu0.jfif" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[09. 퇴근 후엔 영화보지 마세요 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@4JXY/19</link>
-            <guid>https://brunch.co.kr/@@4JXY/19</guid>
-            <pubDate>Wed, 08 Jun 2022 03:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>재완]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4JXY%2Fimage%2F2O-eY6mFvQJMBxFl5YOKbdZpURo.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
