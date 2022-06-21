@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 09:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 10:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 21 Jun 2022 09:30:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>sooowhat]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7KC%2Fimage%2FlMe-joatQuCaMxFMvDbGjhHdb9Y.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[디바]]></title>
+            <link>https://brunch.co.kr/@@3kT/5819</link>
+            <guid>https://brunch.co.kr/@@3kT/5819</guid>
+            <pubDate>Tue, 21 Jun 2022 10:34:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나는 누군가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3kT%2Fimage%2FZTA2vCd4tkFwC6bE74pqS9SfF5A.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<스파이더헤드> 죗값 대신 실험에 참가한 죄수]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Jun 2022 05:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FANE-NH18AGoam7BmmCjjSGyo-xs.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <브로커> 첫인상]]></title>
-            <link>https://brunch.co.kr/@@2W0d/711</link>
-            <guid>https://brunch.co.kr/@@2W0d/711</guid>
-            <pubDate>Thu, 09 Jun 2022 05:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 홍수정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2W0d%2Fimage%2Fj7zC7IV4MgD3kXsoKgb9l8InN70.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
