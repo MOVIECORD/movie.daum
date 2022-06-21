@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 11:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 12:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faab470210934341d20f7a65f397ef495a50afc3e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그대가 조국]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159431</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159431</guid>
+            <pubDate>Tue, 24 May 2022 23:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 노비스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145810</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145810</guid>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그대가 조국]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159431</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159431</guid>
-            <pubDate>Tue, 24 May 2022 23:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 렛지]]></title>
