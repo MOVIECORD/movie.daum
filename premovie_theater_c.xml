@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 06:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,6 +127,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F059415ca59a46a8826166646fba7762b91b63588" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[보통의 용기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160991</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160991</guid>
+            <pubDate>Wed, 22 Jun 2022 06:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F692cbeaf300a226eb7991849d139f0aad277a102" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[정복자 윌리엄]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=95085</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=95085</guid>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 21 Jun 2022 23:23:45 GMT</pubDate>
             <content:encoded><![CDATA[22.06.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F75cc78d95ee59ab7539288315f54937ff4e00042" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미친 능력]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156396</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156396</guid>
-            <pubDate>Tue, 21 Jun 2022 23:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F859e5e7058c872f8757350f53d525feb307f332b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
