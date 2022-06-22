@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 09:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -878,14 +878,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faab470210934341d20f7a65f397ef495a50afc3e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대가 조국 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159431</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159431</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 노비스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145810</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145810</guid>
@@ -908,6 +900,14 @@
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그대가 조국 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159431</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159431</guid>
+            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 렛지 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2291,6 +2291,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fba96a295bf837d40e650f5b8c07a28038766be" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['마녀2' 신시아, 반짝반짝 빛나는 [인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220622180206045</link>
+            <guid>https://v.daum.net/v/20220622180206045</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 처음이라는 부담감보다 설렘을 잔뜩 안고 있는 배우 신시아의 눈은 빛났다. 신인이라서 그런 것도 있었겠지만, 누구보다 자신의 작품을 사랑하는 마음이 빚어낸 생기였다. 반짝반짝 빛나는 신시아의 미래가 궁금해지는 순간이었다. 지난 15일 개봉된 영화 ‘마녀 Part2. The Other One’(감독 박훈정·제작 영화사 금월, 이하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Ftvdaily%2F20220622180208047tlzb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[반드시 기억해야 할 이름, 하마구치 류스케 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220622172713943</link>
             <guid>https://v.daum.net/v/20220622172713943</guid>
@@ -2435,20 +2443,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2FNEWS1%2F20220622142211195erjz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['토르4' 토르X마이티 토르X발키리X코르그 뭉친 '팀 토르' 결성..갓벽한 4人4色 히어로 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220622140714405</link>
-            <guid>https://v.daum.net/v/20220622140714405</guid>
+            <title><![CDATA['엘비스' 톰 행크스, 엘비스 매니저役 위해 분장만 무려 5시간 견뎌 "캐릭터 그 자체" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220622141629709</link>
+            <guid>https://v.daum.net/v/20220622141629709</guid>
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 마블의 새로운 액션 블록버스터 '토르: 러브 앤 썬더'(이하 '토르4', 타이카 와이티티 감독)가 더욱 업그레이드된 액션과 스케일을 선보일 것을 예고하여 화제를 모으고 있다. 모든 것을 파멸로 이끄는 신 도살자 고르(크리스찬 베일)의 등장이 예고된 가운데, 그에 맞서기 위해 천둥의 신 토르(크리스 헴스워스)가 '팀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2FSpoChosun%2F20220622140715008oeak.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인' 도사된 류준열..전에 없던 새로운 세계 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220622140153192</link>
-            <guid>https://v.daum.net/v/20220622140153192</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '외계+인' 전에 없던 새로운 세계가 온다. 7월 20일 개봉하는 영화 '외계+인'(감독 최동훈) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. 6월 22일 공개된 보도스틸은 고려와 현대를 오가는 독창적인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fnewsen%2F20220622140153800xlqj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 할리우스 스타 톰 행크스가 전설적인 슈퍼스타 엘비스의 일대기를 그린 영화 '엘비스'(바즈 루어만 감독)를 통해 파격 변신에 나섰다. 영화 '포레스트 검프'와 '필라델피아'로 2년 연속 아카데미 남우주연상을 수상한 것은 물론, '시애틀의 잠 못 이루는 밤' '라이언 일병 구하기' '캐스트 어웨이' '다빈치 코드' '토]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2FSpoChosun%2F20220622141630028fesb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['개그우먼' 김신영, 송혜교와 어깨 나란히 하더니..17년만 박찬욱·봉준호 픽 '스크린 복귀'[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2467,6 +2467,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fpoctan%2F20220622131418520fbwn.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA[신시아, 150만 돌파 '마녀2'로 꽃길 걸을까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220621090521867</link>
+            <guid>https://movie.v.daum.net/v/20220621090521867</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4년 전 개봉한 영화 '마녀'의 속편 '마녀2'가 관객들을 만나고 있다. 주연 배우 신시아는 기자간담회에서 전편을 보며 부담감을 느끼는 한편 책임감을 갖고 더욱 노력하게 됐다고 말했다. '마녀2'를 통해 신시아의 앞에 꽃길이 펼쳐지게 될까. '마녀2'는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀 앞에 각기 다른 목적으로 그를 쫓는 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fhankooki%2F20220621090523633zfzx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["나는 잘생겼다"는 착각에 빠진 신현준 '핸썸', 7월 극장 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220622111654675</link>
             <guid>https://movie.v.daum.net/v/20220622111654675</guid>
@@ -2475,12 +2483,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fpoctan%2F20220622111656053erpg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[신시아, 150만 돌파 '마녀2'로 꽃길 걸을까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220621090521867</link>
-            <guid>https://movie.v.daum.net/v/20220621090521867</guid>
-            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4년 전 개봉한 영화 '마녀'의 속편 '마녀2'가 관객들을 만나고 있다. 주연 배우 신시아는 기자간담회에서 전편을 보며 부담감을 느끼는 한편 책임감을 갖고 더욱 노력하게 됐다고 말했다. '마녀2'를 통해 신시아의 앞에 꽃길이 펼쳐지게 될까. '마녀2'는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀 앞에 각기 다른 목적으로 그를 쫓는 세]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fhankooki%2F20220621090523633zfzx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[오영이] '탑건: 매버릭' 36년 만의 후속편, 다 이유가 있다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220622150439938</link>
+            <guid>https://movie.v.daum.net/v/20220622150439938</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 36년의 기다림이 아깝지 않은 귀환이다. 세월은 흘렀지만 뜨거운 열정은 그대로고, 짜릿한 전율은 극대화됐다. ‘탑건’의 향수를 잊지 못한 관객들이 반가워할 만하다. 여기에 새롭게 ‘탑건’을 접한 관객들에게도 잊지 못할 추억을 선사한다. ‘탑건: 매버릭’(감독 조셉 코신스키)은 현역으로 남고 싶어 하며 아직]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fseouleconomy%2F20220622150444884zjyo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[D:영화 뷰] "히어로·빌런·구원자 모두 여성"..'마녀 2', 여성 액션물의 진화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2499,20 +2507,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fmydaily%2F20220621131947190sihx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[오영이] '탑건: 매버릭' 36년 만의 후속편, 다 이유가 있다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220622150439938</link>
-            <guid>https://movie.v.daum.net/v/20220622150439938</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 36년의 기다림이 아깝지 않은 귀환이다. 세월은 흘렀지만 뜨거운 열정은 그대로고, 짜릿한 전율은 극대화됐다. ‘탑건’의 향수를 잊지 못한 관객들이 반가워할 만하다. 여기에 새롭게 ‘탑건’을 접한 관객들에게도 잊지 못할 추억을 선사한다. ‘탑건: 매버릭’(감독 조셉 코신스키)은 현역으로 남고 싶어 하며 아직]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fseouleconomy%2F20220622150444884zjyo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[톰 크루즈, 환갑에 찍은 커리어 하이..반전 없이 감격 '탑건:매버릭'[개봉작 리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220622073009594</link>
             <guid>https://movie.v.daum.net/v/20220622073009594</guid>
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 환갑에 '커리어 하이'를 찍었다. 한 외국 영화 잡지에서 그를 '마지막 무비 스타'라고 불렀었는데, 진짜 '무비 스타'란 이런 것인가 보다. 36년 만에 전투기에 다시 오른 톰 크루즈 얘기다. 영화 '탑건'의 후속작 '탑건: 매버릭'이 6월 22일 개봉한다. 교관으로 컴백한 최고의 파일럿 '매버릭'(톰 크루즈)과 함께 생사를 넘나드]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fnewsen%2F20220622073010355ywfn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한국형 괴담 '오귀택' 다룬 '뒤틀린 집', 하우스 호러 계보 잇는다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220622145138409</link>
+            <guid>https://movie.v.daum.net/v/20220622145138409</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 새로운 한국형 괴담 '오귀택'으로 올 여름 공포 매니아들의 취향을 저격할 영화 '뒤틀린 집'(감독 강동헌)이 하우스 호러의 계보를 잇는다. '한국의 스티븐 킹'이자 공포 소설의 대가 전건우 작가의 동명 소설을 원작으로 한 영화 '뒤틀린 집'이 '컨저링', '변신', '유전'에 이어 새로운 하우스 호러의 매력을 보여줄 영화로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fxportsnews%2F20220622145141538vpmb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['리미트' 진서연 "'독전' 이후 새로운 연기 전환점" 자신 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2531,20 +2539,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fsportsdonga%2F20220622063034945strq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[방민아, 서울국제여성영화제 홍보대사 선정..개막식 MC도 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220622105218228</link>
+            <guid>https://movie.v.daum.net/v/20220622105218228</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 방민아가 제24회 서울국제여성영화제 홍보대사로 선정됐다. 22일 서울국제여성영화제(집행위원장 박광수)는 8우러25일 개막을 앞두고 제8대 홍보대사로 방민아를 선정했다고 알렸다. 방민아는 '홀리' '아빠를 빌려드립니다' '최고의 미래' '미녀 공심이' '좋은 말' '절대 그이' '이벤터를 확인하세요' '최선의 삶' 등 드라마와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fstarnews%2F20220622105219449aznn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[변요한, 왜군 장수 와키자카된다 ('한산') (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220622080653231</link>
             <guid>https://movie.v.daum.net/v/20220622080653231</guid>
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;배우 변요한이 영화 '한산: 용의 출현'(김한민 감독)에서 왜군 장수 와키자카로 새로운 변신을 예고한다. '한산: 용의 출현'은 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의 '한산해전'을 그린 전쟁 액션 대작. '보이스', '자산어보'&nbsp;등 출연하는 작품마다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fpoctan%2F20220622080655071zjwc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국형 괴담 '오귀택' 다룬 '뒤틀린 집', 하우스 호러 계보 잇는다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220622145138409</link>
-            <guid>https://movie.v.daum.net/v/20220622145138409</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 새로운 한국형 괴담 '오귀택'으로 올 여름 공포 매니아들의 취향을 저격할 영화 '뒤틀린 집'(감독 강동헌)이 하우스 호러의 계보를 잇는다. '한국의 스티븐 킹'이자 공포 소설의 대가 전건우 작가의 동명 소설을 원작으로 한 영화 '뒤틀린 집'이 '컨저링', '변신', '유전'에 이어 새로운 하우스 호러의 매력을 보여줄 영화로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fxportsnews%2F20220622145141538vpmb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[송강호, 베테랑 형사팀장 변신('비상선언') (다음영화 뉴스 ─ 인기)]]></title>
@@ -2555,44 +2563,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fpoctan%2F20220622080327020aaet.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['고스트랜드' 니콜라스 케이지, 6월 극장가 마지막 주자 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220621112405194</link>
-            <guid>https://movie.v.daum.net/v/20220621112405194</guid>
-            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[니콜라스 케이지가 6월 극장가 마지막 주자로 나선다. 영화 '고스트랜드'(감독 소노 시온)를 통해서다. 영화 ‘고스트랜드’가 6월 29일 개봉을 확정지었다. 영화는 사무라이 마을 총독의 지시로 손녀 버니스를 찾아 떠난 히어로가 시간이 멈춘 채 버려진 지옥의 도시 고스트랜드에 도착하고, 도시의 기이한 진실을 마주하며 생존을 위해 최후의 결투를 펼치는 액션]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fstartoday%2F20220621112408562taed.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['토르: 러브 앤 썬더', 토르→발키리 '팀 토르' 결성..강력 시너지 예고 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220622093636910</link>
-            <guid>https://movie.v.daum.net/v/20220622093636910</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 토르: 러브 앤 썬더 / 사진=월트디즈니컴퍼니 코리아'토르: 러브 앤 썬더'의 천둥의 신 '토르'가 마블 역사상 최고의 빌런, 신 도살자 '고르'와 맞서기 위해 강력한 히어로들과 '팀 토르'를 결성해 기대를 높인다. '토르: 러브 앤 썬더'는 천둥의 신 '토르'가 '킹 발키리', '코르그', 그리고 '마이티 토르'로 거듭난 전 여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fstarnews%2F20220622093637429mvff.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[방민아, 서울국제여성영화제 홍보대사 선정..개막식 MC도 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220622105218228</link>
-            <guid>https://movie.v.daum.net/v/20220622105218228</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 방민아가 제24회 서울국제여성영화제 홍보대사로 선정됐다. 22일 서울국제여성영화제(집행위원장 박광수)는 8우러25일 개막을 앞두고 제8대 홍보대사로 방민아를 선정했다고 알렸다. 방민아는 '홀리' '아빠를 빌려드립니다' '최고의 미래' '미녀 공심이' '좋은 말' '절대 그이' '이벤터를 확인하세요' '최선의 삶' 등 드라마와]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fstarnews%2F20220622105219449aznn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[신시아 "'카르멘' 보며 배우의 꿈.. 딱 맞더라고요" [쿠키인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220622063301815</link>
-            <guid>https://movie.v.daum.net/v/20220622063301815</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[처음 세상 밖으로 나온 소녀(신시아)는 숲속에서 경희(박은빈)에 의해 발견된다. 어디로 가야 할지, 무엇을 해야 할지, 자신이 누구인지 모르는 소녀에겐 경희와의 만남은 다음 행보가 정해지게 되는 모든 일의 시작이었다. 신시아 배우 신시아에겐 영화 ‘마녀(魔女) 파트2. 디 아더 원(Part2. The Other One)’이 경희 같은 존재다. 소녀가 경]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fkukinews%2F20220622063303175ouiy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[장편에는 없는 재기발랄함, 혼자 보기 아깝다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220622111501545</link>
             <guid>https://movie.v.daum.net/v/20220622111501545</guid>
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;우스운 게 딱! 좋아!&gt; 포스터 이미지    ⓒ 필름다빈  &nbsp; 1_독립영화 배급사 '필름다빈'의 네 번째 옴니버스 개봉 프로젝트 &nbsp; '단편영화'는 상대적으로 적은 비용과 자원이 들어가는 특성상 (상업자본에 대해) 가장 독립적인 작업이 이뤄질 수 있는 조건으로 인식된다. 상업영화를 지향하는 경우에는 단편영화를 실습]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fohmynews%2F20220622111502745zzjw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['고스트랜드' 니콜라스 케이지, 6월 극장가 마지막 주자 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220621112405194</link>
+            <guid>https://movie.v.daum.net/v/20220621112405194</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[니콜라스 케이지가 6월 극장가 마지막 주자로 나선다. 영화 '고스트랜드'(감독 소노 시온)를 통해서다. 영화 ‘고스트랜드’가 6월 29일 개봉을 확정지었다. 영화는 사무라이 마을 총독의 지시로 손녀 버니스를 찾아 떠난 히어로가 시간이 멈춘 채 버려진 지옥의 도시 고스트랜드에 도착하고, 도시의 기이한 진실을 마주하며 생존을 위해 최후의 결투를 펼치는 액션]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fstartoday%2F20220621112408562taed.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['룸 쉐어링' 나문희·최우성이 전하는 가족의 의미[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2603,12 +2587,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fstartoday%2F20220622110308312kcos.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC초점] "용호상박 夏대첩"..'외계+인' '한산' '비상선언' 헌트' 빅4 완성, 7년만에 여름 쌍천만 터질까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220622072000459</link>
-            <guid>https://movie.v.daum.net/v/20220622072000459</guid>
+            <title><![CDATA['토르: 러브 앤 썬더', 토르→발키리 '팀 토르' 결성..강력 시너지 예고 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220622093636910</link>
+            <guid>https://movie.v.daum.net/v/20220622093636910</guid>
             <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 팬데믹을 지나 부활에 성공한 극장가가 역대급 한국 블록버스터들의 개봉 러시로 가장 화려한 여름 성수기 스크린을 맞이하게 됐다. 필모그래피에 1000만 기록을 적어도 하나씩 탑재한 충무로 대표 흥행 감독들은 물론 최정상 명배우들과 '대세' 배우들의 출격, 그리고 월드 스타의 첫 연출 데뷔작까지. 관전 포인트만 수만 가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2FSpoChosun%2F20220622072000781xltp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 토르: 러브 앤 썬더 / 사진=월트디즈니컴퍼니 코리아'토르: 러브 앤 썬더'의 천둥의 신 '토르'가 마블 역사상 최고의 빌런, 신 도살자 '고르'와 맞서기 위해 강력한 히어로들과 '팀 토르'를 결성해 기대를 높인다. '토르: 러브 앤 썬더'는 천둥의 신 '토르'가 '킹 발키리', '코르그', 그리고 '마이티 토르'로 거듭난 전 여]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fstarnews%2F20220622093637429mvff.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[신예 김수겸, '아이를 위한 아이' 캐스팅..보호종료아동 현실 그린다[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220622115029460</link>
+            <guid>https://movie.v.daum.net/v/20220622115029460</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 신예 김수겸이 새 한국영화&nbsp;‘아이를 위한 아이’에 캐스팅됐다고 22일 소속사 골드메달리스트 측이 밝혔다. 오는&nbsp;7월 개봉을 확정한 영화&nbsp;‘아이를 위한 아이’(감독 이승환,&nbsp;제작 고집스튜디오)는 보육원 퇴소를 앞둔 도윤(현우석 분)&nbsp;앞에&nbsp;15년 만에 아버지가 나타나며 벌어지는 이야기. 독립영화&nbsp;‘거인’의 연출팀과&nbsp;‘좋은 사람’의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fpoctan%2F20220622115031042vonh.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[신시아 "'카르멘' 보며 배우의 꿈.. 딱 맞더라고요" [쿠키인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220622063301815</link>
+            <guid>https://movie.v.daum.net/v/20220622063301815</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[처음 세상 밖으로 나온 소녀(신시아)는 숲속에서 경희(박은빈)에 의해 발견된다. 어디로 가야 할지, 무엇을 해야 할지, 자신이 누구인지 모르는 소녀에겐 경희와의 만남은 다음 행보가 정해지게 되는 모든 일의 시작이었다. 신시아 배우 신시아에겐 영화 ‘마녀(魔女) 파트2. 디 아더 원(Part2. The Other One)’이 경희 같은 존재다. 소녀가 경]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fkukinews%2F20220622063303175ouiy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[송강호가 진심 사랑한다고 밝힌 이 남자 (다음 영화 ─ 매거진)]]></title>
@@ -2771,6 +2771,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Ffeelthemovie%2F20220620055836893o0wu.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[탑건 매버릭 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@3kT/5823</link>
+            <guid>https://brunch.co.kr/@@3kT/5823</guid>
+            <pubDate>Wed, 22 Jun 2022 09:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나는 누군가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3kT%2Fimage%2F85UrHZCXIigzLj2MyjoARF6cYjs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[외면의 화려함, 내면의 추악함. (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@bNwG/16</link>
             <guid>https://brunch.co.kr/@@bNwG/16</guid>
@@ -2921,14 +2929,6 @@
             <pubDate>Mon, 20 Jun 2022 05:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고요한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FHI6%2Fimage%2FifDJoA7pVaY0nSrAwr_23lruskw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '브로커'-고레에다 월드의 스포츠  장면들 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@dJAW/10</link>
-            <guid>https://brunch.co.kr/@@dJAW/10</guid>
-            <pubDate>Mon, 20 Jun 2022 07:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>한성윤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdJAW%2Fimage%2Fiy8i7Wim0K5aziRnyuVw0tABfjI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
