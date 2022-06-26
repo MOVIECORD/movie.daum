@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 09:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 13:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ff37621bc0fe2e389f886157145543d817eabdd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쥬라기 월드: 도미니언]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139235</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139235</guid>
-            <pubDate>Wed, 01 Jun 2022 02:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d3c3e6f0e2078681fb0f1a17240e901a8638bd3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[룸 쉐어링]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152991</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152991</guid>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 22 Jun 2022 23:22:57 GMT</pubDate>
             <content:encoded><![CDATA[22.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쥬라기 월드: 도미니언]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139235</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139235</guid>
+            <pubDate>Wed, 01 Jun 2022 02:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d3c3e6f0e2078681fb0f1a17240e901a8638bd3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 윌벤져스: 수상한 캠핑대소동]]></title>
@@ -102,14 +102,6 @@
             <pubDate>Wed, 01 Jun 2022 02:18:08 GMT</pubDate>
             <content:encoded><![CDATA[22.06.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아치의 노래, 정태춘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Sun, 26 Jun 2022 03:56:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 노비스]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 23 Jun 2022 09:22:43 GMT</pubDate>
             <content:encoded><![CDATA[22.06.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아치의 노래, 정태춘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
+            <pubDate>Sun, 26 Jun 2022 03:56:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[감동주의보]]></title>
