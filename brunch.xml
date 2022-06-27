@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 08:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 14:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Mon, 27 Jun 2022 08:41:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Munalogi]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7GHw%2Fimage%2F8CLiGvL4RsNPyKZgylHRhwHWVmE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[행복회로 최대치에 담겨 있는 비밀]]></title>
+            <link>https://brunch.co.kr/@@5fpi/363</link>
+            <guid>https://brunch.co.kr/@@5fpi/363</guid>
+            <pubDate>Mon, 27 Jun 2022 14:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FdoFfiKXwZdRSJ7uaNZWeNZqplyg.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[달님은 말이 없지만 꼭 더빙판으로 봐야 하는 영화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Jun 2022 07:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Roman]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F32u%2Fimage%2FH5Mac6YqvNbQi6VYuL3sd7qItSs.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[80년대가 우리에게 남긴 것]]></title>
-            <link>https://brunch.co.kr/@@bBQO/16</link>
-            <guid>https://brunch.co.kr/@@bBQO/16</guid>
-            <pubDate>Thu, 23 Jun 2022 09:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>섬소년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbBQO%2Fimage%2F4lNs_orvHlRrF0--6YZl6r59Bbw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
