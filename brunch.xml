@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 02:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 04:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 27 Jun 2022 02:11:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권씀]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3drv%2Fimage%2Fy_m6-lh28ArQ8OEwouHFwO1rCwM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[아버지 프랭크의 여행기]]></title>
+            <link>https://brunch.co.kr/@@7qUV/142</link>
+            <guid>https://brunch.co.kr/@@7qUV/142</guid>
+            <pubDate>Mon, 27 Jun 2022 04:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>허준혁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7qUV%2Fimage%2FkFyr9c0v7AeKGtDZsT1Biz_feM0.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[달님은 말이 없지만 꼭 더빙판으로 봐야 하는 영화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Jun 2022 06:28:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권씀]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3drv%2Fimage%2F1nKvBAcVBJ1ycU1f1eDKUXp8-5M.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 붕괴된 사랑이 도달한 전율의 클라이맥스]]></title>
-            <link>https://brunch.co.kr/@@49qz/417</link>
-            <guid>https://brunch.co.kr/@@49qz/417</guid>
-            <pubDate>Wed, 22 Jun 2022 06:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정지은 Jean]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F49qz%2Fimage%2F14iC-1pAhazmJNDaozmyEeY_U9c.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
