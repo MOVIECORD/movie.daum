@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 29 Jun 2022 06:29:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kyung film]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Uc8%2Fimage%2FuKBI0yFZr-PC3ndLw29RAaA7tz8.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[비극의 절벽에서 희극을 꿈꿨던 사내]]></title>
+            <link>https://brunch.co.kr/@@3drv/1202</link>
+            <guid>https://brunch.co.kr/@@3drv/1202</guid>
+            <pubDate>Wed, 29 Jun 2022 07:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권씀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3drv%2Fimage%2FRCC0qtEs-5ib8W5RZNUZQ8KfVWc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[두 번의 살인과 사랑을 담은 이 영화의 묘미]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Jun 2022 08:41:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Munalogi]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7GHw%2Fimage%2F8CLiGvL4RsNPyKZgylHRhwHWVmE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[행복회로 최대치에 담겨 있는 비밀]]></title>
-            <link>https://brunch.co.kr/@@5fpi/363</link>
-            <guid>https://brunch.co.kr/@@5fpi/363</guid>
-            <pubDate>Mon, 27 Jun 2022 14:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FdoFfiKXwZdRSJ7uaNZWeNZqplyg.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
