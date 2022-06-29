@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 11:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 12:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,6 +69,22 @@
             <pubDate>Tue, 28 Jun 2022 02:07:03 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9d6745d6ed49275e0054b03eb427a527c3df392" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로스트 도터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
+            <pubDate>Wed, 29 Jun 2022 12:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87e028dd21e93c52fb6e6935e8e6f5dff159c75a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[썸머 필름을 타고!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153079</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153079</guid>
+            <pubDate>Wed, 29 Jun 2022 12:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[언더 샤크]]></title>
@@ -148,22 +164,6 @@
             <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb6c8dbf0032fe1341366448305a50045e1d9010f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[큐브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155062</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155062</guid>
-            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa7bc6e8bc492880c008575024b27d1f5859c16cf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[멘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157861</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157861</guid>
-            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba8118e7023173edbd10637b09fa6cfbe5dd0ef4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
