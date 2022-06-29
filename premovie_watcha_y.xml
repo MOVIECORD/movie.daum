@@ -1,8 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-06-28T19:29:17.964Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 29 Jun 2022 04:07:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소권괴초 2 - 용등호약]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=10788</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=10788</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbd270351174edc667bdc363523400852b149ac8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[지리멸렬]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=39517</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=39517</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F136DB110B12BC097E3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[싱크 앤 라이즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42145</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42145</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프레임속의 기억들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139077</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139077</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[머니볼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=48250</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=48250</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1142834E4EA7FD161E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트 버스터즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3037</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3037</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10ABF633D69E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[S.W.A.T. 특수기동대]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=36694</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=36694</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A90A7E6382" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이 게임]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3404</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3404</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1140FB10AB9C888302" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다 큰 녀석들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=50896</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=50896</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F153BA4474E829E8B1E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어쌔신 크리드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=98390</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=98390</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F83f147a34293ce9399176336ac077e05422ba90d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[악마가 너의 죽음을 알기 전에]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=44502</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=44502</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8c710f4dc379f491a7628fccc56cc38643565d0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인터내셔널]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=44782</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=44782</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13469B10B273A90456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[시티 워: 익스트림 킬러]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96136</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96136</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5785305656f967db3548fde3c3a3284f174880be" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뻐꾸기도 밤에 우는가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1294</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1294</guid>
+            <pubDate>Wed, 29 Jun 2022 04:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c35600da9d6ba5a8791d33691e6446df3dd8c20" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
