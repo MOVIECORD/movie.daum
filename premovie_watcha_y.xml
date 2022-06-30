@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 02:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 04:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,20 @@
             <pubDate>Wed, 29 Jun 2022 05:31:09 GMT</pubDate>
             <content:encoded><![CDATA[22.07.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F49a674dee0a86288da29981680d8ed4599bf1caa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[남의 나라]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153124</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153124</guid>
+            <pubDate>Thu, 30 Jun 2022 04:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[버드나무숲 양림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154807</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154807</guid>
+            <pubDate>Thu, 30 Jun 2022 04:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
         </item>
     </channel>
 </rss>
