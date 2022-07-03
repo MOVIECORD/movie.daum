@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 04:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 05:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[버즈 라이트이어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155087</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
-            <pubDate>Wed, 15 Jun 2022 02:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ff37621bc0fe2e389f886157145543d817eabdd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[컴온 컴온]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153655</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153655</guid>
             <pubDate>Wed, 29 Jun 2022 23:22:12 GMT</pubDate>
             <content:encoded><![CDATA[22.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F752f858e8a0be174efa12f754d11b666bbc161be" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[버즈 라이트이어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155087</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
+            <pubDate>Wed, 15 Jun 2022 02:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ff37621bc0fe2e389f886157145543d817eabdd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[브로커]]></title>
