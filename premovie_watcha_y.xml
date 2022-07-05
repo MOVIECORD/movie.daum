@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-07-05T04:03:40.649Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Jul 2022 05:26:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카오스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=50289</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=50289</guid>
+            <pubDate>Tue, 05 Jul 2022 05:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F112A4A1C49B4C84C9B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[시간위의 집]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=105590</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=105590</guid>
+            <pubDate>Tue, 05 Jul 2022 05:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F380abcba4350f7d7bc3068d9b1b39250637b998b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[원초적 본능 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41169</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41169</guid>
+            <pubDate>Tue, 05 Jul 2022 05:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F720562410300aba6d3c192dfb974aaa6ce15edc0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 단백질]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=46442</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=46442</guid>
+            <pubDate>Tue, 05 Jul 2022 05:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2253033851FFC07C23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
