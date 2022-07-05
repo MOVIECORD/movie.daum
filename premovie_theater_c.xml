@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 02:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ed8590331220db01687469edbc5e36899ea4b6e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[명탐정 코난: 할로윈의 신부]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159461</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159461</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa6da7c2f245e8bf1c7b805df332e85ff14cc66" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[핸썸]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161152</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161152</guid>
@@ -96,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 할로윈의 신부]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159461</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159461</guid>
-            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa6da7c2f245e8bf1c7b805df332e85ff14cc66" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 킬러: 죽어도 되는 아이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151101</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151101</guid>
@@ -118,6 +118,14 @@
             <pubDate>Sun, 03 Jul 2022 12:36:59 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feeeedf4e2d09dd30e4011691eed5a6522abff218" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[베르히만 아일랜드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
+            <pubDate>Tue, 05 Jul 2022 02:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c1c02b2161da45d33325bae6d277416271116ed" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[불멸의 여신]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 04 Jul 2022 23:22:24 GMT</pubDate>
             <content:encoded><![CDATA[22.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feda0139a97168843e399417f0d1e51bb833e4145" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[메모리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159049</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159049</guid>
-            <pubDate>Mon, 04 Jul 2022 23:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47d6771646a89d670c801ff9194b17080ff983f9" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
