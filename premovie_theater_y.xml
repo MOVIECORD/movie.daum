@@ -4,9 +4,17 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 23:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 02:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토르: 러브 앤 썬더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133965</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133965</guid>
+            <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
+        </item>
         <item>
             <title><![CDATA[탑건: 매버릭]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
@@ -38,6 +46,22 @@
             <pubDate>Wed, 15 Jun 2022 02:07:56 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[큐어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=26505</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=26505</guid>
+            <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b76d2dcf9d429d6ca8fefa7a2fc1171a322ae8c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅샤크4: 바다공룡 대모험]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154786</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154786</guid>
+            <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45816878ad3f3e5068eaa5284e7fbfed7aa7034e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그대가 조국]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 29 Jun 2022 04:06:14 GMT</pubDate>
             <content:encoded><![CDATA[22.06.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9207366796fb2f2d2e01f88bb9b53addaaaf9a45" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
-            <pubDate>Wed, 22 Jun 2022 23:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[베르네 부인의 장미정원]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152814</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152814</guid>
-            <pubDate>Sun, 03 Jul 2022 03:55:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아치의 노래, 정태춘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
-            <pubDate>Tue, 05 Jul 2022 04:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
