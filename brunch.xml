@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 04:00:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 04:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 11 Jul 2022 04:00:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>글쓰는 백구]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2Fwh%2Fimage%2FdmI5u5I6GkBrfYRCc-1HbIFi8BY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<오비완 케노비> 시대착오적인 스타워즈의 현주소]]></title>
+            <link>https://brunch.co.kr/@@5XLU/496</link>
+            <guid>https://brunch.co.kr/@@5XLU/496</guid>
+            <pubDate>Mon, 11 Jul 2022 04:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FMZ2kY1WdsXHI6kjbFbhzIt1jnLA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[자신의 가치를 증명하기 위해]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Jun 2022 06:30:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권씀]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3drv%2Fimage%2F_6GD6td8Me7K7nywTnOrGo4KEac.WEBP" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<헤어질 결심> 나는 당신의 미결 사건이 되고 싶어요.]]></title>
-            <link>https://brunch.co.kr/@@aCat/135</link>
-            <guid>https://brunch.co.kr/@@aCat/135</guid>
-            <pubDate>Thu, 30 Jun 2022 06:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김봄]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaCat%2Fimage%2FBGUDyKVEXHgj20YiUOaOW8xqDA4" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
