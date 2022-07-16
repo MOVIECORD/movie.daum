@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 03:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마녀(魔女) Part2. The Other One]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146758</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146758</guid>
+            <pubDate>Wed, 15 Jun 2022 02:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159401</guid>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Jul 2022 23:23:27 GMT</pubDate>
             <content:encoded><![CDATA[22.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9df47d6efeed17537772c9e82ec194abfda86403" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마녀(魔女) Part2. The Other One]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146758</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146758</guid>
-            <pubDate>Wed, 15 Jun 2022 02:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빅샤크4: 바다공룡 대모험]]></title>
@@ -126,14 +126,6 @@
             <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
             <content:encoded><![CDATA[22.07.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b76d2dcf9d429d6ca8fefa7a2fc1171a322ae8c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
-            <pubDate>Fri, 15 Jul 2022 04:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애프터 양]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 15 Jul 2022 04:20:21 GMT</pubDate>
             <content:encoded><![CDATA[22.06.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[니얼굴]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145325</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145325</guid>
+            <pubDate>Sat, 16 Jul 2022 04:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
