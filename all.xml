@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 09:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 10:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,7 +188,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
             <pubDate>Thu, 02 Jun 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,171,193명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,171,192명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -870,6 +870,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159401</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159401</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe70fc8038248a156b2b73959449e5cd1bc8ebd01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[로스트 도터 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
@@ -900,14 +908,6 @@
             <pubDate>Thu, 07 Jul 2022 02:17:41 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159401</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159401</guid>
-            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe70fc8038248a156b2b73959449e5cd1bc8ebd01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[큐어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -982,20 +982,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc1546cf8ec48a60f7be74c973eb9e5f583f362a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이언 크로스: 노르망디 상륙작전 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161432</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161432</guid>
-            <pubDate>Tue, 12 Jul 2022 08:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8afdec4ee31b49eb793446f23027c17f9f7bf54" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[썸머 필름을 타고! (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153079</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153079</guid>
             <pubDate>Fri, 01 Jul 2022 08:29:56 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이언 크로스: 노르망디 상륙작전 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161432</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161432</guid>
+            <pubDate>Tue, 12 Jul 2022 08:30:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8afdec4ee31b49eb793446f23027c17f9f7bf54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2014,14 +2014,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F15%2Fkukinews%2F20220715060220298mrsn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[우리가 미처 몰랐던 '가축'의 일상 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220714192332571</link>
-            <guid>https://movie.v.daum.net/v/20220714192332571</guid>
-            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어미의 가쁜 숨 가운데 핏덩이들이 하나둘 세상 밖으로 나온다. 비틀거리는 새끼들은 제 젖을 잘도 찾아 삶을 강렬히 키워 낸다. 10여분간 오롯이 더 이어지는 젖 빠는 새끼돼지들 모습은 몸부림에 가깝다. 별다른 설명 없이도 경외감마저 들게 하는 광경이다. 다큐멘터리 영화 ‘군다’(사진)는 돼지, 소, 닭의 일상을 통해 ‘살아 내는 것’에 대한 의미를 비춘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F14%2Fsegye%2F20220714192333046osgh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[예매관객 52%가 2030세대, 팬덤 '탑친자'를 아시나요? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220715063024296</link>
             <guid>https://movie.v.daum.net/v/20220715063024296</guid>
@@ -2094,20 +2086,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fstarnews%2F20220716100003168kkpr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[장혁·엘비스 제친 '명탐정 코난'..인기 애니 출격 채비 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220716102201695</link>
-            <guid>https://movie.v.daum.net/v/20220716102201695</guid>
-            <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = 명탐정 코난이 '액션 장인' 장혁과 '로큰롤 황제' 엘비스 프레슬리를 제쳤다. 애니메이션 '명탐정 코난: 할로윈의 신부'가 이번 주 개봉한 영화 10여 편 가운데 관객수 1위를 차지하면서다. 여름방학을 앞두고 명탐정 코난을 비롯한 애니메이션들이 관객 맞을 채비를 마쳤다. '너의 이름은.'으로 일본 애니메이션의 역사를 새로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fyonhap%2F20220716102201454odzx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[절대적 사랑과 희생, 그게 모성의 전부는 아니야 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220716140507504</link>
             <guid>https://movie.v.daum.net/v/20220716140507504</guid>
             <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 배우 매기 질런홀의 감독 데뷔작 &lt;로스트 도터&gt;(The Lost Daughter)는 엘레나 페란테의 소설 &lt;잃어버린 사랑&gt;을 원작으로 한다. 페란테의 소설은 ‘위대한 모성’이라는 신화에 도전하고, 그에 가려져 있었던 여성의 내면을 드러낸 수작으로 평가받는다. 가부장제 사회는 오랜 세월 모]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fhani%2F20220716155503414zohd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[장혁·엘비스 제친 '명탐정 코난'..인기 애니 출격 채비 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220716102201695</link>
+            <guid>https://movie.v.daum.net/v/20220716102201695</guid>
+            <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = 명탐정 코난이 '액션 장인' 장혁과 '로큰롤 황제' 엘비스 프레슬리를 제쳤다. 애니메이션 '명탐정 코난: 할로윈의 신부'가 이번 주 개봉한 영화 10여 편 가운데 관객수 1위를 차지하면서다. 여름방학을 앞두고 명탐정 코난을 비롯한 애니메이션들이 관객 맞을 채비를 마쳤다. '너의 이름은.'으로 일본 애니메이션의 역사를 새로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fyonhap%2F20220716102201454odzx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN인터뷰] 7년 만에 돌아온 최동훈 감독 "내 영화 유치하다고? 의미있는 시도" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2140,6 +2132,14 @@
             <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = "'이걸 내가 썼다니?' 싶었어요. 느낌표가 아니라 물음표였죠." 영화 '헤어질 결심'의 정서경 작가는 완성된 작품을 처음 봤을 때 느낌을 이렇게 회상했다. 그는 박찬욱 감독과 떼려야 뗄 수 없는 창작 파트너다. 20년간 함께해 온 두 사람은 '친절한 금자씨'(2005), '싸이보그지만 괜찮아'(2006) '박쥐'(2009]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Fyonhap%2F20220716060042869hyqb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[500만 넘긴 '탑건: 매버릭', '토르' 티켓파워 변수 [박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220716121123721</link>
+            <guid>https://movie.v.daum.net/v/20220716121123721</guid>
+            <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 이기은 기자] 영화 '탑건: 매버릭'이 압도적인 스케일과 보편적인 대중성으로 관객수 500만을 돌파하며, 흥행세를 이어갈 전망이다. 16일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '탑건: 매버릭'(감독 조셉 코신스키)은 지난 14일 전국 1478개 스크린에서 13만9686명의 관객을 동원하며 극장가 박스오피스 1위를 유지하고 있]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F16%2Ftvdaily%2F20220716121124564emgs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[한국 VS 서양 공포 영화, 누가 더 무서울까? (다음 영화 ─ 매거진)]]></title>
