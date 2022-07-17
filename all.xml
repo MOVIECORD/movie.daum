@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 22:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 23:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[토르: 러브 앤 썬더 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133965</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133965</guid>
-            <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,764,661명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[탑건: 매버릭 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 02 Jun 2022 04:07:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,653,548명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[토르: 러브 앤 썬더 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133965</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133965</guid>
+            <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,764,661명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[헤어질 결심 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
@@ -32,12 +32,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[명탐정 코난: 할로윈의 신부 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159461</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159461</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,235명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa6da7c2f245e8bf1c7b805df332e85ff14cc66" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[범죄도시 2 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="screen_out">관객수</span>12,588,770명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘비스 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>840명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 킬러: 죽어도 되는 아이 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151101</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151101</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>414명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18fa8794d93a92f9825914e507efa09b186d90d0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[마녀(魔女) Part2. The Other One (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
@@ -48,12 +72,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뒤틀린 집 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154094</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154094</guid>
+            <pubDate>Fri, 24 Jun 2022 20:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>243명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[빅샤크4: 바다공룡 대모험 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154786</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154786</guid>
             <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="screen_out">관객수</span>42,122명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45816878ad3f3e5068eaa5284e7fbfed7aa7034e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그레이 맨 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143179</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143179</guid>
+            <pubDate>Tue, 12 Jul 2022 08:30:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>0명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52af21829df3edeaa0e45335b646795bf3d14ddb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[큐어 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
@@ -64,20 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b76d2dcf9d429d6ca8fefa7a2fc1171a322ae8c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[브로커 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,254,451명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[버즈 라이트이어 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155087</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
-            <pubDate>Wed, 15 Jun 2022 02:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>338,836명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ff37621bc0fe2e389f886157145543d817eabdd" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[멘 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157861</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157861</guid>
+            <pubDate>Thu, 07 Jul 2022 02:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>142명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[BIFAN2022 부천 초이스: 단편 1 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
@@ -87,7 +119,7 @@
             <content:encoded><![CDATA[<div class="item_poster">
                             <div class="thumb_item">
                                 <div class="poster_movie">
-                                    <span class="rank_num">10</span>
+                                    <span class="rank_num">14</span>
                                 </div>
                                 <div class="poster_info">
                                     <a href="/moviedb/main?movieId=" class="link_story">
@@ -104,67 +136,19 @@
                         </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그대가 조국 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159431</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159431</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>332,141명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[BIFAN2022 부천 초이스: 단편 2 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=</guid>
-            <pubDate>Tue, 24 May 2022 02:52:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="item_poster">
-                            <div class="thumb_item">
-                                <div class="poster_movie">
-                                    <span class="rank_num">12</span>
-                                </div>
-                                <div class="poster_info">
-                                    <a href="/moviedb/main?movieId=" class="link_story">
-                                        
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="thumb_cont">
-                                <strong class="tit_item"><a href="/moviedb/main?movieId=" class="link_txt">BIFAN2022 부천 초이스: 단편 2</a></strong>
-                                <span class="txt_info">
-                                        <span class="info_txt"><span class="screen_out">관객수</span>0명</span>
-                                </span>
-                            </div>
-                        </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컴온 컴온 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153655</guid>
-            <pubDate>Fri, 17 Jun 2022 02:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,743명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F752f858e8a0be174efa12f754d11b666bbc161be" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프리! 더 파이널 스트로크 후편 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159684</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159684</guid>
-            <pubDate>Wed, 22 Jun 2022 23:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,385명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[쥬라기 월드: 도미니언 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139235</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139235</guid>
-            <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,836,001명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d3c3e6f0e2078681fb0f1a17240e901a8638bd3" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159401</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159401</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,259명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe70fc8038248a156b2b73959449e5cd1bc8ebd01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시 2 (다음 영화 ─ 박스오피스 ─ 월간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>12,645,389명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>12,659,065명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -172,7 +156,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=139235</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139235</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,836,509명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,836,544명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d3c3e6f0e2078681fb0f1a17240e901a8638bd3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -180,7 +164,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=146758</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146758</guid>
             <pubDate>Tue, 31 May 2022 09:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,795,956명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,799,719명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -188,7 +172,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
             <pubDate>Thu, 02 Jun 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,466,579명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,733,848명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -196,7 +180,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,257,911명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,258,079명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -204,7 +188,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=47111</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=47111</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>580,446명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>580,949명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4b45df35e14a69d7a96579b4c612d2ba25ecd54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -212,7 +196,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=155087</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155087</guid>
             <pubDate>Wed, 15 Jun 2022 02:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>343,511명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>343,653명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ff37621bc0fe2e389f886157145543d817eabdd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -220,7 +204,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=159431</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159431</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>332,747명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>332,749명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F700d72335b53bba6e5656ac406c625b58a2b87c9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -228,7 +212,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=144854</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144854</guid>
             <pubDate>Tue, 14 Jun 2022 04:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,170,150명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,247,197명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -236,7 +220,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=127221</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127221</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,884,555명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,884,563명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -244,7 +228,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=151102</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151102</guid>
             <pubDate>Tue, 24 May 2022 02:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>37,938명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>38,065명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -260,7 +244,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=160414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160414</guid>
             <pubDate>Thu, 09 Jun 2022 01:55:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>29,246명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>29,357명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7267cd7cccb1af1d5fe306be5c0c63925282b19d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -292,7 +276,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=154171</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154171</guid>
             <pubDate>Thu, 30 Jun 2022 15:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,332명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,333명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -316,7 +300,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=145325</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145325</guid>
             <pubDate>Fri, 03 Jun 2022 03:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>11,997명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>12,169명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -324,7 +308,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
             <pubDate>Tue, 14 Jun 2022 23:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,665명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,849명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -332,7 +316,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=152509</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152509</guid>
             <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>32,167명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>32,219명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -348,7 +332,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=152814</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152814</guid>
             <pubDate>Thu, 30 Jun 2022 04:00:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,605명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,619명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -364,7 +348,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=159312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159312</guid>
             <pubDate>Thu, 30 Jun 2022 15:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,911명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,925명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faab470210934341d20f7a65f397ef495a50afc3e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -838,20 +822,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
-            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뒤틀린 집 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154094</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154094</guid>
             <pubDate>Fri, 24 Jun 2022 20:23:22 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
+            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 킬러: 죽어도 되는 아이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1006,14 +990,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358e7c2af22c7e5c93e91253a9be82e553b2305c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
-            <pubDate>Tue, 05 Jul 2022 04:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보일링 포인트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153341</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153341</guid>
@@ -1062,6 +1038,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec0746d8e1213e5ea232952fa98b4bfbe8fd8d1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[배드 럭 뱅잉 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
+            <pubDate>Tue, 05 Jul 2022 04:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[데이 투 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158379</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158379</guid>
@@ -1086,14 +1070,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F800b63d24afa9b3e4414419686f82006ae18d91f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오션 라이크 미 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159355</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159355</guid>
-            <pubDate>Sat, 16 Jul 2022 02:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde041e11d2825bcd3722baf0e287d739dc8490b6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그림자라 불리는 남자들 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162115</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162115</guid>
@@ -1116,6 +1092,13 @@
             <pubDate>Sun, 17 Jul 2022 05:22:56 GMT</pubDate>
             <content:encoded><![CDATA[22.07.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2834ad844cab83fc78baf2981d122950de0f610" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비욘드 라이브 더 무비 : 엑소의 사다리 타고 세계여행3 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162118</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162118</guid>
+            <pubDate>Sun, 17 Jul 2022 23:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.27]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[혐오스런 마츠코의 일생 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1828,6 +1811,78 @@
             <pubDate>Wed, 13 Jul 2022 04:47:37 GMT</pubDate>
             <content:encoded><![CDATA[22.07.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb566a71facbd2f70ac9ef83bba44d9f51bec248b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA['한산:용의 출현' 여행 프로모션까지..올여름 이순신과 함께 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718081835023</link>
+            <guid>https://v.daum.net/v/20220718081835023</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '한산: 용의 출현'이 개봉을 앞두고 이순신의 고장 통영에서 이색적인 여행 프로모션을 진행한다. 7월 27일 개봉하는 영화 '한산: 용의 출현'(감독 김한민)은 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의 ‘한산해전’을 그린 전쟁 액션 대작. '한산: 용의 출]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2Fnewsen%2F20220718081835105rwlm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['한산' 변요한, 무제한 체중 증량→日고어 도전..역대급 안타고니스트로 파격 변신 예고 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718081323893</link>
+            <guid>https://v.daum.net/v/20220718081323893</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 변요한이 전쟁 액션 영화 '한산: 용의 출현'(이하 '한산', 김한민 감독, 빅스톤픽쳐스 제작)으로 또 한 번 연기 정점을 찍는다. 어떤 캐릭터든 자신만의 색으로 소화해내며 대체 불가 배우로 자리매김한 변요한의 연기 변신에는 끝이 없다. 영화 '자산어보'를 통해 바다를 벗어나 출셋길에 오르고 싶은 청년 어부 창]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2FSpoChosun%2F20220718081323356yucw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[변요한, '자산어보'부터 '한산: 용의 출현'까지..무한 연기 변신 눈길 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718080940819</link>
+            <guid>https://v.daum.net/v/20220718080940819</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 변요한이 ‘한산: 용의 출현’으로 또 한 번 새 얼굴을 보여준다. 어떤 캐릭터든 자신만의 색으로 소화해내며 대체 불가 배우로 자리매김한 변요한의 연기 변신에는 끝이 없다. 영화 ‘자산어보’를 통해 바다를 벗어나 출셋길에 오르고 싶은 청년 어부 ‘창대’로 분했던 그는 한 층 깊어진 연기력으로 보는 이들의 마음에 진한 울]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2Fmydaily%2F20220718080940507fhya.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['탑건: 매버릭' 6일 연속 1위..600만 고지 눈앞 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718080115628</link>
+            <guid>https://v.daum.net/v/20220718080115628</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김지현 기자] 영화 '탑건: 매버릭'이 6일 연속 박스오피스 1위를 수성하며 600만 고지를 눈 앞에 뒀다. 18일 영화진흥위원회 영화관입장권통합전산망에 따르면 '탑건: 매버릭'은 지난 17일 하루 동안 26만 7,263명의 관객을 동원했다. 누적관객수는 573만3842명이다. 지난 6일 개봉된 마블 '토르:러브 앤 썬더'는 이날 하루 동안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2Ftvdaily%2F20220718080116540swdw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[스한:BOX] 톰 크루즈 '탑건: 매버릭' 600만 돌파 향해 속도 낸다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718075759562</link>
+            <guid>https://v.daum.net/v/20220718075759562</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '탑건: 매버릭'이 600만 돌파를 앞뒀다. 18일 영진위 통합전산망 집계에 따르면 '탑건: 매버릭'은 지난 주말 3일동안(7월15일~7월17일)&nbsp;70만2343명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;573만3848명이다. 지난달 22일 개봉 이후 줄곧 박스오피스 정상을 지켰던 '탑건: 매버릭'은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2FSpoHankook%2F20220718075801769gteo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['비상선언' 송강호→임시완, 전대미문 항공재난 완성한 7인의 탄생기 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718075755560</link>
+            <guid>https://v.daum.net/v/20220718075755560</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 항공 재난 영화 '비상선언'(한재림 감독, MAGNUM 9 제작)의 배우들이 직접 자신의 캐릭터 탄생기를 전하는 '재난에 맞서는 7인의 탄생기' 영상을 공개했다. 올여름 유일한 항공재난 영화로 기대를 모으는 '비상선언'이 배우들이 직접 캐릭터 구축 과정에 대해 소개하는 '재난에 맞서는 7인의 탄생기' 영상을 공개했]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2FSpoChosun%2F20220718075755579swsl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['외계+인', 예매율 1위..흥행 초읽기 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718075225484</link>
+            <guid>https://v.daum.net/v/20220718075225484</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='외계+인' 최동훈 감독의 신작 영화  '외계+인' 1부가 개봉 사흘 전 예매율 1위에 올랐다. '외계+인'은 개봉 3일 전인 지난 17일 실시간 예매율 1위에 올랐으며 계속해서 예매율 1위를 지키고 있다. 이는 천만 영화이자 최동훈 감독의 전작인 '암살'을 넘어선 폭발적 예매 열기를 보여준다. '외계+인' 1부는 고려]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2Fstarnews%2F20220718075226317piqb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['탑건: 매버릭' 6일 연속 1위..600만 돌파도 눈앞 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718073015226</link>
+            <guid>https://v.daum.net/v/20220718073015226</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '탑건: 매버릭'이 6일 연속 박스오피스 정상 자리를 지키면서 600만 관객 돌파를 눈앞에 두고 있다. 18일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '탑건: 매버릭'은 지난 17일 하루 동안 26만7263명의 관객을 동원하면서, 박스오피스 1위에 올랐다. 누적관객수는 573만3842명이다. 지난달 2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2FNEWS1%2F20220718073015818xfnl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['탑건 : 매버릭', 탑친자들 달렸다..600만 돌파 눈앞 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220718072905192</link>
+            <guid>https://v.daum.net/v/20220718072905192</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='탑건 : 매버릭'영화 '탑건 : 매버릭'이 역주행 1위를 계속해서 달리며 누적관객수 600만 돌파를 눈 앞에 뒀다. 18일 영진위 영화관입장권 통합 전산망에 따르면 '탑건 : 매버릭'은  지난 17일 26만 7263명의 관객을 모았다. 누적관객수는 573만 3842명으로 이번 주 내 600만 관객을 돌파할 것으로 보인다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2Fstarnews%2F20220718072907166gejc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['외계+인' = 0 [마데핫리뷰] (다음영화 뉴스 ─ 최신)]]></title>
