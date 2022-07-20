@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 02:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 04:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 18 Jul 2022 05:36:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>달팽이구름]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1qTm%2Fimage%2FS_NBZGuGgxTamGUMpF8LEi2bhvg.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[심장과 마음 사이의 사랑]]></title>
+            <link>https://brunch.co.kr/@@aLzf/19</link>
+            <guid>https://brunch.co.kr/@@aLzf/19</guid>
+            <pubDate>Wed, 20 Jul 2022 04:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>시니]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaLzf%2Fimage%2F3RJ1m6GfN3DvHAwR72XAaD9xBAE" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[붕괴되지 않고자 했던 미결의 사랑]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Jul 2022 05:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>발걸음]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5FNi%2Fimage%2F_CvyIJXZjM8izwB-2k_Zn4ZNQdA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[두 눈으로 분노를 마주하다, 영화 [분노]]]></title>
-            <link>https://brunch.co.kr/@@1ErJ/7</link>
-            <guid>https://brunch.co.kr/@@1ErJ/7</guid>
-            <pubDate>Fri, 15 Jul 2022 05:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>지윤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ErJ%2Fimage%2FT_-NvQDFH1b8Kjs3vHiSKN-10aI.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
