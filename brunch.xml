@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 09:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 10:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 20 Jul 2022 08:34:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권씀]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3drv%2Fimage%2F2zcjw5qZ0Hy3t-hXlkP4lBXFt6I.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[토르 재밌던데요?]]></title>
+            <link>https://brunch.co.kr/@@1Bgj/273</link>
+            <guid>https://brunch.co.kr/@@1Bgj/273</guid>
+            <pubDate>Wed, 20 Jul 2022 10:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>차돌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Bgj%2Fimage%2F9T2aZ7silNlNvTzuzmX5s-a5ec4.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[혼란과 꿈의 도시]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Jul 2022 02:28:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>manduwinetasting]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9DYE%2Fimage%2FWyNyJYBk0I7xcnBpmO5zLwpObUo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[허트 로커(The Hurt Locker, 2009)]]></title>
-            <link>https://brunch.co.kr/@@alT/176</link>
-            <guid>https://brunch.co.kr/@@alT/176</guid>
-            <pubDate>Fri, 15 Jul 2022 02:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>남보람]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FalT%2Fimage%2F_WLZdZZOYDydzGrPzKgbGkPTwo0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
