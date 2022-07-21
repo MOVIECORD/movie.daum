@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9df47d6efeed17537772c9e82ec194abfda86403" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 킬러: 죽어도 되는 아이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151101</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151101</guid>
+            <pubDate>Thu, 21 Jul 2022 04:55:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18fa8794d93a92f9825914e507efa09b186d90d0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159401</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Jul 2022 04:01:12 GMT</pubDate>
             <content:encoded><![CDATA[22.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F752f858e8a0be174efa12f754d11b666bbc161be" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 킬러: 죽어도 되는 아이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151101</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151101</guid>
-            <pubDate>Thu, 21 Jul 2022 04:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18fa8794d93a92f9825914e507efa09b186d90d0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
