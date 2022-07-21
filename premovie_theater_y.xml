@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[외계+인 1부]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139606</guid>
-            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[미니언즈2]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[외계+인 1부]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139606</guid>
+            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭]]></title>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이를 위한 아이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
-            <pubDate>Thu, 21 Jul 2022 02:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그레이 맨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143179</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143179</guid>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 12 Jul 2022 23:22:44 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이를 위한 아이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
+            <pubDate>Thu, 21 Jul 2022 02:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시2]]></title>
