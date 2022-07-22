@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 23:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 02:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Thu, 07 Jul 2022 06:29:48 GMT</pubDate>
             <content:encoded><![CDATA[22.07.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F017E8E475185582F35" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[반 헬싱]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=39077</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=39077</guid>
+            <pubDate>Fri, 22 Jul 2022 02:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F156F1B10ABB15BC548" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
