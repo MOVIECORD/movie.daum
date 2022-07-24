@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 04:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 05:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[핸썸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161152</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161152</guid>
+            <pubDate>Sun, 24 Jul 2022 05:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F150c5eaa1da2d1bd5e20ceaa9e5ffa0ac825ab05" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[메모리]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159049</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159049</guid>
             <pubDate>Sat, 16 Jul 2022 03:52:12 GMT</pubDate>
             <content:encoded><![CDATA[22.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8065808a5284f37dcb0821b2566376f52df5bc91" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[브로커]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144096</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144096</guid>
-            <pubDate>Sun, 24 Jul 2022 03:58:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e58d88507f1668b65f853e2b8d5ec311f84285" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
