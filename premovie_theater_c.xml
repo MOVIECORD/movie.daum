@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 09:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 10:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,14 @@
             <pubDate>Wed, 13 Jul 2022 02:08:39 GMT</pubDate>
             <content:encoded><![CDATA[22.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec0746d8e1213e5ea232952fa98b4bfbe8fd8d1a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[멋진 세계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144175</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144175</guid>
+            <pubDate>Mon, 25 Jul 2022 10:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97296033750286cabbf31f49105fb5405ff145bd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[초록밤]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 20 Jul 2022 23:24:23 GMT</pubDate>
             <content:encoded><![CDATA[22.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F453152fc3503f3a5d706a0c78b88c8b0dbe01db6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[베르히만 아일랜드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
-            <pubDate>Wed, 20 Jul 2022 23:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
