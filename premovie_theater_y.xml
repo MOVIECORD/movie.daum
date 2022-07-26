@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 11:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 12:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[외계+인 1부]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139606</guid>
-            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[미니언즈2]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[외계+인 1부]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139606</guid>
+            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[토르: 러브 앤 썬더]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133965</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133965</guid>
-            <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[더 킬러: 죽어도 되는 아이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151101</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151101</guid>
+            <pubDate>Thu, 21 Jul 2022 04:55:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18fa8794d93a92f9825914e507efa09b186d90d0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프리! 더 파이널 스트로크 후편]]></title>
@@ -70,6 +70,14 @@
             <pubDate>Mon, 25 Jul 2022 10:27:14 GMT</pubDate>
             <content:encoded><![CDATA[22.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[토르: 러브 앤 썬더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133965</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133965</guid>
+            <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘비스]]></title>
@@ -88,22 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1404bb12eaa304032dee2b7f0f6e6e1452981837" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[범죄도시2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
-            <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 킬러: 죽어도 되는 아이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151101</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151101</guid>
-            <pubDate>Thu, 21 Jul 2022 04:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18fa8794d93a92f9825914e507efa09b186d90d0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[로스트 도터]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
@@ -118,14 +110,6 @@
             <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
             <content:encoded><![CDATA[22.07.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b76d2dcf9d429d6ca8fefa7a2fc1171a322ae8c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아이를 위한 아이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
-            <pubDate>Thu, 21 Jul 2022 02:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대]]></title>
@@ -144,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[범죄도시2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
+            <pubDate>Tue, 24 May 2022 02:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[그레이 맨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143179</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143179</guid>
@@ -158,6 +150,14 @@
             <pubDate>Tue, 26 Jul 2022 04:27:48 GMT</pubDate>
             <content:encoded><![CDATA[22.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8065808a5284f37dcb0821b2566376f52df5bc91" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이를 위한 아이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
+            <pubDate>Thu, 21 Jul 2022 02:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뒤틀린 집]]></title>
