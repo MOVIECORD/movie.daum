@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 02:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 26 Jul 2022 02:26:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정지은 Jean]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F49qz%2Fimage%2Fd9AzocgP22HgChaxpSUHrmZVyIQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘헤어질 결심’을 위한 단일한 감상법]]></title>
+            <link>https://brunch.co.kr/@@L9y/4</link>
+            <guid>https://brunch.co.kr/@@L9y/4</guid>
+            <pubDate>Tue, 26 Jul 2022 04:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김선생]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FL9y%2Fimage%2FE3VDl35r01E-lkJcFG6XgpmkxEQ.PNG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[여름 시장 '빅4' 중 뭘 볼까]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Jul 2022 04:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>재완]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4JXY%2Fimage%2F-6BkVWvvZUgCl6b68_5xleogmmI.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<피그>, 상실에 관한 어른스러운 우화]]></title>
-            <link>https://brunch.co.kr/@@2hVf/57</link>
-            <guid>https://brunch.co.kr/@@2hVf/57</guid>
-            <pubDate>Fri, 22 Jul 2022 04:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>기성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2hVf%2Fimage%2F4yJbwIeIBakzWNjpr_lu5YphUu8.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
