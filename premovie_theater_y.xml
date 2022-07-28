@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 20:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 21:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,14 +111,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프리! 더 파이널 스트로크 후편]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159684</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159684</guid>
-            <pubDate>Thu, 28 Jul 2022 12:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[임파서블 러브]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127279</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127279</guid>
@@ -165,6 +157,14 @@
             <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
             <content:encoded><![CDATA[22.07.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b76d2dcf9d429d6ca8fefa7a2fc1171a322ae8c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이를 위한 아이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160090</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160090</guid>
+            <pubDate>Thu, 28 Jul 2022 21:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ee37435d60123651b63067205f6437729b1e403" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
