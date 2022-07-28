@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -829,14 +829,6 @@
             <content:encoded><![CDATA[22.07.27]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
-            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[썸머 필름을 타고! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153079</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153079</guid>
@@ -851,6 +843,14 @@
             <pubDate>Wed, 06 Jul 2022 02:22:01 GMT</pubDate>
             <content:encoded><![CDATA[22.07.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[로스트 도터 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -875,14 +875,6 @@
             <pubDate>Tue, 31 May 2022 09:23:43 GMT</pubDate>
             <content:encoded><![CDATA[22.06.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프리! 더 파이널 스트로크 후편 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159684</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159684</guid>
-            <pubDate>Mon, 25 Jul 2022 10:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[임파서블 러브 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -923,6 +915,14 @@
             <pubDate>Tue, 12 Jul 2022 08:30:39 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52af21829df3edeaa0e45335b646795bf3d14ddb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
+            <pubDate>Tue, 24 May 2022 02:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비상선언 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -987,6 +987,14 @@
             <pubDate>Wed, 27 Jul 2022 10:27:43 GMT</pubDate>
             <content:encoded><![CDATA[22.08.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9713e80a8c1cb269ab03337fd8cb3d247402160" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑할 땐 누구나 최악이 된다 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152038</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152038</guid>
+            <pubDate>Thu, 28 Jul 2022 10:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fde77f51242682717d98e31a034b00c5c44db14" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔젤 하트 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1075,14 +1083,6 @@
             <pubDate>Thu, 28 Jul 2022 02:07:47 GMT</pubDate>
             <content:encoded><![CDATA[22.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff84ef6b058300c2818fa4519f057ad3748101229" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[세기의 은행털이: 도둑들의 고백 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162270</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162270</guid>
-            <pubDate>Thu, 28 Jul 2022 02:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54451b107f7effd370dcf849fbe282dc31e2f640" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[컷 스로트 시티 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2123,6 +2123,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1210ED0B4B13383B6C" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["난 네가"..'헌트' 이정재x정우성, 하나의 목표 위해 손잡다(종합)[Oh!쎈 리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220728185244600</link>
+            <guid>https://v.daum.net/v/20220728185244600</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;5·18 민주화 운동을 부당한 공권력으로 진압해 대통령이 된 전두환을 향해 국민은 물론, 해외에 사는 교포들까지 한마음으로 퇴진 운동을 벌인다. 국내외 곳곳에서 멈추지 않는 집회와 시위의 열기로 인해 한껏 예민해진 안기부 국내팀과 해외팀은 파트를 가리지 않고 ‘각하’ 지키기에 여념이 없다.(※이 기사에 스포일러가 있습니다.) 사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fpoctan%2F20220728185245641krff.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['헌트' 정우성 "이정재 감독 지쳐 말라 가는 모습 측은했다" (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220728175830847</link>
             <guid>https://v.daum.net/v/20220728175830847</guid>
@@ -2275,14 +2283,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Ftvdaily%2F20220728151208421rljf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['외계+인' 시공간 뛰어넘는 액션 명장면 베스트 3 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220728145942645</link>
-            <guid>https://v.daum.net/v/20220728145942645</guid>
-            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;새롭고 놀라운 세계관과 볼거리, 배우들의 압도적인 연기 시너지로 뜨거운 호평을 불러일으키고 있는 영화 '외계+인' 1부가 관객들의 폭발적 반응을 이끌어내고 있는 액션 명장면 3를 공개했다. #Scene 1: 무륵-우왕-좌왕의 환상적인 콤비네이션..현상금&nbsp;사이에 둔 무륵과 무당 도사들의 도술 액션 한판 승부 '외계+인'(감독 최동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fpoctan%2F20220728145943852ygpb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[영화 '탑건: 매버릭' ..CG 이긴 아날로그  속도감 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220728154546805</link>
             <guid>https://movie.v.daum.net/v/20220728154546805</guid>
@@ -2339,20 +2339,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2FEdaily%2F20220728063006266lnnj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[D:영화 뷰] '두 마리 토끼 잡기 위한' 한국 영화의 선택적 한글 자막 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220728080928064</link>
-            <guid>https://movie.v.daum.net/v/20220728080928064</guid>
-            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[안방극장에서는 다국어 자막이 지원되는 글로벌 OTT를 통해 한국 작품을 볼 때 한글 자막을 켜고 보는 일이 더 이상 낯선 일이 아니다. 자막을 선호하는 사람들은 배우들의 대사 전달과 상황을 더욱 쉽게 이해할 수 있는 역할을 한다는 점을 높이 산다. 그런 가운데 스크린에서도 완성도를 위해 일부 장면에 자막을 삽입하는 한국 영화가 등장하기 시작했다. 류승완 감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fdailian%2F20220728080931455cihr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['DC 슈퍼펫' 저스티스 리그 군단 캐릭터 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220728094744310</link>
             <guid>https://movie.v.daum.net/v/20220728094744310</guid>
             <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[저스티스 군단이 총출동한 DC 확장 유니버스의 새로운 애니메이션 'DC 리그 오브 슈퍼-펫'(이하 'DC 슈퍼펫')이 초특급 특별출연진의 캐릭터 포스터를 공개해 화제를 모은다. 'DC 슈퍼펫'은 악당 렉스 루터와 기니피그 룰루의 계략으로 위험에 빠진 슈퍼맨을 비롯한 저스티스 리그의 슈퍼 히어로들을 구하기 위해 슈퍼독 크립토와 슈퍼 펫 친구들이 벌이는 파워]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2FiMBC%2F20220728094745323akdl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[D:영화 뷰] '두 마리 토끼 잡기 위한' 한국 영화의 선택적 한글 자막 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220728080928064</link>
+            <guid>https://movie.v.daum.net/v/20220728080928064</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[안방극장에서는 다국어 자막이 지원되는 글로벌 OTT를 통해 한국 작품을 볼 때 한글 자막을 켜고 보는 일이 더 이상 낯선 일이 아니다. 자막을 선호하는 사람들은 배우들의 대사 전달과 상황을 더욱 쉽게 이해할 수 있는 역할을 한다는 점을 높이 산다. 그런 가운데 스크린에서도 완성도를 위해 일부 장면에 자막을 삽입하는 한국 영화가 등장하기 시작했다. 류승완 감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fdailian%2F20220728080931455cihr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['비상선언' 송강호 "재난 헤쳐나가는 사람들 담담한 이야기" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2363,14 +2363,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fyonhap%2F20220727114645833xjnu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["범죄=손석구, 비상선언=임시완"..빌런이 좋아야 뜬다? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220728085913374</link>
-            <guid>https://movie.v.daum.net/v/20220728085913374</guid>
-            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;올여름 유일한 항공재난 영화 '비상선언'(한재림 감독)&nbsp;진석&nbsp;역의 임시완이 '범죄도시2'&nbsp;강해상&nbsp;역의 손석구, '한산: 용의 출현'&nbsp;와키자카&nbsp;역의 변요한을 이어 강렬한 빌런 캐릭터로 관객들을 단숨에 사로잡을 것을 예고한다. 올해 극장가에 열기를 더하는 영화 '범죄도시2', '한산: 용의 출현'에 이어 전대미문의 항공재난 영화 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fpoctan%2F20220728085913723rsdk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[류승용, 뉴욕아시안영화제 최우수연기상 수상 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220728083328622</link>
             <guid>https://movie.v.daum.net/v/20220728083328622</guid>
@@ -2379,20 +2371,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fsportskhan%2F20220728083330253vipu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정재, 첫 연출작 속 ♥임세령 '눈길'..8년 애정 남달라 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220728143017005</link>
-            <guid>https://movie.v.daum.net/v/20220728143017005</guid>
+            <title><![CDATA["범죄=손석구, 비상선언=임시완"..빌런이 좋아야 뜬다? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220728085913374</link>
+            <guid>https://movie.v.daum.net/v/20220728085913374</guid>
             <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 이정재가 자신의 감독 데뷔작인 영화 '헌트'의 엔딩크레딧에 연인인 대상 부회장 임세령의 이름을 올렸다.&nbsp; 27일 오후 서울 강남구 삼성동 메가박스 코엑스에서 영화 '헌트'(감독 이정재) 언론시사회가 진행됐다.&nbsp; 이날 선공개된 '헌트'의 엔딩크레딧에는 '스페셜 땡스 투' 리스트가 담겼다. "감독과 제작자는 다음 분들에게 특별히 감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fxportsnews%2F20220728143019506vcen.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[비행기 테러범 일찍 제압했는데, 이 공포감은 뭐지? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220728080502943</link>
-            <guid>https://movie.v.daum.net/v/20220728080502943</guid>
-            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[돌고 돌고 돌아 마침내 우리 앞에 착륙했다. 지난해 7월 열린 프랑스 칸국제영화제에서 세계 최초로 공개된 영화 &lt;비상선언&gt;이 1년여 만인 새달 3일 개봉한다. 당시 티에리 프레모 칸영화제 집행위원장이 “완벽한 장르영화의 탄생”이라고 극찬한 항공재난영화가 코로나 팬데믹이라는 실제 재난의 긴 터널을 지나 기어이 국내 관객들과 만나게 된 것이다. &lt;연애의 목적&gt;]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fhani%2F20220728090005484zsvr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;올여름 유일한 항공재난 영화 '비상선언'(한재림 감독)&nbsp;진석&nbsp;역의 임시완이 '범죄도시2'&nbsp;강해상&nbsp;역의 손석구, '한산: 용의 출현'&nbsp;와키자카&nbsp;역의 변요한을 이어 강렬한 빌런 캐릭터로 관객들을 단숨에 사로잡을 것을 예고한다. 올해 극장가에 열기를 더하는 영화 '범죄도시2', '한산: 용의 출현'에 이어 전대미문의 항공재난 영화 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fpoctan%2F20220728085913723rsdk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이제라도 만나 다행이다..'헌트' 이정재X정우성, 완벽한 시너지 ③ (다음영화 뉴스 ─ 인기)]]></title>
@@ -2403,12 +2387,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fstarnews%2F20220728100008086jqhm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['외계+인' 1부, 미공개 스틸..류준열·김우빈→염정아·조우진, 유쾌한 만남 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220727214857340</link>
-            <guid>https://movie.v.daum.net/v/20220727214857340</guid>
-            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '외계+인' 1부(감독 최동훈)가 관객들의 성원에 힘입어 본편 미공개 스틸을 최초 공개했다. '외계+인' 1부는 인간의 몸에 가둬진 외계인 죄수의 탈옥을 막기 위해 631년 전으로 가게 된 가드와 이안이 얼치기 도사 무륵, 그리고 신선들과 함께 외계인에 맞서 모든 것의 열쇠인 신검을 차지하려는 이야기를 그린 영화다.&nbsp; 공개]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fxportsnews%2F20220727214859975okoe.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이정재, 첫 연출작 속 ♥임세령 '눈길'..8년 애정 남달라 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220728143017005</link>
+            <guid>https://movie.v.daum.net/v/20220728143017005</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 이정재가 자신의 감독 데뷔작인 영화 '헌트'의 엔딩크레딧에 연인인 대상 부회장 임세령의 이름을 올렸다.&nbsp; 27일 오후 서울 강남구 삼성동 메가박스 코엑스에서 영화 '헌트'(감독 이정재) 언론시사회가 진행됐다.&nbsp; 이날 선공개된 '헌트'의 엔딩크레딧에는 '스페셜 땡스 투' 리스트가 담겼다. "감독과 제작자는 다음 분들에게 특별히 감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fxportsnews%2F20220728143019506vcen.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[OTT다방] '아이다움'과 '어른다움'에 관한 동화같은 넷플 가족영화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2425,6 +2409,22 @@
             <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '말아' 측이 보도스틸을 공개했다. '말아'(감독 곽민승, 제작 왓에버웍스, 배급 인디스토리)는 오르락 내리락하는 팬데믹에 지친 청년 백수 주리(심달기 분)의 자력 갱생 생활일지를 그린 영화다.&nbsp;신예 곽민승 감독의 장편 데뷔작이다. 투명한 여름의 계절감을 한껏 느낄 수 있는 영상미와 산뜻하고 감성적인 OST, 그리고 싱그러]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fpoctan%2F20220728162619410jwlk.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[비행기 테러범 일찍 제압했는데, 이 공포감은 뭐지? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220728080502943</link>
+            <guid>https://movie.v.daum.net/v/20220728080502943</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[돌고 돌고 돌아 마침내 우리 앞에 착륙했다. 지난해 7월 열린 프랑스 칸국제영화제에서 세계 최초로 공개된 영화 &lt;비상선언&gt;이 1년여 만인 새달 3일 개봉한다. 당시 티에리 프레모 칸영화제 집행위원장이 “완벽한 장르영화의 탄생”이라고 극찬한 항공재난영화가 코로나 팬데믹이라는 실제 재난의 긴 터널을 지나 기어이 국내 관객들과 만나게 된 것이다. &lt;연애의 목적&gt;]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F28%2Fhani%2F20220728090005484zsvr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['외계+인' 1부, 미공개 스틸..류준열·김우빈→염정아·조우진, 유쾌한 만남 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220727214857340</link>
+            <guid>https://movie.v.daum.net/v/20220727214857340</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '외계+인' 1부(감독 최동훈)가 관객들의 성원에 힘입어 본편 미공개 스틸을 최초 공개했다. '외계+인' 1부는 인간의 몸에 가둬진 외계인 죄수의 탈옥을 막기 위해 631년 전으로 가게 된 가드와 이안이 얼치기 도사 무륵, 그리고 신선들과 함께 외계인에 맞서 모든 것의 열쇠인 신검을 차지하려는 이야기를 그린 영화다.&nbsp; 공개]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F27%2Fxportsnews%2F20220727214859975okoe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['육사오' 박규태 감독 "'공동경비구역 JSA' 코미디 버전" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2635,6 +2635,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8CAa%2Fimage%2FzfNCrx87G51lEuYuwwoHwBaVqx8.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[피드백과 보완, 압도적인 박력 <한산: 용의 출현> (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@cbv9/9</link>
+            <guid>https://brunch.co.kr/@@cbv9/9</guid>
+            <pubDate>Thu, 28 Jul 2022 10:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>임의글]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fcbv9%2Fimage%2F8LcQ2domUimW31qiLF9F5ra7BzU.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[매버릭, 만약 회사원이었다면… (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@5Hf8/102</link>
             <guid>https://brunch.co.kr/@@5Hf8/102</guid>
@@ -2753,14 +2761,6 @@
             <pubDate>Tue, 26 Jul 2022 08:29:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>CINEKOON]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5mi5%2Fimage%2F2Rv-7JhU-uNOfGAZecQtWxxIaWI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[넓은 바다의 푸른 빛깔과 그 짠맛까지 생생하게! (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5mi5/96</link>
-            <guid>https://brunch.co.kr/@@5mi5/96</guid>
-            <pubDate>Tue, 26 Jul 2022 08:29:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>CINEKOON]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5mi5%2Fimage%2FZAOPHVY0KfqXNjszx5Z3t3iMWVo.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
