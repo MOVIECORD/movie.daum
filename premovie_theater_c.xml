@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 02:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 04:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뱅크시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142084</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142084</guid>
+            <pubDate>Fri, 29 Jul 2022 04:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a77c5810e903a3a61269edaa7d0c92d75442f8b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[굿 럭 투 유, 리오 그랜드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156774</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156774</guid>
@@ -77,7 +85,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=152038</guid>
             <pubDate>Thu, 28 Jul 2022 10:27:27 GMT</pubDate>
             <content:encoded><![CDATA[22.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fde77f51242682717d98e31a034b00c5c44db14" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8e4614e590835f10323e0fd77ece8693417b0d5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔젤 하트]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Jul 2022 02:07:47 GMT</pubDate>
             <content:encoded><![CDATA[22.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff84ef6b058300c2818fa4519f057ad3748101229" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[세기의 은행털이: 도둑들의 고백]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162270</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162270</guid>
-            <pubDate>Thu, 28 Jul 2022 23:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54451b107f7effd370dcf849fbe282dc31e2f640" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
