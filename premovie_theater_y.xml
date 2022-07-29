@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,14 +103,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc62cb08b5707192441930e5c1a5e443c5b7ce305" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[임파서블 러브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127279</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127279</guid>
-            <pubDate>Thu, 28 Jul 2022 02:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec0746d8e1213e5ea232952fa98b4bfbe8fd8d1a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[로스트 도터]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
@@ -149,6 +141,14 @@
             <pubDate>Thu, 28 Jul 2022 14:26:34 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[임파서블 러브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127279</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127279</guid>
+            <pubDate>Thu, 28 Jul 2022 02:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec0746d8e1213e5ea232952fa98b4bfbe8fd8d1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대]]></title>
