@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 16:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 17:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,22 +95,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8bb59792be27ba3f51b20b427873611e15e1c1d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그레이 맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143179</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143179</guid>
-            <pubDate>Sat, 30 Jul 2022 04:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52af21829df3edeaa0e45335b646795bf3d14ddb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[로스트 도터]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
-            <pubDate>Wed, 13 Jul 2022 23:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9df47d6efeed17537772c9e82ec194abfda86403" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[배드 럭 뱅잉]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148293</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148293</guid>
@@ -127,20 +111,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[안나푸르나: 비욘드 써밋]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159417</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159417</guid>
-            <pubDate>Sun, 31 Jul 2022 08:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b7356560f55af43cca8f44dcfd6ed54e848da6c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[범죄도시2]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=122749</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=122749</guid>
             <pubDate>Thu, 28 Jul 2022 14:26:34 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f7e3035989e7918c6426e541c864d0d8a295de2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그레이 맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143179</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143179</guid>
+            <pubDate>Sat, 30 Jul 2022 04:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52af21829df3edeaa0e45335b646795bf3d14ddb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로스트 도터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153229</guid>
+            <pubDate>Wed, 13 Jul 2022 23:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9df47d6efeed17537772c9e82ec194abfda86403" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[임파서블 러브]]></title>
@@ -165,6 +157,14 @@
             <pubDate>Fri, 29 Jul 2022 04:08:45 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe70fc8038248a156b2b73959449e5cd1bc8ebd01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[초록밤]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154227</guid>
+            <pubDate>Sun, 31 Jul 2022 17:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e4f20cafacd737a02ead0a394f298bcbf68dca7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
