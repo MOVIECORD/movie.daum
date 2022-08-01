@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 01 Aug 2022 06:43:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>편리왕]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4BM1%2Fimage%2FmdGySZQe-SIw9tQI1rkY7DNizDo.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[소설이 영화가 될 때]]></title>
+            <link>https://brunch.co.kr/@@d7ni/42</link>
+            <guid>https://brunch.co.kr/@@d7ni/42</guid>
+            <pubDate>Mon, 01 Aug 2022 07:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박수영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd7ni%2Fimage%2FYhPzQalFYYYM6NPKy-0gd3tjDDo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['한산: 용의 출현' 리뷰,  압도적인 승리의 쾌감!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 04:29:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김선생]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FL9y%2Fimage%2FE3VDl35r01E-lkJcFG6XgpmkxEQ.PNG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[그레이 맨]]></title>
-            <link>https://brunch.co.kr/@@ea7X/38</link>
-            <guid>https://brunch.co.kr/@@ea7X/38</guid>
-            <pubDate>Tue, 26 Jul 2022 06:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>솔라리스의 바다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fea7X%2Fimage%2FQD-9wi3KWNZmgiwycSqV9twA8N4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
