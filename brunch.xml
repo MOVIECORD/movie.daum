@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 01 Aug 2022 08:31:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>하랑]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdjd3%2Fimage%2FwvmfOLeJhqwKVpUeyFcHVqWDh5Y.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[단편영화 <백야>]]></title>
+            <link>https://brunch.co.kr/@@8wxn/51</link>
+            <guid>https://brunch.co.kr/@@8wxn/51</guid>
+            <pubDate>Mon, 01 Aug 2022 09:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>환야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8wxn%2Fimage%2Fa3Zv4eNGZSFYToPLaK_1JWkecQk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['한산: 용의 출현' 리뷰,  압도적인 승리의 쾌감!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Jul 2022 02:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Market Watcher sposumer]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5Hf8%2Fimage%2FJhVevWF-z9851iMtWSaUU7uZ8L0.JPEG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[꼿꼿함에 관하여]]></title>
-            <link>https://brunch.co.kr/@@tO8/55</link>
-            <guid>https://brunch.co.kr/@@tO8/55</guid>
-            <pubDate>Wed, 27 Jul 2022 02:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>베짱이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FtO8%2Fimage%2FR8AGsCafmALsWAfPZdkLUTjFs9k.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
