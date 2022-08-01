@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>[다음영화] 왓챠 ─ 공개예정</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 15:28:57 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[줄리 & 줄리아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=49417</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=49417</guid>
-            <pubDate>Tue, 26 Jul 2022 09:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1210ED0B4B13383B6C" length="0" type="image//thumb/C408x596/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
+    <title>[다음영화] 왓챠 ─ 공개예정</title>
+    <updated>2022-08-01T16:36:30.314Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
+</feed>
