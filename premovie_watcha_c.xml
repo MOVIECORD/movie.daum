@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 02:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 04:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Fri, 29 Jul 2022 05:33:24 GMT</pubDate>
             <content:encoded><![CDATA[22.08.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1832E5054B614C8111" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무서운 이야기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=72189</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=72189</guid>
+            <pubDate>Mon, 01 Aug 2022 04:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F191DB0495007CEF41C" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
