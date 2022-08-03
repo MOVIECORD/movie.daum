@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 03 Aug 2022 08:33:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서희미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fbenx%2Fimage%2FyU6ocZtvNoTd8MKkKk1OLP0vIs4.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이순신의 리더십 그리고 거북선, 왜군을 박살 내다]]></title>
+            <link>https://brunch.co.kr/@@535y/532</link>
+            <guid>https://brunch.co.kr/@@535y/532</guid>
+            <pubDate>Wed, 03 Aug 2022 09:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Rabbitgumi]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F535y%2Fimage%2F4BcfeXbkqie2wCueJpiMenTOmiE.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<분쟁> - 클로즈업으로 꿰뚫는 균형]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 Aug 2022 10:28:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>편성준]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5a4M%2Fimage%2F5wBhErnDzvYVmgHomV2yqvwj2Sg.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스쿨 오브 락’, 록 버전 ‘죽은 시인의 사회’]]></title>
-            <link>https://brunch.co.kr/@@cmLZ/131</link>
-            <guid>https://brunch.co.kr/@@cmLZ/131</guid>
-            <pubDate>Mon, 01 Aug 2022 10:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유진모]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcmLZ%2Fimage%2F2IUI0A_hLxCZXtOiMdQAfuIVKaY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
