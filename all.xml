@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 14:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 15:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -781,20 +781,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d44e803f67bafec1c7478317cf94db05c450a3c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비상선언 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134717</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134717</guid>
-            <pubDate>Mon, 18 Jul 2022 05:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F703122e5e7642b0f0c1403aacda268d39b7aa406" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[한산: 용의 출현 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139666</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139666</guid>
             <pubDate>Sat, 09 Jul 2022 16:29:20 GMT</pubDate>
             <content:encoded><![CDATA[22.07.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90bf775c4d0c24fa67e977aa589bb6fffdda5fe8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비상선언 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134717</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134717</guid>
+            <pubDate>Mon, 18 Jul 2022 05:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F703122e5e7642b0f0c1403aacda268d39b7aa406" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -861,6 +861,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
+            <pubDate>Tue, 26 Jul 2022 07:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[썸머 필름을 타고! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153079</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153079</guid>
@@ -898,14 +906,6 @@
             <pubDate>Wed, 27 Jul 2022 02:16:21 GMT</pubDate>
             <content:encoded><![CDATA[22.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
-            <pubDate>Tue, 26 Jul 2022 07:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[로스트 도터 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2105,22 +2105,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fmydaily%2F20220804092835389bdmi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[할리우드Y] 1000억 들인 '배트걸' 폐기.. '조커2' 제작 확정, 엇갈린 운명 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220804143709385</link>
-            <guid>https://movie.v.daum.net/v/20220804143709385</guid>
-            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1000억 원의 제작비가 투입된 워너 브라더스의 새 영화 '배트걸'의 공개가 취소된 가운데, 제작이 확정된 '조커2'는 개봉 시점까지 공개되며 제작진 사이 희비가 엇갈리고 있다. 지난 2일(현지 시각) 버라이어티, 데드라인 등 해외 매체에 따르면 '배트걸'의 제작사인 워너 브라더스 측은 올해 12월 미국 OTT인 HBO 맥스를 통해 공개를 앞두고 있던 영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2FYTN%2F20220804143709988leso.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 군단선전대 여병사 미모가 아이돌 센터급이네..'육사오' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220804093310131</link>
-            <guid>https://movie.v.daum.net/v/20220804093310131</guid>
-            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 오는 24일&nbsp;개봉을 확정하며 여름 극장가 대전에 합류한 영화 '육사오'(박규태 감독)가 고경표, 이이경, 음문석, 박세완, 곽동연, 이순원, 김민호의 캐릭터 포스터와 캐릭터 영상을 전격 공개했다. '육사오'가 7인 7색의 매력이 가득 담긴 개성 넘치는 캐릭터 포스터와 캐릭터 영상을 공개하며 시선을 사로잡는다. '육사오'는 바람을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fpoctan%2F20220804093310581iyso.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['외계+인' 염정아X조우진, 관객 홀린 신선 커플 "웃음 적중률 100%" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220803151340150</link>
             <guid>https://movie.v.daum.net/v/20220803151340150</guid>
@@ -2129,12 +2113,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F03%2Fnewsen%2F20220803151342132svoo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[할리우드Y] 1000억 들인 '배트걸' 폐기.. '조커2' 제작 확정, 엇갈린 운명 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220804143709385</link>
+            <guid>https://movie.v.daum.net/v/20220804143709385</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1000억 원의 제작비가 투입된 워너 브라더스의 새 영화 '배트걸'의 공개가 취소된 가운데, 제작이 확정된 '조커2'는 개봉 시점까지 공개되며 제작진 사이 희비가 엇갈리고 있다. 지난 2일(현지 시각) 버라이어티, 데드라인 등 해외 매체에 따르면 '배트걸'의 제작사인 워너 브라더스 측은 올해 12월 미국 OTT인 HBO 맥스를 통해 공개를 앞두고 있던 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2FYTN%2F20220804143709988leso.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT다방] 넷플이 5천 억 투자 결심한 '나이브스 아웃', 추리물에 거짓말하면 토하는 인물이? (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220804191026720</link>
             <guid>https://movie.v.daum.net/v/20220804191026720</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’    거짓을 고할 수 없는 인물이 등장하는 추리 영화라. 너무나 어색하다. 꼬리에 꼬리를 무는 거짓말로 얽힌 사건을 풀어내는 게 추리 영화의 묘미이기 때문이다. 하지만 영화 ‘나이브스 아웃’(Knives out)은 추리 영화의 전형적 틀을 탈피해 진실만을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fseouleconomy%2F20220804191031432zigi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 군단선전대 여병사 미모가 아이돌 센터급이네..'육사오' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220804093310131</link>
+            <guid>https://movie.v.daum.net/v/20220804093310131</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 오는 24일&nbsp;개봉을 확정하며 여름 극장가 대전에 합류한 영화 '육사오'(박규태 감독)가 고경표, 이이경, 음문석, 박세완, 곽동연, 이순원, 김민호의 캐릭터 포스터와 캐릭터 영상을 전격 공개했다. '육사오'가 7인 7색의 매력이 가득 담긴 개성 넘치는 캐릭터 포스터와 캐릭터 영상을 공개하며 시선을 사로잡는다. '육사오'는 바람을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fpoctan%2F20220804093310581iyso.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['DC 슈퍼펫' 비밀병기 전격 공개..깜찍한 악당 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2153,6 +2153,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F03%2Fohmynews%2F20220803202702944hlqp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[성탄전야 예약 꽉 찬 레스토랑, 전쟁터같은 주방 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220804133603129</link>
+            <guid>https://movie.v.daum.net/v/20220804133603129</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;보일링 포인트&gt; 포스터    ⓒ (주)이놀미디어  1_'셰프'와 '맛집' 열풍의 명과 암 영상미디어의 범람과 함께 사회적 현상으로 '먹방'-'맛집'-'셰프'의 르네상스가 일어났다고 해도 과언이 아닐 정도로 요식업 붐이 발생했고 현재까지도 그 여파는 지속되는 중이다. 따스한 밥 한 끼 먹기에는 물가가 올라서 지갑사정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fohmynews%2F20220804133604252idcp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[영화로 떠나는 여행..부산여행영화제 5일 개막 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220804160327699</link>
             <guid>https://movie.v.daum.net/v/20220804160327699</guid>
@@ -2161,12 +2169,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fkookje%2F20220804160328374vimr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[성탄전야 예약 꽉 찬 레스토랑, 전쟁터같은 주방 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220804133603129</link>
-            <guid>https://movie.v.daum.net/v/20220804133603129</guid>
+            <title><![CDATA[송강호→임시완, 이어진 인연의 끈..드림 캐스팅의 힘 ['비상선언' 이륙②] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220804095014819</link>
+            <guid>https://movie.v.daum.net/v/20220804095014819</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;보일링 포인트&gt; 포스터    ⓒ (주)이놀미디어  1_'셰프'와 '맛집' 열풍의 명과 암 영상미디어의 범람과 함께 사회적 현상으로 '먹방'-'맛집'-'셰프'의 르네상스가 일어났다고 해도 과언이 아닐 정도로 요식업 붐이 발생했고 현재까지도 그 여파는 지속되는 중이다. 따스한 밥 한 끼 먹기에는 물가가 올라서 지갑사정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fohmynews%2F20220804133604252idcp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 송강호부터 박해준까지, 영화 '비상선언'(감독 한재림)에서는 탄탄한 연기력을 자랑하는 배우들이 스크린을 꽉 채우며 무게감을 더한다.&nbsp; 올해 열린 제75회 칸국제영화제에서 '브로커'로 남우주연상을 수상하는 쾌거를 달성한 송강호는 '비상선언'으로 스크린 활약을 이어간다. 평범한 가장이자 베테랑 형사로, 아내가 탄 비행기가 재난]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fxportsnews%2F20220804095021591gqvb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['비상선언', 개봉 첫날 33만 명 봤다..흥행 비행 시작 [종합] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2193,20 +2201,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F03%2Ftvdaily%2F20220803112013323qyij.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[송강호→임시완, 이어진 인연의 끈..드림 캐스팅의 힘 ['비상선언' 이륙②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220804095014819</link>
-            <guid>https://movie.v.daum.net/v/20220804095014819</guid>
+            <title><![CDATA['한산'이 보여준 세련된 '국뽕', 아쉬운 몇 가지 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220804174801501</link>
+            <guid>https://movie.v.daum.net/v/20220804174801501</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 송강호부터 박해준까지, 영화 '비상선언'(감독 한재림)에서는 탄탄한 연기력을 자랑하는 배우들이 스크린을 꽉 채우며 무게감을 더한다.&nbsp; 올해 열린 제75회 칸국제영화제에서 '브로커'로 남우주연상을 수상하는 쾌거를 달성한 송강호는 '비상선언'으로 스크린 활약을 이어간다. 평범한 가장이자 베테랑 형사로, 아내가 탄 비행기가 재난]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fxportsnews%2F20220804095021591gqvb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[원종빈 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. 1592년 4월, 왜군은 단 15일 만에 조선의 수도인 한양을 점령하며 파죽지세로 북진한다. 그러나 '이순신(박해일)'이 이끄는 조선 수군이 거북선을 앞세워 남해안을 장악하자 이내 왜군은 보급에 난항을 겪는다. 이에&nbsp;용인 전투에서 10만 명의 조선군을 격퇴한 '와키자카 야스하루(변요한)'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fohmynews%2F20220804174803066disl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[선한 얼굴이 곧 공포..'비상선언' 임시완의 광기 [손진아의 사심톡] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220803195402505</link>
-            <guid>https://movie.v.daum.net/v/20220803195402505</guid>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[선한 얼굴이 곧 공포가 된다. 스크린을 가득 채우는 배우 임시완의 광기 어린 연기가 간담을 서늘하게 만든다. 3일 개봉한 영화 ‘비상선언‘(감독 한재림)은 사상 초유의 항공테러로 무조건적 착륙을 선포한 비행기와 재난에 맞서는 사람들의 이야기를 그린다. 제74회 칸 영화제 비경쟁 부문 공식 초청작 ’비상선언‘은 ’관상‘(2013), ’더 킹‘(2017) 등]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F03%2Fmksports%2F20220803195403332bhrj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[샌드맨, 꿈의 세계로의 초대 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/pRXB2IFLTx</link>
+            <guid>https://content.v.daum.net/v/pRXB2IFLTx</guid>
+            <pubDate>Thu, 04 Aug 2022 15:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F04%2Fhero_nitko%2F20220804143824267uk3e.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스 신작! <카터>, <샌드맨>, <웨딩 시즌>, <크레이지 리치 아시안> 등 (다음 영화 ─ 매거진)]]></title>
@@ -2359,14 +2367,6 @@
             <pubDate>Wed, 03 Aug 2022 02:11:28 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F02%2Ffanzeel%2F20220802075146335z0na.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[전역을 코앞에 둔 남한 국군 병장이 북한군이 된 이유 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/Xvtm22o5lI</link>
-            <guid>https://content.v.daum.net/v/Xvtm22o5lI</guid>
-            <pubDate>Wed, 03 Aug 2022 02:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F02%2Ffeelthemovie%2F20220802132220156zkiy.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[절대 지면 안 되는 장군과 망하면 안 되는 감독의 만남 (다음 영화 ─ 브런치)]]></title>
