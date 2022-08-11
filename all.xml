@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,7 +148,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=139666</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139666</guid>
             <pubDate>Sat, 09 Jul 2022 16:29:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,024,121명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,024,119명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90bf775c4d0c24fa67e977aa589bb6fffdda5fe8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -798,20 +798,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90bf775c4d0c24fa67e977aa589bb6fffdda5fe8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비상선언 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134717</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134717</guid>
-            <pubDate>Mon, 18 Jul 2022 05:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F703122e5e7642b0f0c1403aacda268d39b7aa406" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
             <pubDate>Thu, 02 Jun 2022 04:07:27 GMT</pubDate>
             <content:encoded><![CDATA[22.06.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비상선언 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134717</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134717</guid>
+            <pubDate>Mon, 18 Jul 2022 05:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F703122e5e7642b0f0c1403aacda268d39b7aa406" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[DC 리그 오브 슈퍼-펫 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -894,14 +894,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02f3f66bc095410ad4cd460c5a50a99a5dc22f92" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[썸머 필름을 타고! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153079</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153079</guid>
-            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뱅크시 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142084</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142084</guid>
@@ -916,6 +908,14 @@
             <pubDate>Fri, 29 Jul 2022 10:27:30 GMT</pubDate>
             <content:encoded><![CDATA[22.08.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55d1bfa86af15155c98b050d638daaf7e0c8ce48" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[썸머 필름을 타고! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153079</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153079</guid>
+            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -998,6 +998,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a1d24d0498c47924b7bd91ea395b7e6a809b861" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[리볼버 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40914</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40914</guid>
+            <pubDate>Thu, 11 Aug 2022 01:57:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7820c44721649064a0fa6da79157be9dd7ef627" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파로호 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157755</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157755</guid>
@@ -1075,14 +1083,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160229</guid>
             <pubDate>Thu, 11 Aug 2022 01:57:25 GMT</pubDate>
             <content:encoded><![CDATA[22.08.17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리볼버 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=40914</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=40914</guid>
-            <pubDate>Thu, 11 Aug 2022 01:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7820c44721649064a0fa6da79157be9dd7ef627" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어나더 레코드 : 이제훈 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2043,6 +2043,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4089ab8c70e5ce6361fec6a028877c09be350061" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[끊임없는 교미, 출산, 착유.. 우리가 외면한 젖소 루마의 삶 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220811152102279</link>
+            <guid>https://v.daum.net/v/20220811152102279</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;카우&gt; 포스터    ⓒ 그린나래미디어㈜  &nbsp; '젖소 Cow'. 우유를 생산하기 위해 사육되는 소이고, 대표적인 품종은 얼룩 점박이 외양의 홀스타인 종이며 젖소 1마리는 1년 기준 약 5톤의 우유를 생산한다. 품종 개량된 경우 10~20톤까지 생산하는 경우도 종종 존재한다. 이들은 우유 생산을 목적으로 끊임없이 임신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fohmynews%2F20220811152108288byeb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[호러 '블랙폰', 제작비 대비 8배 흥행 수익..9월7일 국내 개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220811151751158</link>
+            <guid>https://v.daum.net/v/20220811151751158</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 호러영화 '블랙폰'이&nbsp;전세계 관객들을 사로잡으며, 제작비 8배를 뛰어넘는 압도적 월드 와이드 흥행 수익을 달성했다. 10일(현지 시간) 미국 박스오피스 모조의 집계에 따르면 '블랙폰'(감독 스콧 데릭슨, 수입배급 유니버설 픽쳐스, 제작 블룸하우스)은 현재 월드 와이드 흥행 수익 1억 4800만 달러를 돌파했다. 이는 한화로 계산]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fpoctan%2F20220811151752895xhop.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정병길 "주원은 뒷모습으로도 연기한다, 먹 치는 느낌을 낼 줄 아는 배우" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220811150147483</link>
+            <guid>https://v.daum.net/v/20220811150147483</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 영화 '카터'로 동양적 색채가 가득한 원테이크 액션을 선보인 정병길 감독을 만났다. 정병길 감독은 '악녀'로 통념을 깨는 액션과 연출로 호평받은 바 있다. 그의 차기작 '카터'는 주원을 원톱으로 내세워 액션 영화의 새로운 패러다임을 열었다. 선이고 악인지 모르겠는 상황에 처해지는 인물이다. 그때 우수 어린 눈망울을 가진 주원이라면 관객들이 순]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2FiMBC%2F20220811150148338lmlw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서울대작전' 유아인, 드라이빙 훈련까지..고경표→옹성우와 '빵꾸팸' 케미 예고 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220811143750192</link>
+            <guid>https://v.daum.net/v/20220811143750192</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 유아인, 고경표, 옹성우 등이 넷플릭스 영화 '서울대작전'에서 '빵꾸팸'으로 활약을 예고했다. '서울대작전'(감독 문현성)은 1988년, 아메리칸 드림을 꿈꾸는 상계동 슈프림팀이 거부할 수 없는 제안을 받고 VIP 비자금 수사 작전에 투입되면서 벌어지는 카체이싱 액션 질주극. 오늘(11일) 공개된 캐릭터 스틸은 198]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fmydaily%2F20220811143750123rbzm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['카터' 주원 "고생했다는 말 먼저라서 서운..새로운 내 모습 만족"[인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220811135525769</link>
             <guid>https://v.daum.net/v/20220811135525769</guid>
@@ -2171,38 +2203,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2FSpoChosun%2F20220811115107557tqza.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[주원 "'카터' 향한 호불호, 어느정도 예상했었죠" [인터뷰 맛보기] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220811115008952</link>
-            <guid>https://v.daum.net/v/20220811115008952</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '카터'의 배우 주원이 호불호 갈리는 평가에 대해 말했다. 주원은 11일 오전 화상으로 진행된 넷플릭스 영화 '카터'(감독 정병길) 공개 기념 인터뷰에서 "작품을 향한 호불호는 처음 대본을 받았을 때부터 어느정도 예상했던 부분이었다"고 말했다. '카터'는 최근 넷플릭스 글로벌 톱10 비영어권 부문에서 1위를 차지하는 등]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Ftvdaily%2F20220811115009695ajsf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 진지희·이충주, 제천국제음악영화제 개막식 사회자 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220811114601833</link>
-            <guid>https://v.daum.net/v/20220811114601833</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 진지희와 이충주가 제18회 제천국제음악영화제 개막식 사회자로 선정됐다. 11일 제천국제음악영화제 사무국은 "이날 오후 7시에 개최되는 제18회 제천국제음악영화제 개막식 사회자로 배우 진지희와 이충주를 선정했다"고 밝혔다. 데뷔 19년 차의 베테랑 배우 진지희는 '지붕 뚫고 하이킥'으로 인생 캐릭터를 탄생시키며 대중들에게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2F10asia%2F20220811114605030qtrt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]마동석, 거대곤충 때려잡는다..글로벌OTT '하이브' 주연 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220811113838520</link>
-            <guid>https://v.daum.net/v/20220811113838520</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 마동석이 인기 웹툰을 원작으로 한 OTT시리즈 '하이브' 주인공을 맡는다. 11일 영화계에 따르면 마동석은 최근 '하이브' 주인공 출연을 결정하고 최종 조율 중이다. 마동석이 OTT시리즈에 출연하는 건 이번이 처음이다. 김규삼 작가의 동명 웹툰을 원작으로 한 '하이브'는 거대 곤충이 등장해 문명이 파괴된 아포칼립스 세계를 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fstarnews%2F20220811113839467snvx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[최강 드리프터 유아인→맥가이버 옹성우, 1988년 힙스터들의 팀플레이('서울대작전') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220811112401832</link>
-            <guid>https://v.daum.net/v/20220811112401832</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 넷플릭스 영화 '서울대작전' 속 유아인, 고경표, 이규형, 박주현, 옹성우의 캐릭터 스틸이 공개됐다. 11일 넷플릭스는 '서울대작전' 속 유아인, 고경표, 이규형, 박주현, 옹성우까지 1988년 힙하고 멋들어진 청춘들의 바이브가 그대로 느껴지는 상계동 슈프림팀, 일명 '빵꾸팸'의 캐릭터 스틸을 공개했다. '서울대작전'은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2F10asia%2F20220811112404721phyh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[SC인터뷰] '카터' 정병길 감독 "'존윅' 감독과 1500억 할리우드 리메이크 제안, 거부한 이유는.."(종합) (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220811072438259</link>
             <guid>https://movie.v.daum.net/v/20220811072438259</guid>
@@ -2235,20 +2235,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fsportsdonga%2F20220811063011031cxjg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[브래드 피트 '불릿 트레인', 개봉 동시 북미 박스오피스 1위 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220811090533476</link>
-            <guid>https://movie.v.daum.net/v/20220811090533476</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 브래드 피트 주연 '불릿 트레인'이 북미 개봉과 동시에 박스오피스 1위는 물론 월드와이드 박스오피스 1위에 등극했다. '불릿 트레인'은 미션수행을 위해 탈출이 불가능한 초고속 열차에 탑승한 언럭키 가이 '레이디버그'(브래드 피트)와 고스펙 킬러들의 피 튀기는 전쟁을 담은 논스톱 액션 블록버스터다. 한국 개봉을 앞둔 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2FNEWS1%2F20220811090534928ejyh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[리뷰] '육사오' 물 만난 고경표X이이경, 순도 높은 코미디의 탄생 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220811075655732</link>
             <guid>https://movie.v.daum.net/v/20220811075655732</guid>
             <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠한국 조은애 기자] 1등에 당첨된 로또 용지가 북으로 넘어간다면? 기발한 상상력에서 출발한 영화 '육사오'가 올 여름 극장가의 유일한 코미디로 승부를 건다. '육사오'는 바람을 타고 군사분계선을 넘어가버린 57억 1등 로또를 둘러싼 남북 군인들 간의 이야기를 그린 작품으로, 앞서 '달마야 놀자', '박수건달'의 각본을 맡았던 박규태 감독이&nbsp;]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2FSpoHankook%2F20220811075657646yiek.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[브래드 피트 '불릿 트레인', 개봉 동시 북미 박스오피스 1위 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220811090533476</link>
+            <guid>https://movie.v.daum.net/v/20220811090533476</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 브래드 피트 주연 '불릿 트레인'이 북미 개봉과 동시에 박스오피스 1위는 물론 월드와이드 박스오피스 1위에 등극했다. '불릿 트레인'은 미션수행을 위해 탈출이 불가능한 초고속 열차에 탑승한 언럭키 가이 '레이디버그'(브래드 피트)와 고스펙 킬러들의 피 튀기는 전쟁을 담은 논스톱 액션 블록버스터다. 한국 개봉을 앞둔 ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2FNEWS1%2F20220811090534928ejyh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[단독]마동석, 거대곤충 때려잡는다..글로벌OTT '하이브' 주연 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2275,6 +2275,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F10%2FSpoHankook%2F20220810170000750mche.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['늑대사냥' 서인국x장동윤, 피칠갑 범죄자..파격적인 변신 [Oh!쎈 컷] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220811105433274</link>
+            <guid>https://movie.v.daum.net/v/20220811105433274</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;하드보일드 서바이벌 액션 영화 '늑대사냥'이 제47회 토론토 국제영화제 공식 초청 소식을 알리며 글로벌 스틸 10종을 전격 공개했다. '늑대사냥'(감독 김홍선, 제작 콘텐츠지 영화사 채움, 제공배급 TCO㈜더콘텐츠온 CJ CGV)은 극악무도한 범죄자들을 태평양에서 한국까지 이송해야 하는 상황 속 지금껏 보지 못한 극한 상황에 처]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fpoctan%2F20220811105433509xujo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[전신 문신한 서인국..'늑대사냥' 파격적인 스틸 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220811101245377</link>
             <guid>https://movie.v.daum.net/v/20220811101245377</guid>
@@ -2299,6 +2307,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2F10asia%2F20220811090204752cmpz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[주원 "7년 만의 영화 '카터', 호불호 예상했지만 누군가는 해야할 일"[인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220811122102790</link>
+            <guid>https://movie.v.daum.net/v/20220811122102790</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 주원이 넷플릭스 '카터'로 7년 만에 영화를 선보인 감회가 새롭다고 밝혔다. 11일 넷플릭스 영화 '카터'에 출연한 주원과 화상 인터뷰를 통해 만났다. 주원은 모든 기억을 잃은 채 의문의 작전에 투입된 요원 카터 역을 맡았다. 주원은 "저도 보니 7년 만의 영화 복귀더라. 늦어진 이유는 딱히 없다. 군대 전역하고 드라마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2F10asia%2F20220811122104644meim.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[서현우 역대급 연기 입소문 '썬더버드' 9월 개봉 확정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220810002604740</link>
             <guid>https://movie.v.daum.net/v/20220810002604740</guid>
@@ -2307,12 +2323,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F10%2FJTBC%2F20220810002606279iftt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['늑대사냥' 서인국x장동윤, 피칠갑 범죄자..파격적인 변신 [Oh!쎈 컷] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220811105433274</link>
-            <guid>https://movie.v.daum.net/v/20220811105433274</guid>
+            <title><![CDATA['카터' 주원 "3~4개월간 지방+근육 늘려..오토바이 면허증도 땄다"[인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220811123003896</link>
+            <guid>https://movie.v.daum.net/v/20220811123003896</guid>
             <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;하드보일드 서바이벌 액션 영화 '늑대사냥'이 제47회 토론토 국제영화제 공식 초청 소식을 알리며 글로벌 스틸 10종을 전격 공개했다. '늑대사냥'(감독 김홍선, 제작 콘텐츠지 영화사 채움, 제공배급 TCO㈜더콘텐츠온 CJ CGV)은 극악무도한 범죄자들을 태평양에서 한국까지 이송해야 하는 상황 속 지금껏 보지 못한 극한 상황에 처]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fpoctan%2F20220811105433509xujo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 주원이 넷플릭스 영화 '카터'를 위해 고난도 트레이닝을 받았다고 밝혔다. 11일 넷플릭스 영화 '카터'에 출연한 주원과 화상 인터뷰를 통해 만났다. 주원은 모든 기억을 잃은 채 의문의 작전에 투입된 요원 카터 역을 맡았다. 주원은 "출연 결정했던 이유는 대본 보자마자 이거는 해봐야겠다 싶었다. 대본 자체가 심상치 않았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2F10asia%2F20220811123006477sobx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서울대작전' 유아인→옹성우, 1988년 서울을 휘어잡은 상계동 슈프림팀 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220811131041621</link>
+            <guid>https://movie.v.daum.net/v/20220811131041621</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 넷플릭스 영화 '서울대작전'(감독 문현성)이 캐릭터 스틸을 공개했다. '서울대작전'은 1988년, 아메리칸 드림을 꿈꾸는 상계동 슈프림팀이 거부할 수 없는 제안을 받고 VIP 비자금 수사 작전에 투입되면서 벌어지는 카체이싱 액션 질주극. 공개된 스틸은 1988년 누구보다 ‘힙’한 감성을 장착하고 시원한 팀플레이를 보여줄 상계동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fxportsnews%2F20220811131043305omjv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['폐지 수순' 강릉영화제, 상식이 통하지 않은 까닭 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220811110309753</link>
+            <guid>https://movie.v.daum.net/v/20220811110309753</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[강릉국제영화제 폐지 결정과 관련, 해당 관계자가 직접 기고문을 보내왔다. 정상진 엣나인 필름 대표는 강릉국제영화제 집행위원으로 1회부터 참여해왔다. 현재 DMZ다큐멘터리영화제 집행위원장이기도 하다.  &lt;편집자말&gt; [정상진 기자] 2019년 여름이 다가올 무렵 강릉에서 영화제를 준비한다는 소식이 들렸다. 당시 김한근 강릉시장은 강원도 홍천 출신 김동호 전 부]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fohmynews%2F20220811110310214zipc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[무대 떠난 개그맨들 제2의 도전..스크린 활력소 된다[스경X초점] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2323,44 +2355,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F10%2Fsportskhan%2F20220810171123226ccml.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[주원 "7년 만의 영화 '카터', 호불호 예상했지만 누군가는 해야할 일"[인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220811122102790</link>
-            <guid>https://movie.v.daum.net/v/20220811122102790</guid>
+            <title><![CDATA[배우·감독 두 마리 토끼 다 잡은 이정재, '헌트' 개봉 첫날 박스오피스 1위[SS박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220811104620954</link>
+            <guid>https://movie.v.daum.net/v/20220811104620954</guid>
             <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 주원이 넷플릭스 '카터'로 7년 만에 영화를 선보인 감회가 새롭다고 밝혔다. 11일 넷플릭스 영화 '카터'에 출연한 주원과 화상 인터뷰를 통해 만났다. 주원은 모든 기억을 잃은 채 의문의 작전에 투입된 요원 카터 역을 맡았다. 주원은 "저도 보니 7년 만의 영화 복귀더라. 늦어진 이유는 딱히 없다. 군대 전역하고 드라마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2F10asia%2F20220811122104644meim.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인' 류준열, '전우치' 강동원·유해진 울고 갈 특급 케미요정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220810083424043</link>
-            <guid>https://movie.v.daum.net/v/20220810083424043</guid>
-            <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 새롭고 놀라운 세계관과 볼거리, 배우들의 압도적인 연기 시너지로 뜨거운 호평을 불러일으키고 있는 영화 '외계+인'(각본감독 최동훈, 제공배급 CJ ENM, 제작 케이퍼필름) 1부의 무륵과 우왕, 좌왕이 초특급 케미를 선보이며 관객들의 뜨거운 호평을 자아내고 있다. '외계+인' 1부는 인간의 몸에 가둬진 외계인 죄수의 탈옥을 막기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F10%2Fpoctan%2F20220810083425858eoat.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심'·'최선의 삶' 등 벡델초이스10 선정 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220811111329267</link>
-            <guid>https://movie.v.daum.net/v/20220811111329267</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자]DGK(한국영화감독조합)이 주최·주관하고 문화체육관광부가 후원하는 ‘벡델데이 2022’가 ‘벡델초이스10’을 발표했다. 벡델초이스10으로 선정된 영화는 ‘갈매기’(김미조 감독), ‘경아의 딸’(김정은 감독), ‘십개월의 미래’(남궁선 감독), ‘앵커’(정지연 감독), ‘연애 빠진 로맨스’(정가영 감독), ‘오마주’(신수원]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2FEdaily%2F20220811111331899jvtt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["칸에서 받은 찬사의 눈빛 못 잊어.. 연기에 대한 욕심 더 커졌죠" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220810090536954</link>
-            <guid>https://movie.v.daum.net/v/20220810090536954</guid>
-            <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[■ 영화 ‘비상선언’ 출연 임시완 “연기 9단 선배들과 좋은 경험…부끄럽지 않은 배우 되겠다” “부끄럽지 않게 연기하고 싶어요.” 영화 ‘비상선언’(감독 한재림)으로 돌아온 임시완(사진)은 배우로서 데뷔 10주년을 맞은 소감을 이 같은 다짐으로 대신했다. 그는 2010년 아이돌그룹 제국의아이들로 활동을 시작한 ‘연기돌’(연기+아이돌)이다. 하지만 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F10%2Fmunhwa%2F20220810090538335bhwj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['한산' 이서준, 다시 만난 변요한에 울컥한 까닭 [인터뷰②] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220811084921901</link>
-            <guid>https://movie.v.daum.net/v/20220811084921901</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이서준과 변요한은 깊은 인연을 자랑한다. 연극영화과 입시를 준비하며 연습실을 같이 다녔기 때문이다. 고등학교 2학년이었던 이서준과 입시생이었던 변요한은 '한산: 용의 출현'을 통해 작품으로 재회하게 됐다. 다시 만난 변요한의 "잘 하고 있다"는 칭찬은 이서준에게 깊은 울림을 안겼다. 이서준은 최근 서울 마포구 상암동 K-ART 스튜디오에서 진행된 본지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2Fhankooki%2F20220811084923856pzfx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠서울|조은별기자]배우 이정재의 감독데뷔작 ‘헌트’가 개봉 첫 날 박스오피스 정상을 차지했다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘헌트’는 개봉일인 전날 관객 21만 825명이 관람해 ‘한산:용의 출현’을 제치고 1위를 기록했다. 박스오피스 2위인 ‘한산:용의 출현’은 개봉 15일차인 10일 12만 5414명을 동원하며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F11%2FSPORTSSEOUL%2F20220811104626080xszm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[오빠 유아인도 힘들어한다는 그의 미모의 친여동생 (다음 영화 ─ 매거진)]]></title>
