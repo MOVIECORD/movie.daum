@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 06:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 07:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,7 +148,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=139666</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139666</guid>
             <pubDate>Sat, 09 Jul 2022 16:29:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>6,156,589명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>6,156,587명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90bf775c4d0c24fa67e977aa589bb6fffdda5fe8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -910,14 +910,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 살아남기 시리즈: 인체에서 살아남기 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161448</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161448</guid>
-            <pubDate>Fri, 05 Aug 2022 02:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafc836d6a56849d129eec0e4976baa494329c831" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[베르히만 아일랜드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
@@ -926,20 +918,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158294</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158294</guid>
-            <pubDate>Tue, 26 Jul 2022 10:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a73823a7439031dd6f85da7ac0d8d3f1800e7c6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보일링 포인트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153341</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153341</guid>
             <pubDate>Sat, 13 Aug 2022 01:56:44 GMT</pubDate>
             <content:encoded><![CDATA[22.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 살아남기 시리즈: 인체에서 살아남기 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161448</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161448</guid>
+            <pubDate>Fri, 05 Aug 2022 02:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafc836d6a56849d129eec0e4976baa494329c831" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158294</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158294</guid>
+            <pubDate>Tue, 26 Jul 2022 10:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a73823a7439031dd6f85da7ac0d8d3f1800e7c6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[놉 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1437,6 +1437,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F262E924D521F50E804" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바비 - 마법의 레인보우 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=54974</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=54974</guid>
+            <pubDate>Tue, 16 Aug 2022 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F170E1A1E4B1E538205" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[두 인생을 살아봐 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162278</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162278</guid>
@@ -1540,6 +1548,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a75c59d651a8b808b2432c1937063aabfa9a4a9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사랑이야 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162635</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162635</guid>
+            <pubDate>Tue, 16 Aug 2022 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.25]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서울대작전 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151698</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151698</guid>
@@ -1556,12 +1571,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5909755e1cd1ac7d867a8a8909282497ef5418d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[러빙 어덜츠 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162815</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162815</guid>
+            <pubDate>Tue, 16 Aug 2022 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c604bf8211f22943e1063f85ddf1f9538d90189" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[신비한 동물들과 그린델왈드의 범죄 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=111490</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=111490</guid>
             <pubDate>Mon, 08 Aug 2022 03:59:54 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0a9bc7406eb94984b4fe381d90fa8a5c1540556084895" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이 케임 바이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162674</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162674</guid>
+            <pubDate>Tue, 16 Aug 2022 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F471f2afe671f4f2aee94bea52c73214bc6c0ca54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바비의 라푼젤 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1642,6 +1673,22 @@
             <pubDate>Tue, 16 Aug 2022 06:28:24 GMT</pubDate>
             <content:encoded><![CDATA[22.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13110210A8FEF11304" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프리퀀시 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2182</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2182</guid>
+            <pubDate>Tue, 16 Aug 2022 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F134D4010B206302158" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바비공주와 숲속 친구들 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=54983</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=54983</guid>
+            <pubDate>Tue, 16 Aug 2022 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F192BC71E4B29B06258" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[연극 더우드즈맨 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -1796,6 +1843,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdac048fdb9c5d392cadbc248c5d1f2fde72bbaa0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스1 ★]임윤아, 뷰티 유튜버 변신..천만 구독자 가능할 애교 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220816155023166</link>
+            <guid>https://v.daum.net/v/20220816155023166</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 임윤아(소녀시대 윤아)가 사랑스러운 애교로 ‘공조2’ 제작보고회를 싹쓸이했다. 윤아는 이석훈 감독, 배우 현빈, 유해진, 진선규와 함께 16일 오전 서울 영등포구 여의도 콘래드 호텔에서 열린 영화 '공조2: 인터내셔날' 제작보고회에 참석해 작품에 관한 이야기를 나눴다. '공조2'(감독 이석훈)는 글로벌 범죄 조직을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FNEWS1%2F20220816155024416hdoa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이제훈 "이렇게 화가 많은 사람이었나.." (어나더레코드)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220816155013161</link>
+            <guid>https://v.daum.net/v/20220816155013161</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 이제훈이 리얼 다큐멘터리를 촬영하며 느꼈던 감정들을 털어놓았다. 16일 온라인 생중계를 통해 seezn(시즌) 오리지널 영화 '어나더 레코드 : 이제훈' 제작발표회가 열렸다. 이 자리에는 배우 이제훈과 윤단비 감독이 참석했다. '어나더 레코드: 이제훈'은 배우의 리얼한 모습과 영화적 엉뚱한 상상을 오가는 모습을 담은 새로운 형식]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fxportsnews%2F20220816155016852ovnw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재 감독 데뷔작 '헌트' 200만 돌파→400만 향해 달린다(종합)[Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220816155010159</link>
+            <guid>https://v.daum.net/v/20220816155010159</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 이정재의 감독 데뷔작 ‘헌트’가 오늘(16일) 200만 관객을 돌파한 가운데, 손익분기점까지 안착할지 주목된다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘헌트’는 이날 오전 11시 42분 기준 200만 284명의 관객을 동원했다. 이달 10일 개봉해 상영 7일 만에 200만 관객을 돌파한 것. ‘헌트’(제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fpoctan%2F20220816155010613funk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["예상 못한 새로움"..'공조2' 현빈·윤아→유해진, 올 추석 흥행 하드캐리(종합)[현장의 재구성] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220816154805090</link>
+            <guid>https://v.daum.net/v/20220816154805090</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;"우리 셋 비주얼 똑같은데…" 배우 유해진이 16일 오전 서울 여의도 콘래드서울에서 열린 영화 '공조2'의 제작보고회에서 "(나, 현빈, 다니엘 헤니) 처음에 저희 셋을 왜 캐스팅했는지 이해가 안 갔다. 비주얼적으로 셋이 너무 비슷하지 않느냐.(웃음)"라고 형사 라인업에 대해 이같이 말하며 웃음을 안겼다. 이날 열린 제작보고회에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fpoctan%2F20220816154806289tdbx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[D-1 '놉', '헌트'와 예매율 1위 각축..최종 승자는? (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220816153410584</link>
+            <guid>https://v.daum.net/v/20220816153410584</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 조던 필 감독의 신작 '놉'이 개봉을 하루 앞두고 예매율 1위에 올랐다. 현재 박스오피스 1위인 '헌트'와 경합을 벌일 것으로 보인다. 16일 오후3시 기준 영진위 예매율 집계에 따르면 17일 개봉하는 '놉'은 21.8%로 예매율 1위를 기록했다. 예매 관객수는 4만 8986명. '헌트'는 21.7%로 2위다. 예매관객수는 4만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816153411791qdzp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['모범가족' 박희순 "정우=연습벌레, 매 순간 열정 불태워" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220816152421174</link>
             <guid>https://v.daum.net/v/20220816152421174</guid>
@@ -1916,46 +2003,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fnewsen%2F20220816133939028zrxm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['공조2' 현빈, 손예진과 결혼 후 첫 작품 "달라진 건 없어" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220816133754174</link>
-            <guid>https://v.daum.net/v/20220816133754174</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[16일 '공조2' 제작보고회서 4년 만에 스크린 복귀 소감 전해 [더팩트ㅣ이한림 기자] 손예진과 결혼 후 첫 작품을 선보이는 배우 현빈이 새 작품에 깊은 자신감을 보였다. 현빈은 16일 서울 영등포구 여의도 콘래드 호텔에서 열린 영화 '공조2: 인터내셔날'(이하 '공조2', 감독 이석훈) 제작보고회에 참석했다. 이날 행사에는 현빈을 비롯해 유해진, 다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FTHEFACT%2F20220816133755750chtb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["'공조2'엔 경쟁·우정·웃음 다 있다"[스경X현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220816133002937</link>
-            <guid>https://v.daum.net/v/20220816133002937</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“속편으로 이어지는 시리즈물이 되려면 사랑받는 캐릭터가 있어야 한다고 생각합니다. 전편 캐릭터가 크게 사랑을 받았고, 그 뒷얘기를 궁금해하는 관객들이 속편을 만드는 원동력이 되었어요. 영화 ‘공조2: 인터내셔날’(이하 ‘공조2’)에선 전편의 남한형사, 북한형사 공조에 더해 FBI가 합류하는데요. 그들 사이 경쟁도, 우정도, 웃음도 있습니다. 또한 ‘민영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fsportskhan%2F20220816133004093vcma.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 이정재X정우성 '헌트', 7일차 200만 관객 돌파..올여름 가장 완벽한 흥행 사냥꾼 등극 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220816132027681</link>
-            <guid>https://v.daum.net/v/20220816132027681</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 첩보 영화 '헌트'(이정재 감독, 아티스트스튜디오·사나이픽처스 제작)가 개봉 7일 차 200만 관객을 돌파했다. '헌트'가 영화관입장권 통합전산망 16일 오전 11시 42분 기준, 개봉 7일 차 호평 리뷰로 입소문을 모으며 200만 관객을 돌파했다. 개봉 이후 줄곧 박스오피스 1위 자리를 지키고 있는 '헌트'는 관객]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FSpoChosun%2F20220816132027765zsul.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이정재·정우성 '헌트' 개봉 7일차 200만 관객 돌파 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220816131927654</link>
-            <guid>https://v.daum.net/v/20220816131927654</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 배우 이정재의 감독 데뷔작인 ‘헌트’가 개봉 7일차에 200만 관객을 돌파했다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계 결과에 따르면 ‘헌트’는 이날 오전 11시 42분 기준 누적 관객수 200만 284명을 기록했다. 지난 10일 개봉한 ‘헌트’는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FEdaily%2F20220816131930452lyoq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['공조2' 유해진 "다니엘 헤니와 호흡? 이상했다, 왜 똑같은 마스크를.." 입담 [스타현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220816130001199</link>
-            <guid>https://v.daum.net/v/20220816130001199</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 여의도=김미화 기자] 배우 유해진, 현빈이 16일 오전 서울 콘래드호텔에서 진행된 영화 '공조2: 인터내셔날'(감독 이석훈) 제작발표회에 참석해 질문에 답하고 있다.  글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 림철령(현빈)과 남한 형사 강진태(유해진), 해외파 FBI 잭(다니엘 헤니)이 각자의 목적으로 뭉친 형사들의 예측불허 삼각 공조]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816130002853qjxh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[무인도에서의 6박 7일, 이 영화를 세 번 본 이유 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220815120900618</link>
             <guid>https://movie.v.daum.net/v/20220815120900618</guid>
@@ -2012,20 +2059,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fhankooki%2F20220816105436731rqkj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['공조2' 유해진 "다니엘 헤니와 호흡? 이상했다, 왜 똑같은 마스크를.." 입담 [스타현장] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220816130001199</link>
-            <guid>https://movie.v.daum.net/v/20220816130001199</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 여의도=김미화 기자] 배우 유해진, 현빈이 16일 오전 서울 콘래드호텔에서 진행된 영화 '공조2: 인터내셔날'(감독 이석훈) 제작발표회에 참석해 질문에 답하고 있다.  글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 림철령(현빈)과 남한 형사 강진태(유해진), 해외파 FBI 잭(다니엘 헤니)이 각자의 목적으로 뭉친 형사들의 예측불허 삼각 공조]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816130002853qjxh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['오마이 고스트' 정진운, 귀신보는 신입 FD로 변신..코믹 본능 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220816082629968</link>
             <guid>https://movie.v.daum.net/v/20220816082629968</guid>
             <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='오 마이 고스트' 정진운이 귀신 보는 신입 FD로 변신한다. 정진운은 영화  '오! 마이 고스트'(감독 홍태선)로 9월 관객을 만난다. '오! 마이 고스트'는 귀신 보는 스펙의 신입 FD '태민'과 갈 곳 없는 붙박이 귀신 '콩이'가 스튜디오 사수를 위해 미스터리한 사건에 맞서 벌이는 코미디. 일자리와 잠자리를 지키기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816082630262oajn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['공조2' 유해진 "다니엘 헤니와 호흡? 이상했다, 왜 똑같은 마스크를.." 입담 [스타현장] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220816130001199</link>
+            <guid>https://movie.v.daum.net/v/20220816130001199</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 여의도=김미화 기자] 배우 유해진, 현빈이 16일 오전 서울 콘래드호텔에서 진행된 영화 '공조2: 인터내셔날'(감독 이석훈) 제작발표회에 참석해 질문에 답하고 있다.  글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 림철령(현빈)과 남한 형사 강진태(유해진), 해외파 FBI 잭(다니엘 헤니)이 각자의 목적으로 뭉친 형사들의 예측불허 삼각 공조]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816130002853qjxh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[현빈 "♥손예진과 결혼→임신 후 복귀, 더 많이 노력해야"(공조2) (다음영화 뉴스 ─ 인기)]]></title>
@@ -2036,20 +2083,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fnewsen%2F20220816115825423ompm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[종합] '김삼순' 이후 17년, 현빈과 다니엘 헤니가 뭉쳤다..믿고 보는 유해진까지 최강 라인업 '공조2' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220816135302608</link>
-            <guid>https://movie.v.daum.net/v/20220816135302608</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=류예지 기자]속편으로 재회한 '공조2' 멤버들이 올 추석 관객들을 만날 준비를 마쳤다. 16일 서울 콘래드 서울에서 영화 '공조2: 인터내셔날' 제작보고회가 열렸다. 행사에는 배우 현빈, 유해진, 임윤아, 진선규와 이석훈 감독이 참석했다. 다니엘 헤니는 화상으로 참여했다. 이석훈 감독은 "촬영을 2월에 시작해서 야외보다는 실내 장면을 먼저 촬]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2F10asia%2F20220816135303811kenw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['라스베이거스를 떠나며' 피기스 감독 "영화의 본질은 음악·사운드" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220815180338238</link>
             <guid>https://movie.v.daum.net/v/20220815180338238</guid>
             <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] “영화에서 음악과 사운드는 관객에게 즉각적으로 감정을 불러일으키는 효과적 도구입니다. 아이들이 행복하게 노는 장면에 호러물에 쓸 음악만 넣어도 ‘뭔가 일어나겠다’는 느낌을 줄 수 있고, 에어컨이나 냉장고 소리 같은 일상적 소리의 볼륨만 키워도 공포감이 올라가죠. 영상만 해도 흑백·컬러, 명암, 줌 등 창작자의 선택지가 제한적이지만, 음악과 소]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F15%2Fseouleconomy%2F20220815180342460dvfh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1 ★]임윤아, 뷰티 유튜버 변신..천만 구독자 가능할 애교 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220816155023166</link>
+            <guid>https://movie.v.daum.net/v/20220816155023166</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 임윤아(소녀시대 윤아)가 사랑스러운 애교로 ‘공조2’ 제작보고회를 싹쓸이했다. 윤아는 이석훈 감독, 배우 현빈, 유해진, 진선규와 함께 16일 오전 서울 영등포구 여의도 콘래드 호텔에서 열린 영화 '공조2: 인터내셔날' 제작보고회에 참석해 작품에 관한 이야기를 나눴다. '공조2'(감독 이석훈)는 글로벌 범죄 조직을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FNEWS1%2F20220816155024416hdoa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합] '김삼순' 이후 17년, 현빈과 다니엘 헤니가 뭉쳤다..믿고 보는 유해진까지 최강 라인업 '공조2' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220816135302608</link>
+            <guid>https://movie.v.daum.net/v/20220816135302608</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자]속편으로 재회한 '공조2' 멤버들이 올 추석 관객들을 만날 준비를 마쳤다. 16일 서울 콘래드 서울에서 영화 '공조2: 인터내셔날' 제작보고회가 열렸다. 행사에는 배우 현빈, 유해진, 임윤아, 진선규와 이석훈 감독이 참석했다. 다니엘 헤니는 화상으로 참여했다. 이석훈 감독은 "촬영을 2월에 시작해서 야외보다는 실내 장면을 먼저 촬]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2F10asia%2F20220816135303811kenw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[고경표·이이경 '육사오', 엉뚱해도 밉지 않은 청춘 소동극 [시네마 프리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2068,20 +2123,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816115122409juvw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[홍종선의 배우발견㉛] 정우성의 직구, 이정재의 변화구..'헌트' vs '태양은 없다' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220816070159738</link>
-            <guid>https://movie.v.daum.net/v/20220816070159738</guid>
+            <title><![CDATA['공조2' 임윤아 "이젠 삼각관계, 잭에게 림철령 향한 마음 나눠줬다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220816123624791</link>
+            <guid>https://movie.v.daum.net/v/20220816123624791</guid>
             <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[23년 전 정우성은 도철이었고, 이정재는 홍기였다. 영화 ‘태양은 없다’에서였다. 그로부터 23년 후 정우성은 정도이고, 이정재는 평호다. 영화 ‘헌트’에서다. 각색하고 연출한 이정재 감독의 의도가 있었든 없든 도철과 정도, 홍기와 평호는 이어져 있다. 정우성은 스트레이트, 직구를 던지는 배우이고 이정재는 커브, 변화구를 던지는 배우다. 정우성은 직구로 도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fdailian%2F20220816070202267sppm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[공포의 존재 프레데터, 이번엔 제대로 담았다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220815063300835</link>
-            <guid>https://movie.v.daum.net/v/20220815063300835</guid>
-            <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] * 이 글에는 영화의 스포일러가 포함돼 있습니다. &nbsp;        ▲ &nbsp;영화 &lt;프레이&gt; 포스터    ⓒ  월트 디즈니 컴퍼니 코리아  &nbsp; &nbsp; 알&nbsp;수&nbsp;없는&nbsp;존재에&nbsp;대한&nbsp;두려움은&nbsp;늘&nbsp;인류의&nbsp;마음속에&nbsp;있었다.&nbsp;원시부족&nbsp;시절부터&nbsp;시작해&nbsp;현재까지도&nbsp;그것에&nbsp;대한&nbsp;원초적인&nbsp;두려움은&nbsp;없어지지&nbsp;않았다.&nbsp;그렇게 두려움은 우리 주변에 늘 자리하고 있지만 그것을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F15%2Fohmynews%2F20220815063302622keuf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠서울 | 김민지기자]배우 임윤아가 짝사랑부터 직업까지 업그레이드해서 돌아왔다. 임윤아는 16일 오전 서울 영등포구 콘래드 서울 그랜드볼룸에서 열린 제작발표회에서 “(‘공조’에서 함께했던 배우분들과)다시 만나게 됐다. 너무 반갑고 익숙한 느낌이 들더라. 그래서 더 편하게 촬영할 수 있었다”고 촬영 소감을 밝혔다. ‘공조2: 인터내]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FSPORTSSEOUL%2F20220816123626055qepk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[현빈 "손예진과 결혼·2세 소식, 달라진 건 없어..작품 사랑받길" [N현장] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2092,12 +2139,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FNEWS1%2F20220816120313088zxzx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['공조2' 임윤아 "이젠 삼각관계, 잭에게 림철령 향한 마음 나눠줬다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220816123624791</link>
-            <guid>https://movie.v.daum.net/v/20220816123624791</guid>
+            <title><![CDATA[[홍종선의 배우발견㉛] 정우성의 직구, 이정재의 변화구..'헌트' vs '태양은 없다' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220816070159738</link>
+            <guid>https://movie.v.daum.net/v/20220816070159738</guid>
             <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김민지기자]배우 임윤아가 짝사랑부터 직업까지 업그레이드해서 돌아왔다. 임윤아는 16일 오전 서울 영등포구 콘래드 서울 그랜드볼룸에서 열린 제작발표회에서 “(‘공조’에서 함께했던 배우분들과)다시 만나게 됐다. 너무 반갑고 익숙한 느낌이 들더라. 그래서 더 편하게 촬영할 수 있었다”고 촬영 소감을 밝혔다. ‘공조2: 인터내]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FSPORTSSEOUL%2F20220816123626055qepk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[23년 전 정우성은 도철이었고, 이정재는 홍기였다. 영화 ‘태양은 없다’에서였다. 그로부터 23년 후 정우성은 정도이고, 이정재는 평호다. 영화 ‘헌트’에서다. 각색하고 연출한 이정재 감독의 의도가 있었든 없든 도철과 정도, 홍기와 평호는 이어져 있다. 정우성은 스트레이트, 직구를 던지는 배우이고 이정재는 커브, 변화구를 던지는 배우다. 정우성은 직구로 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fdailian%2F20220816070202267sppm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['공조2' 다니엘 헤니 "현빈과 '김삼순' 이후 17년만의 재회 기뻤다" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220816120551937</link>
+            <guid>https://movie.v.daum.net/v/20220816120551937</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[8월 16일(화) 오전 11시 콘래드 서울에서는 영화 '공조2: 인터내셔날'의 제작보고회가 진행되었다. 이날 행사에는 배우 현빈, 유해진, 임윤아, 진선규, 이석훈 감독이 참석해 영화에 대해 이야기했다. 다른 일정으로 영상으로 인사를 한 다니엘 헤니는 "오랫동안 유해진의 팬이어서 너무 영광이었다. 현장에서 낚시 이야기도 많이 했었다. 임윤아와는 두번째]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2FiMBC%2F20220816120552768lhjx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['헌트' 1983년 대학생과 때아닌 '밀정 논란' (다음영화 뉴스 ─ 인기)]]></title>
@@ -2106,14 +2161,6 @@
             <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[하성태 기자] ▲ &nbsp;영화 &lt;헌트&gt; 스틸컷    ⓒ 메가박스중앙(주)플러스엠  &nbsp; "세상이 변하고 있는데… 난 아저씨처럼 살지 않을 거야." 흥행 1위를 달리고 있는 &lt;헌트&gt; 속 대학생 조유정(고윤정)의 대사다. 무심한 듯 자신을 물심양면 보살피는 12년 경력 안기부 해외 팀장 박평호(이정재)가 "나쁜 놈들과 어울리지 말라"고 충고하자 안타깝]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fohmynews%2F20220816104219934gwpc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['공조2' 현빈, 손예진과 결혼 후 첫 작품.."달라진 점 없어, 사랑 받길" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220816115859274</link>
-            <guid>https://movie.v.daum.net/v/20220816115859274</guid>
-            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 여의도=김미화 기자] 배우 현빈이 16일 오전 서울 콘래드호텔에서 진행된 영화 '공조2: 인터내셔날'(감독 이석훈) 제작발표회에 참석해 질문에 답하고 있다.  글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 림철령(현빈)과 남한 형사 강진태(유해진), 해외파 FBI 잭(다니엘 헤니)이 각자의 목적으로 뭉친 형사들의 예측불허 삼각 공조 수사를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F16%2Fstarnews%2F20220816115900319xhko.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["배우가 아니었으면?" 상상 펼치는 seezn <어나더 레코드: 이제훈> (다음 영화 ─ 매거진)]]></title>
