@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 08:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,22 @@
             <pubDate>Tue, 16 Aug 2022 07:18:46 GMT</pubDate>
             <content:encoded><![CDATA[22.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F192BC71E4B29B06258" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[잭과 콩나무]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117888</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117888</guid>
+            <pubDate>Wed, 17 Aug 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47376d63eccd11e48c34065b27d994fc14550d05" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔드 오브 더 로드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151514</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151514</guid>
+            <pubDate>Wed, 17 Aug 2022 08:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff11a52a8f53aab4c4537e82621a3055a9f5e0ef9" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
