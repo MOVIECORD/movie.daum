@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 04:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 17 Aug 2022 04:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Yearn]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5AqJ%2Fimage%2FxwXg6HyTQMhtuY2iBS4lLkwd6Wo.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '레이니 데이 인 뉴욕' 리뷰]]></title>
+            <link>https://brunch.co.kr/@@1lcG/2215</link>
+            <guid>https://brunch.co.kr/@@1lcG/2215</guid>
+            <pubDate>Wed, 17 Aug 2022 05:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최다함 문화소믈리에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1lcG%2Fimage%2FD_APQCXrnC5XsDAShoqxXNouiBA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[술 한잔 마셨습니다]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Aug 2022 06:29:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2Fy1kIehiRiygC1SPAPZJ4YRF5Kws.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[싸우는 관계는 유니콘인가봉가?]]></title>
-            <link>https://brunch.co.kr/@@9Kgq/10</link>
-            <guid>https://brunch.co.kr/@@9Kgq/10</guid>
-            <pubDate>Fri, 05 Aug 2022 06:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>여름]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9Kgq%2Fimage%2Ft0kovt-e9H5TlH9zyX9rbioPmJM.PNG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
