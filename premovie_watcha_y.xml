@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-08-17T02:27:37.959Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 Aug 2022 04:23:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온리 포 유]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=82194</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=82194</guid>
+            <pubDate>Wed, 17 Aug 2022 04:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26276136537C07581B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[광란의 사랑]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=15282</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=15282</guid>
+            <pubDate>Wed, 17 Aug 2022 04:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F15110210A913F5513D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[플라이 미 투 더 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=75383</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=75383</guid>
+            <pubDate>Wed, 17 Aug 2022 04:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F21635947528E3D9F38" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
