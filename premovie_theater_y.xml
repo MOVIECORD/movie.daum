@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 11:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 12:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358e7c2af22c7e5c93e91253a9be82e553b2305c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 할로윈의 신부]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159461</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159461</guid>
-            <pubDate>Tue, 12 Jul 2022 23:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa6da7c2f245e8bf1c7b805df332e85ff14cc66" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[외계+인 1부]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139606</guid>
             <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
             <content:encoded><![CDATA[22.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[명탐정 코난: 할로윈의 신부]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159461</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159461</guid>
+            <pubDate>Tue, 12 Jul 2022 23:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa6da7c2f245e8bf1c7b805df332e85ff14cc66" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 살아남기 시리즈: 인체에서 살아남기]]></title>
@@ -160,12 +160,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e56366cc091af9e955bc75c4442239f0addc39f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[베르히만 아일랜드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152002</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152002</guid>
-            <pubDate>Wed, 17 Aug 2022 11:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[오싹한 동거]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160229</guid>
+            <pubDate>Wed, 17 Aug 2022 12:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.17]]></content:encoded>
         </item>
     </channel>
 </rss>
