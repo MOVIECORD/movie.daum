@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 12:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 13:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -790,20 +790,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02ef8515570b2950e9f24d663cae807e7f40b5f2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[놉 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152386</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152386</guid>
-            <pubDate>Wed, 17 Aug 2022 02:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72b4fc6907bd4584c844f167e2a816c848e16286" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[한산: 용의 출현 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139666</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139666</guid>
             <pubDate>Sat, 09 Jul 2022 16:29:20 GMT</pubDate>
             <content:encoded><![CDATA[22.07.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90bf775c4d0c24fa67e977aa589bb6fffdda5fe8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[놉 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152386</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152386</guid>
+            <pubDate>Wed, 17 Aug 2022 02:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72b4fc6907bd4584c844f167e2a816c848e16286" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -870,14 +870,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31aa8d90be40312dbefd1b210e89c525f77b72b8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
-            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[파로호 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157755</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157755</guid>
@@ -892,6 +884,14 @@
             <pubDate>Wed, 13 Jul 2022 02:08:39 GMT</pubDate>
             <content:encoded><![CDATA[22.07.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358e7c2af22c7e5c93e91253a9be82e553b2305c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
+            <pubDate>Wed, 29 Jun 2022 04:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[히즈 아웃 데어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2068,6 +2068,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5cfa986c80cd2e2ed35d8eec5c2079d04411c5c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[친절한 빵 아저씨는 어디로? 에이전시가 망친 브래드피트 입국 현장 [박준형의 ZZOOM] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220818223034973</link>
+            <guid>https://v.daum.net/v/20220818223034973</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=인천국제공항,박준형 기자] 몰상식한 에이전시의 통제구역 난입이 빵 아저씨의 명성에 먹칠을 남겼다.&nbsp; 배우 브래드 피트는 18일 오후 인천국제공항을 통해 영화 '불릿 트레인' 홍보차 내한했다.&nbsp; 그가 도착하기 몇시간 전부터 8년만에 방한하는 브래드 피트를 취재하기 위해 취재진들과 팬들이 모였다. 최근 방한한 톰 크루즈처럼 다정한 팬서비스를 기대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fpoctan%2F20220818223034411baot.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[라미란 도지사 도전! 진실의 입 컴백 (정직한 후보2) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220818220011521</link>
+            <guid>https://v.daum.net/v/20220818220011521</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 라미란 도지사 도전! 진실의 입 컴백 (정직한 후보2) 영화 ‘정직한 후보2’ 라미란의 캐릭터 스틸이 공개됐다. ‘정직한 후보2’는 ‘진실의 입’ 주상숙이 정계 복귀를 꿈꾸며 벌어지는 좌충우돌 코미디. 공개된 캐릭터 스틸은 서울시장 선거에서 떨어지며 쫄딱 망한 백수가 된 전 국회의원 ‘주상숙’부터, 우연한 기회로 다시 도지사라는 타이틀을 거머]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fsportsdonga%2F20220818220013556xxfl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[정체불명.. 미지의 습격.. 눈 마주치지마라 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220818200603023</link>
             <guid>https://v.daum.net/v/20220818200603023</guid>
@@ -2212,22 +2228,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fnewsen%2F20220818153755587rrrk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['블랙폰' 에단 호크가 선사하는 예측 불가 공포 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220818151420641</link>
-            <guid>https://v.daum.net/v/20220818151420641</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[블룸하우스와 '닥터 스트레인지' 스콧 데릭슨 감독의 2022년 가장 충격적인 호러 '블랙폰' 이 보도스틸을 전격 공개했다. [원제: The Black Phone┃감독: 스콧 데릭슨┃출연: 에단 호크, 메이슨 테임즈, 매들린 맥그로 외┃수입/배급: 유니버설 픽쳐스┃개봉: 2022년 9월 7일] 북미 개봉 이후 한화 2,000억 원을 뛰어넘는 글로벌 흥행]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2FiMBC%2F20220818151421602dmtm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화속 거기가 '여기'..흥행대작 곳곳에 '강원도' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220818150104993</link>
-            <guid>https://v.daum.net/v/20220818150104993</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강원 곳곳에서 촬영한 영화들이 박스오피스 상위권에 오르며 극장가를 뜨겁게 달구고 있다. 18일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘헌트’는 전날 관객 12만3191명(누적 221만9436명)을 동원해 박스오피스 1위를 기록했다. 개봉일인 지난 10일부터 8일 연속 박스오피스 선두를 지키고 있는 ‘헌트’는 강원영상위원회로부터 제작비를 지원받아 춘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fseoul%2F20220818150105948pckr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[아들 수영 코치와 재혼한 아내, 리모컨이 가져온 화근 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220818095707911</link>
             <guid>https://movie.v.daum.net/v/20220818095707911</guid>
@@ -2268,28 +2268,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fdailian%2F20220818161702744ojcz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박훈, '한산' 이어 '공조2'까지..흥행 연타 정조준 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220818111030155</link>
-            <guid>https://movie.v.daum.net/v/20220818111030155</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박훈이 '공조2: 인터내셔날'에 합류한다. '한산: 용의 출현'에 이어 또 한 번 흥행포를 쏘아올린다. 9월 7일 개봉하는 영화 '공조2: 인터내셔날'(이하 '공조2'/감독 이석훈)은 글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 '림철령'(현빈 분)과 남한 형사 '강진태'(유해진 분), 여기에 뉴페이스 해외파 FBI '잭'(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fnewsen%2F20220818111030958lddu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['헌트' 포악한 권력의 횡포 속 제 삶을 살아가는 사람들의 이야기 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220818165400706</link>
             <guid>https://movie.v.daum.net/v/20220818165400706</guid>
             <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[양선영 기자] 숨가쁘게 흘러간다. 찰나를 놓칠세라 집중을 하건만, 간첩 '동림'의 정체를 밝히기 위해 고군분투하는 사람들과 난무하는 정보 속에서 세밀한 조각 맞추기가 쉽지 않다. 쫓고 쫓기는 인물들의 심리로 장면과 장면 사이의 긴박감은 유지되지만, 빠르고 많은 대사들이 타버린 문서처럼 내용을 제대로 담아내지 못하는 것이 못내 아쉽다. 치밀해야 할 조직 사]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fohmynews%2F20220818165404646pqvj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[4년간 전투같았던 출퇴근, 진짜 위기가 찾아왔다 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220818154802035</link>
-            <guid>https://movie.v.daum.net/v/20220818154802035</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;풀타임&gt; 포스터 이미지    ⓒ ㈜슈아픽처스  &nbsp; 이 영화는 극사실주의 스릴러다 &lt;풀타임&gt;을 독립예술영화 반열에 놓고 소개한다는 게 과연 적절한 분류일지 고민스럽다. 아니 '세계 3대 영화제' 중 하나로 손꼽히는 베니스국제영화제에서도 알짜배기인 감독상과 여우주연상 2관왕을 수상한, 그 예술성과 작품성이 이미 전 세]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fohmynews%2F20220818154808595ymvi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조던 필의 실패? '놉' 개봉 첫날부터 엇갈리는 평가 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2308,6 +2292,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fstarnews%2F20220818134602290mczb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[4년간 전투같았던 출퇴근, 진짜 위기가 찾아왔다 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220818154802035</link>
+            <guid>https://movie.v.daum.net/v/20220818154802035</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ &nbsp;영화 &lt;풀타임&gt; 포스터 이미지    ⓒ ㈜슈아픽처스  &nbsp; 이 영화는 극사실주의 스릴러다 &lt;풀타임&gt;을 독립예술영화 반열에 놓고 소개한다는 게 과연 적절한 분류일지 고민스럽다. 아니 '세계 3대 영화제' 중 하나로 손꼽히는 베니스국제영화제에서도 알짜배기인 감독상과 여우주연상 2관왕을 수상한, 그 예술성과 작품성이 이미 전 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fohmynews%2F20220818154808595ymvi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박훈, '한산' 이어 '공조2'까지..흥행 연타 정조준 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220818111030155</link>
+            <guid>https://movie.v.daum.net/v/20220818111030155</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박훈이 '공조2: 인터내셔날'에 합류한다. '한산: 용의 출현'에 이어 또 한 번 흥행포를 쏘아올린다. 9월 7일 개봉하는 영화 '공조2: 인터내셔날'(이하 '공조2'/감독 이석훈)은 글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 '림철령'(현빈 분)과 남한 형사 '강진태'(유해진 분), 여기에 뉴페이스 해외파 FBI '잭'(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fnewsen%2F20220818111030958lddu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["20분 단위로 액션 배치"..이정재 '헌트', 관객 사로잡은 비결 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220818134522055</link>
             <guid>https://movie.v.daum.net/v/20220818134522055</guid>
@@ -2322,6 +2322,14 @@
             <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘한산’ 속 박해일. 사진=롯데엔터테인먼트배우 박해일이 ‘제2의 전성기’를 맞았다. 2016년 영화 ‘덕혜옹주’ 이후 ‘남한산성’, ‘상류사회’, ‘나랏말싸미’ 등 주연작의 흥행 아쉬움을 드러낸 박해일이 올해 여름 연달아 선보인 ‘헤어질 결심’과 ‘한산: 용의 출현’(한산)으로 저력을 발휘하고 있다. 로맨스와 전쟁 사극이라는 전혀 다른 장르 작품의 동시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fsportsdonga%2F20220818065731286wfgg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[총알 피하며 개그 던지는 '빵형'..B급 감성 '불릿 트레인' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220818155049143</link>
+            <guid>https://movie.v.daum.net/v/20220818155049143</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탈 수는 있지만 내릴 수는 없는 초고속 열차 안에 세계 최고의 킬러들이 모였다. 일에 지쳐 심리상담을 받다가 복귀한 킬러 레이디버그(브래드 피트)는 교토행 초고속 열차에서 거액이 든 가방을 가지고 내리라는 임무를 전달받는다. 자신이 불운을 타고났다는 생각에 사로잡힌 레이디버그는 일이 그렇게 간단히 마무리되진 않을 거라는 불안감을 떨치지 못한다. 예상은 적중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fkukminilbo%2F20220818155051042hxcv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[Y초점] 입소문이 곧 흥행 성적표.. 사라진 스타 파워와 영화제 수상 효과 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2340,12 +2348,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fstarnews%2F20220818105701781biqd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[총알 피하며 개그 던지는 '빵형'..B급 감성 '불릿 트레인' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220818155049143</link>
-            <guid>https://movie.v.daum.net/v/20220818155049143</guid>
+            <title><![CDATA['나의 해방일지' 염창희의 그 영화 속 여배우 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220818145700794</link>
+            <guid>https://movie.v.daum.net/v/20220818145700794</guid>
             <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탈 수는 있지만 내릴 수는 없는 초고속 열차 안에 세계 최고의 킬러들이 모였다. 일에 지쳐 심리상담을 받다가 복귀한 킬러 레이디버그(브래드 피트)는 교토행 초고속 열차에서 거액이 든 가방을 가지고 내리라는 임무를 전달받는다. 자신이 불운을 타고났다는 생각에 사로잡힌 레이디버그는 일이 그렇게 간단히 마무리되진 않을 거라는 불안감을 떨치지 못한다. 예상은 적중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fkukminilbo%2F20220818155051042hxcv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김성호 기자] ▲ 리턴 투 파라다이스&nbsp;포스터    ⓒ 20세기 폭스  &nbsp; 박해영 작가의 드라마 &lt;나의 해방일지&gt; 마지막회에서 한 영화 이야기가 시청자들을 사로잡았다. 제목은 &lt;리턴 투 파라다이스&gt;, 한국에선 본 사람 얼마 없는 조셉 루벤의 1998년작이다. 드라마 속 인물인 염창희(이민기 분)가 어찌나 절절하게 이 영화 이야기를 했는지 적잖]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fohmynews%2F20220818145703652hggo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['범죄도시2'→'한산' 박지환, 누가 뭐래도 흥행 배우 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2364,12 +2372,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F17%2Fsportstoday%2F20220817111909786ojlx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['나의 해방일지' 염창희의 그 영화 속 여배우 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220818145700794</link>
-            <guid>https://movie.v.daum.net/v/20220818145700794</guid>
+            <title><![CDATA[[OTT다방] '우영우'만큼이나 이상했던 변호사 이야기..'세상을 바꾼 변호인' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220818183741224</link>
+            <guid>https://movie.v.daum.net/v/20220818183741224</guid>
             <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] ▲ 리턴 투 파라다이스&nbsp;포스터    ⓒ 20세기 폭스  &nbsp; 박해영 작가의 드라마 &lt;나의 해방일지&gt; 마지막회에서 한 영화 이야기가 시청자들을 사로잡았다. 제목은 &lt;리턴 투 파라다이스&gt;, 한국에선 본 사람 얼마 없는 조셉 루벤의 1998년작이다. 드라마 속 인물인 염창희(이민기 분)가 어찌나 절절하게 이 영화 이야기를 했는지 적잖]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fohmynews%2F20220818145703652hggo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 드라마 '이상한 변호사 우영우'(극본 문지원/연출 유인식, 이하 '우영우')가 종영을 맞았다. '우영우'는 신생 채널 작품으로는 경이롭다고 밖에 말할 수 없는 자체 최고 시청률 15.8%를 기록하며 드라마 역사에 새로운 자취를 남겼다. 다양한 신드롬과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fseouleconomy%2F20220818183747986bhhi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['카터' 주원, 2주 연속 넷플릭스 비영어 영화 부문 1위 "감사할 따름" (다음영화 뉴스 ─ 인기)]]></title>
@@ -2378,14 +2386,6 @@
             <pubDate>Wed, 17 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 배우 주원이 K-콘텐츠 주역으로 우뚝 섰다. 주원은 17일 소속사 스튜디오 산타클로스를 통해 넷플릭스 영화 '카터' 흥행 감사 소감을 전했다. 주원 주연의 '카터'는 넷플릭스 '글로벌 톱 10'차트에서 지난 5일부터 7일까지 3일간 2730만 시청 시간을 기록하며 비영어 영화 부문 단기간 1위에 등극한 데 이어, 공개 2주 차]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F17%2Fsportstoday%2F20220817191104880helk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT다방] '우영우'만큼이나 이상했던 변호사 이야기..'세상을 바꾼 변호인' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220818183741224</link>
-            <guid>https://movie.v.daum.net/v/20220818183741224</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 드라마 '이상한 변호사 우영우'(극본 문지원/연출 유인식, 이하 '우영우')가 종영을 맞았다. '우영우'는 신생 채널 작품으로는 경이롭다고 밖에 말할 수 없는 자체 최고 시청률 15.8%를 기록하며 드라마 역사에 새로운 자취를 남겼다. 다양한 신드롬과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fseouleconomy%2F20220818183747986bhhi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[1,300만 관객 동원한 '베테랑' 후속작의 빌런은 누구? (다음 영화 ─ 매거진)]]></title>
