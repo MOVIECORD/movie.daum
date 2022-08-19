@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 23:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 02:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이지 않는 내부의 적]]></title>
+            <link>https://brunch.co.kr/@@9DC2/9</link>
+            <guid>https://brunch.co.kr/@@9DC2/9</guid>
+            <pubDate>Fri, 19 Aug 2022 02:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아스탄]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9DC2%2Fimage%2FpJZYBJlUqRjzK17Mj8P57Q-SkxA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[<놉> 예측할 수 없는 공포 다양한 해석]]></title>
             <link>https://brunch.co.kr/@@6dyt/855</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 Aug 2022 04:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>편성준]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5a4M%2Fimage%2FjkFdo73gTPbTY01F9cjjhqBkJN4.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[비상선언 리뷰. 쫄깃한 전반전 흩날리는 후반전]]></title>
-            <link>https://brunch.co.kr/@@8EUf/551</link>
-            <guid>https://brunch.co.kr/@@8EUf/551</guid>
-            <pubDate>Wed, 03 Aug 2022 05:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FQ7SP0f6ZqSRd0vuaV07dcdQ4qcE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
