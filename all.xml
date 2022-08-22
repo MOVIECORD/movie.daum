@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 02:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 04:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=134717</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134717</guid>
             <pubDate>Mon, 18 Jul 2022 05:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,020,699명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,020,681명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F703122e5e7642b0f0c1403aacda268d39b7aa406" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
             <pubDate>Thu, 02 Jun 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,865,815명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,865,814명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -164,7 +164,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
             <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,212,172명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,212,170명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -292,7 +292,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=134717</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134717</guid>
             <pubDate>Mon, 18 Jul 2022 05:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,020,699명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,020,681명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F703122e5e7642b0f0c1403aacda268d39b7aa406" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -830,20 +830,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
-            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[풀타임 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153278</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153278</guid>
             <pubDate>Fri, 05 Aug 2022 04:05:27 GMT</pubDate>
             <content:encoded><![CDATA[22.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa811485db98cb750556a9c5597c5cd74e9bbaf33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
+            <pubDate>Wed, 20 Jul 2022 02:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[녹턴 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1006,6 +1006,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faffde7082f0bdad23ff6069d7dda4beb93a64838" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[코코순이 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152852</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152852</guid>
+            <pubDate>Thu, 18 Aug 2022 02:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffbf26e4f2b5e51018e9854175554d23f1bd6dc7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[어웨이크 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162275</guid>
@@ -1022,20 +1030,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ef440c390765a76efeb2421baaeb0cfa3ddb200" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[코코순이 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152852</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152852</guid>
-            <pubDate>Thu, 18 Aug 2022 02:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffbf26e4f2b5e51018e9854175554d23f1bd6dc7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔젤 하트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2029</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2029</guid>
             <pubDate>Tue, 16 Aug 2022 23:21:39 GMT</pubDate>
             <content:encoded><![CDATA[22.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc90998a344824c14386bf549dbb2856d219b4933" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[썬다운 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153226</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153226</guid>
+            <pubDate>Thu, 18 Aug 2022 02:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcb01dbb4d06b259aad785f851a0b1fb6be06a2bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[내가 못 나가는 것도 아닌데 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1070,14 +1078,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe274ab0e4f790368efccc8ba04b6eb57050b421d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[썬다운 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153226</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153226</guid>
-            <pubDate>Thu, 18 Aug 2022 02:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcb01dbb4d06b259aad785f851a0b1fb6be06a2bf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노스맨 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156563</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156563</guid>
@@ -1086,20 +1086,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F615b045d2ef37cab17a423fb48b3f7401e5951c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[한여름밤의 재즈 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135830</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135830</guid>
+            <pubDate>Mon, 22 Aug 2022 04:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd44eea1331bb2395966823b243c537f4d6c367f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[귀멸의 칼날: 장구저택 편 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161277</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161277</guid>
             <pubDate>Thu, 18 Aug 2022 02:27:49 GMT</pubDate>
             <content:encoded><![CDATA[22.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아리아 : 더 베네디지오네 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156094</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156094</guid>
-            <pubDate>Sun, 21 Aug 2022 21:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee6fbaed56e436e5c65b1d917a8c5880b6b00eec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오월천의 인생무한공사 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1932,6 +1932,94 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F10746845f091a1135eb4b80f2b86f3d799ed0f62" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[정재성, 탄탄한 연기력 미친 존재감 [헌트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822130102273</link>
+            <guid>https://v.daum.net/v/20220822130102273</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김수진 기자] 배우 정재성/사진제공=인연엔터테인먼트배우 정재성이 영화 '헌트'를 통해 강렬한 존재감을 발산해 관객들을 사로잡고 있다. 지난 10일 개봉된 '헌트'는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 박평호(이정재 분)와 김정도(정우성 분)가 '대한민국 1호 암살 작전'이라는 거대한 사건에 직면하며 펼쳐지는 첩]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fstarnews%2F20220822130105895dsft.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서울대작전' 앙상블 포스터 '빵꾸팸' 환상 팀플레이 온다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822124915914</link>
+            <guid>https://v.daum.net/v/20220822124915914</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] '서울대작전' 앙상블 포스터가 공개됐다. 넷플릭스 영화 '서울대작전'은 1988년, 아메리칸 드림을 꿈꾸는 상계동 슈프림팀이 거부할 수 없는 제안을 받고 VIP 비자금 수사 작전에 투입되면서 벌어지는 카체이싱 액션 질주극. 공개된 앙상블 포스터는 ‘대형 빵꾸사’를 배경으로 환하게 미소 짓고 있는 상계동 슈프림팀의 모습을 담고 있어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fnewsen%2F20220822124915241fmlk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유니콘' 원진아 "코믹시트콤 첫 도전..너그럽게 봐주길" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822123218399</link>
+            <guid>https://v.daum.net/v/20220822123218399</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 여의도=김미화 기자] 배우 원진아가 22일 오전 서울 여의도 콘래드호텔에서 진행된 쿠팡플레이 오리지널 드라마 '유니콘' 제작발표회에 참석해 인사말을 하고 있다.  은은하게 돌아있는 ‘맥콤’의 CEO 스티브(신하균)와 크루들의 대혼돈 K-스타트업 분투기 '유니콘'은 오는 26일 공개된다. /2022.08.22 /사진=이동훈 기자 photoguy@]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fstarnews%2F20220822123220271zeig.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유니콘' 유병재 "'와, 내가 이걸 썼네'..스스로 놀랄 정도로 재밌다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822122354104</link>
+            <guid>https://v.daum.net/v/20220822122354104</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 여의도=김미화 기자] 유병재 작가가 22일 오전 서울 여의도 콘래드호텔에서 진행된 쿠팡플레이 오리지널 드라마 '유니콘' 제작발표회에 참석해 인사말을 하고 있다.  은은하게 돌아있는 ‘맥콤’의 CEO 스티브(신하균)와 크루들의 대혼돈 K-스타트업 분투기 '유니콘'은 오는 26일 공개된다. /2022.08.22 /사진=이동훈 기자 photoguy@]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fstarnews%2F20220822122355583sfha.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['프린세스 아야' 백아연x박진영, 공주님·왕자님 됐다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822121550835</link>
+            <guid>https://v.daum.net/v/20220822121550835</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;판타지 뮤지컬 애니메이션 '프린세스 아야'가 감미로운 듀엣 OST를 담은 스페셜 뮤지컬 예고편을 최초 공개했다. 물로 변하는 저주를 가지고 태어난 아야 공주와 전쟁을 막고 평화를 지키려는 바리 왕자의 환상적인 사랑과 모험을 그린 판타지 뮤지컬 '프린세스 아야'(감독 이성강, 프로듀서 연상호・이동하, 제작 다다쇼・영화사레드피터,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fpoctan%2F20220822121550696ryve.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유니콘' 유병재 "신하균 덕후"..신하균 "알고 있다" 독특 케미 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822120815637</link>
+            <guid>https://v.daum.net/v/20220822120815637</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 여의도=김미화 기자] 신하균, 유병재 / 사진=이동훈 기자 유병재가 신하균에 대한 팬심을 고백했다. 22일 오전 서울 영등포구 여의도 콘래드 호텔에서 쿠팡플레이 시트콤 '유니콘' 제작보고회가 열렸다. 이날 행사에는 신하균, 원진아, 이유진, 김영아, 허준석, 이중옥, 배유람, 배윤경, 김욱, 김혜영 감독, 유병재 작가가 참석했다. 쿠팡플레]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fstarnews%2F20220822121131973aspi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['헤어질 결심', 오스카 수상 가능할까..美 매체 "아카데미 4개 부문 유력 후보" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822120604591</link>
+            <guid>https://v.daum.net/v/20220822120604591</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 미국 영화 전문 매체 인디와이어가 내년 아카데미 시상식 유력 후보들을 예측한 가운데 박찬욱 감독의 '헤어질 결심'이 주요 부문에 거론됐다. 인디와이어는 지난 18일(현지시간) 2023 오스카 시상식 예측 기사를 통해 각 부문별 유력 후보를 선정했다. '헤어질 결심'은 주요 4개 부문에 언급됐다. 먼저 감독상 후보로 '리빙]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2FSBSfunE%2F20220822120607792ntsm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] "톰 형 가고 빵 형 온다"..브래드 피트 '불릿 트레인', D-2 외화 예매 1위..'헌트' 맹추격 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822114359741</link>
+            <guid>https://v.daum.net/v/20220822114359741</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '불릿 트레인'(데이빗 레이치 감독)이 브래드 피트와 애런 테일러 존슨이 보여준 뜨거운 한국 사랑에 힘입어 폭발적인 호평 세례와 함께 외화 예매율 1위에 등극하며 흥행 질주의 시작을 알렸다. 영화관 입장권 통합전산망(22일 오전 9시 27분 기준)에 따르면 '불릿 트레인'이 외화 예매율 1위에 등극했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2FSpoChosun%2F20220822114359523mppq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 2021년 최고 화제작 '모가디슈', 9월 7일 추석 극장 재개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822113926538</link>
+            <guid>https://v.daum.net/v/20220822113926538</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 영화 '모가디슈'(류승완 감독, 덱스터스튜디오·외유내강 제작)가 오는 9월 7일 재개봉을 확정했다. 지난해 여름 361만명 이상의 관객들을 극장가로 불러모으며 한국 영화 최고 흥행작에 등극한 '모가디슈'가 내달 7일 재개봉을 확정 지었다. 앞서 '모가디슈'는 팬데믹 기간 가장 강도 높은 사회적 거리두기 단계가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2FSpoChosun%2F20220822113926807yqfw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['수리남' 추석 연휴 공개..전세계 시청자 사로잡을까 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822112437744</link>
+            <guid>https://v.daum.net/v/20220822112437744</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '수리남'이 전세계 시청자를 사로잡을지 주목된다. '수리남'(감독 윤종빈)은 남미 국가 수리남을 장악한 무소불위의 마약 대부로 인해 누명을 쓴 한 민간인이 국정원의 비밀 임무를 수락하며 벌어지는 이야기를 그린 넷플릭스 시리즈다. 본 적 없는 색채와 풍광 등 이국적인 볼거리가 가득한 '수리남'의 미술감독 김병한은 "실제 수리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fpoctan%2F20220822112438107lzbu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[류승완 감독→조인성 '모가디슈', 9월 7일 재개봉 확정.."작년 최고 흥행작" [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220822111514327</link>
+            <guid>https://v.daum.net/v/20220822111514327</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 류승완 감독의 '모가디슈'가 재개봉을 확정했다. '모가디슈'는 361만 명 이상의 관객을 동원, 지난해 한국 영화 최고 흥행작으로 등극한 작품. 코로나19 팬데믹 기간 가장 강도 높은 사회적 거리 두기 단계가 적용되는 시기에 개봉하였음에도 관객 몰이에 성공, 극장가의 버팀목 역할을 수행한 웰메이드 영화다. 오는 9월 7일 재]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fmydaily%2F20220822111514702bxdv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[고경표→음문석·곽동연 '육사오', 예매율 18.6% 전체 예매율 1위[공식] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220822110640894</link>
             <guid>https://v.daum.net/v/20220822110640894</guid>
@@ -2002,94 +2090,6 @@
             <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울|조은별기자]배우 이정재의 감독 데뷔작 영화 ‘헌트’가 300만 고지를 넘었다. 영화진흥위원회 영화관입장권통합전산망에 따르면, ‘헌트’는 21일 27만7642명을 동원해 누적 관객수 304만2160명을 기록했다. 아울러 개봉 이후 12일째 박스오피스 정상을 지켰다. ‘헌트’는 올해 여름 성수기 개봉된 한국 영화 중 ‘한산:용의 출현]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2FSPORTSSEOUL%2F20220822100222046jxab.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[세계로 뻗어나가는 '헌트' 이정재X정우성 월드 비주얼 포스터 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822100149128</link>
-            <guid>https://v.daum.net/v/20220822100149128</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 300만 돌파 '헌트'가 세계로 뻗어간다. 영화 '헌트'(감독 이정재)는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 ‘박평호’와 ‘김정도'가 '대한민국 1호 암살 작전'이라는 거대한 사건과 직면하며 펼쳐지는 첩보 액션 드라마. '헌트'는 제75회 칸 영화제 미드나잇 스크리닝을 통해 공식 초청된 이후 전 세]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fnewsen%2F20220822100151569hmxo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['헌트' 300만 돌파..이정재X정우성의 진심 통했다 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822100119102</link>
-            <guid>https://v.daum.net/v/20220822100119102</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='헌트' 영화 '헌트'가 누적관객수 300만 명을 돌파했다. 22일 영진위 영화관입장권 통합전산망에 따르면 '헌트'는 지난 21일 27만 7642명의 관객을 동원했다. 지난 10일 개봉해 누적관객수는 304만 2160명이다. '헌트'는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 '박평호'와 '김정]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fstarnews%2F20220822100121690pqhw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이정현, 실종아동 예방 홍보대사 위촉 "큰 힘 될 수 있었으면"[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822095633803</link>
-            <guid>https://v.daum.net/v/20220822095633803</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 이정현이 아동권리보장원 실종아동 예방 홍보대사로 위촉됐다. 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 소은(이정현 분)이 사건을 해결하던 도중 의문의 전화를 받으면서 최악의 위기에 빠지게 되는 범죄 스릴러 '리미트'(감독 이승준, 제공 제이앤씨미디어그룹, 제작 베러투모로우 나로픽처스 조이앤시네마,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fpoctan%2F20220822095633969rezw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["300만 돌파"..'헌트' 이정재x정우성, 월드 비주얼 포스터 공개[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822095048542</link>
-            <guid>https://v.daum.net/v/20220822095048542</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;연일 박스오피스 1위를 기록하며 언론과 관객의 뜨거운 호평으로 흥행 사냥을 이어가고 있는 영화 '헌트'가 월드 비주얼 포스터와 글로벌 예고편을 공개했다. 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부 요원 박평호(이정재 분)와 김정도(정우성 분)가 대한민국 1호 암살 작전이라는 거대한 사건과 직면하며 펼쳐지는 첩]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fpoctan%2F20220822095049909lvxr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['월드★' 이정재, 대박 행보 어디까지..'헌트', 12일만 '300만 돌파' [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822094757430</link>
-            <guid>https://v.daum.net/v/20220822094757430</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '월드 스타' 이정재의 연출 데뷔작 '헌트'가 300만 관객을 돌파했다. 22일 영진위 영화관입장권 통합전산망 집계에 따르면 21일 오후 5시 42분께 '헌트'는 300만 관객을 넘어섰다. 오늘(22일) 7시 기준 누적 관객 수는 304만 2,161명이다. 이로써 '헌트'는 이달 10일 개봉 이후 단 12일 만에 300만 스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fmydaily%2F20220822094757944pimu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[고경표 '육사오' 예매율 1위[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822092406448</link>
-            <guid>https://v.daum.net/v/20220822092406448</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[올여름 유일한 코미디 영화 ‘육사오’가 오는 24일 개봉을 앞두고 전체 예매율 1위에 올랐다. 22일 영화관입장권 통합전산망에 따르면 ‘육사오’는 오전 8시 20분 기준, 실시간 예매율 18.1%를 기록하며 1위를 차지했다. 영화는 바람을 타고 군사분계선을 넘어가버린 57억 1등 로또를 둘러싼 남북 군인들간의 코믹 접선극. 8월 극장가 마무리 투수로의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fstartoday%2F20220822092408620vmfp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['정직한 후보2' 라미란→박진주, 업그레이드된 '주둥이 대폭발' 코미디[Oh!쎈 예고] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822091916289</link>
-            <guid>https://v.daum.net/v/20220822091916289</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '정직한 후보2'가 새롭게 합류한 뉴 페이스들과 함께 더 강력한 웃음 폭탄을 들고 관객들을 찾는다. '코미디의 제왕' 라미란이 다시 한번 선택한 영화 '정직한 후보2'(감독 장유정, 제공배급 NEW, 제작 수필름・홍필름)가 9월 극장가에 한층 더 강력해진 웃음을 선사할 예정이다. '정직한 후보2'는 ‘진실의 주둥이’ 주상숙]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fpoctan%2F20220822091916296lbca.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['헌트' 2주 연속 주말 1위, 300만 돌파 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822091914285</link>
-            <guid>https://v.daum.net/v/20220822091914285</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '헌트'가 박스오피스 1위를 기록했다. 22일 영화진흥위원회 통합전산망에 따르면 영화 '헌트'(감독 이정재·제작 아티스트스튜디오)가 지난 주말 71만4748명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 304만2160명이다. '헌트'는 조직 내 숨어든 스파이를 색출하기 위해 서로를 의심하는 안기부]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Ftvdaily%2F20220822091919694otif.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[드웨인 존슨 DC영화 '블랙아담' 10월 韓개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822091620188</link>
-            <guid>https://v.daum.net/v/20220822091620188</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 드웨인 존슨이 주연을 맡은 DC유니버스 신작 '블랙 아담'이 10월 개봉한다. 22일 워너브라더스 코리아는 이 같은 소식을 전했다. '블랙 아담'은 5000년 전 고대 도시 칸다크의 노예로 살다가 그 누구도 막을 수 없는 불사신으로 깨어난 블랙 아담이 자신만의 방식으로 정의를 구현하기 위해 나서는 이야기를 그린 영화. 블랙 아담은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fstarnews%2F20220822091622235kdsx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[현빈X다니엘 헤니, '김삼순' 이후 17년만에 재회 "기쁘고 반가워" ('공조2') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822090429761</link>
-            <guid>https://v.daum.net/v/20220822090429761</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;남북 최초의 비공식&nbsp;공조수사라는 신선한 설정과 현빈, 유해진의 유쾌한 케미로 흥행 돌풍을 일으킨 영화 '공조'의 속편 '공조2: 인터내셔날'(제공/배급: CJ ENM | 제작: ㈜JK필름 | 공동제작: CJ ENM, 영화사 창건 | 감독: 이석훈)의 현빈과 다니엘 헤니가 드라마 '내 이름은 김삼순'에&nbsp;이어 한층 성숙해진 케미스트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fpoctan%2F20220822090430769puiz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 흥행작 '모가디슈', 9월 7일 극장 재개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220822090323735</link>
-            <guid>https://v.daum.net/v/20220822090323735</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;지난해 한국영화 최고 흥행작으로 팬데믹 기간 극장가 버팀목 역할을 수행한 웰메이드 영화 ‘모가디슈’가 내달 극장 재개봉을 확정지었다. ‘모가디슈’(감독 류승완, 제공배급 롯데엔터테인먼트, 제작 덱스터스튜디오・외유내강)는 1991년 소말리아의 수도 모가디슈에서 내전으로 인해 고립된 사람들의 생사를 건 탈출을 그린 이야기를 그린다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Fpoctan%2F20220822090323642dwnq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[TEN인터뷰] "모친상으로 죽은 뒤 새롭게" 고경표, 89kg까지 증량→행복의 할당량 (다음영화 뉴스 ─ 인기)]]></title>
@@ -2188,14 +2188,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F21%2Fohmynews%2F20220821092401855skfh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[뉴스1 ★]브래드 피트, 45분 지각한 '핑크 빵형'..마지막까지 팬 서비스 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220820122435003</link>
-            <guid>https://movie.v.daum.net/v/20220820122435003</guid>
-            <pubDate>Sat, 20 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 할리우드 배우 브래드 피트가 내한 행사에 45분 지각했다. 브래드 피트는 지난 19일 오후 서울 용산구 용산CGV에서 열린 영화 ‘불릿 트레인’(연출 데이빗 레이치) 레드카펫 행사에 애런 테일러 존슨과 함께 참석했다. 이날 브래드 피트는 행사 예정 시간 보다 무려 45분 늦은 오후 7시경에 모습을 드러냈다. 행사 관계자는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F20%2FNEWS1%2F20220820122437196lpla.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[청담부부 주연 '헌트' 개봉 12일째 관객 300만 돌파 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220821210230401</link>
             <guid>https://movie.v.daum.net/v/20220821210230401</guid>
@@ -2252,6 +2244,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F20%2Fmydaily%2F20220820171304030dxpg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['비상선언' 200만 동원..송강호→임시완 "감사합니다"[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220821075659748</link>
+            <guid>https://movie.v.daum.net/v/20220821075659748</guid>
+            <pubDate>Sun, 21 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;&nbsp;영화 '비상선언'이 200만 관객을 동원했다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계 기준 '비상선언'은 개봉 18일째인 어제(20일) 200만 1892명의 관객을 돌파했다.&nbsp; 영화 '비상선언'(감독 한재림,&nbsp;제공배급 쇼박스, 제작 MAGNUM 9 씨제스엔터테인먼트 씨네주)은 사상 초유의 항공테러로 무조건적 착륙을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F21%2Fpoctan%2F20220821075700328qvpc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[내년 아카데미상 유력 후보라는 박찬욱, 박해일, 탕웨이 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/x5LNc1Eu8e</link>
+            <guid>https://content.v.daum.net/v/x5LNc1Eu8e</guid>
+            <pubDate>Mon, 22 Aug 2022 04:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2FBoiledMovie%2F20220822132046285zvby.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼,출산으로 인해 4년 강제 휴식한 여성배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/QEgJlbv8MC</link>
+            <guid>https://content.v.daum.net/v/QEgJlbv8MC</guid>
+            <pubDate>Mon, 22 Aug 2022 04:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2Ffeelthemovie%2F20220822113403986yoff.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[현재 세계에서 가장 재미있다고 난리난 이 영화! 박찬욱 감독 극찬 작품! (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/YMbVIzhVe4</link>
             <guid>https://content.v.daum.net/v/YMbVIzhVe4</guid>
@@ -2289,7 +2305,7 @@
             <guid>https://content.v.daum.net/v/6zz5pOMT8R</guid>
             <pubDate>Mon, 22 Aug 2022 02:13:45 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F21%2FBoiledMovie%2F20220821204622185wrgp.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F22%2FBoiledMovie%2F20220822113053772lclm.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[공포영화 덕후들 기쁘게 하는 레전드 시리즈의 11년만의 귀환 (다음 영화 ─ 매거진)]]></title>
@@ -2396,28 +2412,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F19%2Ffeelthemovie%2F20220819102127311vpgs.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[정우성이 선구안 발휘해 출연 포기한 작품, 결과는.. (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/q1WTZ8NFFt</link>
-            <guid>https://content.v.daum.net/v/q1WTZ8NFFt</guid>
-            <pubDate>Fri, 19 Aug 2022 02:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F19%2Ffeelthemovie%2F20220819092023009ewxc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[1,300만 관객 동원한 '베테랑' 후속작의 빌런은 누구? (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/xe2EG9nXUs</link>
-            <guid>https://content.v.daum.net/v/xe2EG9nXUs</guid>
-            <pubDate>Thu, 18 Aug 2022 12:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2FBoiledMovie%2F20220818211232257orvc.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[<비상선언> 그 비행기는 어디로 가려던 걸까 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@9DC2/15</link>
             <guid>https://brunch.co.kr/@@9DC2/15</guid>
             <pubDate>Mon, 22 Aug 2022 02:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아스탄]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9DC2%2Fimage%2FHxbpgDIll_IQB98qJv2qCFVbzGU.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애가 최악인가, 사람이 최악인가 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@a7Xi/104</link>
+            <guid>https://brunch.co.kr/@@a7Xi/104</guid>
+            <pubDate>Mon, 22 Aug 2022 04:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2F9RaNfmTDD8A1XX8G9Sd3l2kALUE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['큐브' 일본에서 재탄생한 순한 맛 스릴러 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@49qz/429</link>
+            <guid>https://brunch.co.kr/@@49qz/429</guid>
+            <pubDate>Mon, 22 Aug 2022 04:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정지은 Jean]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F49qz%2Fimage%2FtlTZdme-wFrcT-mLB8ACUq8Kw4A.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[한산: 용의 출현, 우리는 왜 이순신을 그리워할까? (다음 영화 ─ 브런치)]]></title>
@@ -2554,22 +2570,6 @@
             <pubDate>Wed, 17 Aug 2022 02:27:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2F4MUPUxY87NiI-wSM6fUcGqcFdSc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[JIMFF 데일리]함께 현실을 바꾸는 천 명의 락커들 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5XLU/510</link>
-            <guid>https://brunch.co.kr/@@5XLU/510</guid>
-            <pubDate>Wed, 17 Aug 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FKMi7gloUbcHXFFpsPYrGAHgzGgs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어질 결심 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5AqJ/122</link>
-            <guid>https://brunch.co.kr/@@5AqJ/122</guid>
-            <pubDate>Wed, 17 Aug 2022 04:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Yearn]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5AqJ%2Fimage%2FxwXg6HyTQMhtuY2iBS4lLkwd6Wo.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
