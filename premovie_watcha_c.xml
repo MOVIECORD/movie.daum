@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,6 +229,14 @@
             <pubDate>Thu, 18 Aug 2022 02:28:14 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AC547DAF26" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘라의 계곡]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=44121</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=44121</guid>
+            <pubDate>Mon, 22 Aug 2022 07:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F173CB8284B0B760A3A" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
