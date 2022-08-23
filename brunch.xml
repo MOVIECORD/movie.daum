@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 02:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 04:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 23 Aug 2022 02:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXtR%2Fimage%2FZAWDQJLz16xXbSK5iLnUe19bigQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<헌트> 시대를 바꿀 개인의 역동성을 담은 액션의 향연]]></title>
+            <link>https://brunch.co.kr/@@5XLU/509</link>
+            <guid>https://brunch.co.kr/@@5XLU/509</guid>
+            <pubDate>Tue, 23 Aug 2022 04:48:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2Fq47x-EYM2sNaBbjH2vPTRX8-_vo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[불릿 트레인^키치한 열차 액션!]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 Aug 2022 06:33:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아쉬타카]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FzKf%2Fimage%2FJLBkNImsnZDr7-6MwmJqlxz3ghA.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화를 보고 나면 어딘가 붕괴된다.]]></title>
-            <link>https://brunch.co.kr/@@PJL/140</link>
-            <guid>https://brunch.co.kr/@@PJL/140</guid>
-            <pubDate>Fri, 19 Aug 2022 06:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김우중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FPJL%2Fimage%2FHt6R2DgbDjTE404cT5qhp88CHR8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
