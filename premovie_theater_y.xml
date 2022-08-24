@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 04:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 05:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f3e245d3d9b98f065c8b7ee9edeea9c3530e622" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[녹턴]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135405</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135405</guid>
-            <pubDate>Thu, 18 Aug 2022 02:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b82c11f02a87a4f21aedc32ec62c4698c3d8447" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[바다 탐험대 옥토넛 : 탐험선 대작전]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161896</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161896</guid>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 24 Aug 2022 02:21:28 GMT</pubDate>
             <content:encoded><![CDATA[22.08.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f70f4662f6690f27ce806c671628d77a65682f6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[녹턴]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135405</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135405</guid>
+            <pubDate>Thu, 18 Aug 2022 02:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b82c11f02a87a4f21aedc32ec62c4698c3d8447" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파로호]]></title>
