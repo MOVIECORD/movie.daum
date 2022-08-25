@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 04:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 25 Aug 2022 04:47:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유달리]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcCYI%2Fimage%2F5mwm58enqCeMgdp0m0DUJ3tQbGg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[멋진 세계]]></title>
+            <link>https://brunch.co.kr/@@dQWs/51</link>
+            <guid>https://brunch.co.kr/@@dQWs/51</guid>
+            <pubDate>Thu, 25 Aug 2022 05:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>문문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdQWs%2Fimage%2FHamzvA9tCmrp0bwGBuWfwsRjLvM" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <어톤먼트> 리뷰 (1)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Aug 2022 09:24:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최다함 문화소믈리에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1lcG%2Fimage%2FHbxjQ0mJkUwQ0XVtZYKvXeXAOkc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가에게 '헌트'가 또 다른 '태양은 없다'가 되길]]></title>
-            <link>https://brunch.co.kr/@@bIAQ/95</link>
-            <guid>https://brunch.co.kr/@@bIAQ/95</guid>
-            <pubDate>Wed, 24 Aug 2022 09:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>wise]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbIAQ%2Fimage%2FOqQfH0KS1vwMW9ssvXIXkTnIK7s.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
