@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 17:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 18:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffbf26e4f2b5e51018e9854175554d23f1bd6dc7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[큐브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155062</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155062</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faffde7082f0bdad23ff6069d7dda4beb93a64838" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[비상선언]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134717</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134717</guid>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 25 Aug 2022 12:45:40 GMT</pubDate>
             <content:encoded><![CDATA[22.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f3e245d3d9b98f065c8b7ee9edeea9c3530e622" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[큐브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155062</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155062</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faffde7082f0bdad23ff6069d7dda4beb93a64838" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험]]></title>
