@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 02:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <어톤먼트> 리뷰 (1)]]></title>
+            <link>https://brunch.co.kr/@@ccsE/47</link>
+            <guid>https://brunch.co.kr/@@ccsE/47</guid>
+            <pubDate>Thu, 25 Aug 2022 02:31:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고봉주 변호사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FccsE%2Fimage%2FK4usqUok0VnW34ETtDvWrNBWhQM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영화 <뱅크시> - 뱅크시를 좋아하게 되었다]]></title>
             <link>https://brunch.co.kr/@@24FD/355</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Aug 2022 09:24:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXtR%2Fimage%2FZAWDQJLz16xXbSK5iLnUe19bigQ.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<헌트> 시대를 바꿀 개인의 역동성을 담은 액션의 향연]]></title>
-            <link>https://brunch.co.kr/@@5XLU/509</link>
-            <guid>https://brunch.co.kr/@@5XLU/509</guid>
-            <pubDate>Wed, 24 Aug 2022 09:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2Fq47x-EYM2sNaBbjH2vPTRX8-_vo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
