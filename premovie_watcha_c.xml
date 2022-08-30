@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 02:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 04:57:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <pubDate>Thu, 25 Aug 2022 12:46:16 GMT</pubDate>
             <content:encoded><![CDATA[22.09.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb672b2c43407a4709f2b6873b13e1921138d56ec" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세상의 끝까지 21일]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69198</guid>
+            <pubDate>Tue, 30 Aug 2022 04:57:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2545004D51E7989F22" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
