@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 02:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 26 Aug 2022 12:44:36 GMT</pubDate>
             <content:encoded><![CDATA[22.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1352c29bb2bb170d6a1d3d9b8582882691b4201" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[둠둠]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154112</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154112</guid>
+            <pubDate>Thu, 01 Sep 2022 04:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e3274096fdf3ee0d5e25734a1ec94fcdf60519b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모가디슈]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Sep 2022 02:23:00 GMT</pubDate>
             <content:encoded><![CDATA[22.09.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdaa9874be063a2c7696b2ed90b76fd2e6d93d136" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[노후자금이 없어!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155228</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155228</guid>
-            <pubDate>Thu, 01 Sep 2022 02:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F675ec784f16eff50d0d88cf65a6f554f9eeed6c2" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
