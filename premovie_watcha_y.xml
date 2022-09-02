@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 02:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:50:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Thu, 01 Sep 2022 02:23:42 GMT</pubDate>
             <content:encoded><![CDATA[22.09.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa892516cefe2e5fe0639b8ed4369ce456c70caa8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽한 도쿄의 맛]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156317</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156317</guid>
+            <pubDate>Fri, 02 Sep 2022 04:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9aa2d13e5350a6bdb5a5db5a5a29850b8b2746ee" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
