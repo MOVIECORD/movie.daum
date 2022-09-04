@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 06:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 07:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,7 +219,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=158441</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158441</guid>
             <pubDate>Thu, 25 Aug 2022 12:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>133,255명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>133,246명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437fa6cda48627c99a6488ad19be09b03d858fa7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -805,20 +805,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9b0aaa6144724d4b373d4a980b2c51ad6d211cc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리미트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=140569</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=140569</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe0816537a35c7eda517bff2b0c5ec8b6070b3be6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[놉 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152386</guid>
             <pubDate>Thu, 25 Aug 2022 12:45:12 GMT</pubDate>
             <content:encoded><![CDATA[22.08.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72b4fc6907bd4584c844f167e2a816c848e16286" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리미트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=140569</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=140569</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe0816537a35c7eda517bff2b0c5ec8b6070b3be6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[명탐정 코난: 할로윈의 신부 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -869,14 +869,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F615b045d2ef37cab17a423fb48b3f7401e5951c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀멸의 칼날: 아사쿠사 편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161276</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161276</guid>
@@ -907,6 +899,14 @@
             <pubDate>Thu, 25 Aug 2022 12:45:22 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[외계+인 1부 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139606</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139606</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말아 (다음영화 영화관 ─ 현재상영)]]></title>
