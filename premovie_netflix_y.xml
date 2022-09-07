@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 02:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 05:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,22 @@
             <pubDate>Tue, 06 Sep 2022 04:56:41 GMT</pubDate>
             <content:encoded><![CDATA[22.10.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1340FB10AB95404B8E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로우]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=103880</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=103880</guid>
+            <pubDate>Wed, 07 Sep 2022 05:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.10.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0793e3c6a4e530cb1667058c17b5e9a96ed6e304" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[앰뷸런스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154784</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154784</guid>
+            <pubDate>Wed, 07 Sep 2022 05:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[22.10.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F112dd823e87e52a7203bb658c92cf86eb6237add" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
