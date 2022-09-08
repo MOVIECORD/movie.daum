@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 07:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e3274096fdf3ee0d5e25734a1ec94fcdf60519b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오! 마이 고스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
+            <pubDate>Thu, 08 Sep 2022 07:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[사랑은 비를 타고]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=3417</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=3417</guid>
@@ -128,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3bb3ac7ac6f3037c78cdf841bf64825ce58cbecc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[젊은 남자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=371</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=371</guid>
+            <pubDate>Thu, 08 Sep 2022 07:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1855934F4DC0180324" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엔드 오브 더 로드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151514</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151514</guid>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 07 Sep 2022 23:29:56 GMT</pubDate>
             <content:encoded><![CDATA[22.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb84c47c8c24f8b717499dba0b03aa5443de192ee" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[홈리스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141718</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141718</guid>
-            <pubDate>Wed, 07 Sep 2022 05:00:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F32311f0da74e30e79008d1c72e77f1015758ac34" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 이웃은 친절하지 않다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157567</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157567</guid>
-            <pubDate>Wed, 07 Sep 2022 23:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F113da30f195f95a4daf6df06586b30405ceb568f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
