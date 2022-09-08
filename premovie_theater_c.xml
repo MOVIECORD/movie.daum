@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 05 Sep 2022 09:24:46 GMT</pubDate>
             <content:encoded><![CDATA[22.09.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F784d18f4ffb62ef379436214c713145d11055e0f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인생은 아름다워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
+            <pubDate>Thu, 08 Sep 2022 02:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F292bb497493d7d227ecbf994742c1ff9f90f10bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[늑대사냥]]></title>
@@ -56,12 +64,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b11d696e4bab8507fc4d61c3070264b494e6844" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인생은 아름다워]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
-            <pubDate>Thu, 08 Sep 2022 02:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F292bb497493d7d227ecbf994742c1ff9f90f10bb" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[썬더버드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161329</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161329</guid>
+            <pubDate>Thu, 08 Sep 2022 06:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc781373f2c94cc2e9322f8f973dd9a3f4aef2234" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[둠둠]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Sep 2022 23:29:56 GMT</pubDate>
             <content:encoded><![CDATA[22.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F113da30f195f95a4daf6df06586b30405ceb568f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[테이크 나이트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162162</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162162</guid>
-            <pubDate>Wed, 07 Sep 2022 23:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffc8914684bb6bd62b125b35a9b40c449f3ff157e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
