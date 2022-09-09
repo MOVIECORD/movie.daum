@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 21:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 22:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,12 +216,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba2eec449d7be56fea29626cf133eb3cb5806bde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스트라튼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104397</guid>
+            <pubDate>Fri, 09 Sep 2022 22:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8209768cfed4ca45164a42fff64a9b4dde1434af" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[내추럴 셀렉션]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=104411</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=104411</guid>
             <pubDate>Tue, 06 Sep 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[22.09.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2264e64347cf3e3a9723d9aab4394422c68f4154" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레터스 투 갓]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=56880</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=56880</guid>
+            <pubDate>Fri, 09 Sep 2022 22:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bd40a42ca5af053537efb383b2490b26b6e950" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
