@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 02:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 04:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c34791317eefee49caec94c87a3b1bb24b0e8d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀멸의 칼날: 장구저택 편]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161277</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161277</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오! 마이 고스트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
@@ -56,20 +48,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프린세스 아야]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133335</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133335</guid>
-            <pubDate>Tue, 06 Sep 2022 13:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b11d696e4bab8507fc4d61c3070264b494e6844" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[9명의 번역가]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137162</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137162</guid>
             <pubDate>Fri, 02 Sep 2022 13:43:09 GMT</pubDate>
             <content:encoded><![CDATA[22.09.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F428e78d7e772725af5361657fce79d178c79a74b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 장구저택 편]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161277</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프린세스 아야]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133335</guid>
+            <pubDate>Tue, 06 Sep 2022 13:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b11d696e4bab8507fc4d61c3070264b494e6844" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[홈리스]]></title>
