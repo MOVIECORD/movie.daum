@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 14:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 15:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F292bb497493d7d227ecbf994742c1ff9f90f10bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159625</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159625</guid>
-            <pubDate>Wed, 07 Sep 2022 10:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e59327273cb5958f09929984ac86ba0b5264c48" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[늑대사냥]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155115</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155115</guid>
             <pubDate>Mon, 05 Sep 2022 13:46:59 GMT</pubDate>
             <content:encoded><![CDATA[22.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c34791317eefee49caec94c87a3b1bb24b0e8d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159625</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159625</guid>
+            <pubDate>Wed, 07 Sep 2022 10:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e59327273cb5958f09929984ac86ba0b5264c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비스트]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc781373f2c94cc2e9322f8f973dd9a3f4aef2234" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[기기묘묘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163244</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163244</guid>
-            <pubDate>Tue, 13 Sep 2022 07:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84f90d25731178806ab3336704cabfcf7a05e227" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[카고]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135030</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135030</guid>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 06 Sep 2022 23:26:15 GMT</pubDate>
             <content:encoded><![CDATA[22.09.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2039054ed6e799f825b64b3f83f88d9235e007e3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기기묘묘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163244</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163244</guid>
+            <pubDate>Tue, 13 Sep 2022 07:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84f90d25731178806ab3336704cabfcf7a05e227" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[젊은 남자]]></title>
