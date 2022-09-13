@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=162471</guid>
             <pubDate>Fri, 26 Aug 2022 12:44:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="screen_out">관객수</span>61,477명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1352c29bb2bb170d6a1d3d9b8582882691b4201" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F252b6d50e59e82a0d34a50c5d99708f5d8b14134" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
@@ -814,14 +814,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9b0aaa6144724d4b373d4a980b2c51ad6d211cc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[헌트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143289</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143289</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02ef8515570b2950e9f24d663cae807e7f40b5f2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 엄마 까투리: 도시로 간 까투리 가족 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162471</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162471</guid>
@@ -830,20 +822,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F252b6d50e59e82a0d34a50c5d99708f5d8b14134" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[헌트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143289</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143289</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02ef8515570b2950e9f24d663cae807e7f40b5f2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[블랙폰 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154394</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154394</guid>
             <pubDate>Fri, 26 Aug 2022 08:29:26 GMT</pubDate>
             <content:encoded><![CDATA[22.09.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05a6953431a2b8d38271b7ad80bd1e280a13d7f3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름밤의 재즈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135830</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135830</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd44eea1331bb2395966823b243c537f4d6c367f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[한산: 용의 출현 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -862,6 +854,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F111352a647a357d14be27a7f01b353c3b6007f45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[한여름밤의 재즈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135830</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135830</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd44eea1331bb2395966823b243c537f4d6c367f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아라시 20주년 투어 콘서트 5✕20 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161430</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161430</guid>
@@ -876,14 +876,6 @@
             <pubDate>Sun, 11 Sep 2022 12:43:12 GMT</pubDate>
             <content:encoded><![CDATA[22.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a2ca9089e90244641e3a93f157b5daea6aa0649" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158583</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158583</guid>
-            <pubDate>Fri, 26 Aug 2022 15:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5efd7100df7b44c235dc32c34c37d95d57332512" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[놉 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -918,12 +910,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[모가디슈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78b1640091eab12a09b8c2e881120e26993aecb1" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158583</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158583</guid>
+            <pubDate>Fri, 26 Aug 2022 15:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5efd7100df7b44c235dc32c34c37d95d57332512" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노스맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156563</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156563</guid>
+            <pubDate>Tue, 13 Sep 2022 06:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F615b045d2ef37cab17a423fb48b3f7401e5951c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인생은 아름다워 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -942,20 +942,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e59327273cb5958f09929984ac86ba0b5264c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비스트 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160889</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160889</guid>
-            <pubDate>Mon, 05 Sep 2022 09:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F784d18f4ffb62ef379436214c713145d11055e0f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[늑대사냥 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155115</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155115</guid>
             <pubDate>Mon, 05 Sep 2022 13:46:59 GMT</pubDate>
             <content:encoded><![CDATA[22.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c34791317eefee49caec94c87a3b1bb24b0e8d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비스트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160889</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160889</guid>
+            <pubDate>Mon, 05 Sep 2022 09:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F784d18f4ffb62ef379436214c713145d11055e0f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[홈리스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -966,20 +966,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F32311f0da74e30e79008d1c72e77f1015758ac34" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀멸의 칼날: 장구저택 편 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161277</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161277</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오! 마이 고스트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
             <pubDate>Thu, 08 Sep 2022 07:36:19 GMT</pubDate>
             <content:encoded><![CDATA[22.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 장구저택 편 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161277</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[9명의 번역가 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1012,6 +1012,14 @@
             <pubDate>Thu, 08 Sep 2022 06:05:46 GMT</pubDate>
             <content:encoded><![CDATA[22.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc781373f2c94cc2e9322f8f973dd9a3f4aef2234" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[카고 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135030</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135030</guid>
+            <pubDate>Thu, 08 Sep 2022 13:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb84c47c8c24f8b717499dba0b03aa5443de192ee" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑은 비를 타고 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1054,14 +1062,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3bb3ac7ac6f3037c78cdf841bf64825ce58cbecc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[카고 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135030</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135030</guid>
-            <pubDate>Thu, 08 Sep 2022 13:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb84c47c8c24f8b717499dba0b03aa5443de192ee" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[당신의 이웃은 친절하지 않다 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157567</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157567</guid>
@@ -1075,7 +1075,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=158095</guid>
             <pubDate>Thu, 08 Sep 2022 12:46:34 GMT</pubDate>
             <content:encoded><![CDATA[22.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e9cfb69b25802a55d0c5648fb3686078f3a12a5" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3e0fa9de93b8b90493ce8e50165206ecb36459c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[지금, 이대로가 좋아요 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1686,6 +1686,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bd40a42ca5af053537efb383b2490b26b6e950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[황동혁 감독 "시즌2 성기훈, 무거운 인물로 돌아온다" ('오징어 게임' 간담회) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220913151500530</link>
+            <guid>https://v.daum.net/v/20220913151500530</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=박설이 기자]'오징어 게임' 주역들이 수상 소감을 전했다. 제74회 에미상 6관왕을 차지한 '오징어 게임' 팀은 12일 오후(LA 현지시간) JW메리어트 LA에서 열린 프레스 간담회를 열고 황동혁 감독, 오영수, 이정재, 박해수, 정호연, 황동혁 감독, 김지연 사이런픽쳐스 대표가 참석해 소회를 밝혔다. '오징어 게임'은 지난 4일 열린 제74회]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Ftvreport%2F20220913151505235yvoi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[줄줄이 퇴짜 맞았는데..'오겜'으로 감독상 거머쥔 황동혁 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220913151201417</link>
+            <guid>https://v.daum.net/v/20220913151201417</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생애 첫 드라마의 각본을 쓰고 연출하느라 치아 6개가 빠졌다. 힘겹게 만든 9부작 드라마는 세계를 뒤흔들었다. 세계 최고 권위 TV상 시상식에까지 초대됐고, 감독상과 남우주연상을 거머쥐었다. 13일 넷플릭스 드라마 ‘오징어 게임’(2021)으로 비영어권 드라마 최초로 미국 에미상 드라마시리즈 부문 감독상을 수상한 황동혁(51) 감독의 영상 인생은 드라마 못]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fhankooki%2F20220913151207880qwda.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[강한 비트에 담긴, 미혼모의 고뇌 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220913150349117</link>
+            <guid>https://v.daum.net/v/20220913150349117</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;둠둠&gt; 공식 포스터.    ⓒ 영화사 진진  &nbsp; 강한 박자감을 상징하는 의성어 둠둠, 그 자체가 영화의 제목이 됐다. 음악의 기본 요소 중 하나인 리듬을 표현할 때 흔히 쓰는 이 의성어가 한 여성의 박복한 삶과 만난 결과는 어떨까. 오는 15일 개봉하는 영화 &lt;둠둠&gt;은 국내에선 흔하지 않은 디제이 관련 영화다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fohmynews%2F20220913150351792bdrs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[美 에미상 수상 이정재 스크린 데뷔작 '젊은 남자', 29일 재개봉 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220913150227044</link>
+            <guid>https://v.daum.net/v/20220913150227044</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 배우 이정재의 스크린 데뷔작인 영화 ‘젊은 남자’(The Young Man, 1994)가 28년 만에 디지털 리마스터링 버전으로 이달 재개봉을 확정했다. 특히 12일(현지시간) 이정재가 한국인 배우 최초로 미국 방송계 최고 권위 시상식인 에미상 남우주연상을 받은 만큼 재개봉이 의미하는 바가 크다. 오는 29일 재개봉하는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2FEdaily%2F20220913150233813tulu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재 에미상 주연상..황동혁 감독상까지 '오겜' 6관왕 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220913135827739</link>
+            <guid>https://v.daum.net/v/20220913135827739</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 사진=게티이미지코리아이정재 에미상 주연상…황동혁 감독상까지 ‘오겜’ 6관왕 [종합] 넷플릭스 오리지널 ‘오징어 게임’이 에미상을 휩쓸었다. 12일(현지시간) 미국 캘리포니아 로스앤젤레스 마이크로소프트 극장에서 개최된 제74회 프라임타임 에미상(Primetime Emmy Awards, 이하 에미상). ‘오징어 게임’은 이번 시상식에서 비영어권]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fsportsdonga%2F20220913135829546jdxl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC줌人] "다같이 만든 새로운 역사"..봉준호 이어 '1인치 장벽' 넘은 황동혁 감독은 누구 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220913135744711</link>
+            <guid>https://v.daum.net/v/20220913135744711</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 가장 밑바닥에 있는 사람들의 이야기로 '1인치의 장벽'을 넘어 최정상의 자리에 오른 황동혁 감독. 그가 한국 최초 그리고 아시아 최초로 미국 땅에 새로운 역사를 썼다. 황동혁 감독은 12일(현지 시각) 오후 열린 제74회 에미상 시상식에서 넷플릭스 오리지널 시리즈 '오징어 게임'으로 드라마 시리즈 부문 감독상을 수상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2FSpoChosun%2F20220913135744970nvxu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[고아원서 지옥 같은 생활 견뎌온 '이 사람'..할리우드서 인정받는 감독됐다 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220913134939443</link>
             <guid>https://v.daum.net/v/20220913134939443</guid>
@@ -1758,6 +1806,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fnewsen%2F20220913124201070zeap.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['인생은 아름다워' 4박자 관람 포인트는? #K-떼창영화 #연기앙상블 #공감스토리 #흥폭발 퍼포먼스 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220913124025958</link>
+            <guid>https://v.daum.net/v/20220913124025958</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[한국경제TV 디지털이슈팀 유병철  기자] ‘인생은 아름다워’가 전 세대 관객을 사로잡을 4박자 관람 포인트를 공개한다. ‘인생은 아름다워’는 자신의 생일선물로 첫사랑을 찾아 달라는 황당한 요구를 한 아내 세연(염정아)과 마지못해 그녀와 함께 전국 곳곳을 누비며 과거로의 여행을 떠나게 된 남편 진봉(류승룡)이 흥겨운 리듬과 멜로디로 우리의 인생을 노래]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fkedtv%2F20220913124026447cykb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['오징어 게임' 美 에미상 역사 썼다..비영어권 작품 최초 '6관왕'[종합] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220913122420749</link>
             <guid>https://v.daum.net/v/20220913122420749</guid>
@@ -1788,62 +1844,6 @@
             <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=/AFPBBNews=뉴스1=스타뉴스 '오징어 게임'의 이정재가 에미상 남우주연상을 수상했다. 12일(현지시간) 미국 캘리포니아주 로스앤젤레스 마이크로소프트 극장에서 제74회 프라임타임 에미상(74th Primetime Emmy Awards, 이하 에미상)의 시상식이 개최됐다. 이날 에미상 드라마 시리즈 부문 남우주연상(O]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fstarnews%2F20220913114730242isze.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['공조2' 손익분기점(350만) 돌파 눈앞..롱런 가능성은? [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220913114250596</link>
-            <guid>https://v.daum.net/v/20220913114250596</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 현빈과 유해진 주연 영화 '공조2:인터내셔날'이 추석 연휴 박스오피스에서 관객을 끌어모아 손익분기점 돌파를 눈앞에 뒀다. 13일 영진위 영화관입장권통합전산망에 따르면 '공조2'는 12일 73만 32329명을 동원해 지난 7일 개봉한 이래 누적 334만 4588명을 기록했다. '공조2'는 이번 추석 연휴 기간 동안 특별한 경쟁작 없]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fstarnews%2F20220913114252430xvsp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['글리치'·'욘더' 등 OTT 기대작 8편, 제27회 BIFF서 첫 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220913113709382</link>
-            <guid>https://v.daum.net/v/20220913113709382</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '글리치' '썸바디' '욘더' 등 OTT 기대작 9편이 제27회 부산국제영화제(이하 BIFF) 온 스크린 섹션에서 공개된다. 부산국제영화제 온 스크린 섹션은 온라인 동영상 스트리밍 플랫폼(Over the Top, 이하 OTT) 뿐만 아니라, 그 외의 플랫폼에서 방영될 화제의 드라마 시리즈를 월드 프리미어 혹은 아시안 프]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2FNEWS1%2F20220913113710896dxih.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[비슷한 나이대의 장모님·아내·딸.. 이 장면에 숨은 비밀 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220913112702891</link>
-            <guid>https://v.daum.net/v/20220913112702891</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 뉴키즈온더블록은 1992년 2월 내한공연 당시 엄청난 인파에 인명사고가 났을 정도로 국내외에서 선풍적인 인기를 끌었던 미국의 보이그룹이다. 하지만 빌보드 핫 100 차트 1위를 3곡이나 배출했던 뉴키즈온더블록의 멤버들은 1994년 활동 중단 이후 각자 성공적인 개인활동을 하지 못했다. 유명배우 마크 월버그의 형이자 &lt;식스센스&gt;, &lt;밴드 오브]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fohmynews%2F20220913112703476ncsy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보] '오겜' 황동혁 감독, 韓최초 에미상 감독상 수상 "마지막 에미 트로피 아니길" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220913112409769</link>
-            <guid>https://v.daum.net/v/20220913112409769</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 황동혁 감독 / 사진=/AFPBBNews=뉴스1=스타뉴스'오징어 게임'의 연출을 맡은 황동혁 감독이 에미상 감독상을 수상했다. 12일(현지시간) 미국 캘리포니아주 로스앤젤레스 마이크로소프트 극장에서 열린 제74회 프라임타임 에미상(74th Primetime Emmy Awards, 이하 에미상)의 시상식이 개최됐다. 이날 연출]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fstarnews%2F20220913114313665npzs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김호중 두번재 영화 '인생은 뷰티풀' 2만 관객 동원..2주차 굿즈 선물 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220913112129679</link>
-            <guid>https://v.daum.net/v/20220913112129679</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 고재완 기자] 김호중의 두 번째 극장 영화이자 이탈리아 음악 여행을 담은 클래식 공연 무비 '인생은 뷰티풀: 비타돌체'가 7일 CGV에서 단독 개봉된 뒤, 전 세대를 사로잡으며 추석 연휴를 강타했다. 김호중이 유학생활을 했던 이탈리아를 다시 찾아, 음악에 대한 애정을 되새기는 과정과 가슴에 쌓아두었던 그의 진솔한 속 이야기, 장엄]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2FSpoChosun%2F20220913112130030fnxt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이부 자매 공효진·신민아의 로드무비..'지금, 이대로가 좋아요' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220913105628461</link>
-            <guid>https://v.daum.net/v/20220913105628461</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 영화 '지금, 이대로가 좋아요' 공효진과 신민아가 디지털 리마스터링으로 14년 만에 재회한다. 13일 영화 '지금, 이대로가 좋아요'(감독 부지영) 측은 명주(공효진)와 명은(신민아) 자매의 여정을 담은 메인 포스터를 공개했다. '지금, 이대로가 좋아요'는 외모, 성격, 직업은 물론 아버지마저 다른 자매 명주와 명은이 오래전 자취를 감춘 명은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fseouleconomy%2F20220913105632392deij.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[숨 막히는 집, 그녀의 심장을 뛰게 하는 유일한 것 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220913104352994</link>
-            <guid>https://v.daum.net/v/20220913104352994</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] &nbsp;        ▲ &nbsp;영화 &lt;둠둠&gt; 스틸컷    ⓒ 영화사 진진  &nbsp; 하고 싶은 일을 하면서 살아가는 게 어려운 세상이다. 원하는 게 있어도 문제, 원하는 게 없어도 문제다. 그 분야가 문화 예술 계통이라면 더욱 힘들 것이다. 앞이 보이지 않는 미래, 좀처럼 기회가 찾아오지 않는 현실. 하고 싶은 것과 해야 하는 것과의 갈등. 그리고 필수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fohmynews%2F20220913104353976bjfw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2006,6 +2006,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[디즈니가 깜짝 공개한 BTS의 LA콘서트 현장, 5만 아미들의 열광! (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/00mfKj7AP7</link>
+            <guid>https://content.v.daum.net/v/00mfKj7AP7</guid>
+            <pubDate>Tue, 13 Sep 2022 06:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fmaxmovie%2F20220913150515841ajka.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 최고 배우 인증받은 이정재, 28년 전 그의 시작은 이랬다. (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/u4Hz3eZdqH</link>
+            <guid>https://content.v.daum.net/v/u4Hz3eZdqH</guid>
+            <pubDate>Tue, 13 Sep 2022 06:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fmaxmovie%2F20220913145633887qnnu.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[무명 시절 서울역에서 일주일 동안 노숙 했다는 톱배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/UTIJiO4IlI</link>
             <guid>https://content.v.daum.net/v/UTIJiO4IlI</guid>
@@ -2070,12 +2086,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F12%2FBoiledMovie%2F20220912155758750ajyq.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[여자친구 말 한마디에 부산에서 '돼지국밥' 포장해 온 남자 연예인 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[여자친구 위해 부산에서 '돼지국밥' 포장해 온 이벤트 장인이 따라하지말라는 이유 (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/tf2sSUEu8W</link>
             <guid>https://content.v.daum.net/v/tf2sSUEu8W</guid>
             <pubDate>Tue, 13 Sep 2022 02:36:51 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2FBoiledMovie%2F20220913094233687zect.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2FBoiledMovie%2F20220913142839286uwst.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['인디아나 존스'로 돌아오는 80대의 해리슨 포드 (다음 영화 ─ 매거진)]]></title>
@@ -2148,22 +2164,6 @@
             <pubDate>Thu, 08 Sep 2022 10:29:36 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F10%2FBoiledMovie%2F20220910154210989socq.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[군대를 너무 일찍 다녀와서 병역기피 걱정없는 스타 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/P1wB2HiH2o</link>
-            <guid>https://content.v.daum.net/v/P1wB2HiH2o</guid>
-            <pubDate>Thu, 08 Sep 2022 08:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Ffeelthemovie%2F20220908201355701tlab.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[두 스타가 열애설이 났는데..부인하지 않았던 이유 (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/qNTLQ3j3Wh</link>
-            <guid>https://content.v.daum.net/v/qNTLQ3j3Wh</guid>
-            <pubDate>Thu, 08 Sep 2022 07:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Ffeelthemovie%2F20220908154219395yfyy.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[우리나라 MCU의 재미 (다음 영화 ─ 브런치)]]></title>
