@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=147615</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147615</guid>
             <pubDate>Thu, 25 Aug 2022 12:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,611,214명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,611,212명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36f22dea0e0a9e0e626c549ce689558160c46ed4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -814,14 +814,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F360edc32c521d7536c31e167cfd3cf5f3fe4bc74" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오! 마이 고스트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
-            <pubDate>Thu, 08 Sep 2022 07:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[시맨틱 에러: 더 무비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161454</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161454</guid>
@@ -830,12 +822,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9b0aaa6144724d4b373d4a980b2c51ad6d211cc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[홈리스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141718</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141718</guid>
-            <pubDate>Thu, 08 Sep 2022 08:30:14 GMT</pubDate>
+            <title><![CDATA[오! 마이 고스트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
+            <pubDate>Thu, 08 Sep 2022 07:36:19 GMT</pubDate>
             <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F32311f0da74e30e79008d1c72e77f1015758ac34" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -844,6 +836,14 @@
             <pubDate>Wed, 07 Sep 2022 10:29:29 GMT</pubDate>
             <content:encoded><![CDATA[22.09.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e59327273cb5958f09929984ac86ba0b5264c48" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[홈리스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141718</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141718</guid>
+            <pubDate>Thu, 08 Sep 2022 08:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F367ade977955fecddf2695e0113d30bdf00d0442" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[헌트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -950,20 +950,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3e0fa9de93b8b90493ce8e50165206ecb36459c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사랑은 비를 타고 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3417</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3417</guid>
-            <pubDate>Wed, 07 Sep 2022 15:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb8357d329e643904a6140692e909425bc7a88a4f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 5등분의 신부 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160530</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160530</guid>
             <pubDate>Wed, 14 Sep 2022 13:56:09 GMT</pubDate>
             <content:encoded><![CDATA[22.09.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9fc69f521986fb96019438598f4592e52fa72f13" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 비를 타고 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3417</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3417</guid>
+            <pubDate>Wed, 07 Sep 2022 15:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb8357d329e643904a6140692e909425bc7a88a4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이의 노랫소리를 들려줘 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1030,6 +1030,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c7079148781d9e2d8866359955471d74af1c24f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[물방울을 그리는 남자 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145947</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145947</guid>
+            <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c1231962f30071a7e48170580458d623a8d2117" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[2차 송환 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159385</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159385</guid>
@@ -1052,14 +1060,6 @@
             <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
             <content:encoded><![CDATA[22.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ac650521929b5e6f9f202ec873f29f86b683069" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[물방울을 그리는 남자 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145947</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145947</guid>
-            <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c1231962f30071a7e48170580458d623a8d2117" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[성덕 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1894,6 +1894,142 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26dbf39f04ef17b1c4103122e01c9af1bce4926e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['컴백홈' 라미란 "코미디 할 때 중요한 건 진정성" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915163315988</link>
+            <guid>https://v.daum.net/v/20220915163315988</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘컴백홈’ 라미란이 코미디에 대한 생각을 밝혔다. 15일 오후 서울 CGV 용산아이파크몰에서 영화 ‘컴백홈’ 시사회 및 간담회가 열렸다. 이연우 감독과 배우 송새벽 라미란 이범수 인교진 황재열이 참석했다. 라미란은 “코미디라고 하면 단순히 표현적인 웃음을 유발하는 거라고 생각하지 않는다. 여러 코미디 종류가 있다. 감독님은 이야기를 잘 쌓아 올라서 웃음]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstartoday%2F20220915163316457vqze.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송새벽 "대본도 재밌던 '컴백홈', 현장서 생각 이상으로 좋았다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915163301968</link>
+            <guid>https://v.daum.net/v/20220915163301968</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 송새벽이 영화 '컴백홈'에 대해 만족감을 드러냈다. 15일 오후 서울 용산구 CGV아이파크몰에서 영화 '컴백홈'(감독 이연우) 언론배급시사회가 열렸다. 시사 후 진행된 기자간담회에는 이연우 감독, 배우 송새벽, 라미란, 이범수, 인교진, 황재열이 참석했다. '컴백홈'은 모든 것을 잃고 15년 만에 고향으로 내려오게 된 짠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2F10asia%2F20220915163303866eant.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 라미란 "송새벽과 로맨스 연기, 웃지 않아 감사해" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915163256961</link>
+            <guid>https://v.daum.net/v/20220915163256961</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 라미란이 "코미디에서 가장 중요한 것은 진정성"이라는 자신의 생각을 밝혔다. 라미란은 9월 15일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '컴백홈'(감독 이연우) 언론 시사회를 통해 "저의 로맨스 연기를 보고 웃지 않아주셔서 감사하다"고 말문을 열었다. 극중 라미란은 송새벽과 로맨스 연기를 선보인다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fnewsen%2F20220915163256792dkik.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 라미란 "송새벽과 멜로씬..웃음 터지지 않아서 만족" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915163244950</link>
+            <guid>https://v.daum.net/v/20220915163244950</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 CGV용산=김미화 기자] 배우 라미란 /사진=이동훈 기자 배우 라미란이 송새벽과 멜로씬을 선보인 가운데 "웃음이 터지지 않아서 크게 만족한다"라고 밝혔다. 15일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '컴백홈' 언론배급시사회가 열렸다. 이날 시사회 후 진행 된 기자간담회에는배우 송새벽, 이범수, 라미란, 인교진,  황재열 그리고 이연우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915163246646ogar.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 송새벽 "코미디언 역할, 콩트 만드는 것 대단하다 생각" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915163243949</link>
+            <guid>https://v.daum.net/v/20220915163243949</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 송새벽이 극중 코미디언 역할을 맡은 소감을 밝혔다. 15일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '컴백홈' 언론시사회 및 기자간담회가 열려 이연우 감독, 송새벽, 라미란, 이범수, 인교진, 황재열이 참석했다. 이날 송새벽은 '컴백홈'을 보고 난 뒤, "대본을 처음 봤을 때 물론 너무 재밌게 봤지만 현장에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2FNEWS1%2F20220915163244572xtjn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 라미란 "내 멜로신에 웃음 터지지 않아 만족해" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915163042874</link>
+            <guid>https://v.daum.net/v/20220915163042874</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 라미란이 '컴백홈'에 대한 만족감을 표했다. 15일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '컴백홈'(감독 이연우) 언론시사회가 진행됐다. 이날 배우 송새벽, 라미란, 이범수, 인교진, 황재열과 이연우 감독이 참석했다.&nbsp; 이날 처음 영화를 봤다는 라미란은 "제 멜로신에 웃음이 터지지 않았다는 점에 크게 만족한다"고 말했다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fxportsnews%2F20220915163045357dsid.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 이범수 "'양념 더 치면 과할 것 같다' 선 지키며 코믹 연기" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915162813763</link>
+            <guid>https://v.daum.net/v/20220915162813763</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 이범수가 코믹 연기에 대한 자신의 신념을 전했다. 이범수는 9월 15일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '컴백홈'(감독 이연우) 언론 시사회를 통해 작품에 대한 큰 만족감을 드러냈다. 이날 이범수는 "시나리오를 보고도 생각했듯, '컴백홈'은 1차원적인 웃음이나 소모적인 웃음이 아닌 진지한 상황에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fnewsen%2F20220915162813719lofo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 송새벽 "대본 이상으로 나온 것 같아 만족" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915162700692</link>
+            <guid>https://v.daum.net/v/20220915162700692</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘컴백홈’ 송새벽이 영화를 본 소감을 밝혔다. 15일 오후 서울 CGV 용산아이파크몰에서 영화 ‘컴백홈’ 시사회 및 간담회가 열렸다. 이연우 감독과 배우 송새벽 라미란 이범수 인교진 황재열이 참석했다. 송새벽은 “처음 영화를 보게 돼서 얼떨떨하고 반응도 궁금하다”고 말문을 열었다. 이어 “저는 대본을 처음 봤을 때 재미있게 봤지만, 현장에서 배우들과 촬]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstartoday%2F20220915162703356nbkc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 송새벽 "코미디? 신에 집중하려 노력..개그맨들 대단해" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915162606657</link>
+            <guid>https://v.daum.net/v/20220915162606657</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 송새벽이 신에 집중하며 코미디 연기를 하려 했다고 밝혔다. 15일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '컴백홈'(감독 이연우) 언론시사회가 진행됐다. 이날 배우 송새벽, 라미란, 이범수, 인교진, 황재열과 이연우 감독이 참석했다.&nbsp; 이날 송새벽은 '컴백홈' 속 코미디에 대해 "처음에 대본을 봤을 때, 코미디적인 부분보]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fxportsnews%2F20220915162607961kbrg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 라미란 "송새벽과 멜로, 웃음 터지지 않은 것 만족해"[Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915162521628</link>
+            <guid>https://v.daum.net/v/20220915162521628</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 라미란이 송새벽과 멜로물을 소화한 것과 관련, “멜로신에서 웃음이 터지지 않았다는 것에 만족한다”고 말했다. 라미란은 15일 오후 서울 이촌동 용산 CGV아이파크몰에서 열린 영화 ‘컴백홈’(감독 이연우, 제공배급 제이앤씨미디어그룹, 제작 슬기로운늑대 조이앤시네마)의 언론배급시사회에서 “저는 주로 송새벽 배우와 연기하는 신이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fpoctan%2F20220915162522246naix.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 라미란 "내 멜로신에 웃음 터지지 않아 크게 만족" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915162418593</link>
+            <guid>https://v.daum.net/v/20220915162418593</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 라미란이 영화 속에 등장하는 멜로신에 대해 언급했다. 15일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '컴백홈' 언론시사회 및 기자간담회가 열려 이연우 감독, 송새벽, 라미란, 이범수, 인교진, 황재열이 참석했다. 이날 라미란은 영화를 처음 본 소감에 대해 "저는 주로 새벽씨와 촬영을 하다 보니까 정말 고생을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2FNEWS1%2F20220915162419106ofan.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴백홈' 송새벽 "대본도 재밌지만 현장 호흡 상상 그 이상" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915161841334</link>
+            <guid>https://v.daum.net/v/20220915161841334</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 송새벽이 "생각 그 이상"이라며 '컴백홈'을 본 소감을 밝혔다. 송새벽은 9월 15일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '컴백홈'(감독 이연우) 언론 시사회를 통해 영화 개봉을 앞둔 소회를 전했다. 송새벽은 "대본도 재밌게 봤지만, 현장에서 배우들과 함께 촬영했을 때 생각한 것 그 이상의 것을 봤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fnewsen%2F20220915161841706vuhw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['늑대사냥' 서인국·정소민·김홍선 감독, 토론토영화제 일정 시작..뜨거운 관심 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915160913803</link>
+            <guid>https://v.daum.net/v/20220915160913803</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 제47회 토론토국제영화제 공식 초청작 '늑대사냥'(감독 김홍선)이 토론토국제영화제 현지의 뜨거운 열기를 담은 비하인드 스틸을 공개했다. '늑대사냥'은 극악무도한 범죄자들을 태평양에서 한국까지 이송하는 바다 위 거대한 움직이는 교도소 내에서 잔혹한 반란이 시작되고 지금껏 보지 못한 극한의 생존 게임이 펼쳐지는 이야기를 담은 하드보]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fxportsnews%2F20220915160915041tebv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤종빈 감독이 말하는 '수리남'..실화와 드라마 [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915160002322</link>
+            <guid>https://v.daum.net/v/20220915160002322</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=넷플릭스 넷플릭스 '수리남'을 연출한 윤종빈 감독이 '수리남' 실화에 대해 직접 설명했다. 영화 속 강인구 역의 실존 인물인 K를 실제 여러번 만났다는 윤종빈 감독은 15일 서울 종로구 삼청동 한 카페에서 스타뉴스와 만나 영화보다 더 영화같은 실화 이야기를 전했다. '수리남'은 남미 국가 수리남을 장악한 무소불위의 마약]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915160005597ryat.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['악에 바쳐' 측 "박유천 韓 홍보 활동 일절 없다"[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915153307156</link>
+            <guid>https://v.daum.net/v/20220915153307156</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘악에 바쳐’로 스크린 복귀를 알린 가수 겸 배우 박유천이 한국에서 관련 홍보 활동을 일절 하지 않는다. 영화 ‘악에 바쳐’ 관계자는 15일 매일경제 스타투데이에 “박유천은 한국에서 영화 관련 어떤 홍보 활동도 하지 않을 예정이다”라고 말했다. '악에 바쳐'는 한 순간에 모든 것을 잃은 남자 태홍과 처음부터 잃을 게 없던 여자 홍단, 나락의 끝에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstartoday%2F20220915153310971bgga.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이성민·남주혁 '리멤버', 10월 개봉 확정[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915152402636</link>
+            <guid>https://v.daum.net/v/20220915152402636</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['검사외전' 이일형 감독의 신작 '리멤버'가 10월 26일 개봉한다. 15일 배급사 (주)에이스메이커무비웍스는 개봉 소식과 함께 '리멤버'의 1차 포스터를 공개했다. '리멤버'는 가족을 모두 죽게 만든 친일파를 찾아 60년간 계획한 복수를 감행하는 알츠하이머 환자 필주와 의도치 않게 그의 복수에 휘말리게 된 20대 절친 인규의 이야기를 그린다. 3종의 1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstartoday%2F20220915152403960naqo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["티아라 출신 류화영, 첫 스크린 주연"..'사잇소리', 10월 개봉 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915151706217</link>
+            <guid>https://v.daum.net/v/20220915151706217</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 그룹 티아라 출신 연기자 류화영이 첫 스크린 주연작 '사잇소리'를 오는 10월 선보인다. '사잇소리'(감독 김정욱)는 아파트에 사는 작가 지망생 은수(류화영)가 위층의 층간 소음을 의심하게 되면서 수상한 위층 남자 호경(박진우)의 감춰진 비밀을 쫓는 이야기를 그린 추적 스릴러 영화. 극 중 은수로 분한 류화영은 '사잇소리']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fmydaily%2F20220915151706761bhnw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['10억' 실패→'오징어게임' 성공, '김훈 딸' 김지연의 뚝심[곽명동의 씨네톡] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220915144323492</link>
             <guid>https://v.daum.net/v/20220915144323492</guid>
@@ -1910,148 +2046,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fohmynews%2F20220915140601573qzma.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['수리남' 윤종빈 감독 "제주서 야자수 심어 남미처럼..정말 힘들었다" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915140008439</link>
-            <guid>https://v.daum.net/v/20220915140008439</guid>
+            <title><![CDATA["MZ세대는 홈리스세대..무관심이 빚은 공포 보여주고 싶었다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220915140246581</link>
+            <guid>https://v.daum.net/v/20220915140246581</guid>
             <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 넷플릭스 오리지널 시리즈 '수리남'의 윤종빈 감독이 15일 진행된 인터뷰를 위해 포즈를 취하고 있다. '수리남'은 남미 국가 수리남을 장악한 무소불위의 마약 대부로 인해 누명을 쓴 한 민간인이 국정원의 비밀 임무를 수락하며 벌어지는 이야기다. /사진제공=넷플릭스 2022.09.15 /사진=이동훈 기자 photoguy@ 넷플릭스 '수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915140014357lfpl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['마약' 박유천, 현재 태국 거주중.."박유천, 연예계 복귀 원해"(인터뷰) [단독] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915135641284</link>
-            <guid>https://v.daum.net/v/20220915135641284</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;아이돌 그룹 동방신기 출신 배우 박유천(37)이 새 영화 ‘악에 바쳐’로 관객들 앞에 선다. 조연으로 출연했던 영화 ‘루시드 드림’(감독 김준성·2017) 이후 5년 만이자, 주연작 ‘해무’(감독 심성보·2014) 이후 8년 만의 스크린 복귀다. 박유천과 가까운 한 연예계 관계자는 지난 14일 OSEN에 “박유천이 이 영화를 통]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fpoctan%2F20220915135641615jlwm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[고개 숙인 하정우의 진심 "실망 시켜 죄송..2년간 도 닦는 심정으로" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915132702273</link>
-            <guid>https://v.daum.net/v/20220915132702273</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 하정우가 프로포폴 논란으로 팬들에게 실망을 안긴 것에 대해 사과했다. 지난 13일 오후 서울 삼청동에서 열린 넷플릭스 드라마 '수리남' 인터뷰에 참석한 하정우는 본격적인 질의응답이 시작되기 전 조심스레 말을 꺼냈다. 하정우는 "2년 반 만에 이렇게 기자분들을 만나는 것 같다"면서 "이전에 있었던 불미스러운 일에 대해]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2FSBSfunE%2F20220915132704793rlzp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['수리남' 하정우 "징글징글할 정도로 만족스러운 작품" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915130015627</link>
-            <guid>https://v.daum.net/v/20220915130015627</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=넷플릭스하정우가 '수리남'에 대한 자신감을 내비쳤다. 13일 오후 서울 삼청동 한 카페에서 넷플릭스 오리지널 '수리남' 하정우의 라운드 인터뷰가 진행됐다. '수리남'은 한 민간인 사업가가 남미 국가 수리남을 장악한 한인 마약왕을 검거하기 위한 국정원의 비밀작전에 협조하게 되는 이야기를 그린 작품이다. 마약을 소재로 한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915130019771iiyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['수리남' 하정우 "윤종빈 감독과 다섯번째 작품, 더 신경쓸 부분도 생겨" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915130008617</link>
-            <guid>https://v.daum.net/v/20220915130008617</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=넷플릭스하정우가 윤종빈 감독과의 호흡에 대해 이야기했다. 13일 오후 서울 삼청동 한 카페에서 넷플릭스 오리지널 '수리남' 하정우의 라운드 인터뷰가 진행됐다. '수리남'은 한 민간인 사업가가 남미 국가 수리남을 장악한 한인 마약왕을 검거하기 위한 국정원의 비밀작전에 협조하게 되는 이야기를 그린 작품이다. 하정우는 수리남]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915130014080dlml.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[하정우 "2년간 공백, 온전히 나를 바라보는 시간 가졌다" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915130004610</link>
-            <guid>https://v.daum.net/v/20220915130004610</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=넷플릭스하정우가 프로포폴 불법 투약 논란을 사과했다. 13일 오후 서울 삼청동 한 카페에서 넷플릭스 오리지널 '수리남' 하정우의 라운드 인터뷰가 진행됐다. '수리남'은 한 민간인 사업가가 남미 국가 수리남을 장악한 한인 마약왕을 검거하기 위한 국정원의 비밀작전에 협조하게 되는 이야기를 그린 작품이다. 하정우는 2020년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915130007840yoah.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[연쇄살인마 막은 이웃 8명.. 결정적이었던 단서들 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915115100029</link>
-            <guid>https://v.daum.net/v/20220915115100029</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 대한민국 웹툰 1세대 강풀 작가는 2000년대 초반 D포털사이트에서 소소한 웃음을 주는 일상만화를 그리다가 2003년 장편웹툰 &lt;순정만화&gt;를 연재하기 시작했다. 생소했던 스토리 형식의 웹툰이 독자들에게 통할까 걱정하는 시선도 많았지만 &lt;순정만화&gt;는 3000만 뷰가 넘는 조회수를 기록하며 그야말로 '대박'이 났다. 그리고 이는 &lt;아파트&gt; &lt;바]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fohmynews%2F20220915115101792xdrx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['수리남' 윤종빈 감독 "韓서 역대 최고로 많이 봤다고..플랫폼의 힘 느낀다" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915115001982</link>
-            <guid>https://v.daum.net/v/20220915115001982</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 넷플릭스 오리지널 시리즈 '수리남'의 윤종빈 감독이 15일 진행된 인터뷰를 위해 포즈를 취하고 있다. '수리남'은 남미 국가 수리남을 장악한 무소불위의 마약 대부로 인해 누명을 쓴 한 민간인이 국정원의 비밀 임무를 수락하며 벌어지는 이야기다. /사진제공=넷플릭스 2022.09.15 /사진=이동훈 기자 photoguy@ 넷플릭스 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915122659530bkrr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종빈 감독, 수리남 정부 법적 대응에..노코멘트 "넷플릭스에 문의" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915110902959</link>
-            <guid>https://v.daum.net/v/20220915110902959</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 윤종빈 감독 / 사진=넷플릭스 넷플릭스 '수리남'을 연출한 윤종빈 감독이 최근 수리남 정부가 제작사를 향해 법적 대응을 예고한 것에 대해 "노코멘트 하겠다"라고 말했다. 윤종빈 감독은 15일 오전 서울 종로구 삼청동 한 카페에서 넷플릭스 '수리남' 인터뷰를 가지고 작품에 대한 이야기를 전했다. '수리남'은  남미 국가 수리남을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstarnews%2F20220915122629214roev.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEN피플] '은퇴 뒤집은' 박유천·'학폭 의혹' 남주혁, 스리슬쩍 스크린서 복귀 시동 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915110402758</link>
-            <guid>https://v.daum.net/v/20220915110402758</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 학교 폭력 논란에 휩싸였던 남주혁과 필로폰 투약 혐의로 연예계 은퇴 선언을 했으나 번복한 박유천이 스크린으로 돌아온다. 15일 배급사 (주)에이스메이커무비웍스는 "영화 '리멤버'가 오는 10월 26일 개봉을 확정했다"고 밝혔다. '리멤버'는 가족을 모두 죽게 만든 친일파를 찾아 60년간 계획한 복수를 감행하는 알츠하이머 환자 필]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2F10asia%2F20220915110405969vnku.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이성민 주연 '리멤버', 10월 26일 극장 개봉 확정[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915110044549</link>
-            <guid>https://v.daum.net/v/20220915110044549</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '검사외전'(2016)을 선보였던 이일형 감독의 신작 '리멤버'가 10월 극장 개봉을 확정하고 1차 포스터와 예고편을 공개했다. '리멤버'(감독 이일형, 제공배급 에이스메이커무비웍스, 제작 영화사 월광)는 가족을 모두 죽게 만든 친일파를 찾아 60년간 계획한 복수를 감행하는 알츠하이머 환자 필주(이성민 분)와 의도치 않게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fpoctan%2F20220915110045646kqro.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[시사회 등장만 11명.. "전혀 상상도 못했던 오늘" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915110009462</link>
-            <guid>https://v.daum.net/v/20220915110009462</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김진수 기자] ▲ &nbsp;14일 옴니버스 영화 &lt;기기묘묘&gt; 언론 시사회 현장. 왼쪽부터 배우 &lt;불모지&gt;의 감독 이탁, 배우 오민애, 김재화, &lt;유산&gt;의 배우 한해인, 유의태, 감독 남순아, &lt;청년은 살았다&gt;의 감독 심규호, 배우 이양희, &lt;불안은 영혼을 잠식한다&gt;의 감독 김동식, 배우 장준휘, 김최용준.    ⓒ 김진수  &nbsp; 영화가 끝나고 조명이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fohmynews%2F20220915110013252osto.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[취업 때문에.. 귀신하고 공조해야 하는 웃픈 상황 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915104801911</link>
-            <guid>https://v.daum.net/v/20220915104801911</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;오! 마이 고스트&gt; 스틸컷    ⓒ (주)디스테이션  &nbsp; 영화 &lt;오! 마이 고스트&gt;는 귀신 보는 취준생 태민(정진운)이 친구 소개로 홈쇼핑 스튜디오에 FD로 일하게 되면서 시작되는 좌충우돌 코믹 퇴마극이다. 일단 합격을 위해서는 야간 당직 테스트에서 살아남아야 했는데 하루를 꼴딱 새우게 된 그날 이후 신입사원이 된]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fohmynews%2F20220915104805603bywf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[마성의 무당 박성웅→극악무도 빌런 정경호..영화 '대무가' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915103812498</link>
-            <guid>https://v.daum.net/v/20220915103812498</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 영화 '대무가' 박성웅, 양현민, 류경수가 프리스타일 굿판 대결을 펼친다. 15일 영화 '대무가'(감독 이한종) 측은 캐릭터 포스터 5종을 공개했다. 포스터는 각 인물을 상징하는 사방신(四方神) 비주얼을 배경으로 다채로운 캐릭터들의 모습을 담아낸다. 신(神)빨을 잃고 술빨로 버티는 마성의 무당 마성준(박성웅)이 "굿은 한을 흥으로 풀어내는 거]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fseouleconomy%2F20220915103816652uopu.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[수리남 제작사 X 검사외전 감독 X 이성민 X 남주혁 버디무비..'리멤버' 10월 개봉 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915100226005</link>
-            <guid>https://v.daum.net/v/20220915100226005</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] “제 이름은 한필주. 뇌종양 말기 알츠하이머 환자입니다. 이 일은 아주 오래전부터 계획되었습니다” “정체가 뭐예요? 도대체. 앞으로 몇 명 더 죽일 거예요?” 황정민, 강동원 주연 '검사외전'으로 970만 관객을 사로잡았던 이일형 감독이 오는 10월 신작 &lt;리멤버&gt;로 돌아온다. &lt;리멤버&gt;(제공/배급: ㈜에이스메이커무비웍스 | 제작: ㈜영화사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fseouleconomy%2F20220915100319625scjp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이건, 양자경의 다중우주? '에브리씽 에브리웨어 올 앳 원스' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915094000984</link>
-            <guid>https://v.daum.net/v/20220915094000984</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=박설이 기자]화제의 멀티버스 액션 코미디 '에브리씽 에브리웨어 올 앳 원스'의 두 주역, 양자경과 키 호이 콴이 '에브리씽 에브리웨어 올 앳 원스'로 새로운 유니버스를 맞이했다. 말레이시아계 홍콩 배우인 양자경은 발레리나를 꿈꾸던 소녀에서 부상으로 인해 배우로 전향, 다양한 장르의 영화에 출연하며 입지를 높여왔다. '예스 마담', '폴리스 스토]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Ftvreport%2F20220915094004973ulli.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['대중 기만' 박유천의 불쾌한 복귀[MK초점] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915093902931</link>
-            <guid>https://v.daum.net/v/20220915093902931</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“비난, 거부감은 당연하다. 감당해야 할 부분이다. 비난 여론을 돌리기엔 얼마나 걸릴지 모르겠다. 다시는 똑같은 실수를 반복하지 않겠다. 열심히 살아보겠다."(2020년 5월 박유천 ‘ 채널A ’풍문쇼’ 인터뷰 中) 반성하고 뉘우치고 열심히 사는 건 응원한다. 다만 대중을 상대로 한 공적 활동이 아닌 사적 영역에서. 눈물도 해명도 사과도 좀처럼 그 진정성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fstartoday%2F20220915093907123nybd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['컴백홈' 송새벽x이범수x라미란, 서태지와 아이들 패러디..재치 만점 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220915093626838</link>
-            <guid>https://v.daum.net/v/20220915093626838</guid>
-            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '컴백홈'이 재치 만점 패러디로 웃음을 자아내는 ‘유 머스트 컴백홈’ 포스터를 공개했다. '컴백홈'(감독 이연우, 제공배급 제이앤씨미디어그룹, 제작 슬기로운늑대 조이앤시네마)은 모든 것을 잃고 15년 만에 고향으로 내려오게 된 무명 개그맨 기세(송새벽 분)가 거대 조직의 보스가 되면서 벌어지는 이야기. 이번에 공개된 ‘유]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fpoctan%2F20220915093627642rrxm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[청년 빈곤 문제와 독거노인 문제 등 결이 조금 다른 두 문제를 모두 아우르면서도 그 심각성을 효과적으로 보여주려면 어떻게 해야 할까. 이 난제에 창의적인 답안을 내놓듯 등장한 영화가 있다. 15일 개봉한 ‘홈리스’다. 그린나래미디어 제공 영화는 젊은 부부가 갓 돌이 지난 아들과 찜질방을 전전하며 사는 모습을 보여주며 시작한다. 남편 한결(전봉석)과 아내]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fdonga%2F20220915140250355ynds.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2214,6 +2214,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[젊었을때 미치게 사랑했지만 지금은 이혼한 부부 (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/QB1Da5g16o</link>
+            <guid>https://content.v.daum.net/v/QB1Da5g16o</guid>
+            <pubDate>Thu, 15 Sep 2022 07:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Ffeelthemovie%2F20220915162024274upyl.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 근황! 원빈♡이나영, '두문불출'하더니 결국.. (다음 영화 ─ 매거진)]]></title>
+            <link>https://content.v.daum.net/v/1OithVlfg8</link>
+            <guid>https://content.v.daum.net/v/1OithVlfg8</guid>
+            <pubDate>Thu, 15 Sep 2022 07:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F15%2Fmaxmovie%2F20220915155129364fovn.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[은행 비정규직 직원이 된 전직 연예인, 현재 그녀는.. (다음 영화 ─ 매거진)]]></title>
             <link>https://content.v.daum.net/v/fD5AhO4IWS</link>
             <guid>https://content.v.daum.net/v/fD5AhO4IWS</guid>
@@ -2358,20 +2374,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2FBoiledMovie%2F20220913133207240mdvg.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[디즈니가 깜짝 공개한 BTS의 LA콘서트 현장, 5만 아미들의 열광! (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/00mfKj7AP7</link>
-            <guid>https://content.v.daum.net/v/00mfKj7AP7</guid>
-            <pubDate>Tue, 13 Sep 2022 06:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fmaxmovie%2F20220913150515841ajka.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최고 배우 인증받은 이정재, 28년 전 그의 시작은 이랬다. (다음 영화 ─ 매거진)]]></title>
-            <link>https://content.v.daum.net/v/u4Hz3eZdqH</link>
-            <guid>https://content.v.daum.net/v/u4Hz3eZdqH</guid>
-            <pubDate>Thu, 15 Sep 2022 06:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F13%2Fmaxmovie%2F20220913145633887qnnu.jpg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA['헤어질 결심 각본' 편집자를 만나다 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@18Ah/658</link>
+            <guid>https://brunch.co.kr/@@18Ah/658</guid>
+            <pubDate>Thu, 15 Sep 2022 07:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>빅이슈코리아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F18Ah%2Fimage%2FbGsbl_X-b4fGP5UvdUA9Sqsb-b8.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[우리나라 MCU의 재미 (다음 영화 ─ 브런치)]]></title>
@@ -2524,14 +2532,6 @@
             <pubDate>Mon, 29 Aug 2022 02:32:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXtR%2Fimage%2Fyq9ycJVzi0-ESztuq-3FD8mqcdU" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 심달기가 보여준 아픔들을 돌아보며 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5E08/110</link>
-            <guid>https://brunch.co.kr/@@5E08/110</guid>
-            <pubDate>Fri, 26 Aug 2022 02:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Veni Jun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5E08%2Fimage%2F3jrSi8E9tk1oZXvWoVh1ZkGxqfg.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
