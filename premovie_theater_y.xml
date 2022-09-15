@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 12:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 13:57:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e59327273cb5958f09929984ac86ba0b5264c48" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[홈리스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141718</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141718</guid>
-            <pubDate>Wed, 14 Sep 2022 23:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F367ade977955fecddf2695e0113d30bdf00d0442" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[헌트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143289</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143289</guid>
             <pubDate>Thu, 25 Aug 2022 12:45:40 GMT</pubDate>
             <content:encoded><![CDATA[22.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02ef8515570b2950e9f24d663cae807e7f40b5f2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[홈리스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141718</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141718</guid>
+            <pubDate>Wed, 14 Sep 2022 23:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F367ade977955fecddf2695e0113d30bdf00d0442" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[둠둠]]></title>
