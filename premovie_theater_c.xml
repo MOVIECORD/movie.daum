@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 02:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 05 Sep 2022 13:46:59 GMT</pubDate>
             <content:encoded><![CDATA[22.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c34791317eefee49caec94c87a3b1bb24b0e8d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42148</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42148</guid>
+            <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ac650521929b5e6f9f202ec873f29f86b683069" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인생은 아름다워]]></title>
@@ -48,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb8357d329e643904a6140692e909425bc7a88a4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프린세스 아야]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133335</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133335</guid>
-            <pubDate>Tue, 06 Sep 2022 13:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b11d696e4bab8507fc4d61c3070264b494e6844" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[달이 지는 밤]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145308</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145308</guid>
@@ -64,20 +64,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F971f76b9394f21e51598574abee20e4ca503d636" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이의 노랫소리를 들려줘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155230</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155230</guid>
-            <pubDate>Tue, 06 Sep 2022 23:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2039054ed6e799f825b64b3f83f88d9235e007e3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[물방울을 그리는 남자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145947</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145947</guid>
             <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
             <content:encoded><![CDATA[22.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c1231962f30071a7e48170580458d623a8d2117" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프린세스 아야]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133335</guid>
+            <pubDate>Tue, 06 Sep 2022 13:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b11d696e4bab8507fc4d61c3070264b494e6844" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이의 노랫소리를 들려줘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155230</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155230</guid>
+            <pubDate>Tue, 06 Sep 2022 23:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2039054ed6e799f825b64b3f83f88d9235e007e3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[성덕]]></title>
@@ -94,6 +102,14 @@
             <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
             <content:encoded><![CDATA[22.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F359219707ab17fef4ebe48aaa797ccbfff4739bf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[정직한 후보 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149379</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149379</guid>
+            <pubDate>Thu, 15 Sep 2022 10:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec835362c051a621cda0411af5a61a20464a161b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[젊은 남자]]></title>
@@ -128,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c7079148781d9e2d8866359955471d74af1c24f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[정직한 후보 2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149379</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149379</guid>
-            <pubDate>Thu, 15 Sep 2022 10:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec835362c051a621cda0411af5a61a20464a161b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[2차 송환]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159385</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159385</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
             <content:encoded><![CDATA[22.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc781373f2c94cc2e9322f8f973dd9a3f4aef2234" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아바타]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=42148</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=42148</guid>
-            <pubDate>Wed, 14 Sep 2022 23:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ac650521929b5e6f9f202ec873f29f86b683069" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
