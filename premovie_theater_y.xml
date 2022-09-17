@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 23:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 02:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F111352a647a357d14be27a7f01b353c3b6007f45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158583</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158583</guid>
-            <pubDate>Fri, 16 Sep 2022 12:48:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5efd7100df7b44c235dc32c34c37d95d57332512" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[한산: 용의 출현]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139666</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139666</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 07 Sep 2022 23:29:48 GMT</pubDate>
             <content:encoded><![CDATA[22.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd44eea1331bb2395966823b243c537f4d6c367f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158583</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158583</guid>
+            <pubDate>Fri, 16 Sep 2022 12:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5efd7100df7b44c235dc32c34c37d95d57332512" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
