@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 10:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 11:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F292bb497493d7d227ecbf994742c1ff9f90f10bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사랑은 비를 타고]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3417</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3417</guid>
-            <pubDate>Wed, 07 Sep 2022 15:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb8357d329e643904a6140692e909425bc7a88a4f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[정직한 후보 2]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149379</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149379</guid>
             <pubDate>Thu, 15 Sep 2022 10:28:24 GMT</pubDate>
             <content:encoded><![CDATA[22.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec835362c051a621cda0411af5a61a20464a161b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 비를 타고]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3417</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3417</guid>
+            <pubDate>Wed, 07 Sep 2022 15:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb8357d329e643904a6140692e909425bc7a88a4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애프터: 에버 해피]]></title>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c7079148781d9e2d8866359955471d74af1c24f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 헬로카봇: 수상한 마술단의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162788</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162788</guid>
+            <pubDate>Sun, 18 Sep 2022 11:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F359219707ab17fef4ebe48aaa797ccbfff4739bf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152718</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152718</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 17 Sep 2022 14:22:56 GMT</pubDate>
             <content:encoded><![CDATA[22.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fced52799fa147cc7cbbe7444dfada65ab8178ee8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153269</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153269</guid>
-            <pubDate>Sun, 18 Sep 2022 02:47:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3bb3ac7ac6f3037c78cdf841bf64825ce58cbecc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
