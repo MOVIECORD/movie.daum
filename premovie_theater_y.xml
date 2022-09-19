@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 11:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 12:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02ef8515570b2950e9f24d663cae807e7f40b5f2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오! 마이 고스트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
-            <pubDate>Wed, 14 Sep 2022 23:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 엄마 까투리: 도시로 간 까투리 가족]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162471</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162471</guid>
@@ -80,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F252b6d50e59e82a0d34a50c5d99708f5d8b14134" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[탑건: 매버릭]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
-            <pubDate>Thu, 25 Aug 2022 12:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[오! 마이 고스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
+            <pubDate>Wed, 14 Sep 2022 23:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf3bc733b1f6ed2b94503747b06de0c10de7ab98" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Wed, 14 Sep 2022 23:26:55 GMT</pubDate>
             <content:encoded><![CDATA[22.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e3274096fdf3ee0d5e25734a1ec94fcdf60519b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[탑건: 매버릭]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114329</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114329</guid>
+            <pubDate>Thu, 25 Aug 2022 12:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb261668eb43a125d0adc250a89adb48216c005" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 장구저택 편]]></title>
