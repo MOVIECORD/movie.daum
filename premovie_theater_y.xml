@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 12:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 14:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,22 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[알라딘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=115601</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=115601</guid>
-            <pubDate>Tue, 06 Sep 2022 23:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3673a8a0c5ff4f5c8c25cc959fd6985b1558662957684" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159625</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159625</guid>
-            <pubDate>Tue, 13 Sep 2022 23:27:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e59327273cb5958f09929984ac86ba0b5264c48" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오! 마이 고스트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=148313</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=148313</guid>
@@ -166,6 +150,22 @@
             <pubDate>Tue, 20 Sep 2022 12:51:11 GMT</pubDate>
             <content:encoded><![CDATA[22.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa811485db98cb750556a9c5597c5cd74e9bbaf33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[알라딘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=115601</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=115601</guid>
+            <pubDate>Tue, 06 Sep 2022 23:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3673a8a0c5ff4f5c8c25cc959fd6985b1558662957684" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙폰]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154394</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154394</guid>
+            <pubDate>Tue, 20 Sep 2022 13:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05a6953431a2b8d38271b7ad80bd1e280a13d7f3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
