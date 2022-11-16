@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=C</id>
-    <title>[다음영화] 왓챠 ─ 종료예정</title>
-    <updated>2022-11-16T16:37:59.857Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 종료예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:25:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벤딩 디 아크: 세상을 바꾸는 힘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109126</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109126</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ed0b61f5737afde4cf4c7be06832c90642be5f1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[터치]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=65945</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=65945</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F0116C04B5073656523" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스프링 브레이커스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69194</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69194</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2462D94F5201E5591C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[천재도둑미스터A]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42718</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42718</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc354af077990479cee3b48a6f5d24a0adf7bd5cc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[5 to 7]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=91256</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=91256</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f9f6e5cfeb77340e5da65faf73a2ed17046c6c8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이즈 온 미 : 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135891</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135891</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9c675ba502e9fd20adfc8f2d463ee4454f5fd4e4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
