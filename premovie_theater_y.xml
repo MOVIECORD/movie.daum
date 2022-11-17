@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 04:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 05:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2e234313de6543bb1ba4ad0e5d6ae389a26765b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[동감]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159551</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c2484e01ae4ca85c8032675bc06f81b9f6501f1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[데시벨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147584</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147584</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[동감]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159551</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c2484e01ae4ca85c8032675bc06f81b9f6501f1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[폴: 600미터]]></title>
@@ -72,14 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84755e53eb8e03b51d11099d1b809b419e12873" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[킹덤2: 아득한 대지로]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162279</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162279</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1019f98e283ae64021f02031c5810387fd4253c2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[첫번째 아이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149626</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149626</guid>
@@ -94,6 +86,14 @@
             <pubDate>Thu, 17 Nov 2022 01:56:23 GMT</pubDate>
             <content:encoded><![CDATA[22.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdef48811b044c1e6108dc3fef15643d96dcd8f39" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹덤2: 아득한 대지로]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162279</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162279</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1019f98e283ae64021f02031c5810387fd4253c2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 짙은 어둠의 스케르초]]></title>
