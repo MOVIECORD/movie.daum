@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 07:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 08:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 17 Nov 2022 01:56:23 GMT</pubDate>
             <content:encoded><![CDATA[22.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F376cfcc7507d2c46debb2fd4c6a7fe38baff6fb4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[한산 리덕스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165576</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165576</guid>
+            <pubDate>Thu, 17 Nov 2022 08:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2bf54fa8046a42f42d63afbaf23d63d4fa81d8a4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[자백]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff83349ead13b59ce2b9da9eea01e5660408100bb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[탑]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163286</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163286</guid>
-            <pubDate>Thu, 17 Nov 2022 03:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7b20c8cffdf6c55a80e0811ab06e0bcb2f2fffb" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
