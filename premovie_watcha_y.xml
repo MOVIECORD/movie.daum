@@ -1,8 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-11-18T03:22:47.915Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Nov 2022 04:29:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104273</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104273</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F262f3e9777301ef195be6065b3665f7c744fa67a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[채비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111026</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111026</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F63282a4d0bf82cfcd282cfa5bf8ce501e0ed79c2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 버터플라이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69863</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69863</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc84622230fcaf26e5132f32822affeea7b14e35d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수춘도 2: 수라전장]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113868</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113868</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3335027db44ae47b0e789b7baa0d940f2145a82f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이 스틸 빌리브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138469</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5275584265f69974d018249230ebee06f2cce2c1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[장보러 가는 날]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=70512</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=70512</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13186B4B4F82765D23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아들의 시간]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=88565</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=88565</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F221CBA4B54080CF02D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[경관의 피]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 드래곤 반점]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161433</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161433</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e5ffa60402900aafd917d2ffb71f67164264b4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[페인트볼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156161</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156161</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fab3466d116a219ff7dffd57b6880a9fd5bdaa0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[상해풍운]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159954</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159954</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7a9b93acc2653124d4ca73f318b9adc106e112b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[웨이드 인 더 워터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162576</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162576</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf6b3015341cd0718763ed5f63cbd80f974c3b81" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 레이싱]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155740</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155740</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F94ba2ab35e1b0a9e24538e490624e4bbbbd7ad00" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[1945 항일전쟁]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147782</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147782</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92c0ff3da4546ed306fa8c4f3e84fa10b400c60a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코코순이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152852</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152852</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffbf26e4f2b5e51018e9854175554d23f1bd6dc7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인비저블 킬러]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157359</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157359</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1d2a645e3058eadfa324ddfee3ce5b3a4ce26cb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 아사쿠사 편]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161276</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161276</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a1d24d0498c47924b7bd91ea395b7e6a809b861" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 장구저택 편]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161277</guid>
+            <pubDate>Fri, 18 Nov 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
