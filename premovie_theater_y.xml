@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 18:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 19:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa7007e9317719a302fb0ab8fa496fa284af3d883" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엑소시스트: 디렉터스 컷]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2911</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2911</guid>
+            <pubDate>Sun, 20 Nov 2022 19:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff83349ead13b59ce2b9da9eea01e5660408100bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파이어버드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150074</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150074</guid>
             <pubDate>Sun, 20 Nov 2022 09:20:54 GMT</pubDate>
             <content:encoded><![CDATA[22.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b8c6f6c742f9515c3541794ac42dcedd79b131c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아인보: 아마존의 전설]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149994</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149994</guid>
-            <pubDate>Sun, 20 Nov 2022 14:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.10.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7e536504fc419ab6545a551c89c3f8f86add6a9" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
