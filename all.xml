@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 03:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 04:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=147584</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147584</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>484,896명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>484,894명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -766,6 +766,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d44e803f67bafec1c7478317cf94db05c450a3c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[동감 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159551</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c2484e01ae4ca85c8032675bc06f81b9f6501f1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[블랙 팬서: 와칸다 포에버 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=133423</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=133423</guid>
@@ -782,12 +790,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[동감 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159551</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
+            <title><![CDATA[폴: 600미터 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c2484e01ae4ca85c8032675bc06f81b9f6501f1" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -796,14 +804,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
             <content:encoded><![CDATA[22.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4946ba99bae5035c349c417ff5988179fb6b0f99" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[폴: 600미터 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[한산 리덕스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -822,14 +822,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F376cfcc7507d2c46debb2fd4c6a7fe38baff6fb4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[자백 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=78417</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=78417</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.10.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4127deb531fea9b766461efb61da18af55697d3c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프로메어 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132019</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132019</guid>
@@ -846,20 +838,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdef48811b044c1e6108dc3fef15643d96dcd8f39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[자백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=78417</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=78417</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.10.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4127deb531fea9b766461efb61da18af55697d3c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152718</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152718</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
             <content:encoded><![CDATA[22.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84755e53eb8e03b51d11099d1b809b419e12873" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인생은 아름다워 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfe6a6b2431cb364e2330f417c3866e2fad97b18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 짙은 어둠의 스케르초 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -916,6 +908,14 @@
             <pubDate>Mon, 21 Nov 2022 09:23:11 GMT</pubDate>
             <content:encoded><![CDATA[22.11.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1060e1c26cfe5beb055c78d8bd7b0b5559518f8e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인생은 아름다워 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133709</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133709</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfe6a6b2431cb364e2330f417c3866e2fad97b18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[내 친한 친구의 아침식사 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1782,11 +1782,35 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c30fd2ef0f5c4ed65ed3fec092803bb5d635083" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오정세, 매니저였다 하루 아침에 천만 배우로(스위치) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221122124100378</link>
+            <guid>https://v.daum.net/v/20221122124100378</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 오정세가 '스위치'를 통해 이중 매력을 발산한다. 1월 개봉하는 영화 '스위치'(감독 마대윤)는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 ‘박강’이 크리스마스에 인생이 180도 뒤바뀌는 순간을 맞이하면서 벌어지는 이야기를 담은 작품. 캐릭터 장인 오정세가 '스위치'를 통해 1인 2색]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fnewsen%2F20221122124102349srci.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['연참' 재연 배우→박유천 상대역..이진리는 변태 중 [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221122123001270</link>
+            <guid>https://v.daum.net/v/20221122123001270</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 이진리 / 사진=DND엔터테인먼트 "진리는 변태 중" 배우 이진리가 5년 동안 바꾸지 않은 상태명이다. 연기에 대한 꿈 하나로 묵묵히 달려오고 있는 그는 어떠한 도전도 마다하지 않을 생각이다. 22일 서울시 종로구 소격동의 한 카페에서 영화 '악에 바쳐'의 주연을 맡은 배우 이진리와 만나 다양한 이야기를 나눴다. '악에 바쳐']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fstarnews%2F20221122123002528tsia.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[시즌 아바타 시작은 대한민국 ‘아바타:물의 길’ 12월14일 개봉 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221122122303175</link>
+            <guid>https://v.daum.net/v/20221122122303175</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] ‘시즌 아바타’의 포문을 여는 국가는 대한민국이 됐다. ‘아바타’ 후속편 ‘아바타:물의 길’이 12월14일 전세계 최초 대한민국에서 개봉된다. 이를 기념하듯 ‘아바타’를 탄생시킨 제임스 카메론 감독과 프로듀서 존 랜도 샘 워싱턴, 조 샐다나, 시고니 위버, 스티븐 랭 또한 내한을 확정 지었다. 올해 최고의 글로벌 화제작으로 관심을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fnewsen%2F20221122122303758fyyx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["불미스러운 박유천 편견 없다"…'악에 바쳐' 이진리, 배우 꿈으로 이룬 첫 주연(종합)[인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20221122121452021</link>
             <guid>https://v.daum.net/v/20221122121452021</guid>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“중학교 2학년 때부터 장래희망은 배우였다. 다른 일을 해도 배우에 대한 꿈을 잊지 못 하겠더라. 다른 학교에 다니다가 3수를 해서 가천대 연극영화과에 들어갔다.” 배우 이진리(34)가 22일 서울 삼청동의 한 카페에서 열린 영화 ‘악에 바쳐’(감독 김시우, 제작 나인테일즈코리아, 배급 블루필름웍스)의 인터뷰에서 “초등학교 때]]></content:encoded>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“중학교 2학년 때부터 장래희망은 배우였다. 다른 일을 해도 배우에 대한 꿈을 버리지 못 하겠더라. 그래서 다른 학교에 다니다가 삼수를 해서 가천대 연극영화과에 들어갔다.” 배우 이진리(34)가 22일 서울 삼청동의 한 카페에서 열린 영화 ‘악에 바쳐’(감독 김시우, 제작 나인테일즈코리아, 배급 블루필름웍스)의 인터뷰에서 “초등]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fpoctan%2F20221122121454188fqwl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
@@ -1802,7 +1826,7 @@
             <link>https://v.daum.net/v/20221122115746514</link>
             <guid>https://v.daum.net/v/20221122115746514</guid>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "'썸바디'를 하는 이유가 뭐예요?" "사람들이랑 연결되고 싶어서요" "어떻게요?" "어떻게가 아니라 어떤 사람들이냐고 물어봐야죠" 섬(강해림)과 윤오(김영광)는 소셜 커넥팅 앱으로 만난다. 둘의 매칭에는 알고리즘이 작용했겠지만, 그들은 그들의 언어로 '연결'됐다고 표현한다. 이 앱의 개발자이기도 한 섬은 '썸바디'의 특]]></content:encoded>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "'썸바디'를 하는 이유가 뭐예요?" "사람들이랑 연결되고 싶어서요" "어떻게요?" "어떻게가 아니라 어떤 사람들이냐고 물어봐야죠" 섬(강해림)과 윤오(김영광)는 소셜 커넥팅 앱 '썸바디'로 만난다. 둘의 매칭에는 알고리즘이 작용했겠지만, 그들은 그들의 언어로 '연결'됐다고 표현한다. 이 앱의 개발자이기도 한 섬은 '썸바]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2FSBSfunE%2F20221122115748678shsl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
@@ -1916,30 +1940,6 @@
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 이진리(34)가 영화 ‘악에 바쳐’에서 소화한 북한 사투리가 어려웠다고 토로했다. 이진리는 22일 오전 서울 삼청동의 한 카페에서 진행된 인터뷰에서 “현장에서 주인공으로 호흡하는 게 처음이다 보니 힘들었는데 감독님과 스태프가 잘 챙겨주셔서 마무리를 잘할 수 있었다”고 고마운 마음을 드러내며 “하지만 북한 사투리를 쓰며 연기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fpoctan%2F20221122110026244bvig.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘악에 바쳐’ 이진리 “상대역 박유천 논란, 부담은 없었다”[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221122105926743</link>
-            <guid>https://v.daum.net/v/20221122105926743</guid>
-            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이진리가 영화 ‘악에 바쳐’(감독 김시우)서 상대역 박유천과 함께 호흡한 소감을 밝혔다. 이진리는 22일 오전 서울 삼청동 모처에서 진행된 ‘스포츠경향’과 인터뷰에서 과거 불미스러운 일로 논란을 빚은 박유천과 호흡한 것에 대한 부담을 묻자 “부담 가진 건 없었다. 오히려 이 영화가 그걸 통해서 나나 박유천 선배도 조명받으면 좋겠다고 생각했다. 물]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fsportskhan%2F20221122105927986ollz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['악에 바쳐' 이진리 "박유천, 촬영 중 병원 실려가…존경스러운 선배" [MD인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221122105808683</link>
-            <guid>https://v.daum.net/v/20221122105808683</guid>
-            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이진리(33)가 '악에 바쳐'에서 논란의 박유천과 호흡을 맞춘 소감을 밝혔다. 이진리는 22일 오전 서울 종로구 삼청동 한 카페에서 마이데일리와 인터뷰를 진행했다. 영화 '악에 바쳐'에서 박유천 상대역 홍단 역할을 맡아 열연을 펼치며 이와 관련 이야기를 나눴다. '악에 바쳐'는 한순간에 모든 것을 잃은 남자 태홍(박유천]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fmydaily%2F20221122105808532aizd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘악에 바쳐’ 이진리 “박유천 상대역? 편견·불편함 NO‥복귀 의지 컸다”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221122105653621</link>
-            <guid>https://v.daum.net/v/20221122105653621</guid>
-            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박유천 복귀작으로 화제를 모았지만 극장 개봉은 실패한 '악에 바쳐'. 박유천과 함께 주연으로 활약한 이진리가 여러 소회를 전했다. 영화 '악에 바쳐'(감독 김시우)에 출연한 이진리는 11월 22일 서울 종로구 모처에서 진행된 인터뷰를 통해 박유천과 호흡을 맞춘 소감을 밝혔다. 영화 '악에 바쳐'는 한 순간에 모든 것을 잃은 남자 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2Fnewsen%2F20221122105655211miaq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2171,7 +2171,7 @@
             <guid>https://v.daum.net/v/tU38MmWQ1g</guid>
             <pubDate>Mon, 21 Nov 2022 03:23:58 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F21%2FBoiledMovie%2F20221121122445949ncqe.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F22%2FBoiledMovie%2F20221122125702942fzit.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[이병헌 보다 키가 커서 단역으로 밀려난 여배우 근황 (다음 영화 ─ 매거진)]]></title>
