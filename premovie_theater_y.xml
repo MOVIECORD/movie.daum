@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 20:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 21:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5ed7e8af668bc04f0994fe9d30db1cc4d19d4b0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[폴: 600미터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아마겟돈 타임]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160384</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160384</guid>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 23 Nov 2022 23:21:12 GMT</pubDate>
             <content:encoded><![CDATA[22.11.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F258ebdb3a654571178729a3a53adafb5c2a8c89a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[폴: 600미터]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인생은 아름다워]]></title>
