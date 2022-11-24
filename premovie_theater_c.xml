@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 11:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[헤이지니&럭키강이 비밀의 문]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165116</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165116</guid>
-            <pubDate>Wed, 23 Nov 2022 01:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9c3097e47ae4f57c488df699ef9d4fc66fcae6bf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 20 Nov 2022 02:01:15 GMT</pubDate>
             <content:encoded><![CDATA[22.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88ca3054ee320beec75ec8da1189805530835e13" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[헤이지니&럭키강이 비밀의 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165116</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165116</guid>
+            <pubDate>Wed, 23 Nov 2022 01:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9c3097e47ae4f57c488df699ef9d4fc66fcae6bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 메뉴]]></title>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58f4f1fca9a445decb17d4e6260b3ea488907a0f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152531</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152531</guid>
+            <pubDate>Thu, 24 Nov 2022 11:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc84c0798ba1ea281e2622d1b36259c7efba47e5e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[프레이 포 더 데블]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143917</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143917</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Nov 2022 23:21:21 GMT</pubDate>
             <content:encoded><![CDATA[22.12.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b535f15c9b4c32a967e739a085b27960c3109bb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 게임]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164480</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164480</guid>
-            <pubDate>Wed, 23 Nov 2022 23:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29d580594b7d07f2b89f9a436595ea2540c27b57" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
