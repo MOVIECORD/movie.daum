@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 17:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 18:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F258ebdb3a654571178729a3a53adafb5c2a8c89a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 짙은 어둠의 스케르초]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163458</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163458</guid>
+            <pubDate>Fri, 25 Nov 2022 18:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc171adb6eaa6dff8bb70a1d07e8431e893237c08" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[머슴 바울]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164189</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164189</guid>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Nov 2022 16:28:56 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2bf54fa8046a42f42d63afbaf23d63d4fa81d8a4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[내추럴 바이스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165388</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165388</guid>
-            <pubDate>Fri, 25 Nov 2022 03:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f1d97928feff7b1fd05796e8baa14f1cfeb84c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
