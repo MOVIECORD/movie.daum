@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 06:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[창밖은 겨울]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149749</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149749</guid>
-            <pubDate>Wed, 23 Nov 2022 23:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5ed7e8af668bc04f0994fe9d30db1cc4d19d4b0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[놈이 우리 안에 있다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150023</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150023</guid>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[창밖은 겨울]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149749</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149749</guid>
+            <pubDate>Wed, 23 Nov 2022 23:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5ed7e8af668bc04f0994fe9d30db1cc4d19d4b0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아마겟돈 타임]]></title>
