@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 11:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 12:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[폴: 600미터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156439</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156439</guid>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
             <content:encoded><![CDATA[22.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab23bca92d5fc1432985146956350744d52e316" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[폴: 600미터]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교]]></title>
