@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 07:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 08:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -782,20 +782,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2e234313de6543bb1ba4ad0e5d6ae389a26765b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데시벨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147584</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147584</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[동감 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159551</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159551</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c2484e01ae4ca85c8032675bc06f81b9f6501f1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데시벨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147584</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147584</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유포자들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -838,14 +838,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab23bca92d5fc1432985146956350744d52e316" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[폴: 600미터 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[기예르모 델토로의 피노키오 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=48698</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=48698</guid>
@@ -876,6 +868,14 @@
             <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
             <content:encoded><![CDATA[22.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfe6a6b2431cb364e2330f417c3866e2fad97b18" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[폴: 600미터 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161099</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161099</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc5af68f988f6cececb59bf6e49bad72d35798030" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아마겟돈 타임 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1798,6 +1798,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a26291dc2b6654909872a40364ae8c726132023" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["영화 역사상 최악의 나쁜X?"..너무 사랑스러운 그녀의 과거 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221127171823242</link>
+            <guid>https://v.daum.net/v/20221127171823242</guid>
+            <pubDate>Sun, 27 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 주이 디샤넬이 사랑스러운 과거를 회상했다. 주이 디샤넬은 27일(한국시간) 자신의 SNS에 2004년 12월 개봉한 영화 '엘프' 속 자신의 스틸을 공유했다. 사진 속&nbsp;크리스마스를 맞아 엘프 분장을 하고 있는 그녀의 사랑스러운 면모가 시선을 사로잡는다.&nbsp;특히 트레이드 마크인 신비로운 큰 눈망울이 돋보인다.&nbsp; '엘프'에서 주]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F27%2Fpoctan%2F20221127171823906bfxl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['크리스마스 캐럴' 김성수 감독 직접 밝힌 박진영→허동원 캐스팅 이유 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221127164719776</link>
+            <guid>https://v.daum.net/v/20221127164719776</guid>
+            <pubDate>Sun, 27 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올 겨울 가장 강렬한 복수를 예고하는 액션 스릴러 '크리스마스 캐럴'을 연출한 김성수 감독이 완벽한 조합의 캐스팅에 얽힌 비하인드 스토리를 공개했다. '크리스마스 캐럴'(감독 김성수, 제공 엔케이컨텐츠, 배급 디스테이션)은 쌍둥이 동생 월우(박진영 분)가 죽은 후 복수를 위해 스스로 소년원에 들어간 형 일우(박진영 분)가 소년원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F27%2Fpoctan%2F20221127164720482cjyi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[단발머리→흡연 도전..한선화의 초심 [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20221127150002106</link>
             <guid>https://v.daum.net/v/20221127150002106</guid>
@@ -1940,22 +1956,6 @@
             <pubDate>Sat, 26 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[올여름 극장가를 사로잡은 ‘한산: 용의 출현’의 김한민 감독(53)이 약 21분 추가된 ‘한산 리덕스’로 돌아왔다. 2014년 영화 ‘명량’으로 1761만 관객을 사로잡은 데 이어 코로나로 보릿고개를 보낸 극장가에서 올여름 ‘한산: 용의 출현’은 700만이 넘는 관객의 선택을 받으며 많은 사랑을 받았다. 그리고 지난 16일 김한민 감독은 확장판 ‘한산 리덕]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F27%2Fstartoday%2F20221127070304043arfa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘올빼미’ 김성철 “성장하면 더 좋은 악기가 되지 않을까요” [쿠키인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221127060202322</link>
-            <guid>https://v.daum.net/v/20221127060202322</guid>
-            <pubDate>Sat, 26 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비극적인 삶이었다. 조선 제16대 국왕 인조의 아들 소현세자는 병자호란 이후 청나라에서 볼모로 긴 세월을 보냈다. 고국으로 돌아온 후 아버지 인조에게 견제와 괄시를 받았다. 죽음 역시 석연치 않다. 조선왕조실록엔 그의 독살 가능성이 적혀 있다. 반정으로 하루아침에 세자가 됐지만 고된 풍파를 겪은 소현세자. 영화 ‘올빼미’(감독 안태진)에서도 소현세자(김]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F27%2Fkukinews%2F20221127060203942wuuo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[쉼 없는 마동석 '압꾸정'으로 다시 MCU 확장 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221127053010934</link>
-            <guid>https://v.daum.net/v/20221127053010934</guid>
-            <pubDate>Sat, 26 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 마동석이 쉼 없이 달린다. 올해 상반기 '범죄도시2'(감독 이상용)로 천만 관객을 모아 극장가를 살린 마동석이 코미디 장르로 돌아와 특유의 장기를 내세우며 MCU(마동석 시네마틱 유니버스)를 확장한다. 오는 30일 개봉하는 영화 '압꾸정'은 샘솟는 사업 아이디어로 입만 살아있는 압구정 토박이 대국(마동석)이 실력 톱]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F27%2FNEWS1%2F20221127053010908hvwk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
