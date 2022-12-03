@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 04:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 05:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F138d3caa77984412244bbde8f188a60fc8aaec9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보디가드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1727</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1727</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e0c926cf10d15d937bac53f5d3b2dd19e4b19c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[화이트 노이즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162487</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162487</guid>
@@ -56,12 +48,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb2a9b9e44a75704165002253cd6350a9311e12d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[보디가드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1727</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1727</guid>
+            <pubDate>Tue, 29 Nov 2022 23:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e0c926cf10d15d937bac53f5d3b2dd19e4b19c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스페이스 키드: 우주에서 살아남기]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129979</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129979</guid>
             <pubDate>Wed, 30 Nov 2022 02:54:18 GMT</pubDate>
             <content:encoded><![CDATA[22.12.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fce276b97741ffe5e721b1d6994ca693f11c931" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[페르시아어 수업]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139160</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139160</guid>
+            <pubDate>Wed, 30 Nov 2022 07:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff0f9a9cca0e20f639b3a8c2802a1f8e6bc3cae2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[메모리아]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 29 Nov 2022 23:22:25 GMT</pubDate>
             <content:encoded><![CDATA[22.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd7234e87d9ee3db89f0a122fcc584e6062f1599" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[페르시아어 수업]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139160</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139160</guid>
-            <pubDate>Wed, 30 Nov 2022 07:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff0f9a9cca0e20f639b3a8c2802a1f8e6bc3cae2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가가린]]></title>
