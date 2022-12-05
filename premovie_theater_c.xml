@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[프레이 포 더 데블]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143917</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143917</guid>
-            <pubDate>Wed, 23 Nov 2022 23:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43acc0df20d0c34227a1196bb708b70bd54738b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[크리스마스 캐럴]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154498</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 25 Nov 2022 04:26:26 GMT</pubDate>
             <content:encoded><![CDATA[22.12.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3bc5e9a57a202131dc823f9490dfcc217a23cde" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프레이 포 더 데블]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143917</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143917</guid>
+            <pubDate>Wed, 23 Nov 2022 23:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43acc0df20d0c34227a1196bb708b70bd54738b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[화이트 노이즈]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29d580594b7d07f2b89f9a436595ea2540c27b57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤직 by SIA]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146528</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146528</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd7234e87d9ee3db89f0a122fcc584e6062f1599" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[몬스터 신부 : 101번째 프로포즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164614</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164614</guid>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 29 Nov 2022 23:22:25 GMT</pubDate>
             <content:encoded><![CDATA[22.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff0c78172601062c62c68172a87ed92017d570181" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직 by SIA]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146528</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146528</guid>
+            <pubDate>Tue, 29 Nov 2022 23:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd7234e87d9ee3db89f0a122fcc584e6062f1599" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[지옥의 화원]]></title>
