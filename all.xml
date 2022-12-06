@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 09:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 10:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -863,14 +863,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F376cfcc7507d2c46debb2fd4c6a7fe38baff6fb4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데시벨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147584</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147584</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[데솔레이트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165154</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165154</guid>
@@ -879,12 +871,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F138d3caa77984412244bbde8f188a60fc8aaec9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[양자경의 더 모든 날 모든 순간 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165692</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165692</guid>
-            <pubDate>Mon, 21 Nov 2022 08:29:33 GMT</pubDate>
+            <title><![CDATA[데시벨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147584</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147584</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스트레인지 월드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160947</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160947</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:02 GMT</pubDate>
             <content:encoded><![CDATA[22.11.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3e24837e9b7560e84610ee16fb32d4d250d8290" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[동감 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -895,6 +895,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c2484e01ae4ca85c8032675bc06f81b9f6501f1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[양자경의 더 모든 날 모든 순간 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165692</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165692</guid>
+            <pubDate>Mon, 21 Nov 2022 08:29:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[요정 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154097</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154097</guid>
@@ -903,12 +911,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fa4056027e9bc196197b06b49b1698c3b3c1f0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프로메어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132019</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132019</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.10.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ab23bca92d5fc1432985146956350744d52e316" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[세이레 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154169</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154169</guid>
+            <pubDate>Tue, 06 Dec 2022 10:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F258ebdb3a654571178729a3a53adafb5c2a8c89a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -917,14 +925,6 @@
             <pubDate>Tue, 06 Dec 2022 01:36:33 GMT</pubDate>
             <content:encoded><![CDATA[22.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc84c0798ba1ea281e2622d1b36259c7efba47e5e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[자백 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=78417</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=78417</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.10.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4127deb531fea9b766461efb61da18af55697d3c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 캐럴 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -975,6 +975,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e0c926cf10d15d937bac53f5d3b2dd19e4b19c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165377</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165377</guid>
+            <pubDate>Sat, 03 Dec 2022 06:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F224935ddb69c771ba6200d1f077b72db72cc7333" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[튜브펫 주식회사 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165173</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165173</guid>
@@ -991,20 +999,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fce276b97741ffe5e721b1d6994ca693f11c931" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165377</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165377</guid>
-            <pubDate>Sat, 03 Dec 2022 06:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F224935ddb69c771ba6200d1f077b72db72cc7333" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 게임 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164480</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164480</guid>
             <pubDate>Tue, 06 Dec 2022 01:36:41 GMT</pubDate>
             <content:encoded><![CDATA[22.12.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29d580594b7d07f2b89f9a436595ea2540c27b57" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[견왕: 이누오 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143094</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143094</guid>
+            <pubDate>Mon, 05 Dec 2022 19:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdba24134665c8accb6570432d0a007365c15ff92" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뮤직 by SIA (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1077,14 +1085,6 @@
             <pubDate>Mon, 05 Dec 2022 20:21:27 GMT</pubDate>
             <content:encoded><![CDATA[22.12.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F485716f193e210190dd1b3d9fe8111fe7464b1ae" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[견왕: 이누오 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143094</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143094</guid>
-            <pubDate>Mon, 05 Dec 2022 19:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdba24134665c8accb6570432d0a007365c15ff92" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 뉴 유니버스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1478,6 +1478,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F24370B3F54850AA611" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["8년 만에 복귀"…윤제균 감독 '영웅', 2022 연말 흥행 마지막 주자 될까[Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221206184918671</link>
+            <guid>https://v.daum.net/v/20221206184918671</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;윤제균 감독이 8년 만의 연출작 ‘영웅’으로 이달 스크린 컴백한다. 지난 2014년 개봉해 1426만여 관객들을 불러모은 ‘국제시장’ 이후 8년 만의 연출 차기작이다. 그간 ‘히말라야’(2015), ‘그것만이 내 세상’(2018), ‘담보’(2020), ‘공조’ 시리즈(2017~2022) 등의 영화 제작에 참여하며 흥행기록을 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F06%2Fpoctan%2F20221206184919018qjsn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[공식] "매우 기쁘다" 이승기, 후크와 갈등 속 공예 홍보 나섰다 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20221206175902501</link>
             <guid>https://v.daum.net/v/20221206175902501</guid>
@@ -1628,14 +1636,6 @@
             <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영문도 모른 채 장기밀매 조직에 납치를 당한 한 남자, 몸은 절단되고 안구는 적출된다. 훤히 드러난 장기들 사이에서 뻗어 나온 수십 개의 촉수가 연결되면서 남자의 몸은 순식간에 회복된다. 죽지 않는 불사의 몸을 가진 신인류 ‘커넥트’다. 동명의 웹툰을 원작으로 디즈니+에서 7일 공개되는 이 드라마는 장기밀매 조직에 납치당해 한쪽 눈을 빼앗긴 커넥트 동수(정]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F06%2Fdailian%2F20221206132456506efls.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['어메이징 모리스', 2023년 2월 개봉 확정…'알라딘'·'슈렉' 흥행 드림팀 만남 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221206132016869</link>
-            <guid>https://v.daum.net/v/20221206132016869</guid>
-            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 애니메이션 '어메이징 모리스'(감독 토비 젠켈)가 2023년 2월 개봉을 확정 짓고 티저 포스터를 공개했다. '어메이징 모리스'는 세계적인 판타지 소설 작가 테리 프래쳇의 '놀라운 모리스와 똑똑한 쥐 일당'을 원작으로 한 작품이다.&nbsp; 전 세계 37개 언어로 번역, 총 1억만 부 판매를 기록한 레전드 스테디셀러 디스크월드는 총 4]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F06%2Fxportsnews%2F20221206132018765xebe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1958,6 +1958,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F03%2Ffanzeel%2F20221203110053863plfx.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[나를 살아가게 하는 것은 무엇인가? (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5rQI/34</link>
+            <guid>https://brunch.co.kr/@@5rQI/34</guid>
+            <pubDate>Tue, 06 Dec 2022 10:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>여명의여명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5rQI%2Fimage%2Fqcee5M3Xrjn5Pi-yNlAf486IKVg.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[영화 <더 문(Moon, 2009)> - 두 클론 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@6kqa/369</link>
             <guid>https://brunch.co.kr/@@6kqa/369</guid>
@@ -2108,14 +2116,6 @@
             <pubDate>Wed, 16 Nov 2022 17:25:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FlZEnCC34Eah4tAerHSsY_55BGTU.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[거기 깃든 마음들은 모두 잘못되지 않았다 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@mW7/1455</link>
-            <guid>https://brunch.co.kr/@@mW7/1455</guid>
-            <pubDate>Wed, 16 Nov 2022 17:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김동진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FmW7%2Fimage%2FGxTaCQHQA65OCjQtEx4-XqGxoz8" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
