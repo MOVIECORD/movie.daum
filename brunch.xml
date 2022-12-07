@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 06 Dec 2022 10:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>여명의여명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5rQI%2Fimage%2Fqcee5M3Xrjn5Pi-yNlAf486IKVg.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[시퍼런 자유 _ <세 가지 색: 블루>]]></title>
+            <link>https://brunch.co.kr/@@eo9q/14</link>
+            <guid>https://brunch.co.kr/@@eo9q/14</guid>
+            <pubDate>Wed, 07 Dec 2022 06:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김민준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Feo9q%2Fimage%2Fh5VlyHf4Ha_RUjXFQUe7R2qbIyk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <더 문(Moon, 2009)> - 두 클론]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:25:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>방자까]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ej3%2Fimage%2FLoOUDvT24Skx827zKgYO6tjRpDU.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[맹렬하게 쓴 회심의 역작]]></title>
-            <link>https://brunch.co.kr/@@bKCt/19</link>
-            <guid>https://brunch.co.kr/@@bKCt/19</guid>
-            <pubDate>Wed, 16 Nov 2022 17:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>블루스콘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbKCt%2Fimage%2FcvyEDXi04YDp0xL_T7q5zPKlgsg.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
