@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 21:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 22:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2542a4b90e5e666fd94798b502ca28bcda492c68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킬러]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95470</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95470</guid>
+            <pubDate>Thu, 08 Dec 2022 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1019a392b17d3b9f13bb9a69e49ef91fa4a5ef67" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파커]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=67524</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=67524</guid>
@@ -62,6 +70,14 @@
             <pubDate>Wed, 07 Dec 2022 22:20:26 GMT</pubDate>
             <content:encoded><![CDATA[22.12.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F234AC54F513C402D11" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[캄포스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=91344</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=91344</guid>
+            <pubDate>Thu, 08 Dec 2022 22:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb92bb9ea0c2f6a871becd89993b9fbcf28359b16" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
