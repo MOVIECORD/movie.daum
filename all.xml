@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 06:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -831,14 +831,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3bc5e9a57a202131dc823f9490dfcc217a23cde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 메뉴 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161420</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161420</guid>
-            <pubDate>Tue, 22 Nov 2022 10:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb19f767e00ca3ef5a6beb03200bb7a1f3bf017c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[본즈 앤 올 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155615</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155615</guid>
@@ -847,12 +839,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165138</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165138</guid>
-            <pubDate>Fri, 18 Nov 2022 02:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F441d8ac369f0350274d60d3c133b935f983fe816" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[더 메뉴 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161420</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161420</guid>
+            <pubDate>Tue, 22 Nov 2022 10:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb19f767e00ca3ef5a6beb03200bb7a1f3bf017c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[화이트 노이즈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -877,6 +869,14 @@
             <pubDate>Wed, 30 Nov 2022 02:54:18 GMT</pubDate>
             <content:encoded><![CDATA[22.12.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fce276b97741ffe5e721b1d6994ca693f11c931" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165138</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165138</guid>
+            <pubDate>Fri, 18 Nov 2022 02:01:10 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F441d8ac369f0350274d60d3c133b935f983fe816" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데시벨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1703,6 +1703,62 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee6fbaed56e436e5c65b1d917a8c5880b6b00eec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[김고은 “김성철·이상이 앞에서 펑펑 울기도”‥‘영웅’으로 배운 것들(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221209152035020</link>
+            <guid>https://v.daum.net/v/20221209152035020</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '노래 잘하는 배우' 김고은이 '영웅'으로 첫 뮤지컬 영화에 도전한 소감을 전했다. 영화 '영웅'(감독 윤제균)에 출연한 김고은은 12월 9일 진행된 화상 인터뷰를 통해 개봉을 앞둔 벅찬 소회를 밝혔다. 오는 21일 개봉하는 '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fnewsen%2F20221209152038074eqfd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[러닝타임 3시간12분…'아바타2' 감독 "가성비 좋지 않냐" 자신감 (엑's 현장)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221209145008143</link>
+            <guid>https://v.daum.net/v/20221209145008143</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '아바타2'가 3시간 12분이라는 긴 러닝타임으로 관객들을 만난다.&nbsp; 9일 오전 서울 영등포구 여의도 콘래드호텔 그랜드볼룸에서 '아바타: 물의 길' 내한 기자간담회가 진행됐다. 이날 제임스 카메론 감독, 존 랜도 프로듀서와 배우 샘 워싱턴, 조 샐다나, 시고니 위버, 스티븐 랭이 참석했다.&nbsp; '아바타: 물의 길]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fxportsnews%2F20221209145009914fljt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘영웅’ 김고은 “윤제균 감독, 전혀 권위적이지 않아..배려·따뜻함 배우고 싶다” [인터뷰 ③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221209144422942</link>
+            <guid>https://v.daum.net/v/20221209144422942</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김채연 기자] 김고은이 윤제균 감독에게 배려를 배웠다고 알렸다. 영화 ‘영웅’에 출연한 김고은은 9일 OSEN과 온라인으로 진행된 인터뷰를 통해 영화를 통해 배운 점과 다양한 이야기를 털어놨다. ‘영웅’은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던 때부터 죽음을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fpoctan%2F20221209144423033mlig.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[할리우드 리포트] 바르도, 의식의 흐름 따라가는 ‘환영’ (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221209143358651</link>
+            <guid>https://v.daum.net/v/20221209143358651</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] “기억에는 진실이 없어 감정적 불확실성을 안기죠” 알레한드로 곤잘레스 이냐리투 감독이 20여 년 만에 조국인 멕시코에서 자신이 지닌 모든 에너지를 쏟아 부어 찍은 영화 ‘바르도’로 귀환했다. 부제는 ‘약간의 진실을 섞은 거짓된 연대기’다. 멕시코 출신 저널리스트이자 다큐멘터리 감독인 실베리오(다니엘 기메네즈 카초 분)가 기억 속 자신의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fseouleconomy%2F20221209143359686exom.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC인터뷰] "고통이었던 뮤지컬, 망각하고 또 도전"…김고은, '유미'→'아씨들'→'영웅'으로 화룡점정(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221209143340646</link>
+            <guid>https://v.daum.net/v/20221209143340646</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 10년 전 충무로를 깜짝 놀라게 한 신성(新星)으로 등장한 배우 김고은(31)이 어느덧 10년의 세월을 거쳐 이제는 누구나 믿고 보게 만드는 거목(巨木)이 됐다. 물오른 연기력을 바탕으로 흥행작을 정확히 짚어내는 선구안을 가진 베테랑 김고은이 올해 세 번째 과녁을 향해 팽팽한 활시위를 당겼고 믿음의 '퍼펙트 텐'을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FSpoChosun%2F20221209143340843psyk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김고은 “뮤지컬 영화 도전? '한예종 동기' 이상이·김성철에게 울고 빌며 노하우 전수 받아” [인터뷰 ②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221209142427390</link>
+            <guid>https://v.daum.net/v/20221209142427390</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김채연 기자] 김고은이 뮤지컬 영화를 준비하면서 ‘한예종 10학번’ 이상이와 김성철에 큰 도움을 받았다고 밝혔다. 9일 오후 김고은은 온라인으로 진행한 영화 ‘영웅’ 개봉 인터뷰에서 OSEN을 만나 비하인드 스토리를 전했다. 이날 김고은은 뮤지컬 영화에 도전한다고 했을 때 ‘한예종 10학번’ 동기들의 반응은 어땠냐는 물음에 “김성철과 이상이를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fpoctan%2F20221209142427587vpvb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1 ★]시고니 위버, 늙지 않는 강철의 여전사…74세 맞아? (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221209142425388</link>
+            <guid>https://v.daum.net/v/20221209142425388</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 할리우드 배우 시고니 위버가 70대의 나이에도 여전한 동안 미모를 뽐냈다. 시고니 위버는 9일 서울 영등포구 콘래드 서울호텔에서 진행된 영화 '아바타2: 물의 길'(아바타2) 기자간담회에서 제임스 카메론 감독과 존 랜도 프로듀서, 배우 스티븐 랭, 조 샐다나, 샘 워싱턴과 함께 참석했다. 이날 시고니 위버는 환경 운동가답]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FNEWS1%2F20221209142426042hawe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[김고은 "'영웅' 후 뮤지컬 오디션 봤다가…인간은 망각의 동물" [인터뷰 맛보기] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20221209141606122</link>
             <guid>https://v.daum.net/v/20221209141606122</guid>
@@ -1805,62 +1861,6 @@
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 김고은이 영화 '영웅'을 준비하면서 가장 고마운 상대로 '한예종 10학번' 동기 김성철, 이상이에 대해 언급했다. 김고은은 9일 오후 온라인을 통해 개봉을 앞둔 영화 '영웅'(감독 윤제균)에 대한 다양한 이야기를 들려줬다. 오리지널 뮤지컬 '영웅'을 영화화한 '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2F10asia%2F20221209135205745mapy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰③] 김고은 "전설의 한예종 10학번 김성철X이상이, 울고 빌며 뮤지컬 노하우 전수받아"('영웅') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221209135133282</link>
-            <guid>https://v.daum.net/v/20221209135133282</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 김고은(31)이 "전설적인 한예종 10학번 김성철, 이상이에게 울고 빌며 뮤지컬 연기 노하우 배웠다"고 말했다. 김고은이 9일 오후 열린 한국 영화 최초 오리지널 뮤지컬 영화 '영웅'(윤제균 감독, JK필름 제작) 화상 인터뷰에서 적진 한복판에서 목숨을 걸고 일본의 정보를 빼내는 독립군 정보원 설희를 연기한 과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FSpoChosun%2F20221209135133834rxze.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰②] 김고은 "인간은 망각의 동물, 뮤지컬 연기 고통이었지만 다시 또 도전하기도"('영웅') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221209135129279</link>
-            <guid>https://v.daum.net/v/20221209135129279</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 김고은(31)이 "인간은 망각의 동물, 뮤지컬 연기 어려움 잊고 다시 도전하기도 했다"고 말했다. 김고은이 9일 오후 스포츠조선과 화상 인터뷰를 통해 한국 영화 최초 오리지널 뮤지컬 영화 '영웅'(윤제균 감독, JK필름 제작)에 참여한 소회를 전했다. '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FSpoChosun%2F20221209135837121ykhc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰①] 김고은 "한국사람이라면 누구나 웅장해지는 이야기, 의지와 결의 다진 작품"('영웅') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221209135127277</link>
-            <guid>https://v.daum.net/v/20221209135127277</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 김고은(31)이 "한국 사람이라면 누구나 웅장해지는 이야기, 가슴 벅차 '영웅' 선택했다"고 말했다. 한국 영화 최초 오리지널 뮤지컬 영화 '영웅'(윤제균 감독, JK필름 제작)에서 적진 한복판에서 목숨을 걸고 일본의 정보를 빼내는 독립군 정보원 설희를 연기한 김고은. 그가 9일 오후 스포츠조선과 화상 인터뷰를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FSpoChosun%2F20221209135127507befc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은 "'영웅' 후 뮤지컬 '하데스타운' 오디션 봤다" 깜짝 고백 [MD인터뷰](종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221209135113272</link>
-            <guid>https://v.daum.net/v/20221209135113272</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 김고은이 '영웅'으로 첫 뮤지컬 영화 도전에 나선 소감을 밝혔다. 김고은은 9일 오후 마이데일리와 화상 온라인 인터뷰를 진행했다. 오는 21일 영화 '영웅'(감독 윤제균) 개봉을 앞두며, 이야기꽃을 피웠다. '영웅'은 동명의 오리지널 뮤지컬을 영화화한 작품. 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fmydaily%2F20221209135113773pslc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["가슴 벅찬 경험"..'아바타2', 제임스 카메론의 매직 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221209130001962</link>
-            <guid>https://v.daum.net/v/20221209130001962</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 여의도 콘래드=김미화 기자] 할리우드 배우 스티븐 랭, 시고니 위버, 조 샐다나, 샘 워싱턴이 9일 오전 서울 영등포구 여의도동 콘래드 서울 호텔에서 열린 '아바타2: 물의 길' 내한 기자간담회에 참석해 포즈를 취하고 있다.  '아바타' 이후 제임스 카메론 감독이 13년 만에 내놓은 '아바타2'는 판도라 행성에서 '제이크 설리'와 '네이티리'가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fstarnews%2F20221209130457855pbop.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스 카메론 감독 밝힌 '아바타: 물의 길'…#환경 #가족 (엑's 현장)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221209125008881</link>
-            <guid>https://v.daum.net/v/20221209125008881</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '아바타: 물의 길'이 환경, 가족에 대한 메시지를 담아 한국 관객들을 찾는다.&nbsp; 9일 오전 서울 영등포구 여의도 콘래드호텔 그랜드볼룸에서 '아바타: 물의 길' 내한 기자간담회가 진행됐다. 이날 제임스 카메론 감독, 존 랜도 프로듀서와 배우 샘 워싱턴, 조 샐다나, 시고니 위버, 스티븐 랭이 참석했다.&nbsp; '아바타: 물의 길'은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fxportsnews%2F20221209125009543gvne.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아바타:물의 길’을 전세계 최초 대한민국에서 개봉해야 했던 이유[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221209123159731</link>
-            <guid>https://v.daum.net/v/20221209123159731</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 글 허민녕 기자/사진 유용주 기자] ‘아바타’가 전세계 개봉에 앞서 프로모션을 진행하는 나라는 단 4개국. “굉장히 중요한, 따라서 전세계 최초 개봉되는 국가가 대한민국”이라고도 했다. 영화의 나라 대한민국이, 또한 전세계가 기다렸던 ‘아바타’ 후속편 ‘아바타:물의 길’이 12월14일 전세계 최초 대한민국에서 개봉된다. 이를 기념해 ‘아바타’의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Fnewsen%2F20221209123200628koxl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2023,12 +2023,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[4살때 부터 무속인 일한 소녀의 16년후 현재 근황 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[1분에 31억, 역대 최다 제작비 '아바타 : 물의 길'이 가성비 영화인 이유 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/8C8mzTlfTj</link>
+            <guid>https://v.daum.net/v/8C8mzTlfTj</guid>
+            <pubDate>Fri, 09 Dec 2022 06:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2FBoiledMovie%2F20221209143239338gqyp.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[4살 꼬마 무당으로 화제 불러온 '진실게임' 소녀 근황 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/xvcGphOKCg</link>
             <guid>https://v.daum.net/v/xvcGphOKCg</guid>
             <pubDate>Fri, 09 Dec 2022 05:20:01 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Ffeelthemovie%2F20221209140647035wxsa.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F09%2Ffeelthemovie%2F20221209143135083yhim.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[뉴욕 타임즈 선정 2022년 최고의 영화에 뽑힌 한국 영화 (다음 영화 ─ 매거진)]]></title>
@@ -2175,14 +2183,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F08%2FBoiledMovie%2F20221208173251161pmsc.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[한국과 미국의 대표 남녀 톱스타가 부부가 된다고? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/ZiTk3exvjG</link>
-            <guid>https://v.daum.net/v/ZiTk3exvjG</guid>
-            <pubDate>Fri, 09 Dec 2022 05:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F07%2Ffeelthemovie%2F20221207135920789fyob.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[29. 400번의 구타 (1959) (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@7UhI/33</link>
             <guid>https://brunch.co.kr/@@7UhI/33</guid>
@@ -2197,6 +2197,22 @@
             <pubDate>Fri, 09 Dec 2022 05:20:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>물안경]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9B10%2Fimage%2FqQAb1Kw87ByA1ov-Jcyx-ZKYXMc" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 모녀(영화_윤시내가 사라졌다) (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@bXL9/201</link>
+            <guid>https://brunch.co.kr/@@bXL9/201</guid>
+            <pubDate>Fri, 09 Dec 2022 06:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>소채]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbXL9%2Fimage%2FtCNiVh2kkCxrudk8RGlf2K9EXqg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[괴기하고 매력적인 수요일 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@19Ic/291</link>
+            <guid>https://brunch.co.kr/@@19Ic/291</guid>
+            <pubDate>Fri, 09 Dec 2022 06:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이학민]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F19Ic%2Fimage%2FmVNLd-YKrh7edR8AqN2d1aLhBxc.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 <토스카나> & 이탈리아 토스카나 끼안티 와인 (다음 영화 ─ 브런치)]]></title>
@@ -2325,22 +2341,6 @@
             <pubDate>Wed, 07 Dec 2022 03:30:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서영수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fp5q%2Fimage%2FW1NZqO9-Y2cTUAYzSX8n3DdTkbA.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화로 허영의 배를 채우는 이들 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@dyYe/14</link>
-            <guid>https://brunch.co.kr/@@dyYe/14</guid>
-            <pubDate>Wed, 07 Dec 2022 09:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2FMQUEb1SILjToPbNm6xw4zftFK2s.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는, 증오하는 당신 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@3UHZ/23</link>
-            <guid>https://brunch.co.kr/@@3UHZ/23</guid>
-            <pubDate>Thu, 08 Dec 2022 02:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Scholabour]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3UHZ%2Fimage%2F0_f4Xxgxs_ZdTv4hwUZdEI8L8ug.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
