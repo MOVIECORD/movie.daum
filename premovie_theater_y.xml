@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 01:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 02:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[화이트 노이즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162487</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162487</guid>
-            <pubDate>Tue, 06 Dec 2022 23:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb2a9b9e44a75704165002253cd6350a9311e12d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165138</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165138</guid>
             <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F441d8ac369f0350274d60d3c133b935f983fe816" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[화이트 노이즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162487</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162487</guid>
+            <pubDate>Tue, 06 Dec 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb2a9b9e44a75704165002253cd6350a9311e12d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 팬서: 와칸다 포에버]]></title>
@@ -136,22 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f85e20fb476a393ad899de71ef738bd08b6d2ae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[너와 사랑한 시간]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164002</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164002</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4630eba66c7aa6ef207df5cdb51388ea0e9e7f23" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[만인의 연인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154114</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154114</guid>
-            <pubDate>Wed, 30 Nov 2022 23:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd48b59488a13845a851a36e34b8d8c7de3b6265" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[양자경의 더 모든 날 모든 순간]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165692</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165692</guid>
@@ -160,12 +144,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[너와 사랑한 시간]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164002</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164002</guid>
+            <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4630eba66c7aa6ef207df5cdb51388ea0e9e7f23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[헤이지니&럭키강이 비밀의 문]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165116</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165116</guid>
             <pubDate>Thu, 08 Dec 2022 15:20:23 GMT</pubDate>
             <content:encoded><![CDATA[22.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b573f6ef2ab0b47157fa8f3d7e3415a91e2aa42" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[만인의 연인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154114</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154114</guid>
+            <pubDate>Wed, 30 Nov 2022 23:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd48b59488a13845a851a36e34b8d8c7de3b6265" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

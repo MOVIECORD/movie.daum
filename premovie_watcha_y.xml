@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-12-09T01:42:38.340Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 09 Dec 2022 02:50:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐데이즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43417</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43417</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AC58A66874" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[침묵]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=105698</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=105698</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7072b9e3cec73a6f20d416705f75cc79a1941283" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아기와 나]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=45179</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=45179</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12498210B0774C8BD8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쉘로우 그레이브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2058</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2058</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad3437d193720591a89abc5e65cf08c2fcd0b2dc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이완 맥그리거의 인질]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2057</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2057</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F156F1B10AB99F46C2F" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[시맨틱 에러: 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161454</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161454</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9b0aaa6144724d4b373d4a980b2c51ad6d211cc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[갓건담]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133997</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133997</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1842ed1f5e6241a696039063ca4df9a51564586088333" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[구세주 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=48236</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=48236</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116EC110B2B13C1C0B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무중력]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134625</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134625</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7831881878db4957a1afd5a2775a850f1566711670991" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이브닝]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43541</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43541</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F136F1B10AC6ECDB3E2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마틴 기어의 귀향]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=11168</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=11168</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A915F71FBD" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그녀의 이름은 파니]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151346</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151346</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19f8c2dfff5a3b2d0f505a6974c2a4ca8cf5ed59" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애니멀 체인지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143295</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143295</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a42553276351cb243c6da25b28c78bc5a1bddfe" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼사진]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162494</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162494</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faf8efabe11f130de14e8be344155129546b46860" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아 : 더 베네디지오네]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156094</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156094</guid>
+            <pubDate>Fri, 09 Dec 2022 02:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee6fbaed56e436e5c65b1d917a8c5880b6b00eec" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
