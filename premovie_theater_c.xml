@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 01:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 02:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16c0559d687b57f6befe21dd11da461864f9e1a2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165184</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165184</guid>
-            <pubDate>Fri, 09 Dec 2022 01:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F422570d55f13ba3520c2c8f786fe68f383999c62" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[화피사2: 요괴전쟁]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158849</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158849</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 07 Dec 2022 10:22:06 GMT</pubDate>
             <content:encoded><![CDATA[22.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F805e2aa61a642a591a00d6533f480eb6baaca699" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165184</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165184</guid>
+            <pubDate>Fri, 09 Dec 2022 01:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F422570d55f13ba3520c2c8f786fe68f383999c62" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
