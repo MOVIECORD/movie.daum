@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 04:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 05:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[탄생]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153651</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153651</guid>
             <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a4287cc3410a33277a66c2364e74302b437cd41" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
+            <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[압꾸정]]></title>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2a065aa4da819fdd01ba4d6e6f86d1a4ffceecc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164704</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164704</guid>
-            <pubDate>Wed, 30 Nov 2022 23:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88ca3054ee320beec75ec8da1189805530835e13" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프레이 포 더 데블]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143917</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143917</guid>
             <pubDate>Tue, 06 Dec 2022 23:21:16 GMT</pubDate>
             <content:encoded><![CDATA[22.12.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43acc0df20d0c34227a1196bb708b70bd54738b9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164704</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164704</guid>
+            <pubDate>Wed, 30 Nov 2022 23:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88ca3054ee320beec75ec8da1189805530835e13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[원피스 필름 레드]]></title>
@@ -72,14 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3bc5e9a57a202131dc823f9490dfcc217a23cde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 메뉴]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161420</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161420</guid>
-            <pubDate>Tue, 06 Dec 2022 23:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb19f767e00ca3ef5a6beb03200bb7a1f3bf017c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[본즈 앤 올]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155615</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155615</guid>
@@ -88,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 메뉴]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161420</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161420</guid>
+            <pubDate>Tue, 06 Dec 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb19f767e00ca3ef5a6beb03200bb7a1f3bf017c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[블랙 팬서: 와칸다 포에버]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=133423</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=133423</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:54 GMT</pubDate>
             <content:encoded><![CDATA[22.11.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2e234313de6543bb1ba4ad0e5d6ae389a26765b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165138</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165138</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F441d8ac369f0350274d60d3c133b935f983fe816" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데시벨]]></title>
@@ -120,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fce276b97741ffe5e721b1d6994ca693f11c931" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165138</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165138</guid>
+            <pubDate>Tue, 29 Nov 2022 23:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F441d8ac369f0350274d60d3c133b935f983fe816" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[화이트 노이즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162487</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162487</guid>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[헤이지니&럭키강이 비밀의 문]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165116</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165116</guid>
-            <pubDate>Thu, 08 Dec 2022 15:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b573f6ef2ab0b47157fa8f3d7e3415a91e2aa42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[튜브펫 주식회사]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165173</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165173</guid>
@@ -152,12 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f85e20fb476a393ad899de71ef738bd08b6d2ae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스트레인지 월드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160947</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160947</guid>
-            <pubDate>Fri, 09 Dec 2022 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3e24837e9b7560e84610ee16fb32d4d250d8290" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[헤이지니&럭키강이 비밀의 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165116</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165116</guid>
+            <pubDate>Thu, 08 Dec 2022 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b573f6ef2ab0b47157fa8f3d7e3415a91e2aa42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 09 Dec 2022 11:17:21 GMT</pubDate>
             <content:encoded><![CDATA[22.09.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84755e53eb8e03b51d11099d1b809b419e12873" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[너와 사랑한 시간]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164002</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164002</guid>
+            <pubDate>Sat, 10 Dec 2022 05:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4630eba66c7aa6ef207df5cdb51388ea0e9e7f23" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
