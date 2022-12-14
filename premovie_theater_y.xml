@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 01:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 02:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb19f767e00ca3ef5a6beb03200bb7a1f3bf017c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[라 비 앙 로즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=43049</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=43049</guid>
-            <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff0c78172601062c62c68172a87ed92017d570181" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[원피스 필름 레드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161062</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161062</guid>
@@ -110,6 +102,14 @@
             <pubDate>Sun, 11 Dec 2022 12:35:03 GMT</pubDate>
             <content:encoded><![CDATA[22.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F138d3caa77984412244bbde8f188a60fc8aaec9d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라 비 앙 로즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43049</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43049</guid>
+            <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff0c78172601062c62c68172a87ed92017d570181" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스페이스 키드: 우주에서 살아남기]]></title>
