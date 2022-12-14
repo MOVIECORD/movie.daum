@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 03:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 04:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 14 Dec 2022 01:43:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2Fm9NYfUEwXMpdynMzkZhFdcXZTos.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타 <물의 길> 보기 전 알고 가면 좋은 정보]]></title>
+            <link>https://brunch.co.kr/@@eEzu/26</link>
+            <guid>https://brunch.co.kr/@@eEzu/26</guid>
+            <pubDate>Wed, 14 Dec 2022 04:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>전창훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeEzu%2Fimage%2FiSg1GHFt1HdtfSm3nbHeqEqLX5g" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[처음부터 잘했으면 얼마나 좋니]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 09 Dec 2022 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김혜원]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4VgN%2Fimage%2Fa9xnL4DvikiZspER6bWEij78dno.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@dXtR/53</link>
-            <guid>https://brunch.co.kr/@@dXtR/53</guid>
-            <pubDate>Fri, 09 Dec 2022 10:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXtR%2Fimage%2FfsjyItxaSN8BttshQ8MTpwoh5rE" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
