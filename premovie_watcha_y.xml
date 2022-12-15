@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 03:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 04:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
             <pubDate>Wed, 14 Dec 2022 04:25:32 GMT</pubDate>
             <content:encoded><![CDATA[22.12.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ef440c390765a76efeb2421baaeb0cfa3ddb200" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신들의 전쟁]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=48804</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=48804</guid>
+            <pubDate>Thu, 15 Dec 2022 04:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1539CF474E8BD5501D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그랑블루]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143597</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143597</guid>
+            <pubDate>Thu, 15 Dec 2022 04:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F757713545396de5293d42c36dbe48dd0a259b9b1" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
