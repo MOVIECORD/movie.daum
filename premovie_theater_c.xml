@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 09:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 10:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 13 Dec 2022 23:20:51 GMT</pubDate>
             <content:encoded><![CDATA[23.01.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc137b6fd189123f7750114aef5fb8485f564d597" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[코르사주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160292</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160292</guid>
-            <pubDate>Wed, 07 Dec 2022 23:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1aed6395db71fb83d46c01a903aafde63a35f0c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[크레이지 컴페티션]]></title>
@@ -72,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F422570d55f13ba3520c2c8f786fe68f383999c62" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[코르사주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160292</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160292</guid>
+            <pubDate>Wed, 07 Dec 2022 23:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1aed6395db71fb83d46c01a903aafde63a35f0c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[화피사2: 요괴전쟁]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158849</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158849</guid>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 15 Dec 2022 01:42:07 GMT</pubDate>
             <content:encoded><![CDATA[22.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437f502aff2692eedad8234ff47e0c7a5b77d579" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이태석]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165877</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165877</guid>
+            <pubDate>Thu, 15 Dec 2022 10:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff67ec697d4a29d2aed19f354378c3e9764d03442" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캅 시크릿]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Dec 2022 01:42:07 GMT</pubDate>
             <content:encoded><![CDATA[22.12.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b9da0d76400e9eb8f0fab59d0c836bc196720f7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 필름]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154095</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154095</guid>
-            <pubDate>Sat, 10 Dec 2022 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff69a49dfe69e54214d82b0cc352e6b956668da1e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
