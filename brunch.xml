@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 01:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 01:43:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FyHYwNbxFa4Yb3W9QIXtVbp_0OgM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[제임스 카메론이 엿본 시네마의 길]]></title>
+            <link>https://brunch.co.kr/@@dyYe/15</link>
+            <guid>https://brunch.co.kr/@@dyYe/15</guid>
+            <pubDate>Thu, 15 Dec 2022 02:52:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Widermovie]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdyYe%2Fimage%2F_hxAN_D1BdCcGUNCEWos-a1wYSQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[탑 (2022)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 12 Dec 2022 04:25:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Jose]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2YVh%2Fimage%2F5S8bwf4BjZ_lbGIGij2FcKg-Iqs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[죽음의 문턱에서 거짓말로 살아남은 자의 고백]]></title>
-            <link>https://brunch.co.kr/@@5CxR/100</link>
-            <guid>https://brunch.co.kr/@@5CxR/100</guid>
-            <pubDate>Mon, 12 Dec 2022 02:53:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Anonymoushilarious]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5CxR%2Fimage%2F_GXEk9dmLSvbPiWBqIB-3rKovpw" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
