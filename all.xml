@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 23:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 01:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -967,14 +967,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cea7130cd9af437f24406c9c67768dcd50cf4d9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어웨이크 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146975</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146975</guid>
-            <pubDate>Tue, 13 Dec 2022 23:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F805e2aa61a642a591a00d6533f480eb6baaca699" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165184</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165184</guid>
@@ -1085,6 +1077,14 @@
             <pubDate>Thu, 15 Dec 2022 01:42:07 GMT</pubDate>
             <content:encoded><![CDATA[22.12.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee9855b2d65abdda7fc1315da43c38d4092f6bf6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이스터 선데이 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160327</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160327</guid>
+            <pubDate>Fri, 16 Dec 2022 01:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b9da0d76400e9eb8f0fab59d0c836bc196720f7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스타 이즈 본 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1567,92 +1567,164 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F757713545396de5293d42c36dbe48dd0a259b9b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[“준비된 플레이어”‥‘유령’ 박소담의 도발적인 매력 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216081527626</link>
-            <guid>https://v.daum.net/v/20221216081527626</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박소담이 '유령'에서 도발적이고 예측 불가의 매력을 보여준다. 1월 18일 개봉하는 영화 '유령'(감독 이해영)은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 ‘유령’의 멈출 수 없는 작전을 그린다. 박소담은 도발적인 매력]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fnewsen%2F20221216081527490ykff.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[‘교섭’ 황정민, 21년만에 임순례 감독과 호흡한 소감 “사람으로 존경” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216102512622</link>
+            <guid>https://v.daum.net/v/20221216102512622</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '우생순' '리틀 포레스트' 임순례 감독이 '교섭'으로 돌아온다. 1월 18일 개봉하는 영화 '교섭'(감독 임순례)은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구하기 위해 아프가니스탄으로 향한 외교관과 현지 국정원 요원의 교섭 작전을 그린 영화. “위기에 처한 국민을 구해야 하는 가장 기본적인 소명을 가진 사람들을 중심으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fnewsen%2F20221216102514166bxsi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[D:영화 뷰] '오늘 밤', 역주행으로 20만 돌파…빈약한 차림표 속 장르 정조준 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216075923340</link>
-            <guid>https://v.daum.net/v/20221216075923340</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일본 판타지 멜로물 '오늘 밤 이 세계에서 사랑이 사라진다 해도'가 역대 일본 로맨스 흥행작 '너의 췌장을 먹고 싶어' 이후 최단 기간 20만 관객을 돌파하며 역주행 중이다. 15일 영화진흥위원회 통합전산망에 따르면 14일 '오늘 밤 세계에서 이 사랑이 사라진다 해도'는 누적 관객 수 23만 15명을 기록 중이다. 지난 달 30일 개봉해 9212명이 관람]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fdailian%2F20221216075927006itvc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[문근영, '강수연상' 첫 수상자…"내 흉터 보고 용기 북돋아준 선배님" [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216102324545</link>
+            <guid>https://v.daum.net/v/20221216102324545</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 문근영이 제23회 2022 여성영화인축제 올해의 여성영화인상에서 '강수연상'을 수상했다. 15일 열린 제23회 2022 여성영화인축제는 여성영화인모임과 한국영화성평등센터 든든의 활동을 결산하고 축제의 하이라이트인 '2022 올해의 여성영화인상' 시상식을 진행하는 행사다. 특히 올해 시상식에서는 영화인으로서 모범을 보인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fmydaily%2F20221216102324759zeyv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[스한초점] 정성화 14년 내공 '영웅', '아바타: 물의 길' 독주 막을까 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216075607304</link>
-            <guid>https://v.daum.net/v/20221216075607304</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 연말 극장가는 정말 '아바타: 물의 길'의 독주일까. 2022년을 2주 가량 남겨놓고 올해 마지막 대목을 잡기 위한 스크린 전쟁이 시작됐다. 지난달 23일 개봉 후 300만 돌파를 앞둔 '올빼미'의 흥행 기운을 이어받아 굵직한 국내외 대작들이 관객들을 맞는다. 먼저 지난 14일 개봉한 '아바타: 물의 길'을 시작으로 일주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2FSpoHankook%2F20221216075610039oalo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['유령' 박소담의 매혹적 변신.."완벽히 준비된 플레이어" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216101854407</link>
+            <guid>https://v.daum.net/v/20221216101854407</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 유령 / 사진=CJ ENM/더 램프(주) 영화 '유령'이 총독부 정무총감 직속 비서 '유리코'로 변신한 박소담의 캐릭터 스틸을 공개했다. 영화 '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 '유령'의 멈출 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fstarnews%2F20221216101855507jgoe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] '아바타:물의 길', 29만↑ 관객 동원…개봉 이틀째 1위 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216075207235</link>
-            <guid>https://v.daum.net/v/20221216075207235</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 영화 '아바타: 물의 길'(이하 '아바타2')이 개봉 이틀째 박스오피스 정상을 지켰다. 16일 영화진흥위원회 통합전산망 집계에 따르면, '아바타2'는 전날 29만 1485명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 65만 1489명이다. '아바타2'는 예매 오픈 직후 예매율 전체 1위를 기록했을 뿐]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2FSpoChosun%2F20221216075208047wemq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[주말극장가] '아바타2', 첫 주말 흥행몰이 본격화 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216095024210</link>
+            <guid>https://v.daum.net/v/20221216095024210</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 양정우 기자 = 지난 14일 개봉한 할리우드 대작 '아바타: 물의 길'(아바타2)이 첫 주말을 맞아 본격적인 관객몰이에 나선다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '아바타2'는 첫날 35만9천여 명, 둘째 날인 15일에는 29만1천여 명을 동원해 누적 관객 수 65만여 명으로 박스오피스 1위에 올라 있다. 이 영화의 예]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fyonhap%2F20221216095024413zrye.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[권상우, 하루아침에 '캐스팅 0%' 무명배우 됐다…'스위치' 예고편 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216074917191</link>
-            <guid>https://v.daum.net/v/20221216074917191</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 2023년 새해 첫 한국영화 '스위치'가 메인 예고편을 최초 공개했다. '스위치'는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 박강이 크리스마스에 인생이 180도 뒤바뀌는 순간을 맞이하면서 벌어지는 이야기를 담은 영화다. 이번에 공개된 메인 예고편은 남우주연상 수상 소감 중에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fmydaily%2F20221216074917376uujf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[300만 보이는 '올빼미' VS 변수로 나타난 '아바타'[무비차트TEN] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216094702095</link>
+            <guid>https://v.daum.net/v/20221216094702095</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=류예지 기자] 영화 ‘아바타: 물의 길’(감독 제임스 카메론, 이하 ‘아바타2’)이 1위 자리를 또 지켰다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘아바타2’은 전날 29만 1485명의 관객을 동원해 누적관객수 65만 1489명을 기록했다. 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대 흥행 순위 1위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2F10asia%2F20221216094705369zswi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘아바타2’, 29만↑이틀 연속 1위[MK박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216073901028</link>
-            <guid>https://v.daum.net/v/20221216073901028</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘아바타: 물의 길’(감독 제임스 카메론, 이하 ‘아바타2’)이 이틀째 박스오피스 왕좌를 지켰다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘아바타2’은 전날 29만 1485명의 관객을 동원해 누적관객수 65만 1489명을 기록했다. 영화는 지난 14일 개봉 동시에 장기 선두였던 ‘올빼미’를 제치고 단숨에 박스오피스 정상에 올랐고,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fstartoday%2F20221216073902714mbpr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[심장이 바운스바운스...‘더 퍼스트 슬램덩크’ 1월4일 개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216094501004</link>
+            <guid>https://v.daum.net/v/20221216094501004</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[불꽃 감동이 되살아난다. 영화 ‘더 퍼스트 슬램덩크’가 내년 1월 4일 국내 개봉을 확정하며 북산고 농구부의 모습을 담은 스타팅 라인업 영상을 공개했다. 16일 영화의 국내 개봉 소식과 함께 공개된 영상에는 북산고 농구부 최고의 명장 안한수 감독의 반가운 얼굴로 시작된다. 박진감 넘치는 비트와 함께 선수들이 차례로 공개되는 가운데 포인트 가드 송태섭, 슈팅]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fstartoday%2F20221216094502386zzkq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['아바타: 물의 길', 29만↑ 동원하며 이틀 연속 1위 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216071930838</link>
-            <guid>https://v.daum.net/v/20221216071930838</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '아바타: 물의 길'(감독 제임스 카메론)이 박스오피스 1위 자리를 지켰다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '아바타: 물의 길'은 전날 29만1485명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 65만1489명이다. 14일 개봉한 '아바타: 물의 길'은 공개와 동시에 '올빼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2FNEWS1%2F20221216071931776lwrv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이병헌·유아인 '승부', 넷플릭스 공개 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216093515674</link>
+            <guid>https://v.daum.net/v/20221216093515674</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 넷플릭스가 영화 '승부'의 전 세계 공개를 확정지었다. 넷플릭스가 이병헌과 유아인이 함께 하는 첫 번째 영화 '승부'의 전 세계 공개를 확정했다. '승부'는 스승과 제자이자, 라이벌이었던 한국 바둑의 두 전설인 조훈현(이병헌)과 이창호(유아인)의 피할 수 없는 승부를 그린 영화로 '보안관'으로 이질적인 장르인 코믹과 형사물을 로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fpoctan%2F20221216093516526qour.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰]김고은 “고통스러웠던 ‘영웅’, 결국엔 해냈다” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216070307593</link>
-            <guid>https://v.daum.net/v/20221216070307593</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“작품마다 ‘과연 잘 해낼 수 있을까?’ 두렵고 걱정되요. 뮤지컬 영화 ‘영웅’도 마찬가지였죠. 노래와 연기를 동시에 하는 것 자체가 큰 도전이었고, 고통스러웠어요. 하지만 스스로 한계를 짓고 싶지는 않아요. 결국엔 해낼 수 있으니까요.” 10년 전 충무로의 괴물신예로 불리며 파격 등장한 배우 김고은(31)이 어느덧 10년차 ‘믿보배’가 됐다. 연기력과 흥]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fstartoday%2F20221216070308235ruvz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이병헌X유아인 ‘승부’, 극장 아닌 넷플릭스 공개[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216093301588</link>
+            <guid>https://v.daum.net/v/20221216093301588</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿보배’ 이병헌 유아인의 만남으로 기대를 모으는 영화 ‘승부’가 넷플릭스 공개를 확정했다. ‘승부’(감독 김형주)는 스승과 제자이자, 라이벌이었던 한국 바둑의 두 전설인 조훈현(이병헌)과 이창호(유아인)의 피할 수 없는 승부를 그린 작품이다. 이병헌이 조훈현 9단 역을, 유아인이 이창호 9단 역을 각각 맡았다. 조훈현과 이창호. 바둑이 월드컵보다 더 뜨거]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fstartoday%2F20221216093302933ervu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[극장이냐 OTT냐…연말 ‘달콤살벌한 유혹’ (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216063014217</link>
-            <guid>https://v.daum.net/v/20221216063014217</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘아바타2’(왼쪽)·‘카지노’ 포스터. 사진제공｜월트디즈니컴퍼니 코리아 연말 극장가와 OTT(온라인 동영상 서비스)에 기대작들이 한꺼번에 쏟아진다. 감염증 사태 여파와 관람료 상승 등으로 인해 비수기에 있던 극장가는 관객을 불러 모으기에 나선다. OTT는 스타 배우들과 흥미로운 여성들의 이야기 등 새 시리즈를 쏟아내며 ‘OTT 대세론’을 굳힐 기세다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fsportsdonga%2F20221216063016671tinf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[11월 韓 영화 산업 매출액, 코로나19 이후 첫 연간 누적 1조 돌파 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216093007483</link>
+            <guid>https://v.daum.net/v/20221216093007483</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 11월 한국 영화산업은 기대작의 흥행 저조로 코로나 19 이전 동월 매출액 대비 40.8%의 매출을 올리는데 그쳤다. 다만 코로나 19 이후로는 처음으로 1월부터 11월까지의 누적 매출액이 1조 원을 넘어서 고무적인 상황이다. 15일 영화진흥위원회가 발표한 '2022년 11월 한국 영화산업 결산 발표'에 따르면 11월 한국 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Ftvdaily%2F20221216093008600uvoy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘천만배우’ 마동석의 ‘압꾸정’ 폭망, 왜? (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216063006207</link>
-            <guid>https://v.daum.net/v/20221216063006207</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 마동석 주연의 코미디 영화 ‘압꾸정’이 혹평을 받으며 흥행에 실패했다. 사진은 영화의 한 장면. 사진제공｜쇼박스배우 마동석이 자존심을 제대로 구겼다. 기획부터 주연까지 맡으며 의욕적으로 나선 영화 ‘압꾸정’이 흥행에 참패했다. 5월 선보인 ‘범죄도시2’로 1269만 명을 모았던 것과는 전혀 다른 성적표다. 비슷한 캐릭터의 반복된 사용으로 인한 이미지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fsportsdonga%2F20221216063009336fkdu.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이병헌 vs 유아인 '승부', 전 세계 공개 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216091622081</link>
+            <guid>https://v.daum.net/v/20221216091622081</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이병헌, 유아인 신작 '승부'가 넷플릭스에서 공개된다. 넷플릭스는 16일 "'승부'의 전 세계 공개를 확정했다"라고 밝혔다. '승부'는 스승과 제자이자, 라이벌이었던 한국 바둑의 두 전설인 조훈현(이병헌)과 이창호(유아인)의 피할 수 없는 승부를 그린 영화. 영화 '보안관'으로 이질적인 장르인 코믹과 형사물을 로컬 수사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fmydaily%2F20221216091622934kxqw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘안중근’ 정성화 “의심을 확신으로 바꿔야 했다” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221216040443679</link>
-            <guid>https://v.daum.net/v/20221216040443679</guid>
+            <title><![CDATA[[공식] 여진구·조이현→배인혁 '동감', 오늘(16일) 극장 동시 VOD 오픈 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216091202942</link>
+            <guid>https://v.daum.net/v/20221216091202942</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 영화 '동감'(감독 서은영)이 극장 동시 VOD 서비스를 시작한다. 16일 배급사 CJ CGV에 따르면 이날부터 '동감'이 극장 동시 VOD 서비스를 개시한다. '동감'은 1999년의 용(여진구 역)과 2022년의 무늬(조이현 역)가 우연히 오래된 무전기를 통해 소통하면서 벌어지는 이야기. 여진구, 조이현, 김혜윤, 나인우,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2F10asia%2F20221216091204958aagy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이병헌x유아인 '승부' 넷플릭스 영화로 공개..공식 발표 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216091034897</link>
+            <guid>https://v.daum.net/v/20221216091034897</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 전형화 기자] 배우 이병헌과 유아인 주연 영화 '승부'(감독 김형주)가 넷플릭스 영화로 공개된다. 16일 넷플릭스는 이 같은 소식을 공식 발표했다. '승부'는 스승과 제자이자, 라이벌이었던 한국 바둑의 두 전설인 조훈현(이병헌)과 이창호(유아인)의 피할 수 없는 승부를 그린 영화. '보안관' 김형주 감독의 두 번째 작품이다. 이병헌이 조훈현 9]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fstarnews%2F20221216091035737geot.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['대세' 안효섭, 봉준호 '기생충' 제작사와 손잡았다 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216090818826</link>
+            <guid>https://v.daum.net/v/20221216090818826</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 안효섭이 '세계적 거장' 봉준호 감독의 영화 '기생충' 제작사 바른손이앤에이와 손을 잡았다. 더프레젠트컴퍼니 측은 16일, "'기생충' 제작사 바른손이앤에이와 전략적 투자 및 파트너십 협업 체계를 구축했다"라고 밝혔다. 더프레젠트컴퍼니는 안효섭이 데뷔 전부터 함께한 매니저와 올해 5월 공동 설립한 회사. '지금을 사는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fmydaily%2F20221216090818677sxbp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이병헌X유아인 바둑영화 ‘승부’ 넷플릭스 공개[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216090740811</link>
+            <guid>https://v.daum.net/v/20221216090740811</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이병헌 유아인 주연 '승부'가 넷플릭스를 통해 공개된다. 영화 '승부'(감독 김형주)는 스승과 제자이자, 라이벌이었던 한국 바둑의 두 전설인 조훈현(이병헌)과 이창호(유아인)의 피할 수 없는 승부를 그린 작품이다. 조훈현과 이창호. 바둑이 월드컵보다 더 뜨거웠던 시절, 세계를 제패했던 두 이름은 지금도 전설이자 여전히 현역이다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fnewsen%2F20221216090740401lwod.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 이병헌·유아인 첫 호흡 '승부', 넷플릭스 공개 확정 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216090502744</link>
+            <guid>https://v.daum.net/v/20221216090502744</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 이병헌, 유아인 영화 '승부'(감독 김형주)가 넷플릭스에서 공개된다. 16일 넷플릭스는 "이병헌과 유아인이 함께 하는 첫 번째 영화 '승부'의 전 세계 공개를 확정했다"고 밝혔다. '승부'는 스승과 제자이자 라이벌이었던 한국 바둑의 두 전설인 조훈현(이병헌 역)과 이창호(유아인 역)의 피할 수 없는 승부를 그린 영화. 흔]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2F10asia%2F20221216090505006rupv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아바타: 물의 길' 1위 수성, 65만 돌파 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216090406714</link>
+            <guid>https://v.daum.net/v/20221216090406714</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '아바타: 물의 길'이 박스오피스 1위를 기록했다. 16일 영화진흥위원회 통합전산망에 따르면 '아바타: 물의 길'(감독 제임스 카메론·배급 월트디즈니 컴퍼니 코리아)이 지난 15일 29만1484명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 65만1488명이다. '아바타: 물의 길'은 판도라 행성에서 가족]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Ftvdaily%2F20221216090410113aega.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[문근영, 여성영화인상 '강수연상' 수상 "뒤따라 걷고 싶었다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216085721489</link>
+            <guid>https://v.daum.net/v/20221216085721489</guid>
             <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1994년 SBS 3기 공채 개그맨으로 정성화는 대중에 처음 얼굴을 알렸다. 시트콤과 드라마에서 단역을 맡고, 라디오 프로그램에서 성대모사를 했지만 큰 인기를 끈 건 아니었다. 정성화가 사람들의 입에 오르내리기 시작한 건 뮤지컬을 시작하면서부터다. ‘라디오 스타’와 ‘맨 오브 라만차’ 등으로 커리어를 쌓아나가던 그는 2009년 창작 뮤지컬 ‘영웅’ 초연에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fkukminilbo%2F20221216040445172usug.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 배우 문근영이 제23회 ‘2022 여성영화인축제’ 올해의 여성영화인상에서 강수연상을 수상했다. 15일 진행된 제23회 ‘2022 여성영화인축제’는 여성영화인모임과 한국영화성평등센터 든든의 활동을 결산하고 축제의 하이라이트인 ‘2022 올해의 여성영화인상’ 시상식을 진행하는 행사다. 특히 올해 시상식에서는 영화인으로서 모범을 보인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fpoctan%2F20221216085721571aolg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['영웅' 윤제균 감독x정성화, 최고의 홍보 요정이 여기 있네 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216085400410</link>
+            <guid>https://v.daum.net/v/20221216085400410</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 세대를 뛰어넘는 실력파 배우들의 앙상블, 공연 그 이상의 감동을 선사하는 스토리와 볼거리로 뜨거운 호평을 불러일으키고 있는 영화 '영웅'의 윤제균 감독과 정성화가 SBS '박하선의 씨네타운' 보이는 라디오에 출연한다. 이어 같은 날 정성화는 YTN '뉴스N이슈', 다음날 12월 17일 정성화는 JTBC '뉴스룸', 윤제균 감독은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fpoctan%2F20221216085401640akwn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[충격과 감동의 기술력, '아바타: 물의 길' [HI★리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216085008330</link>
+            <guid>https://v.daum.net/v/20221216085008330</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비약적으로 진화한 CG 기술력의 신기원을 볼 수 있다는 이유만으로도 영화관을 찾을 이유는 충분하다. 13년 전 '아바타'가 그랬듯, '아바타: 물의 길'는 지금의 영화 시장에 또 한 번 신선한 충격을 선사한다. '아바타: 물의 길'은 지난 2009년 개봉했던 전편에 이어 제임스 카메론 감독이 13년 만에 선보이는 속편으로 개봉 전부터 전 세계적인 기대를 모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fhankooki%2F20221216085011819apkg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아바타: 물의 길' 한국 집어삼켰다..이틀 연속 흥행 1위 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221216083524001</link>
+            <guid>https://v.daum.net/v/20221216083524001</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 영화 '아바타: 물의 길'이 이틀 연속 박스오피스&nbsp;1위에 올랐다. 16일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '아바타: 물의 길'은 지난 15일 하루 2,806개 스크린에서 29만 1,487명의 관객을 끌어 모아 누적관객수 65만 1,491명을 기록해 박스오피스 1위를 지켰다. 같은 날 '올빼미'는 3만 3,68]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Fpoctan%2F20221216083525794dxbj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1815,20 +1887,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['포스가 함께하길' 미국인들이 가장 사랑하는 영화 속 명대사 6-10위 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/qL88umwzlM</link>
+            <guid>https://v.daum.net/v/qL88umwzlM</guid>
+            <pubDate>Fri, 16 Dec 2022 01:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2FBoiledMovie%2F20221216095615079mrhg.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[50이 넘었는데도 날렵한 몸놀림을 자랑하시는 이 분 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/fGkl5YyPXf</link>
+            <guid>https://v.daum.net/v/fGkl5YyPXf</guid>
+            <pubDate>Fri, 16 Dec 2022 01:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Ffeelthemovie%2F20221216092334755ckmw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 해외에서 좋은일 한다는 '수리남' 목사님 근황 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/0WZyeP8CAu</link>
+            <guid>https://v.daum.net/v/0WZyeP8CAu</guid>
+            <pubDate>Fri, 16 Dec 2022 01:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2Ffeelthemovie%2F20221216085843081hssn.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[아바타 보려는데 용아맥-코돌비-영스엑-여포디 이게 다 무슨 말? (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/4zOPhMQSYe</link>
             <guid>https://v.daum.net/v/4zOPhMQSYe</guid>
             <pubDate>Thu, 15 Dec 2022 22:19:53 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2FBoiledMovie%2F20221216010432645lcnj.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 잘 쳐서 ‘대역’인줄 알았다는 피아노 실력 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/KUL997UNa1</link>
-            <guid>https://v.daum.net/v/KUL997UNa1</guid>
-            <pubDate>Thu, 15 Dec 2022 09:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F15%2FBoiledMovie%2F20221215175534452jyml.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F16%2FBoiledMovie%2F20221216102545247unhr.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[마블영화 '짜증난다'는 어벤져스 멤버 (다음 영화 ─ 매거진)]]></title>
@@ -1957,22 +2045,6 @@
             <pubDate>Wed, 14 Dec 2022 02:52:32 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F14%2Ffeelthemovie%2F20221214111015668dbuv.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 이라면 보고 1초만에 가슴이 뜨거워 지는 이 만화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/GxWryAat5K</link>
-            <guid>https://v.daum.net/v/GxWryAat5K</guid>
-            <pubDate>Wed, 14 Dec 2022 01:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F14%2Ffeelthemovie%2F20221214091016018ealp.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아바타: 물의 길’ 전편보다 신선함은 줄었지만 여전히 경이로운 판도라 여행 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/9cGGh7paYH</link>
-            <guid>https://v.daum.net/v/9cGGh7paYH</guid>
-            <pubDate>Wed, 14 Dec 2022 07:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F13%2Ftailorcontents_cv%2F20221213161949274hwyp.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[아이언맨 1 MCU 최초 미의회 도서관 영구보존영화 (다음 영화 ─ 브런치)]]></title>
