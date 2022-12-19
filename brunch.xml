@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 03:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 04:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 19 Dec 2022 02:37:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FHZtIt4cv_5BEN-lxi4zuEBsINYs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 세상의 주인공이 아니라는 것을 알게 되는 순간]]></title>
+            <link>https://brunch.co.kr/@@dU8v/40</link>
+            <guid>https://brunch.co.kr/@@dU8v/40</guid>
+            <pubDate>Mon, 19 Dec 2022 04:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수크렁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdU8v%2Fimage%2FSSH4JowCaxafwn765h7fjJywBc0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[더 메뉴 (2022)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 12 Dec 2022 03:26:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김주렁]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F23bV%2Fimage%2FTZhrdCO2JnlFiRMaawOVoShc-SY" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[아들을 구하고 싶다면 달려라]]></title>
-            <link>https://brunch.co.kr/@@5xq2/1835</link>
-            <guid>https://brunch.co.kr/@@5xq2/1835</guid>
-            <pubDate>Mon, 12 Dec 2022 03:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>아트인사이트]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5xq2%2Fimage%2Fzv9yhIAYYxZWeVgCmfDgEr5hXo0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
