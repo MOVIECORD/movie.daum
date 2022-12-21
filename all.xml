@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 04:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 05:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
             <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,681,381명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,681,377명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -783,20 +783,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F762a642d585ecff70e0e5cfc4211d9a0f809bf3b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
-            <pubDate>Wed, 23 Nov 2022 01:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[올빼미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149380</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149380</guid>
             <pubDate>Wed, 16 Nov 2022 17:24:02 GMT</pubDate>
             <content:encoded><![CDATA[22.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
+            <pubDate>Wed, 23 Nov 2022 01:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1047,6 +1047,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2fcb826f0293c0a1059548d99c61b5e6a9963e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나는 마을 방과후 교사입니다 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159395</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159395</guid>
+            <pubDate>Wed, 21 Dec 2022 05:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3ec00198d10f6bfc5798105853e059411a078d3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나이브스 아웃: 글래스 어니언 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139243</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139243</guid>
@@ -1077,14 +1085,6 @@
             <pubDate>Tue, 20 Dec 2022 23:19:49 GMT</pubDate>
             <content:encoded><![CDATA[22.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf70b2b96229adfdab21a629f767b52fe6dce7c1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[기적을 믿는 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150228</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150228</guid>
-            <pubDate>Wed, 21 Dec 2022 04:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c3d0861538dcef84e50acc6440d424760bba8fe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[고스트버스터즈 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1711,6 +1711,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ebf21e22a2a37aadc5bf75fb223a75bcb4db290" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[위인 아닌 '인간' 안중근의 마지막 1년 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221221134201554</link>
+            <guid>https://v.daum.net/v/20221221134201554</guid>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;영웅&gt; 스틸컷    ⓒ CJ ENM  &nbsp; 대한민국 국민 DNA에는 '이순신'과 더불어 듣기만 해도 마음속이 벅차오르고, 눈시울이 붉어지는 이름이 있다. 바로 '안중근'이란 세 글자다. 그래서일까. &lt;영웅&gt;을 보고 나서 많이 힘들었다. 몇 해 전 이맘때쯤 서대문형무소에서 당시를 간접 경험했던 때가 떠올랐다. 두꺼운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2Fohmynews%2F20221221134203352dcsb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['음비법'에 덧씌운 국가보안법, 독립영화 조직화 시동 걸다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221221133002228</link>
+            <guid>https://v.daum.net/v/20221221133002228</guid>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;1998년 한국독립영화협회 창립대회    ⓒ 한국독립영화협회 제공  &nbsp; 1990년대 후반은 한국 영화운동에서 중요한 변화가 잇달아 생겨난 시기였다. 1980년대 초반 구태의연한 한국영화를 비판하던 영화운동은 1990년대 들어 충무로 내에서 일정한 영역을 구축한 이후 구체제에 도전했고, 제도적인 규제를 뚫기 위한 투쟁을 병]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2Fohmynews%2F20221221133005590lsvu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['아바타: 물의 길', CG로 감싼 허술한 내러티브...70%대로 주저 앉은 예매율[TEN스타필드] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20221221125707539</link>
             <guid>https://v.daum.net/v/20221221125707539</guid>
@@ -1853,22 +1869,6 @@
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 2023년 여름 돌아올 지구상 최강의 액션 블록버스터 '미션 임파서블: 데드 레코닝 PART ONE'이 9분에 달하는 풀타임 액션 영상을 공개했다. 전세계와 대한민국이 사랑한 올타임 레전드 첩보 액션 블록버스터 시리즈 '미션 임파서블'의 새로운 시리즈 '미션 임파서블: 데드 레코닝 PART ONE'(감독 크리스토퍼 맥쿼리, 수입]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2Fpoctan%2F20221221094825973uwhp.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['아바타: 믈의 길' 10~3040 각 세대마다 감동 포인트가 다르다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221221093510154</link>
-            <guid>https://v.daum.net/v/20221221093510154</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;개봉과 함께 압도적 박스오피스 1위를 기록한&nbsp;영화 '아바타: 물의 길'(수입/배급: 월트디즈니컴퍼니 코리아 | 감독: 제임스 카메론 | 출연: 샘 워싱턴, 조 샐다나, 시고니 위버, 스티븐 랭, 케이트 윈슬렛 외)이 각&nbsp;세대를 사로잡은 만족 포인트를 공개한다.&nbsp; # 10대 관객: 광활한 수중 세계 펼쳐낸 독보적인 영상미, 아름다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2Fpoctan%2F20221221093511298epvv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['유령' 이하늬→박소담 "이해영 감독님의 디테일" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221221093142035</link>
-            <guid>https://v.daum.net/v/20221221093142035</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 설경구, 이하늬, 박소담, 박해수, 서현우의 개성 강한 앙상블 캐스팅과 '독전'으로 스타일과 스토리의 성공적인 만남을 이뤄낸 이해영 감독이 스파이 액션 영화 '유령'으로 돌아온다. 여자가 되고 싶어 씨름 선수가 되어야만 하는 소년의 성장을 담은 '천하장사 마돈나', 일제강점기인 1938년 아픈 여학생들이 다니는 기숙학교라는 독특]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2Fpoctan%2F20221221093142605nrmi.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2031,6 +2031,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[10년만에 영화 출연하는데.. 아들에게 보여줄지 고민되는 이유 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/YeiqhANFTV</link>
+            <guid>https://v.daum.net/v/YeiqhANFTV</guid>
+            <pubDate>Wed, 21 Dec 2022 05:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F21%2FBoiledMovie%2F20221221112901061pwlz.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[함께 손잡고 제주도에서 문제적 사업을 한다는 두 대세스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/VCIhtgLZMB</link>
             <guid>https://v.daum.net/v/VCIhtgLZMB</guid>
@@ -2181,14 +2189,6 @@
             <pubDate>Mon, 19 Dec 2022 22:20:37 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F19%2FBoiledMovie%2F20221219230602671jsxt.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[우영우 ‘서브 아빠’의 파격변신 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/4WMaDwEuY4</link>
-            <guid>https://v.daum.net/v/4WMaDwEuY4</guid>
-            <pubDate>Mon, 19 Dec 2022 08:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F20%2FBoiledMovie%2F20221220102001084gvln.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<아바타: 물의 길> 아바타 없는 아바타 (다음 영화 ─ 브런치)]]></title>
