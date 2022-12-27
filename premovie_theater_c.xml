@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 10:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 11:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2fcb826f0293c0a1059548d99c61b5e6a9963e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[패닉 런]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152925</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152925</guid>
+            <pubDate>Tue, 27 Dec 2022 11:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16e51f2af554939e1b0bc1210910a85db1922dd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[프린스 챠밍]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=133319</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=133319</guid>
@@ -158,13 +166,6 @@
             <pubDate>Thu, 22 Dec 2022 01:29:05 GMT</pubDate>
             <content:encoded><![CDATA[22.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F35e7fe0c9d1cc76dcdf5c6b251f5f159d63d3271" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[울지마 엄마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164623</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164623</guid>
-            <pubDate>Tue, 27 Dec 2022 10:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.12]]></content:encoded>
         </item>
     </channel>
 </rss>
