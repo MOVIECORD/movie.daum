@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 23:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 01:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 02 Dec 2022 22:19:21 GMT</pubDate>
             <content:encoded><![CDATA[22.12.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F15110210A92F7E116D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이브의 사과]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118616</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118616</guid>
+            <pubDate>Wed, 28 Dec 2022 01:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bbfe4ead6ff6b363736c9c78fd077863e4f45ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우타 펀자브]]></title>
@@ -254,6 +262,14 @@
             <pubDate>Mon, 19 Dec 2022 02:36:26 GMT</pubDate>
             <content:encoded><![CDATA[22.12.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc03bbd9193a3e3590e800cceb21d7d45d2b53a4f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[산타팩맨의 행복한 열매 데이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123010</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123010</guid>
+            <pubDate>Wed, 28 Dec 2022 01:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F759beb8b4ae4d4319d834db30e1740fda3ac7575" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
