@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 04:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 05:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 29 Dec 2022 03:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고동운 Don Ko]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4WEC%2Fimage%2FqqAFUYGmvGBywZ4ncXw2HTM-d5g.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[(시네클럽) 안 보려던 영화에 눈물을]]></title>
+            <link>https://brunch.co.kr/@@757g/51</link>
+            <guid>https://brunch.co.kr/@@757g/51</guid>
+            <pubDate>Thu, 29 Dec 2022 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>라떼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F757g%2Fimage%2FAvhu-VkmLOS6KZMpE55Cm04n748.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[슬픈 운명과 사랑의 로드 무비]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Dec 2022 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FEm8gTpHqI21hPESdJhIvxGrsGYA.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <지옥의 화원(2021)> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@77uw/80</link>
-            <guid>https://brunch.co.kr/@@77uw/80</guid>
-            <pubDate>Mon, 19 Dec 2022 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Heather]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F77uw%2Fimage%2F7zCpvaD1C0_Myxe6G37vtTG7QCA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
