@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 16:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 17:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 27 Dec 2022 11:15:57 GMT</pubDate>
             <content:encoded><![CDATA[23.01.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16e51f2af554939e1b0bc1210910a85db1922dd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[돌핀보이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166231</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166231</guid>
+            <pubDate>Thu, 29 Dec 2022 17:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fceb04ff68a0adecf936ad04883d822bacbe1f620" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[트루 마더스]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 28 Dec 2022 23:19:27 GMT</pubDate>
             <content:encoded><![CDATA[23.01.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffbae0468e5d0cadb58980dffae2bdc74d725a82c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[강남좀비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156597</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156597</guid>
-            <pubDate>Wed, 28 Dec 2022 23:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb82e458c17971f4270f15cce83d4b27aad3377fe" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
