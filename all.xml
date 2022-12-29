@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 03:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 04:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -847,14 +847,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F422570d55f13ba3520c2c8f786fe68f383999c62" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[메모리아 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152021</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152021</guid>
-            <pubDate>Thu, 15 Dec 2022 12:37:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f1dbd85a91d8ae1167336a829be7ba21fe76a8b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[탄생 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153651</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153651</guid>
@@ -909,6 +901,14 @@
             <pubDate>Fri, 23 Dec 2022 03:20:54 GMT</pubDate>
             <content:encoded><![CDATA[22.12.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66007205fdb9e95e11334fc491253e5200194276" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[메모리아 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152021</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152021</guid>
+            <pubDate>Thu, 15 Dec 2022 12:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f1dbd85a91d8ae1167336a829be7ba21fe76a8b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프레이 포 더 데블 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1878,6 +1878,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7da901edcc7f476db9caae969ea9e9681555648658306" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[‘스위치’ 감독 “권상우, 이민정과 키스신 긴장‥‘이병헌 싸다’ 대사 애드리브”[EN:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221229122207227</link>
+            <guid>https://v.daum.net/v/20221229122207227</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 권상우와 이민정의 부부 케미스트리에 '스위치' 감독이 만족감을 전했다. 영화 '스위치'를 연출한 마대윤 감독은 12월 29일 서울 종로구 모처에서 진행된 인터뷰를 통해 캐스팅 뒷이야기들을 밝혔다. 1월 4일 개봉하는 '스위치'는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 ‘박강’이 크리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F29%2Fnewsen%2F20221229122208997owkz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[‘스위치’ 감독 “소라게 신, 권상우 캐스팅 전부터 시나리오에‥믿었다”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20221229121344057</link>
             <guid>https://v.daum.net/v/20221229121344057</guid>
@@ -2028,14 +2036,6 @@
             <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영화 ‘아바타: 물의 길’(이하 ‘아바타2’)이 15일 연속 왕좌를 지켰다. 적수 없는 독주다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘아바타2’는 전날 23만 5995명의 관객을 동원하며 누적관객수 625만 2813명을 기록했다. ‘아바타2’는 판도라 행성에서 제이크 설리와 네이티리가 이룬 가족이 겪게 되는 무자비한 위협과 살아남기]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F29%2Fstartoday%2F20221229084803630wzgr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['영웅' 안중근이 정성화여야 하는 이유를 증명하다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20221229084124815</link>
-            <guid>https://v.daum.net/v/20221229084124815</guid>
-            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;안중근 의사의 뜨거웠던 마지막 1년을 그리며 대한민국 국민 모두에게 위로와 응원의 메시지를 전하는 영화 '영웅'(감독: 윤제균 | 제공/배급: CJ ENM | 제작: (주)JK필름 | 공동제작: (주)에이콤, CJ ENM)과 뮤지컬 '영웅'에서 안중근으로 활약하고 있는 배우 정성화를 향한 관객들의 관심이 이어지고 있다. '영웅']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F29%2Fpoctan%2F20221229084124829ywlh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2198,6 +2198,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['우익' 논란 있는 배우와 결혼 했다는 파친코 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/4eBzEtFLXF</link>
+            <guid>https://v.daum.net/v/4eBzEtFLXF</guid>
+            <pubDate>Thu, 29 Dec 2022 04:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F28%2FBoiledMovie%2F20221228181641816ctsi.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[여배우 기근설 나올때 구세주 처럼 등장한 무명배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/BgfmUf4IBP</link>
+            <guid>https://v.daum.net/v/BgfmUf4IBP</guid>
+            <pubDate>Thu, 29 Dec 2022 04:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F29%2Ffeelthemovie%2F20221229130353828mgdq.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마가 된 배우 이하늬가 ‘육아예능’ 안 하는 이유 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/UcHBeedYc2</link>
+            <guid>https://v.daum.net/v/UcHBeedYc2</guid>
+            <pubDate>Thu, 29 Dec 2022 04:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F29%2FBoiledMovie%2F20221229124226415yigr.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[작품 촬영중 공효진에 공개 애정 표현해 당황하게 만든 톱스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/ZsIZrrmB2Q</link>
+            <guid>https://v.daum.net/v/ZsIZrrmB2Q</guid>
+            <pubDate>Thu, 29 Dec 2022 04:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F29%2Ffeelthemovie%2F20221229114146949ndgj.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[드디어 원하는 사람과 결혼했다는 ‘연쇄 혼인마’ (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/3KUMVVfOJJ</link>
             <guid>https://v.daum.net/v/3KUMVVfOJJ</guid>
@@ -2324,38 +2356,6 @@
             <pubDate>Tue, 27 Dec 2022 22:19:24 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F28%2Ffanzeel%2F20221228070055655maes.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[무려 '240명의 스파이더맨'이 나온다는 스파이더맨 신작 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/884EO7zcS5</link>
-            <guid>https://v.daum.net/v/884EO7zcS5</guid>
-            <pubDate>Tue, 27 Dec 2022 10:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F27%2FBoiledMovie%2F20221227220212367glfc.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이전 '배트맨'과 다른 <더 배트맨>의 매력 포인트 세 가지 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Fn06tReW50</link>
-            <guid>https://v.daum.net/v/Fn06tReW50</guid>
-            <pubDate>Tue, 27 Dec 2022 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F27%2Ftailorcontents_cv%2F20221227181157044fzuz.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 31일이 되면 없어지는 넷플릭스 영화 10 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/KnGfJvT6Cp</link>
-            <guid>https://v.daum.net/v/KnGfJvT6Cp</guid>
-            <pubDate>Tue, 27 Dec 2022 08:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F27%2Ffanzeel%2F20221227165018503odbo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[다음중 누가 진짜 안중근 의사 일까요? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/t3qmXOI9jM</link>
-            <guid>https://v.daum.net/v/t3qmXOI9jM</guid>
-            <pubDate>Tue, 27 Dec 2022 06:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F27%2Ffeelthemovie%2F20221227143034153gbpa.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[올해 인상 깊었던 영화 TOP5 (다음 영화 ─ 브런치)]]></title>
