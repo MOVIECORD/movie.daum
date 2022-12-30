@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 04:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 05:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,6 +154,30 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=133324</guid>
             <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
             <content:encoded><![CDATA[22.12.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대무림: 12문파]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152500</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152500</guid>
+            <pubDate>Fri, 30 Dec 2022 05:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faef23eb6e2863079e4e83ea70bc774995c4fb310" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[도굴꾼: 대룡성의 전설]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156222</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156222</guid>
+            <pubDate>Fri, 30 Dec 2022 05:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5854a71aabb11abae56e5318ff6a8ac002e898f5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[작은연못]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163944</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163944</guid>
+            <pubDate>Fri, 30 Dec 2022 05:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F75bdf828a33331e6e6d6e2985ddd46f62463d10e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

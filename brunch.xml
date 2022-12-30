@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 04:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 05:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 30 Dec 2022 04:24:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>인턴작가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdWMH%2Fimage%2FLD2eFJfoTq5qlxEFvp4c9S1jPPg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['코르사주' 기록이 그렇다 해도 이 영화는 상관없다]]></title>
+            <link>https://brunch.co.kr/@@4Bq/338</link>
+            <guid>https://brunch.co.kr/@@4Bq/338</guid>
+            <pubDate>Fri, 30 Dec 2022 05:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민용준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4Bq%2Fimage%2FAXLSNGH-5IZbf30lab3V5oHfyV4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[올해 인상 깊었던 영화 TOP5]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Dec 2022 09:20:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송석주]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2FErA4tmESL3Qfrafz4Q1VvE-1roA" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[비극적인 여성의 삶은 반복되는가]]></title>
-            <link>https://brunch.co.kr/@@a7Xi/107</link>
-            <guid>https://brunch.co.kr/@@a7Xi/107</guid>
-            <pubDate>Mon, 19 Dec 2022 02:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>레이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7Xi%2Fimage%2FHZtIt4cv_5BEN-lxi4zuEBsINYs.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
