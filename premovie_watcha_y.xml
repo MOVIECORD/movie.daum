@@ -1,8 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2022-12-30T03:22:23.015Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 30 Dec 2022 04:24:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달이 지는 밤]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145308</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145308</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F971f76b9394f21e51598574abee20e4ca503d636" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[첼로 - 홍미주 일가 살인사건]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38918</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38918</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A9086EF928" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무간도 4 - 문도]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43124</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43124</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1524CF234CFAA2681B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[런던 러브스토리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111657</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111657</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24a06558011e8429435ff9a8c980ce96d10c8a98" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[맞짱]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104452</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104452</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8aef37ccfa0964bd5086be11b2f3d8c8e72eeb3f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뱀살]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132470</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132470</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F63313ee67fa940358988e884c8b0b76e1560095720827" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 섹스, 파리 러브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148449</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148449</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3a23a1ea4899589f362a62d764874f8eac129b6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[갱경 떡삥이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155592</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155592</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe909cf7e4c547c1e338718bf067561621927d7c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[천기검]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153404</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153404</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e293c078c55cc08233f5f394793ef25021bb5e8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미션 투 베를린]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160646</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160646</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9be3686d17be05c482edcf51dc381d55b892dbf9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[메모리: 조작살인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156266</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156266</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e18046bc8da1242de990d395272f525099c1be9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[대무사]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156209</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156209</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb29cc93c2f640a642b968ea1b318425eab7ac469" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 못 나가는 것도 아닌데]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162298</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed566e4900ce52f20a3f1cd0d4c8a12ebaf6aa16" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[생존자의 자리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143636</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143636</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55dadfb49772103f1a2cc7c5063748ae6007fafc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[천계영웅]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163255</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163255</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65816c3146290d86872efc5cfe0ba2f0a2f5a282" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[남매 보존의 법칙]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=140859</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=140859</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[또 다른 고백]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133609</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133609</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 제일 싫은 나]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133975</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133975</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[립스틱이 묻은 담배]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133324</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133324</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.30]]></content:encoded>
+        </item>
+    </channel>
+</rss>
