@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 01:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 02:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 03 Jan 2023 01:29:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>풀잎]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2G6P%2Fimage%2FrpZElrXwSvzXoINbgXd3oBBC8PQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '와일드']]></title>
+            <link>https://brunch.co.kr/@@98Yb/54</link>
+            <guid>https://brunch.co.kr/@@98Yb/54</guid>
+            <pubDate>Tue, 03 Jan 2023 02:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이세일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F98Yb%2Fimage%2F_BUgO78o_jtg4-dBTG2iTUFPCl8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화<화양연화>-꺼내지 못한 진심]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Dec 2022 03:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>인성미남]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbTrj%2Fimage%2FYmANWsmX7emym3hUNRXwjm8xpg4" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 내 맘대로 영화 결산]]></title>
-            <link>https://brunch.co.kr/@@exRV/12</link>
-            <guid>https://brunch.co.kr/@@exRV/12</guid>
-            <pubDate>Fri, 23 Dec 2022 03:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>기서우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FexRV%2Fimage%2F3wf07dM4TLcVHFXQqGhl4iFhF4Q.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
