@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 05:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 06:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 03 Jan 2023 05:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고블린 연구소]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2BQc%2Fimage%2F8-48kA7cunOm5WD9h1KINz4UKes" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[Review] 영화 속 한 순간으로 기억될 수 있다면]]></title>
+            <link>https://brunch.co.kr/@@ex6O/3</link>
+            <guid>https://brunch.co.kr/@@ex6O/3</guid>
+            <pubDate>Tue, 03 Jan 2023 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유수하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fex6O%2Fimage%2FAWsAx2V3MGhj34-Eh8mG68HieCo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화<화양연화>-꺼내지 못한 진심]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Dec 2022 05:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FAI-dd8aNkteKg3fU3pOR1OClAHo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['아바타'를 두 번 보러 가야하는 사연]]></title>
-            <link>https://brunch.co.kr/@@9eNl/604</link>
-            <guid>https://brunch.co.kr/@@9eNl/604</guid>
-            <pubDate>Tue, 27 Dec 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Lohengrin]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9eNl%2Fimage%2Fgz7pe9vC-_I8lqBlAoiAKBmr6t0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
