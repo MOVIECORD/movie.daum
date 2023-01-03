@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 11:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 12:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f1dbd85a91d8ae1167336a829be7ba21fe76a8b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[페르시아어 수업]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139160</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139160</guid>
+            <pubDate>Wed, 14 Dec 2022 23:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff0f9a9cca0e20f639b3a8c2802a1f8e6bc3cae2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[가가린]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145167</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145167</guid>
@@ -150,14 +158,6 @@
             <pubDate>Thu, 29 Dec 2022 06:23:48 GMT</pubDate>
             <content:encoded><![CDATA[22.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4946ba99bae5035c349c417ff5988179fb6b0f99" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[페르시아어 수업]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139160</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139160</guid>
-            <pubDate>Wed, 14 Dec 2022 23:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff0f9a9cca0e20f639b3a8c2802a1f8e6bc3cae2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[코르사주]]></title>
