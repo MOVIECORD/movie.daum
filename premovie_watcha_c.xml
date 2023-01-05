@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 21:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 22:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
             <pubDate>Tue, 03 Jan 2023 22:19:08 GMT</pubDate>
             <content:encoded><![CDATA[23.01.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F266CBE4F530B594229" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[롤로]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96458</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96458</guid>
+            <pubDate>Thu, 05 Jan 2023 22:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F17e83e0df900005a8057400c338c7b328759e1ec" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이더스 어드벤쳐]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=82467</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=82467</guid>
+            <pubDate>Thu, 05 Jan 2023 22:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a40d49b837aed28c9def8b34ae68ef7a2208e67" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
