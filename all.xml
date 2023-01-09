@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 04:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 05:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=158407</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158407</guid>
             <pubDate>Tue, 13 Dec 2022 11:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>316,088명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>316,085명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cea7130cd9af437f24406c9c67768dcd50cf4d9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -943,6 +943,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd331d74e425a3c71989ab14d9cbe83241377daa5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[문맨 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163283</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163283</guid>
+            <pubDate>Sat, 31 Dec 2022 23:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[매복 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163809</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163809</guid>
@@ -975,28 +983,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70a96f1d9bdd4ffadf1cb39404a6fe8ccfa6c5f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프린스 챠밍 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133319</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133319</guid>
-            <pubDate>Sat, 31 Dec 2022 23:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f2ce71b411d52ee0ec31cd7f55b65c33289fbb0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[해시태그 시그네 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160428</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160428</guid>
             <pubDate>Fri, 23 Dec 2022 14:17:03 GMT</pubDate>
             <content:encoded><![CDATA[23.01.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F467a58f91c5c6e961f27e39d97e72026d1abbead" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[문맨 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163283</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163283</guid>
-            <pubDate>Sat, 31 Dec 2022 23:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유랑의 달 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1021,6 +1013,14 @@
             <pubDate>Wed, 21 Dec 2022 05:17:36 GMT</pubDate>
             <content:encoded><![CDATA[23.01.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F27e9e6d6160f68f842c037604be9efb9076329d5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프린스 챠밍 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133319</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133319</guid>
+            <pubDate>Sat, 31 Dec 2022 23:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f2ce71b411d52ee0ec31cd7f55b65c33289fbb0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[캐리와 슈퍼콜라 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1391,6 +1391,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b7d63d64fe319eee672f5357e1408f6cc77e0a6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[다크호스 ‘슬램덩크’ 개봉주 42만↑...좌석판매율 1위[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230109141504114</link>
+            <guid>https://v.daum.net/v/20230109141504114</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[신년 극장가 복병 ‘더 퍼스트 슬램덩크’가 개봉 첫 주 42만 관객을 돌파한 가운데 좌석판매율 1위를 기록하며 본격적인 흥행 질주를 시작했다. 9일 영화진흥위원회 통합전산망에 따르면 ‘더 퍼스트 슬램덩크’는 새해 개봉한 영화 ‘스위치’와 ‘장화신은 고양이: 끝내주는 모험’ 등을 제치고 주말까지 누적 관객 수 42만 명을 동원하며 압도적인 스코어로 동시기 개]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Fstartoday%2F20230109141505388lbln.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[긁어보지않은 로또 ‘육사오’ 신원호, 박효주 전혜원과 한솥밥[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230109135742471</link>
+            <guid>https://v.daum.net/v/20230109135742471</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 영화 ‘육사오’의 신원호가 박효주 전혜원이 등이 소속된 와이원엔터테인먼트와 전속 계약을 맺었다. 신원호는 지난 해 최고의 다크호스 무비로 주목받았던 ‘육사오’에서 신병 역을 맡으며 스타덤에 오른 케이스. tvN 드라마 ‘슬기로운 감빵 생활’로 데뷔 이후 다수의 독립 영화에 출연하며 내공을 쌓아왔다. 와이원엔터테인먼트는 1월9일 신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Fnewsen%2F20230109135742717dhak.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['유령' 이하늬 "6개월간 쉬지 않고 운동하며 액션 준비…타이핑 연습까지" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230109134907262</link>
+            <guid>https://v.daum.net/v/20230109134907262</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 설경구, 이하늬, 박소담, 박해수, 서현우의 개성 강한 앙상블 캐스팅에 ‘독전’ 이해영 감독의 신작으로 화제를 모으고 있는 스파이 액션 영화 ‘유령’(감독 이해영)이 극의 완성도를 높인 배우들의 노력과 뒷 이야기를 9일 공개했다. ‘유령’은 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 ‘유령’으로 의심받으며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2FEdaily%2F20230109134910368tdnq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 시대 나르시시즘에 날린 잔혹한 경고장 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230109133000752</link>
+            <guid>https://v.daum.net/v/20230109133000752</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이학후 기자] &nbsp;        ▲ &lt;해시태그 시그네&gt;&nbsp;영화 포스터    ⓒ 판씨네마(주)  시그네(크리스틴 쿠야트 소프 분)는 카페 바리스타로 일하며 따분한 일상을 보내지만, 마음 한구석엔 모두의 시선을 한몸에 받고 대화의 중심이 되길 원하는 욕망이 자리한다. 그녀는 남자친구 토마스(아이릭 새더 분)가 갤러리에 전시된 가구를 훔쳐 다시 그 갤러리에 전시하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Fohmynews%2F20230109133002895sjwx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아바타2’ 900만 목전..영웅VS슬램덩크 초접전[MK박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230109132700667</link>
+            <guid>https://v.daum.net/v/20230109132700667</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘아바타: 물의 길’(감독 제임스 카메론, 이하 ‘아바타2’)이 900만 돌파를 목전에 두고 독주 중이다. 에상대로 ‘영웅’과 ‘더 퍼스트 슬램덩크’(이하 ‘슬램덩크’)는 2위 자리를 두고 연일 초접전 중이다. 9일 영화진흥위원회 영화관입장권 통합전산망에 따르면, ‘아바타2’는 지난 6~8일 주말 3일 동안 59만 2005명을 끌어모았다. 개봉 후 2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Fstartoday%2F20230109132701504isxm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[정서경·마동석, 2023 비저너리 선정‥이미경 CJ 부회장 “응원과 찬사” (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230109131748463</link>
             <guid>https://v.daum.net/v/20230109131748463</guid>
@@ -1509,46 +1549,6 @@
             <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 임시령 기자] '참, 잘했어요!'가 배우 유선호, 강미나, 유인수의 캐스팅을 확정 지었다. 9일 영화 '참, 잘했어요!'(감독 황동석·제작 ㈜26컴퍼니)가 제작가 유선호, 강미나, 유인수 등 충무로 라이징 스타들로 이뤄진 캐스팅 라인업을 공개했다. '참, 잘했어요!'는 꿈도 희망도 없이 살아가던 최하위층의 소년이 우연한 기회에 '돈'이라는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Fsportstoday%2F20230109103304485ceee.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아바타2’ 전세계 2조원 넘게 벌며 역대 흥행 7위 등극[박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230109102619527</link>
-            <guid>https://v.daum.net/v/20230109102619527</guid>
-            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '아바타: 물의 길'이 개봉 4주차 주말 국내 및 북미 박스오피스 1위를 차지하며 글로벌 흥행작의 위력을 보여주고 있다. 1월 9일 영화진흥위원회 통합전산망 집계에 따르면 영화 '아바타: 물의 길'(감독 제임스 카메론)이 지난 6일~8일 3일 간 59만2,005명, 누적 877만6,660명의 관객수를 기록하며 개봉 4주 차에도 박스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Fnewsen%2F20230109102619667rxgk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['아바타: 물의 길' 주말 1위 수성, 877만 돌파 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230109100710676</link>
-            <guid>https://v.daum.net/v/20230109100710676</guid>
-            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 '아바타: 물의 길'이 주말 박스오피스 1위를 수성했다. 9일 영화진흥위원회 통합전산망에 따르면 '아바타: 물의 길'(감독 제임스 카메론·배급 월트디즈니 컴퍼니 코리아)이 지난 주말 59만2002명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 877만6657명이다. '아바타: 물의 길'은 판도라 행성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Ftvdaily%2F20230109100711457gxhe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[시네마Y] 3040이 이끈 '슬램덩크' 열풍…좌판율은 '아바타2' 이겼다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230109100003317</link>
-            <guid>https://v.daum.net/v/20230109100003317</guid>
-            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '더 퍼스트 슬램덩크'가 심상찮은 기세로 연초 박스오피스에서 선전을 펼치고 있다. 9일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '더 퍼스트 슬램덩크'는 지난 6일부터 8일까지 전국 30만 9,315명을 동원해 주말 박스오피스 3위에 올랐다. 누적 관객 수는 42만 120명. '더 퍼스트 슬램덩크'는 전국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2FSBSfunE%2F20230109100006831fpay.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['아바타2', 韓 천만 관객 돌파 눈앞➝전 세계 흥행 7위[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230109094717854</link>
-            <guid>https://v.daum.net/v/20230109094717854</guid>
-            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 영화 '아바타: 물의 길'(감독 제임스 카메론)이 개봉 4주차에도 1위를 유지하며 국내에서 천만 관객 돌파를 앞두고 있다.&nbsp; 적수 없는 흥행 강세로 연일 압도적 박스오피스 1위를 유지하며 올 겨울 극장가를 점령하고, 다시 한번 전 세계적인 신드롬을 일으키고 있는 '아바타: 물의 길'이 개봉 4주 차 주말에도 국내 및 북미 박스오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2Fpoctan%2F20230109094717757pbwy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 박훈정과 손잡은 김선호...폭군된다, 영화 '폭군'서 180도 이미지 변신 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230109094007576</link>
-            <guid>https://v.daum.net/v/20230109094007576</guid>
-            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 조은별기자]배우 김선호가 박훈정 감독의 신작 영화 ‘폭군’을 통해 이미지변신에 나선다. 9일 배급사 (주)에이스메이커무비웍스에 따르면 영화 ‘폭군’은 주요 캐스팅 작업을 마무리하고 지난 2일 크랭크인해 촬영에 들어갔다. ‘폭군’은 배달사고로 사라진 ‘폭군 프로그램’의 마지막 샘플을 차지하기 위한 사람들의 추격적을 그린 작품이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F09%2FSPORTSSEOUL%2F20230109094009663tjzh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
