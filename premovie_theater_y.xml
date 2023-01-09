@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 01:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 02:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3409e2a019f9c0a9994d465685855321d152be75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[몬스터 신부 : 101번째 프로포즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164614</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164614</guid>
-            <pubDate>Wed, 28 Dec 2022 01:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee9855b2d65abdda7fc1315da43c38d4092f6bf6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메모리아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152021</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152021</guid>
@@ -110,6 +102,14 @@
             <pubDate>Wed, 30 Nov 2022 23:21:42 GMT</pubDate>
             <content:encoded><![CDATA[22.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88ca3054ee320beec75ec8da1189805530835e13" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 신부 : 101번째 프로포즈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164614</guid>
+            <pubDate>Wed, 28 Dec 2022 01:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee9855b2d65abdda7fc1315da43c38d4092f6bf6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[본즈 앤 올]]></title>
