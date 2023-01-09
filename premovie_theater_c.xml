@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 06:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 07:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=147261</guid>
             <pubDate>Wed, 04 Jan 2023 01:35:37 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2ef47c1ec63a92609d0f4ff65544daf7f094a5e" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04a53a2b94d62ba8a1fabd956545cda3d4d3a500" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[교섭]]></title>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a0f72e7ecacd28e1cb4c59ddb160603ca93d7e1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163758</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163758</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa666436e3cca91ebb50fb6cb271cdc8c93ef094c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[라인]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157721</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157721</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 Jan 2023 01:35:37 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffba6d4db7cb4f0edae84261f6c9df66610853987" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라일 라일 크로커다일]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161463</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161463</guid>
-            <pubDate>Wed, 04 Jan 2023 01:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76abe9bc273f863478184d0e118bc0fe3468a5dc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
