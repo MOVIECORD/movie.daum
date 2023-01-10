@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 18:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 20:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -863,6 +863,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff0f9a9cca0e20f639b3a8c2802a1f8e6bc3cae2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[본즈 앤 올 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155615</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155615</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
@@ -919,14 +927,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7a68cf2f5d0b9a44fc17c281b8d67461544740c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[본즈 앤 올 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155615</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155615</guid>
-            <pubDate>Wed, 16 Nov 2022 17:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[교섭 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130710</guid>
@@ -951,20 +951,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F476753059b9a0901244a47cc9459ffaa7457a339" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[문맨 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163283</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163283</guid>
-            <pubDate>Sat, 31 Dec 2022 23:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[시간을 꿈꾸는 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159254</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159254</guid>
             <pubDate>Thu, 29 Dec 2022 10:20:06 GMT</pubDate>
             <content:encoded><![CDATA[23.01.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70a96f1d9bdd4ffadf1cb39404a6fe8ccfa6c5f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[문맨 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163283</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163283</guid>
+            <pubDate>Sat, 31 Dec 2022 23:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[10일간의 애인 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1437,6 +1437,30 @@
             <pubDate>Sat, 07 Jan 2023 22:18:20 GMT</pubDate>
             <content:encoded><![CDATA[23.01.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b7d63d64fe319eee672f5357e1408f6cc77e0a6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[학교폭력 심각성 보여준 '더 글로리', 꼭 이래야만 했나 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230111051200568</link>
+            <guid>https://v.daum.net/v/20230111051200568</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;넷플릭스 오리지널 시리즈 &lt;더 글로리&gt; 스틸 이미지    ⓒ Netflix  미혼모의 딸로 태어나, 건축가가 되고 싶다는 꿈을 간직하며 열심히 살아가던 고등학생 문동은(아역 정지소 분). 어느 날, 동은은 체육관에서 박연진(아역 신예은 분)과 그의 친구들인 이사라(아역 배강희 분), 최혜정(아역 송지우 분), 전재준(아역]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F11%2Fohmynews%2F20230111051202707wbko.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[원세나의 연예공:감] '슬램덩크' 열풍을 바라보는 다양한 시선 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230111050020235</link>
+            <guid>https://v.daum.net/v/20230111050020235</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["향수·추억 곱씹기" vs "노재팬 예외?"…신드롬급 인기에 '와글와글'&nbsp; [더팩트｜원세나 기자] "왼손은 거들뿐" 등 최고의 유행어를 남긴 추억의 일본 만화 '슬램덩크'가 영화로 돌아와 3040 관객들의 심장을 제대로 저격하고 있다. 지난 4일 스크린에 걸린 '더 퍼스트 슬램덩크'가 10일 영화진흥위원회 영화관입장권 통합전산망 기준 4만 3230명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F11%2FTHEFACT%2F20230111050021626hqej.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 美 골든글로브 시상식…'헤어질 결심' 비영어 작품상 후보 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230111043007991</link>
+            <guid>https://v.daum.net/v/20230111043007991</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 양정우 김정진 기자 = 제80회 골든글로브 시상식이 10일(현지시간) 미국 캘리포니아주 로스앤젤레스 베벌리힐스의 베벌리 힐튼 호텔에서 열린다. 박찬욱 감독의 영화 '헤어질 결심'이 '비영어 작품상'(Best Picture-Non-English Language) 후보에 오르면서 수상 여부에 관심이 쏠린다. 미국 할리우드외신기자협회(HFPA)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F11%2Fyonhap%2F20230111043007433ihbj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박찬욱 '헤어질 결심', 독일영화 꺾고 오늘 골든글로브 수상할까?[Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
