@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 23:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 01:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 04 Jan 2023 01:35:37 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04a53a2b94d62ba8a1fabd956545cda3d4d3a500" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단: 옛 투 컴 인 시네마]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166526</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166526</guid>
+            <pubDate>Wed, 11 Jan 2023 01:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2fef75e56d3ae4e7f360216073cc28373616fb1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[10일간의 애인]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 10 Jan 2023 23:19:49 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62c5652a3c98ab52e3f3acf6e6b028c89d476f27" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[열여덟, 어른이 되는 나이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166482</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166482</guid>
-            <pubDate>Tue, 10 Jan 2023 23:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe2a50d8c9a0ed5ba023cbd40e94757fe227e7b5" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
