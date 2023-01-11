@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 05:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 06:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=166231</guid>
             <pubDate>Thu, 29 Dec 2022 17:18:10 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9c56ac73f23e1bbf322e3f864d259931606a11c" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90a82ef2ff5a4ec3402d4a6b9a537d7a35c697e8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라인]]></title>
@@ -120,6 +120,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a0f72e7ecacd28e1cb4c59ddb160603ca93d7e1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[위너 2022 콘서트 더 서클 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166888</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166888</guid>
+            <pubDate>Wed, 11 Jan 2023 06:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[솔캠]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165143</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165143</guid>
@@ -158,14 +165,6 @@
             <pubDate>Tue, 10 Jan 2023 23:19:49 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa666436e3cca91ebb50fb6cb271cdc8c93ef094c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[메간]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159872</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159872</guid>
-            <pubDate>Tue, 10 Jan 2023 23:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62c5652a3c98ab52e3f3acf6e6b028c89d476f27" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
