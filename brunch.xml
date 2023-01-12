@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 09:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 10:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 12 Jan 2023 08:29:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2F_8gcLWfRy_ChvEZ2VkkaZO7vQtY.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 퍼스트 슬램덩크> 안녕, 소년의 날이여]]></title>
+            <link>https://brunch.co.kr/@@52g1/155</link>
+            <guid>https://brunch.co.kr/@@52g1/155</guid>
+            <pubDate>Thu, 12 Jan 2023 10:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>카시모프]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F52g1%2Fimage%2FZspcS2M85JFtr7ck2cCYKI1OB1Y.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[더 퍼스트 슬램덩크]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Jan 2023 10:22:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>간로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fauu2%2Fimage%2FyOUR93mPWgVe_F_4VOKW7P1mZ74.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[화 없는 세상]]></title>
-            <link>https://brunch.co.kr/@@63Mn/111</link>
-            <guid>https://brunch.co.kr/@@63Mn/111</guid>
-            <pubDate>Thu, 05 Jan 2023 10:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>한량]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F63Mn%2Fimage%2Ft9xVjuhGJvmzqC5Tp9hwHnoWHvs.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
