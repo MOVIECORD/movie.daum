@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 11:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 12:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F476753059b9a0901244a47cc9459ffaa7457a339" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[올빼미]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149380</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149380</guid>
-            <pubDate>Wed, 23 Nov 2022 01:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[시간을 꿈꾸는 소녀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159254</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159254</guid>
@@ -86,6 +78,14 @@
             <pubDate>Wed, 11 Jan 2023 01:39:02 GMT</pubDate>
             <content:encoded><![CDATA[23.01.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[올빼미]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149380</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149380</guid>
+            <pubDate>Wed, 23 Nov 2022 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[3000년의 기다림]]></title>
