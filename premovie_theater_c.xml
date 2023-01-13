@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 12:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 13:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,20 +79,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed40e6d5c28f1b63306902f5664a155c7dba5a90" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[라인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157721</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157721</guid>
+            <pubDate>Fri, 06 Jan 2023 03:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae404245c85368d182e2ccc2d82676234aa2d752" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[돌핀보이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166231</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166231</guid>
             <pubDate>Thu, 29 Dec 2022 17:18:10 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90a82ef2ff5a4ec3402d4a6b9a537d7a35c697e8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157721</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157721</guid>
-            <pubDate>Fri, 06 Jan 2023 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae404245c85368d182e2ccc2d82676234aa2d752" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바빌론]]></title>
@@ -117,6 +117,14 @@
             <pubDate>Wed, 11 Jan 2023 09:24:37 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe2a50d8c9a0ed5ba023cbd40e94757fe227e7b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[상견니]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
+            <pubDate>Fri, 13 Jan 2023 13:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc919c26d03d41916a4931010eaca565c2b1008be" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쥴 앤 짐]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 11 Jan 2023 23:20:27 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa666436e3cca91ebb50fb6cb271cdc8c93ef094c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[생각 그런거 없는데요]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164424</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164424</guid>
-            <pubDate>Thu, 12 Jan 2023 07:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2de539ac17d883c5ebbe408ecb2648d964c6949f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
