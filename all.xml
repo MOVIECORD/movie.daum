@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 04:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 05:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
             <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,776,641명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,776,633명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -863,14 +863,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2fcb826f0293c0a1059548d99c61b5e6a9963e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[메모리아 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152021</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152021</guid>
-            <pubDate>Sat, 14 Jan 2023 04:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f1dbd85a91d8ae1167336a829be7ba21fe76a8b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164704</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164704</guid>
@@ -927,6 +919,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F425e6943892ce1d931c9459179d3e7d185240550" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[젠틀맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152196</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152196</guid>
+            <pubDate>Tue, 13 Dec 2022 09:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc5c17075b1ead5f222047045f84138d67e39307" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[교섭 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130710</guid>
@@ -974,20 +974,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F267706755c59d8e24c7c01e9a8e5a93a0d92b4d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어메이징 모리스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
-            <pubDate>Tue, 10 Jan 2023 09:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[캐리와 슈퍼콜라 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165770</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165770</guid>
             <pubDate>Sat, 31 Dec 2022 23:18:12 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어메이징 모리스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
+            <pubDate>Tue, 10 Jan 2023 09:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유랑의 달 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1470,6 +1470,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15c477b4f2a07d862709df1fb2eeec573c3e4265" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['유령' 이하늬 "연기와 육아, 49대 51의 싸움이죠"[★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230114141402825</link>
+            <guid>https://v.daum.net/v/20230114141402825</guid>
+            <pubDate>Sat, 14 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '유령'(감독 이해영)의 주연배우 이하늬가 12일 오전 진행된 개봉 인터뷰를 위해 포즈를 취하고 있다. 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 '유령'으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 '유령'의 멈출 수 없는 작전을 그린 영화 '유령'은 오는 18일 개]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2Fstarnews%2F20230114141403915mleg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[변성현X설경구 3번째 협업 '길복순', 베를린 국제영화제 초청 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230114134546643</link>
+            <guid>https://v.daum.net/v/20230114134546643</guid>
+            <pubDate>Sat, 14 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 넷플릭스 영화 '길복순'이 제73회 베를린 국제영화제에 공식 초청되었다. 넷플릭스 측은 14일 "'길복순'이 제73회 베를린 영화제의 메인 섹션인 베를리날레 스페셜(Berlinale Special) 섹션에 공식 초청됐다"라고 밝혔다. '길복순'은 청부살인업계의 전설적인 킬러 길복순(전도연)이 회사와 재계약 직전, 죽거나 또는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2Fmydaily%2F20230114134546525mcvg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[천만 관객 목전 ‘아바타’, 주말 분수령 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230114124915275</link>
             <guid>https://v.daum.net/v/20230114124915275</guid>
@@ -1612,22 +1628,6 @@
             <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 이번 주 눈길 끌었던 연예 현장의 비하인드 샷 대방출!    박소담이 눈물 어린 진심을 전했다. 배우 박소담은 지난 11일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘유령’(감독 이해영) 언론배급시사회 및 기자간담회에 참석했다. 박소담은 지난 2021년 말 갑상선 유두암 진단을 받고 활동을 중단한 후 치료에 전념해 왔다. 이후]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2Fseouleconomy%2F20230114104932482kgbj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 황정민·현빈 '교섭', 폭발하는 범죄 액션…모든 장면이 하이라이트 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230114080011488</link>
-            <guid>https://v.daum.net/v/20230114080011488</guid>
-            <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '우리 생애 최고의 순간', '남쪽으로 튀어', '리틀 포레스트' 임순례 감독이 연출한 범죄 액션물은 어떤 색일까. 영화 '교섭'(감독 임순례)은 분쟁지역 아프가니스탄의 풀 한 포기 없이 황량한 풍경으로 서두를 연다.&nbsp;한국인들이 탈레반에 납치되는 최악의 피랍 사건이 발생하고,&nbsp;현지로 향한 교섭 전문 외교관 재호(황정민)는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2FSpoHankook%2F20230114080013654vhjd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘교섭’ 성공률 70%[편파적인 씨네리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230114072205277</link>
-            <guid>https://v.daum.net/v/20230114072205277</guid>
-            <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[■편파적인 한줄평 : 소재의 호불호가, 변수. 이번 교섭안은 나쁘지 않다. ‘웰메이드’ 가이드라인을 잘 따랐고, 꽤 그럴 듯하다. 그러나 변수도 만만치 않다. 소재가 불편하게 느껴진다면 공감에 실패할 확률도 크다. 영화 ‘교섭’(감독 임순례)의 성공률을 수치화한다면, 약 70% 정도 되지 않을까. ‘교섭’은 최악의 피랍사건으로 탈레반의 인질이 된 한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2Fsportskhan%2F20230114072206428weif.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1795,7 +1795,7 @@
             <guid>https://v.daum.net/v/5YQ7ea5JOk</guid>
             <pubDate>Sat, 14 Jan 2023 04:24:29 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2FBoiledMovie%2F20230114124646417inbn.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2FBoiledMovie%2F20230114133206518pymu.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[여친이 시한부지만, 사랑을 포기안한다는 이 남자 (다음 영화 ─ 매거진)]]></title>
