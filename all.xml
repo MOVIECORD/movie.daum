@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 03:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 04:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -823,20 +823,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프린스 챠밍 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133319</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133319</guid>
-            <pubDate>Wed, 11 Jan 2023 01:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F476753059b9a0901244a47cc9459ffaa7457a339" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165377</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165377</guid>
             <pubDate>Sat, 03 Dec 2022 06:23:44 GMT</pubDate>
             <content:encoded><![CDATA[22.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3409e2a019f9c0a9994d465685855321d152be75" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프린스 챠밍 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133319</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133319</guid>
+            <pubDate>Wed, 11 Jan 2023 01:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F476753059b9a0901244a47cc9459ffaa7457a339" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -869,14 +869,6 @@
             <pubDate>Thu, 12 Jan 2023 08:28:05 GMT</pubDate>
             <content:encoded><![CDATA[22.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4946ba99bae5035c349c417ff5988179fb6b0f99" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164704</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164704</guid>
-            <pubDate>Sun, 20 Nov 2022 02:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88ca3054ee320beec75ec8da1189805530835e13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[3000년의 기다림 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -919,12 +911,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9567264f47391ce0eb112ec1b22e9de9156089f7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[젠틀맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152196</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152196</guid>
-            <pubDate>Tue, 13 Dec 2022 09:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc5c17075b1ead5f222047045f84138d67e39307" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[매복 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163809</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163809</guid>
+            <pubDate>Sun, 15 Jan 2023 04:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b0a397e20f0182bff3aefa80e525b32938371aa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164704</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164704</guid>
+            <pubDate>Sun, 20 Nov 2022 02:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88ca3054ee320beec75ec8da1189805530835e13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[교섭 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -982,20 +982,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[유랑의 달 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159392</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159392</guid>
-            <pubDate>Mon, 02 Jan 2023 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed40e6d5c28f1b63306902f5664a155c7dba5a90" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어메이징 모리스 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
             <pubDate>Tue, 10 Jan 2023 09:19:44 GMT</pubDate>
             <content:encoded><![CDATA[23.02.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유랑의 달 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159392</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159392</guid>
+            <pubDate>Mon, 02 Jan 2023 11:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed40e6d5c28f1b63306902f5664a155c7dba5a90" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라인 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1460,6 +1460,22 @@
             <pubDate>Wed, 11 Jan 2023 22:20:49 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15c477b4f2a07d862709df1fb2eeec573c3e4265" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 ‘유령’으로 컴백 이하늬 “삶 녹여내는 배우로 살고파” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230115124307704</link>
+            <guid>https://v.daum.net/v/20230115124307704</guid>
+            <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세한연후지송백지부조(歲寒然後知松栢之不彫). 날이 추운 뒤에야 소나무와 잣나무가 시들지 않음을 안다는 말이다. 배우 이하늬는 코로나19 팬데믹과 출산이라는 개인적 공백을 겪은 뒤 돌아왔다. 일제강점기를 배경으로 스파이 액션을 담은 영화 ‘유령’을 통해서다. 스크린으로 돌아오고 나니 그의 시들지 않는 열정이 더욱 또렷이 드러났다. “유령은 그 기저에 정신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F15%2Filgansports%2F20230115124312217vill.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아바타2'를 관통하는 삶의 메시지 변화 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230115124200687</link>
+            <guid>https://v.daum.net/v/20230115124200687</guid>
+            <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김지원 기자] ▲ &nbsp;영화 &lt;아바타: 물의 길&gt; 포스터 이미지    ⓒ 월트 디즈니 컴퍼니 코리아  사람은 추억에 반응한다.&nbsp;&lt;아바타: 물의 길&gt;(아래 &lt;아바타2&gt;)을 보게 된&nbsp;것은 최첨단기술에 대한 호기심도 아니고 엄청난 제작비와 홍보에 혹해서도 아니다. 단지&nbsp;2009년 어린 시절&nbsp;&lt;아바타 1&gt;을&nbsp;재밌게 봤던 나를 만나기 위해서였다.&nbsp;어린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F15%2Fohmynews%2F20230115124204235aveg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[김상진 열사 "민주주의는 지식의 산물이 아니라 투쟁의 결과이다" (다음영화 뉴스 ─ 최신)]]></title>
