@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 21:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 22:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,12 +168,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15c477b4f2a07d862709df1fb2eeec573c3e4265" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오르페브르 36번가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40886</guid>
+            <pubDate>Mon, 16 Jan 2023 22:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A9045B05C3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[늑대의 제국]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41149</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41149</guid>
+            <pubDate>Mon, 16 Jan 2023 22:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1720C0374C4F7C2C83" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 케이지]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132987</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132987</guid>
             <pubDate>Sun, 15 Jan 2023 22:18:29 GMT</pubDate>
             <content:encoded><![CDATA[23.01.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85ee3cfc8cf24587990ae43db22ab4f51561814600793" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무드 인디고]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=72496</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=72496</guid>
+            <pubDate>Mon, 16 Jan 2023 22:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F22766E4B5473D66B05" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
