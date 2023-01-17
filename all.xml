@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 15:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 16:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -895,14 +895,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3409e2a019f9c0a9994d465685855321d152be75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[젠틀맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152196</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152196</guid>
-            <pubDate>Tue, 13 Dec 2022 09:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc5c17075b1ead5f222047045f84138d67e39307" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164704</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164704</guid>
@@ -925,6 +917,14 @@
             <pubDate>Tue, 13 Dec 2022 15:25:29 GMT</pubDate>
             <content:encoded><![CDATA[22.12.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F422570d55f13ba3520c2c8f786fe68f383999c62" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코르사주 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160292</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160292</guid>
+            <pubDate>Tue, 17 Jan 2023 16:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7a68cf2f5d0b9a44fc17c281b8d67461544740c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[교섭 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -982,20 +982,20 @@
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어메이징 모리스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
-            <pubDate>Tue, 10 Jan 2023 09:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 파워레인저 캡틴포스: 지구를 위한 싸움 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155637</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155637</guid>
             <pubDate>Tue, 10 Jan 2023 12:38:07 GMT</pubDate>
             <content:encoded><![CDATA[23.01.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a0f72e7ecacd28e1cb4c59ddb160603ca93d7e1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어메이징 모리스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
+            <pubDate>Tue, 10 Jan 2023 09:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유랑의 달 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1262,14 +1262,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F27755D4C530311EF04" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미니언즈2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
-            <pubDate>Sat, 31 Dec 2022 15:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[정이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151952</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151952</guid>
@@ -1324,14 +1316,6 @@
             <pubDate>Fri, 13 Jan 2023 12:36:59 GMT</pubDate>
             <content:encoded><![CDATA[23.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F140d9c7268c26a8769a36875bbe6096eb1ed97eb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[시간위의 집 디 오리지널 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=84667</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=84667</guid>
-            <pubDate>Tue, 03 Jan 2023 22:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F266CBE4F530B594229" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[롤로 ([다음영화] 왓챠 ─ 종료예정)]]></title>

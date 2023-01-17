@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 15:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 16:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3409e2a019f9c0a9994d465685855321d152be75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[젠틀맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152196</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152196</guid>
-            <pubDate>Mon, 16 Jan 2023 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc5c17075b1ead5f222047045f84138d67e39307" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164704</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164704</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 17 Jan 2023 03:21:10 GMT</pubDate>
             <content:encoded><![CDATA[22.12.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F422570d55f13ba3520c2c8f786fe68f383999c62" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[코르사주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160292</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160292</guid>
+            <pubDate>Tue, 17 Jan 2023 16:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7a68cf2f5d0b9a44fc17c281b8d67461544740c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
