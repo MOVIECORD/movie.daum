@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 08:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 09:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 18 Jan 2023 06:26:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>봄치즈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fbs6f%2Fimage%2FnEhItaqds12D1DQwgEWFJ8fiWrI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[슬램덩크에서 가장 늦게 성장한 남자]]></title>
+            <link>https://brunch.co.kr/@@a7hF/54</link>
+            <guid>https://brunch.co.kr/@@a7hF/54</guid>
+            <pubDate>Wed, 18 Jan 2023 09:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>soulblue]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa7hF%2Fimage%2FdjM3UWzE5fH7TO3kiIMk5gnz8SM.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[[더 퍼스트 슬램덩크] 재연 이상의 가치를 만든 작품]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 Jan 2023 09:20:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수차미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2zbl%2Fimage%2FBXGhwzkCs7FVTYzZHtrb8LAtH8Y.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화: 달마야 서울 가자]]></title>
-            <link>https://brunch.co.kr/@@blQN/979</link>
-            <guid>https://brunch.co.kr/@@blQN/979</guid>
-            <pubDate>Fri, 06 Jan 2023 06:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이재형]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FblQN%2Fimage%2F3rvJ3mW0NzuPrIISGsrhSeEzrd0.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
