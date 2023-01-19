@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 22:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 23:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,14 +60,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
             <pubDate>Wed, 18 Jan 2023 01:39:30 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[벤데타: 복수의 시간]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159895</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159895</guid>
-            <pubDate>Wed, 18 Jan 2023 23:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a32902c9b7ba3b937c9e5219e1facac8cf4e4da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인]]></title>
@@ -164,6 +156,14 @@
             <pubDate>Thu, 19 Jan 2023 21:17:52 GMT</pubDate>
             <content:encoded><![CDATA[23.01.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa93ccd2db3bb17d5734b8e1fa7535ea47d775331" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이마 베프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=24416</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=24416</guid>
+            <pubDate>Thu, 19 Jan 2023 23:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38376633b4a5fdb63fa54187e323fa062fdcf368" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
