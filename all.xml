@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 08:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 09:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
             <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,536,553명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,536,551명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -387,7 +387,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
             <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,536,555명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,536,553명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -515,7 +515,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=115401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=115401</guid>
             <pubDate>Mon, 05 Dec 2022 16:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,674,328명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,674,324명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F762a642d585ecff70e0e5cfc4211d9a0f809bf3b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -879,6 +879,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33d2a7a452a0fc9723562d516175c37ffc017109" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[문맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163283</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163283</guid>
+            <pubDate>Wed, 11 Jan 2023 01:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[3000년의 기다림 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141775</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141775</guid>
@@ -901,14 +909,6 @@
             <pubDate>Tue, 06 Dec 2022 15:20:57 GMT</pubDate>
             <content:encoded><![CDATA[22.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff0f9a9cca0e20f639b3a8c2802a1f8e6bc3cae2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[문맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163283</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163283</guid>
-            <pubDate>Wed, 11 Jan 2023 01:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5348e68978799eded0bcddd857488ae47414630" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1021,14 +1021,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae404245c85368d182e2ccc2d82676234aa2d752" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[천룡팔부: 교봉전 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166471</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166471</guid>
-            <pubDate>Thu, 12 Jan 2023 02:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F267706755c59d8e24c7c01e9a8e5a93a0d92b4d1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애프터썬 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161354</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161354</guid>
@@ -1051,6 +1043,14 @@
             <pubDate>Wed, 11 Jan 2023 09:24:37 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe2a50d8c9a0ed5ba023cbd40e94757fe227e7b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[천룡팔부: 교봉전 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166471</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166471</guid>
+            <pubDate>Thu, 12 Jan 2023 02:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F267706755c59d8e24c7c01e9a8e5a93a0d92b4d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[새를 사랑한 화가 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1749,6 +1749,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[공시생과 취준생 커플에 파국 안겨준 '돈' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230119181801665</link>
+            <guid>https://v.daum.net/v/20230119181801665</guid>
+            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] 전문대를 졸업하고 경찰공무원을 준비하는 공시생 경학과 성균관대를 졸업하고 취업을 준비하는 취준생 혜진은 몰래 동거 중이다. 정확히 말해 경학이 혜진의 집에 얹혀산다. 둘은 언젠가 다가올 좋은 날을 위해 서로 보듬어 주니, 보기가 좋다. 청춘이라는 인생의 봄을 만끽하고 있는 것 같다. 그런데, 한순간에 상황이 역변한다. 경학의 엄마가 경학의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Fohmynews%2F20230119181802772zhlc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['영웅' 단지동맹, 영화vs뮤지컬 비교하는 재미가 쏠쏠하네 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230119181730651</link>
+            <guid>https://v.daum.net/v/20230119181730651</guid>
+            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 우리 모두가 기억해야 할 영웅 안중근 의사의 뜨거웠던 마지막 1년을 그리며 대한민국 국민 모두에게 위로와 응원의 메시지를 전하는 영화 '영웅'이 오리지널 뮤지컬 '영웅'과의 본격 비교 영상 2탄 ‘단지동맹’ 편을 최초 공개했다. '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Fpoctan%2F20230119181730543amgn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]'올빼미 서상궁' 김예은 "추앙하는 배두나와 연기, '쫄지마' 응원에 감동"[TEN인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230119180103133</link>
+            <guid>https://v.daum.net/v/20230119180103133</guid>
+            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예/조준원/김서윤 기자] 그림 그리기를 좋아하던 소녀는 부모님과 함께 영화 '인생은 아름다워'(감독 로베르토 베니니, 1997)을 보고 배우의 꿈을 꿨다. 수줍은 성격의 소녀에게 영화 속 세상은 자유롭고 아름다웠다. 소녀는 스크린 속 생동하는 자신의 모습을 그렸다. 작은 눈이 흩날리는 차가운 겨울, 하얀색 원피스를 입은 배우 김예은(33)을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2F10asia%2F20230119180117004dzjp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘천룡팔부: 교봉전’ 견자단의 도전과 진심...“영화는 나의 삶”[MK현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230119173025865</link>
+            <guid>https://v.daum.net/v/20230119173025865</guid>
+            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화에 진심인 견자단이 새 무협 영화 ‘천룡팔부: 교봉전’으로 한국을 찾았다. 19일 오후 서울 롯데시네마 건대입구에서 영화 ‘천룡팔부: 교봉전’ 시사회 및 간담회가 열렸다. 중국 배우 견자단과 음악감독 최철호가 참석했다. 당초 함께할 예정이던 왕정 감독은 스케줄 문제로 불참했다. 무협 소설 김용 작가의 ‘천룡팔부’를 영화화한 ‘천룡팔부: 교봉전’은 거지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Fstartoday%2F20230119173026226ylhv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['암투병' 박소담 "유령 이하늬, 땅굴 파던 나를 구원해줬죠" (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230119172444616</link>
             <guid>https://v.daum.net/v/20230119172444616</guid>
@@ -1875,38 +1907,6 @@
             <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 극장이 ‘이것’ 때문에 난리가 났다. 올해 최고 관심작으로 손꼽히는 류승완 감독 신작 ‘밀수’ 예고편이 그야말로 ‘예고없이’ 오직 극장에서만 상영되기 시작했다. 영화 ‘밀수’는 충무로 대표 흥행보증수표 류승완 감독의 신작이자 김혜수, 염정아, 조인성, 박정민 등 역대급 캐스팅으로도 제작 전부터 화제를 모았던 대작. 그 실체를 일부]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Fnewsen%2F20230119135548176ezcq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['영웅'→'유미의 세포들'까지 김고은의 명대사 퍼레이드 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230119132822324</link>
-            <guid>https://v.daum.net/v/20230119132822324</guid>
-            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 우리 모두가 기억해야 할 영웅 안중근 의사의 뜨거웠던 마지막 1년을 그리며 대한민국 국민 모두에게 위로와 응원의 메시지를 전하는 영화 '영웅'의 김고은이 강렬한 인상을 남긴 명대사 계보를 공개했다. #1. '유미의 세포들' “내 인생의 주인공이자 영원한 1순위는 나야, 나” 자존감 수직 상승 유발하는 유미의 명대사! 세포들과 함]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Fpoctan%2F20230119132823382ihpb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['유령', 설 극장가 장악한 韓영화..'교섭'과 쌍끌이 흥행 시작 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230119132255166</link>
-            <guid>https://v.daum.net/v/20230119132255166</guid>
-            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 끝까지 긴장을 놓을 수 없는 스토리와 호쾌한 장르 변주, 통쾌한 액션으로 폭풍처럼 휘몰아치는 스파이 액션 영화라는 호평을 받고 있는 이해영 감독의 '유령'(각본감독 이해영, 제작 더 램프㈜, 제공배급 CJ ENM)이 개봉 첫날인 지난 18일 박스오피스 2위에 등극하며 설 극장가에 한국영화 흥행 돌풍을 예고했다.&nbsp; '유령'은 영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Fpoctan%2F20230119132255532avru.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[2월로 날 받은 진선규 흥행 ‘카운트’ 시작[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230119121459085</link>
-            <guid>https://v.daum.net/v/20230119121459085</guid>
-            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 알고 보면 엄청난 고타율. 신흥 흥행 청부사로도 불릴 만한 진선규가 ‘엑시트’ ‘너의 결혼식’ 제작진과 손잡고 2월 극장가에 출격한다. 영화 ‘카운트’가 그것. ‘카운트’는 ‘극한직업’으로 시작 ‘공조2:인터내셔날’로 만개한 진선규가 명실상부한 원톱 주연으로 충분한 예열을 마치고 내놓는 야심작. 이는 ‘엑시트’ ‘너의 결혼식’ 제]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Fnewsen%2F20230119121459609yzrc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[차은우 측, "영화 '벌크' 섭외 제안, 검토 중" [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230119115452461</link>
-            <guid>https://v.daum.net/v/20230119115452461</guid>
-            <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 김두연 기자] 배우 차은우가 영화 '벌크' 섭외 제안을 받고 검토 중이다. 19일 오전 차은우의 소속사 판타지오 측은 "영화 '벌크'는 차은우가 섭외 제안 받고, 검토중인 작품 중 하나"라고 밝혔다. 다만 "아직 정해진 내용이 없어 (출연 여부 등을) 자세히 말씀 드리기 어려운 점 양해 부탁드린다"고 덧붙였다. 한편, '벌크'는 강]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2FSpoHankook%2F20230119115455744hraw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2082,7 +2082,7 @@
             <guid>https://v.daum.net/v/Yuugwwzcma</guid>
             <pubDate>Thu, 19 Jan 2023 08:27:10 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2FBoiledMovie%2F20230119163512936gqsu.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2FBoiledMovie%2F20230119175855661nhxf.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['아바타''슬램덩크'이기려 개봉하는 한국영화들에 대한 냉정한 평가 (다음 영화 ─ 매거진)]]></title>
