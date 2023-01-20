@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>[다음영화] 왓챠 ─ 공개예정</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 15:22:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[킹스 스피치]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=58122</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=58122</guid>
-            <pubDate>Tue, 17 Jan 2023 02:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F187F5F3B4D50FC022B" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[천년여우]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=33603</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=33603</guid>
-            <pubDate>Tue, 17 Jan 2023 02:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4783fe1dcd3936bc5eb61a805ed2bd99fd69201" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[해탄적일천]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=2714</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=2714</guid>
-            <pubDate>Tue, 17 Jan 2023 02:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd26d9eb682eda5d237bf3cd0bfc2bf36fcb97458" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[실종]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154171</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154171</guid>
-            <pubDate>Tue, 17 Jan 2023 02:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f876c14a22b4b8e9f9b81af9a7b68d4781b39bb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[도그]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155635</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155635</guid>
-            <pubDate>Tue, 17 Jan 2023 02:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff75350ebcc9e8ce5fd901b20f9d94492397c19b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[약속의 네버랜드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147082</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147082</guid>
-            <pubDate>Tue, 17 Jan 2023 02:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe23122c18f309d12cfc7a8a71bb6b35b57da18de" length="0" type="image//thumb/C408x596/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
+    <title>[다음영화] 왓챠 ─ 공개예정</title>
+    <updated>2023-01-20T16:28:45.284Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
+</feed>
