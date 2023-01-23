@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 01:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 02:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -856,20 +856,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1c42157d1005d23ab958dba36313bb741a73f4c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프린스 챠밍 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133319</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133319</guid>
-            <pubDate>Wed, 11 Jan 2023 01:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F476753059b9a0901244a47cc9459ffaa7457a339" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[올빼미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149380</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149380</guid>
             <pubDate>Wed, 16 Nov 2022 17:24:02 GMT</pubDate>
             <content:encoded><![CDATA[22.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4899f10a714f3b1cb5bf9569f84e96df0020d414" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프린스 챠밍 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133319</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133319</guid>
+            <pubDate>Wed, 11 Jan 2023 01:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F476753059b9a0901244a47cc9459ffaa7457a339" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -952,19 +952,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62c5652a3c98ab52e3f3acf6e6b028c89d476f27" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[위너 2022 콘서트 더 서클 더 무비 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166888</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166888</guid>
-            <pubDate>Wed, 11 Jan 2023 06:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[천룡팔부: 교봉전 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166471</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166471</guid>
             <pubDate>Thu, 12 Jan 2023 02:43:54 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F267706755c59d8e24c7c01e9a8e5a93a0d92b4d1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[위너 2022 콘서트 더 서클 더 무비 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166888</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166888</guid>
+            <pubDate>Wed, 11 Jan 2023 06:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어메이징 모리스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1565,6 +1565,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00ead5727f46388681883684a3c70c8f5031f97a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[‘계묘년 토끼해’에 보는 토끼 영화 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230123113503319</link>
+            <guid>https://v.daum.net/v/20230123113503319</guid>
+            <pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘계묘년 토끼해’라 토끼 영화를 골랐느냐고? 딩동댕! 귀여운 외모의 토끼는 예부터 지혜롭고 민첩한 동물로 통한다. 반려동물인 개, 고양이 못지않게 동화·드라마·영화에서 주인공으로 자주 등장하기도 한다. 온라인동영상서비스(OTT)에서 설맞이 가족영화를 찾고 있다면 참고하시라! &lt;피터 래빗&gt;(2018) &lt;피터 래빗 2:파 프롬 가든&gt;(2022)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F23%2Fhani%2F20230123113508016urqh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[D:인터뷰] '유령'으로 돌아온 박소담…비 온 뒤 굳은 땅처럼 단단하게 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230123110759080</link>
+            <guid>https://v.daum.net/v/20230123110759080</guid>
+            <pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 12월 영화 '특송' 개봉을 앞두고 갑상선 유두암 진단을 받아 모든 활동을 중단했던 박소담이 차기작 '유령'과 함께 더 단단해진 모습으로 돌아왔다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어놓은 스파이 유령으로 의심받으며 외딴 호텔에 갇힌 용의자들이 의심을 뚫고 탈출하기 위해 벌이는 사투와 진짜 유령의 멈출 수 없는 작전을 그린 스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F23%2Fdailian%2F20230123110803561qvxz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마와 100미터 내 접근 금지... 딸에겐 무슨 사연이 있나 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230123110601072</link>
+            <guid>https://v.daum.net/v/20230123110601072</guid>
+            <pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] ▲ "라인" 포스터&nbsp;영화 포스터 이미지    ⓒ 엠엔엠인터내셔널㈜  어두운 화면이 밝아지면서 몇 가지 정보가 기입된 자막과 함께 영화가 시작된다. 하지만 구체적인 설명 대신에 (잔뜩 호기심에 차 있을) 관객의 눈앞엔 화면 한가득 혼란이 소용돌이친다. 새하얀 배경을 향해 연달아 물건들이 던져지고 부셔진다. 관객은 지금 상황에 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F23%2Fohmynews%2F20230123110605509lxdz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[D:이슈] ‘다작’ 독 됐나…‘평범해진’ 연상호 감독 향한 우려 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230123101531557</link>
             <guid>https://v.daum.net/v/20230123101531557</guid>
@@ -1821,6 +1845,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[감독에게 '욕설'하고 캐스팅 확정됐다는 대세 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/237O8QS4AO</link>
+            <guid>https://v.daum.net/v/237O8QS4AO</guid>
+            <pubDate>Mon, 23 Jan 2023 02:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F22%2FBoiledMovie%2F20230122134319957kwem.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[공개와 동시에 넷플릭스 전세계 1위 차지한 강수연 유작 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/PKTuEhVsIP</link>
             <guid>https://v.daum.net/v/PKTuEhVsIP</guid>
@@ -1971,14 +2003,6 @@
             <pubDate>Thu, 19 Jan 2023 08:27:10 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2Ffanzeel%2F20230119170026988tssr.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[수학문제 풀며 스트레스 푼다는 '인간 마네킹' (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Yuugwwzcma</link>
-            <guid>https://v.daum.net/v/Yuugwwzcma</guid>
-            <pubDate>Thu, 19 Jan 2023 08:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F19%2FBoiledMovie%2F20230119223106782xcpa.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[나의 첫 어른 영화 (다음 영화 ─ 브런치)]]></title>
