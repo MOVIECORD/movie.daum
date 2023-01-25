@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 10:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 11:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,14 +71,6 @@
             <content:encoded><![CDATA[23.01.27]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아포리아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159862</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159862</guid>
-            <pubDate>Tue, 24 Jan 2023 23:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25076ad348154a4df60b2bd3733f8200910941d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이마 베프]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=24416</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=24416</guid>
@@ -93,6 +85,14 @@
             <pubDate>Mon, 23 Jan 2023 03:20:56 GMT</pubDate>
             <content:encoded><![CDATA[23.02.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e2188583a25bf1377520423bff4a3eb63f6eb55" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아포리아]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159862</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159862</guid>
+            <pubDate>Tue, 24 Jan 2023 23:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25076ad348154a4df60b2bd3733f8200910941d6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[견자단의 용호무사]]></title>
