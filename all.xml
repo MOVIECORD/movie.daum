@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 01:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 02:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=130710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130710</guid>
             <pubDate>Tue, 03 Jan 2023 07:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>660,682명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>660,680명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd331d74e425a3c71989ab14d9cbe83241377daa5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
             <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,143,311명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,143,309명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -388,7 +388,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
             <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,143,311명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,143,309명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -934,20 +934,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2fef75e56d3ae4e7f360216073cc28373616fb1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바빌론 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163733</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163733</guid>
-            <pubDate>Mon, 09 Jan 2023 08:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a5d88d59461ecd997754fe9ea863f76326d4f4c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어메이징 모리스 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
             <pubDate>Tue, 10 Jan 2023 09:19:44 GMT</pubDate>
             <content:encoded><![CDATA[23.02.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바빌론 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163733</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163733</guid>
+            <pubDate>Mon, 09 Jan 2023 08:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a5d88d59461ecd997754fe9ea863f76326d4f4c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애프터썬 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1549,6 +1549,70 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21c2689868817dd287dad56ef83f7458979374ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["멍뭉美"…유연석x차태현 '멍뭉이', 3월1일 극장 개봉 확정[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126112856738</link>
+            <guid>https://v.daum.net/v/20230126112856738</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 유연석과 차태현이 만난 기대작 '멍뭉이'가 3월 1일 개봉을 확정 짓고 1차 포스터를 공개했다. '멍뭉이'(감독 김주환, 제작 와이웍스엔터테인먼트 돈키호테엔터테인먼트, 공동제작 세븐오식스, 제공 와이웍스엔터테인먼트, 배급 키다리스튜디오)는 견주 인생 조기 로그아웃 위기에 처한 민수와 인생 자체가 위기인 진국, 두 형제가 사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fpoctan%2F20230126112856849keow.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유연석X차태현 ‘멍뭉이’ 3월1일 개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126111200936</link>
+            <guid>https://v.daum.net/v/20230126111200936</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유연석·차태현 주연 영화 ‘멍뭉이’가 3월 1일 개봉한다. ‘멍뭉이’(감독 김주환)는 견주 인생 조기 로그아웃 위기에 처한 ‘민수’와 인생 자체가 위기인 ‘진국’, 두 형제가 사랑하는 반려견 ‘루니’의 완벽한 집사를 찾기 위해 면접을 시작하고, 뜻밖의 ‘견’명적인 만남을 이어가는 작품이다. 영화 ‘청년경찰’ ‘사자’ 등을 연출한 김주환 감독의 신작이다. 2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fstartoday%2F20230126111201662aoxs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한국식 SF영화 ‘정이’ 글로벌 1위 돌풍 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126110646667</link>
+            <guid>https://v.daum.net/v/20230126110646667</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SF영화 ‘정이’의 인기가 심상치 않다. ‘정이’가 나흘 연속 정상을 차지하면서 새해 첫 글로벌 1위 영화가 된 것이다. 평면적 연출과 주제의식, 스토리에 겉도는 신파 등 혹평에도 ‘한국식 SF’ 영화라는 새 지평을 열었다는 평가를 받으며 글로벌 시청자들의 큰 호응을 받고있다. 26일 OTT(온라인 동영상 서비스) 순위 집계 사이트 ‘플릭스 패트롤’ 등에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fned%2F20230126110647838ugif.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유연석X차태현 ‘멍뭉이’ 3월1일 개봉‥15년만에 멍집사로 재회[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126104743806</link>
+            <guid>https://v.daum.net/v/20230126104743806</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 유연석과 차태현 주연 '멍뭉이'가 3월 1일 개봉한다. 영화 '멍뭉이'(감독 김주환)는 견주 인생 조기 로그아웃 위기에 처한 ‘민수’와 인생 자체가 위기인 ‘진국’, 두 형제가 사랑하는 반려견 ‘루니’의 완벽한 집사를 찾기 위해 면접을 시작하고, 뜻밖의 ‘견’명적인 만남을 이어가는 작품이다. 1월 26일 공개된 첫 번째 포스터는 귀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fnewsen%2F20230126104743389gqyr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유연석X차태현X김주환 감독 '멍뭉이', 3월 1일 개봉 확정… 멍뭉미 가득 포스터 공개 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126104459669</link>
+            <guid>https://v.daum.net/v/20230126104459669</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;대한민국 멍뭉미 대표 배우 유연석, 차태현과 전국 565만 명 관객 흥행돌풍을 일으킨 '청년경찰', 한국형 판타지 오컬트의 진수를 보여준 '사자'의 김주환 감독이 만난 기대작 '멍뭉이'가 3월 1일 개봉을 확정 짓고 1차 포스터를 2종을 공개했다. '멍뭉이'는 견주 인생 조기 로그아웃 위기에 처한 '민수'와 인생 자체가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2FSpoHankook%2F20230126104500791mjal.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['다음 소희' 김시은, 김다미→전종서 이을 특급 신예의 탄생 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126104330591</link>
+            <guid>https://v.daum.net/v/20230126104330591</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 김시은 / 사진=트윈플러스파트너스배우 김시은이 '마녀' 김다미, '버닝' 전종서를 이을 또 한 명의 특급 신인으로 주목받고 있다. 1000 대 1의 치열한 경쟁률을 뚫고 박훈정 감독의 영화 '마녀'의 '자윤' 역에 발탁되며 화제를 모은 김다미와, 이창동 감독의 '버닝'으로 데뷔한 전종서. 두 배우 모두 개성 넘치는 매력과 탄탄한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fstarnews%2F20230126104331594rcdh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[시네마Y] '에에올vs'이니셰린의 밴시'vs'더 파벨만스', 오스카 3파전 …스필버그 웃을까? (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126103900388</link>
+            <guid>https://v.daum.net/v/20230126103900388</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 올해 미국 아카데미 시상식은 '에브리씽 에브리웨어 올 앳 원스', '이니셰린의 밴시', '더 파벨만스'의 3파전이 될 것으로 보인다. 미국 영화예술과학아카데미(The Academy of Motion Picture Arts and Science·AMPAS)는 24일(현지시각) 제95회 미국 아카데미 시상식 주요 부문 후보를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2FSBSfunE%2F20230126103903257tvew.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["'청년경찰' 감독 신작"…유연석X차태현 '멍뭉이', 3월 1일 개봉 확정 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230126103736340</link>
+            <guid>https://v.daum.net/v/20230126103736340</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 유연석, 차태현이 영화 '멍뭉이'로 3월 극장가에 출격한다. 오는 3월 1일 개봉을 확정한 '멍뭉이'(감독/각본 김주환)는 견주 인생 조기 로그아웃 위기에 처한 민수(유연석)와 인생 자체가 위기인 진국(차태현), 두 형제가 사랑하는 반려견 루니의 완벽한 집사를 찾기 위해 면접을 시작하고, 뜻밖의 '견'명적인 만남을 이어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fmydaily%2F20230126103737021drjw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[김주환 감독 '멍뭉이', 3월 1일 개봉…차태현·유연석 시너지 예고 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230126103521232</link>
             <guid>https://v.daum.net/v/20230126103521232</guid>
@@ -1643,70 +1707,6 @@
             <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올 겨울 전세계적&nbsp;흥행 신드롬을 일으키고 있는 영화 '아바타: 물의 길'이 글로벌 흥행 수익 20억 달러를 돌파하고, 전편 '아바타'(2009)의 국내 흥행 수익을 넘으며 외화(국내 개봉) 역대 최고 매출액을 달성했다. 지난 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대 흥행 순위 1위를 기록하고 있는 '아바타]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fpoctan%2F20230126092920596cjvg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["이솜 추락 장면, 100% CG"…'유령'의 알고 보면 더 재밌는 TMI (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126092052786</link>
-            <guid>https://v.daum.net/v/20230126092052786</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 끝까지 긴장을 놓을 수 없는 스토리와 호쾌한 장르 변주, 통쾌한 액션으로 폭풍처럼 휘몰아치는 스파이 액션 영화라는 호평을 받고 있는 '유령'이 영화 속 TMI를 전격 공개했다. #1. 흠잡을 곳 없이 완성된 '유령'의 CG! 그중에서도 가장 공들인 CG 장면은? '유령'은 1933년 경성, 조선총독부에 항일조직이 심어 놓은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fmydaily%2F20230126092052883cmsa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[스한:BOX] '교섭' 8일 연속 1위…'상견니' 3위 출발 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126091335481</link>
-            <guid>https://v.daum.net/v/20230126091335481</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 영화 '교섭'이 8일째 박스오피스 정상을 지켰다. 26일 영진위 통합전산망에 따르면 '교섭'은 전날&nbsp;5만9954명의 관객을 모아 박스오피스 1위에 올랐다. 누적 관객 수는&nbsp;119만7828명이다. '교섭'은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구하기 위해 아프가니스탄으로 향한 외교관과 현지 국정원 요원의 교]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2FSpoHankook%2F20230126091338278mmpy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['유령' 이하늬 "설경구와 호흡, 내겐 가문의 영광 같은 일" [인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126090709241</link>
-            <guid>https://v.daum.net/v/20230126090709241</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 배우 이하늬에게 영화 '유령'이 뜻깊은 이유는 크게 두 가지가 있었다. 일단 출산 후 처음으로 선보이는 작품이었고, 또 배우로서 '성공했다'고 느끼게 된 작품이었단다. 특히 설경구와 호흡을 맞춘 게 "가문의 영광"이라며 설렘을 숨기지 못하는 모습을 보였다. 최근 개봉한 영화 '유령'(감독 이해영·제작 더 램프)은 1933년 일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Ftvdaily%2F20230126090712932wdsp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['교섭' 7일 연속 1위, 120만 목전 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126090529184</link>
-            <guid>https://v.daum.net/v/20230126090529184</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '교섭'이 1주일 연속 박스오피스 1위를 기록했다. 26일 영화진흥위원회 통합전산망에 따르면 영화 '교섭'(감독 임순례)이 지난 25일 5만9954명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 119만7828명이다. ‘교섭’은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구하기 위해 아프가니스탄으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Ftvdaily%2F20230126090530631qmpv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[덱스터스튜디오, '정이' VFX 작업…글로벌 1위에 함께 주목 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126090509176</link>
-            <guid>https://v.daum.net/v/20230126090509176</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 넷플릭스 영화 ‘정이’(감독 연상호)가 우수한 CG기술과 함께 글로벌 1위를 달성하는 등 세계적 주목을 받고 있다. 이에 ‘정이’의 VFX 기술을 제작한 덱스터도 함께 떠오르고 있다. 덱스터가 VFX 기술을 제작한 영화 ‘정이’가 지난 20일 공개됐다. 앞서 2021년 2월 선보인 ‘승리호’에 이어 넷플릭스 한국형 SF]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2FEdaily%2F20230126090512407wkbx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[진선규→오나라 ‘카운트’ 충무로 최강 팀워크 예고 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126090506174</link>
-            <guid>https://v.daum.net/v/20230126090506174</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 마이웨이 쌤과 오합지졸 핵아싸 제자들의 케미스트리를 담은 '카운트' 스틸이 공개됐다. 2월 개봉하는 영화 '카운트'(감독 권혁재)는 금메달리스트 출신, 한번 물면 절대 놓지 않는 마이웨이 선생 ‘시헌’(진선규)이 오합지졸 핵아싸 제자들을 만나 세상을 향해 유쾌한 한 방을 날리는 이야기를 그린 작품이다. 26일 공개된 보도스틸은 개성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fnewsen%2F20230126090506523yucw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['타이타닉' 25주년 기념 4K 3D 리마스터링…2월 8일 국내 개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126085423777</link>
-            <guid>https://v.daum.net/v/20230126085423777</guid>
-            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '타이타닉'이 개봉 25주년을 맞아 4K 3D 리마스터링 버전 '타이타닉: 25주년'으로 개봉하는 가운데 배우 레오나르도 디카프리오와 케이트 윈슬렛의 각별한 인연이 공개됐다. '타이타닉: 25주년'(감독 제임스 카메론, 수입배급 월트디즈니컴퍼니 코리아)은 세계 최고의 유람선 타이타닉호에서 피어난 잭(레오나르도 디카프리오)과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fpoctan%2F20230126085423565hnmi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['부활 구수환 감독, 인터뷰 영상 200만 돌파 무슨 일? "전혀 예상치 못해" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230126085044657</link>
-            <guid>https://v.daum.net/v/20230126085044657</guid>
-            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;영화 '부활'의 감독으로&nbsp;유명한 이태석 재단 구수환 이사장의 인터뷰를 담은 영상이 최근 조회수 200만뷰를 돌파했다. 이 영상은 1년 반 전 소개 돼 당시 조회수가 150만으로 화제를 모은 바 있는데, 그동안 변화가 없다가&nbsp;이번 설 명절을 앞두고 갑자기 조회수가 급격히 늘어 200만뷰를&nbsp;넘어섰다. 구 감독은 이에 대해 "전혀 예]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Fpoctan%2F20230126085044916tleh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1869,6 +1869,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[관리 끝판왕인 그녀도 버리지 못한 버릇 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/fr3QSLKwsB</link>
+            <guid>https://v.daum.net/v/fr3QSLKwsB</guid>
+            <pubDate>Thu, 26 Jan 2023 02:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2FBoiledMovie%2F20230126113812649hkyo.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[마른줄 알았는데…엄청난 근육 숨겨온 숨겨진 몸짱 스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/UjR3RphV9i</link>
+            <guid>https://v.daum.net/v/UjR3RphV9i</guid>
+            <pubDate>Thu, 26 Jan 2023 02:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Ffeelthemovie%2F20230126111023602osgt.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[새해 첫날 김민희,홍상수가 전한 정말 놀라운 소식 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/5yPZ15JGEs</link>
+            <guid>https://v.daum.net/v/5yPZ15JGEs</guid>
+            <pubDate>Thu, 26 Jan 2023 02:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2Ffeelthemovie%2F20230126111005285emok.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[21년만에 베를린영화제 초청된 일본 애니메이션 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/p2aRCJqkUn</link>
+            <guid>https://v.daum.net/v/p2aRCJqkUn</guid>
+            <pubDate>Thu, 26 Jan 2023 02:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F26%2FBoiledMovie%2F20230126104306928qfzn.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[보면 1초만에 사랑에 빠진다는 대세스타의 인생 화보 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/byEMQPlf78</link>
             <guid>https://v.daum.net/v/byEMQPlf78</guid>
@@ -1995,38 +2027,6 @@
             <pubDate>Mon, 23 Jan 2023 08:26:17 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F23%2Ffanzeel%2F20230123170005128hdsi.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[공개와 동시에 넷플릭스 전세계 1위 차지한 강수연 유작 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/PKTuEhVsIP</link>
-            <guid>https://v.daum.net/v/PKTuEhVsIP</guid>
-            <pubDate>Sun, 22 Jan 2023 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F23%2FBoiledMovie%2F20230123004040305pqgk.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[지금까지 이런 반전의 항일 영화는 없었다 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/PAVnQg1ili</link>
-            <guid>https://v.daum.net/v/PAVnQg1ili</guid>
-            <pubDate>Sun, 22 Jan 2023 08:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F22%2Ffanzeel%2F20230122170021455gwha.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[200억 투입된 강수연의 넷플릭스 유작, 어떤 내용? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/7TEio0g1In</link>
-            <guid>https://v.daum.net/v/7TEio0g1In</guid>
-            <pubDate>Sat, 21 Jan 2023 08:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F21%2Ffanzeel%2F20230121170019174mmdr.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[시나리오도 읽지 않고 출연결정해 버리는 '황정민의 의리' (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/QEw1RZdYFf</link>
-            <guid>https://v.daum.net/v/QEw1RZdYFf</guid>
-            <pubDate>Sat, 21 Jan 2023 08:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F21%2FBoiledMovie%2F20230121163609864xzbr.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[월터처럼 살고 싶어 (다음 영화 ─ 브런치)]]></title>
