@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 06:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 07:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,6 +95,14 @@
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[열여덟, 어른이 되는 나이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166482</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166482</guid>
+            <pubDate>Wed, 25 Jan 2023 04:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe2a50d8c9a0ed5ba023cbd40e94757fe227e7b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[라인]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157721</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157721</guid>
@@ -111,27 +119,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa666436e3cca91ebb50fb6cb271cdc8c93ef094c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 레드북]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
-            <pubDate>Tue, 24 Jan 2023 23:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[열여덟, 어른이 되는 나이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166482</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166482</guid>
-            <pubDate>Wed, 25 Jan 2023 04:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe2a50d8c9a0ed5ba023cbd40e94757fe227e7b5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[캐리와 슈퍼콜라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165770</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165770</guid>
             <pubDate>Wed, 18 Jan 2023 01:39:22 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 레드북]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
+            <pubDate>Tue, 24 Jan 2023 23:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새비지 맨]]></title>
