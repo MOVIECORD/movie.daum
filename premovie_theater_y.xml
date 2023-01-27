@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 14:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 15:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F267706755c59d8e24c7c01e9a8e5a93a0d92b4d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163758</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163758</guid>
-            <pubDate>Thu, 26 Jan 2023 03:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa666436e3cca91ebb50fb6cb271cdc8c93ef094c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[위너 2022 콘서트 더 서클 더 무비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166888</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166888</guid>
@@ -116,6 +108,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
             <pubDate>Tue, 24 Jan 2023 23:19:06 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163758</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163758</guid>
+            <pubDate>Thu, 26 Jan 2023 03:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa666436e3cca91ebb50fb6cb271cdc8c93ef094c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[돌핀보이]]></title>
