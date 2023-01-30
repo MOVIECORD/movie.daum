@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 01:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 02:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,14 +127,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa93ccd2db3bb17d5734b8e1fa7535ea47d775331" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[캐리와 슈퍼콜라]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165770</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165770</guid>
-            <pubDate>Wed, 18 Jan 2023 01:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163758</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163758</guid>
@@ -159,12 +151,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a4287cc3410a33277a66c2364e74302b437cd41" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쥴 앤 짐]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=18738</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=18738</guid>
-            <pubDate>Mon, 30 Jan 2023 01:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85c97140aeecd41c052b961994a5ebd0539b1431" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[캐리와 슈퍼콜라]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165770</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165770</guid>
+            <pubDate>Wed, 18 Jan 2023 01:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[울브스 오브 워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164823</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164823</guid>
+            <pubDate>Mon, 30 Jan 2023 02:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1707b1f09c4bf49b05fcc317e6aa60aef9fde20" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
