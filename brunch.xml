@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 06:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 30 Jan 2023 05:20:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FeIVqdo0i-dgoU_OwEHplCb9BcF0.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[인물이 아닌 플롯이 주인공인 로맨스 영화]]></title>
+            <link>https://brunch.co.kr/@@vux/909</link>
+            <guid>https://brunch.co.kr/@@vux/909</guid>
+            <pubDate>Mon, 30 Jan 2023 06:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송석주 영화평론가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2FBRsOHBxF7OJFHac9roJogLiabdc" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[우연인 듯 필연적인.]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Jan 2023 09:20:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>지하]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdkt4%2Fimage%2Fcu_KORi8WXOYHSPnrn1y5D97PbA.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['이 또한 지나가리라'는 말의 잔인함]]></title>
-            <link>https://brunch.co.kr/@@G9l/226</link>
-            <guid>https://brunch.co.kr/@@G9l/226</guid>
-            <pubDate>Fri, 27 Jan 2023 09:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>홍밀밀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FG9l%2Fimage%2FwSROZKJZfL9v3rdrxyJtSvsty4A.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
