@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 05:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 06:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a4287cc3410a33277a66c2364e74302b437cd41" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 레드북]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
+            <pubDate>Tue, 24 Jan 2023 23:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[캐리와 슈퍼콜라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165770</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165770</guid>
@@ -144,11 +151,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a6754ea5e17f96b5eecf6fe6378c42019c79bc7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 레드북]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
-            <pubDate>Tue, 24 Jan 2023 23:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <title><![CDATA[3000년의 기다림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141775</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141775</guid>
+            <pubDate>Tue, 31 Jan 2023 05:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2fcb826f0293c0a1059548d99c61b5e6a9963e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 26 Jan 2023 03:21:32 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa666436e3cca91ebb50fb6cb271cdc8c93ef094c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[3000년의 기다림]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141775</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141775</guid>
-            <pubDate>Tue, 31 Jan 2023 05:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c2fcb826f0293c0a1059548d99c61b5e6a9963e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
