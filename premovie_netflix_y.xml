@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 23:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 01:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Mon, 30 Jan 2023 16:27:35 GMT</pubDate>
             <content:encoded><![CDATA[23.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8ba1c31f03799109bfbccfd9120b526d1a656e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[길복순]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156930</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156930</guid>
+            <pubDate>Thu, 02 Feb 2023 01:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45fa8bf961f7e31a9b24160324d675daadfc46b2" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
