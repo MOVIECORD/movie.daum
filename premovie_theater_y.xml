@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 20:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 21:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5429fdbe0cdc0fd1d3f34490fdf0a1d2cdac46c3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어쩌면 우린 헤어졌는지 모른다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166749</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166749</guid>
-            <pubDate>Tue, 07 Feb 2023 23:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffa2bb9e82189fc191eac22fb15213bff34737260" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메간]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159872</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159872</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 28 Jan 2023 01:39:38 GMT</pubDate>
             <content:encoded><![CDATA[22.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33d2a7a452a0fc9723562d516175c37ffc017109" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌면 우린 헤어졌는지 모른다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166749</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166749</guid>
+            <pubDate>Tue, 07 Feb 2023 23:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffa2bb9e82189fc191eac22fb15213bff34737260" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
