@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 05:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 06:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Mon, 16 Jan 2023 20:20:11 GMT</pubDate>
             <content:encoded><![CDATA[23.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33d2a7a452a0fc9723562d516175c37ffc017109" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[살수]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154981</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154981</guid>
-            <pubDate>Tue, 07 Feb 2023 07:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcae4b07768ae7f76ab81ca7e15c358999e58be50" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[콜 제인]]></title>
@@ -128,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59025c7a7671dbd96db1ad8adb50c87f40f27bef" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[살수]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154981</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154981</guid>
+            <pubDate>Tue, 07 Feb 2023 07:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcae4b07768ae7f76ab81ca7e15c358999e58be50" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[컨버세이션]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154228</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154228</guid>
@@ -165,7 +165,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=141224</guid>
             <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6ab7e7ee1f6554e3b633e80ae3263e88c88c938" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f0df8035b94aa977f9d399c2576f131d20b3d44" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

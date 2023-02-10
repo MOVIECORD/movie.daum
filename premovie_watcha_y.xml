@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 05:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 06:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Fri, 10 Feb 2023 05:19:51 GMT</pubDate>
             <content:encoded><![CDATA[23.02.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F166C5F474F5EB0E526" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[핫 게임]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163254</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163254</guid>
+            <pubDate>Fri, 10 Feb 2023 06:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0bc788d97e4f50f98e786a08e576a07679322363" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
