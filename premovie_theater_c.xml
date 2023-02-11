@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 06:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 07:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67e807e4f89366ac040242642a0914b366ff8551" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[콜 제인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156768</guid>
+            <pubDate>Wed, 08 Feb 2023 05:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a883366500ae3e0631434f51e41c3888a73d4ee" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[TAR 타르]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162619</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162619</guid>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 08 Feb 2023 01:41:01 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92273ac8c6e861159e699a68f587e2917d09c897" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[콜 제인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156768</guid>
-            <pubDate>Wed, 08 Feb 2023 05:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a883366500ae3e0631434f51e41c3888a73d4ee" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피터 본 칸트]]></title>
