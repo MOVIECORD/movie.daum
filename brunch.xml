@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 04:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 05:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 13 Feb 2023 04:26:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FRtuEtz4YxYLv1Mxv0rN2CfULaIU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이런 영화가 만들어져도 나올 것 같은 ‘다음 소희’]]></title>
+            <link>https://brunch.co.kr/@@5fpi/455</link>
+            <guid>https://brunch.co.kr/@@5fpi/455</guid>
+            <pubDate>Mon, 13 Feb 2023 05:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FL3BQlUPIeiYRDoxYsWrK_1fEL9s.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[예술의 거탑과 권력의 모래성 사이]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Jan 2023 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>카시모프]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F52g1%2Fimage%2FaChzqT9oLLJd3vyamjJiWZ84S2w.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[추락마저도 영원히 반짝이는 세상]]></title>
-            <link>https://brunch.co.kr/@@ZdN/99</link>
-            <guid>https://brunch.co.kr/@@ZdN/99</guid>
-            <pubDate>Tue, 31 Jan 2023 06:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2F5XkTtjP_zF0_ZlFZOAU_lh52ySM.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
