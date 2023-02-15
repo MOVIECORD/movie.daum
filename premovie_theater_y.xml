@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 17:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 18:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바빌론]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163733</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163733</guid>
-            <pubDate>Tue, 31 Jan 2023 23:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cf414e700d9b327eec5cb713c9e62723598e4d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[상견니]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
             <pubDate>Tue, 24 Jan 2023 23:19:06 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바빌론]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163733</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163733</guid>
+            <pubDate>Tue, 31 Jan 2023 23:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cf414e700d9b327eec5cb713c9e62723598e4d6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다음 소희]]></title>
