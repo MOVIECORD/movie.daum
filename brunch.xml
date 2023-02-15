@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 04:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 05:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 15 Feb 2023 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종원]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6Qi3%2Fimage%2FAurcR7tOUgzRZhx7xwDNbQzTSKs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[매일 죽고 싶은 그 남자, 학대받는 아이 목격했다]]></title>
+            <link>https://brunch.co.kr/@@1pYx/42</link>
+            <guid>https://brunch.co.kr/@@1pYx/42</guid>
+            <pubDate>Wed, 15 Feb 2023 05:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>씨네프레소]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1pYx%2Fimage%2FBCfC9H2ycXmMG4iz9d-q4urt_o8.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[오늘, 돌아오지 않는 날]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Feb 2023 03:27:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>황세헌]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeVfY%2Fimage%2FDWQ37_iZ9j_67Ocq4DMyDYkW3XM.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화가 말했다, “우린 강하다”]]></title>
-            <link>https://brunch.co.kr/@@6R5z/127</link>
-            <guid>https://brunch.co.kr/@@6R5z/127</guid>
-            <pubDate>Mon, 13 Feb 2023 04:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>소여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6R5z%2Fimage%2F4iNlelFDR6lZ4Q5hwpTm6Xzclfo.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
