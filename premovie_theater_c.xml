@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 19:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 20:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff286326c9d489c10939c81688bfc49e910941bf5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[낯선 사랑]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166016</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166016</guid>
+            <pubDate>Thu, 16 Feb 2023 20:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8dd4e2ea5ebf1478bf2b0d142e501ac9579dc49f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[기적을 믿는 소녀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150228</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150228</guid>
@@ -144,28 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae6b7d9791be174684613cfe2cd0261b528e3794" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[민족]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139381</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139381</guid>
+            <pubDate>Thu, 16 Feb 2023 20:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18b0c303d84feadfd643e0bc7844e5d46c8a23f3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아임 히어로 더 파이널]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
             <pubDate>Wed, 15 Feb 2023 01:43:48 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34481f03d6f8492325e5b14afe2d78166808b4e7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 웨일]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
-            <pubDate>Thu, 16 Feb 2023 06:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc79ac28fbad9ef83cf2348d47dd45a3e944d1d57" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[블라스트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167215</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167215</guid>
-            <pubDate>Wed, 15 Feb 2023 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4df3bcd0acc825161feb0279ebaba4be60969a32" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
