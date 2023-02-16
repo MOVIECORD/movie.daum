@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 09:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 16 Feb 2023 08:27:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맑은구름]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FoNv%2Fimage%2FcuecT4pFLCj0TunLOuiO9kpJg2I.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<시> 시인의 눈]]></title>
+            <link>https://brunch.co.kr/@@f02C/3</link>
+            <guid>https://brunch.co.kr/@@f02C/3</guid>
+            <pubDate>Thu, 16 Feb 2023 10:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마텔]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff02C%2Fimage%2FhtFC9Xn2_c9e87aKFJd-sKa5280.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[꽃다발, 화려하게 피고 지는 것이 꼭 우리 같다.]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Feb 2023 04:28:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>방자까]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ej3%2Fimage%2FNK_VwDLm6N_VOsRnOKhZko43Gsc.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<다음 소희>가 한국사회의 구조적 문제를 고발하는 방식]]></title>
-            <link>https://brunch.co.kr/@@vux/911</link>
-            <guid>https://brunch.co.kr/@@vux/911</guid>
-            <pubDate>Tue, 14 Feb 2023 04:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송석주 영화평론가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2F8lte58oTqCriPK3eSa4mGCBA6sM" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
