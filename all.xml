@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 23:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 01:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=1051</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=1051</guid>
             <pubDate>Tue, 31 Jan 2023 10:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>653,272명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>653,270명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fa5d87c576e4d2a64b25d89aae80779c7f00ab7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=130710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130710</guid>
             <pubDate>Tue, 03 Jan 2023 07:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,697,912명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,697,900명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd331d74e425a3c71989ab14d9cbe83241377daa5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -863,14 +863,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[장화신은 고양이: 끝내주는 모험 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158407</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158407</guid>
-            <pubDate>Tue, 13 Dec 2022 11:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cea7130cd9af437f24406c9c67768dcd50cf4d9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[성스러운 거미 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160387</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160387</guid>
@@ -909,6 +901,14 @@
             <pubDate>Wed, 04 Jan 2023 01:35:37 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04a53a2b94d62ba8a1fabd956545cda3d4d3a500" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[장화신은 고양이: 끝내주는 모험 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158407</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158407</guid>
+            <pubDate>Tue, 13 Dec 2022 11:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cea7130cd9af437f24406c9c67768dcd50cf4d9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어쩌면 우린 헤어졌는지 모른다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1087,12 +1087,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[블랙머니 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134130</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134130</guid>
+            <pubDate>Thu, 16 Feb 2023 01:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffbe0d4ccc4804448a8aacb9e98ccccfe1573614596648" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[인페르노 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=94072</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=94072</guid>
             <pubDate>Tue, 31 Jan 2023 23:20:45 GMT</pubDate>
             <content:encoded><![CDATA[23.02.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9436c1c0460163cf7d6553ba9a9b35877e975aed" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[페루 - 보물을 품은 그곳으로 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117733</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117733</guid>
+            <pubDate>Thu, 16 Feb 2023 01:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14148da179d856ec19a03b8f0266974b6c3ad89d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹 아서: 제왕의 검 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104967</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104967</guid>
+            <pubDate>Thu, 16 Feb 2023 01:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa9302d067b3a85da3ddc445b0f1b1846b7971983" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[윤희에게 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1831,156 +1855,164 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F727d6a67482d2915aff83c668e3739dadc45e6c7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[‘앤트맨과 와스프:퀀텀매니아’ 개봉 첫날 1위‥마블 이름값 증명[박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216081932684</link>
-            <guid>https://v.daum.net/v/20230216081932684</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '앤트맨과 와스프: 퀀텀매니아'가 개봉 첫 날 전체 박스오피스 1위에 올랐다. 2월 16일 영화진흥위원회 통합전산망 집계에 따르면 영화 '앤트맨과 와스프: 퀀텀매니아'(감독 페이튼 리드)가 개봉 첫 날인 15일 17만4,875명을 동원하며 전체 박스오피스 1위에 올랐다. '앤트맨과 와스프: 퀀텀매니아'는 미지의 세계 ‘양자 영역’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fnewsen%2F20230216081932702ifrl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['카운트'·'멍뭉이', 마약·학폭 無…착한 영화가 뜬다[Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216102220135</link>
+            <guid>https://v.daum.net/v/20230216102220135</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 마약, 사기, 살인, 학폭 등 흉악한 범죄를 소재로 한 작품이 OTT와 안방극장, 스크린을 점령한 가운데 사랑과 희망을 품은 착한 영화가 관객들을 만날 준비를 하고 있다. 고물가, 폭등한 에너지 비용에 시달리는 서민의 고통을 외면한 현실에서 잠시나마 인간애를 느낄 수 있다. 이달 22일 극장 개봉하는 ‘카운트’(감독 권혁재, 제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216102221660lscu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['부친상' 전종서 "잔인한 소뇌위축증, 아빠 미친듯이 사랑했어" [전문] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216081412554</link>
-            <guid>https://v.daum.net/v/20230216081412554</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 부친상을 겪은 배우 전종서가 아버지를 떠나보낸 비통한 심경과 그를 향한 그리움을 털어놨다. 전종서는 16일 자신의 SNS에 아버지의 사진과 함께 장문의 글을 게재했다. 전종서는 “제 데뷔와 동시에 병을 진단받은 아빠를 뒤로하며 6년이란 시간동안 연기하며 괴로운 날이 참 많았다”며 “제 몸이 닳아 없어지도록 아버지를 간병]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FEdaily%2F20230216081415157bghg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['카운트' 장동주X김민호X이홍내, 복싱부원들의 활약 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216101811965</link>
+            <guid>https://v.daum.net/v/20230216101811965</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '카운트'의 장동주, 김민호, 이홍내가 서로 다른 매력의 복싱부원으로 변신해 개성 넘치는 활약을 예고한다. '카운트'(감독 권혁재, 제공배급 CJ ENM, 제작 필름케이, 공동제작 26컴퍼니・영화사 필름통)는 금메달리스트 출신 한번 물면 절대 놓지 않는 마이웨이 선생 시헌(진선규 분)이 오합지졸 핵아싸 제자들을 만나 세상을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216101812438suow.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘스즈메의 문단속’ 콜라보레이션 카페 오픈해 팬심 저격 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216081247514</link>
-            <guid>https://v.daum.net/v/20230216081247514</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 신카이 마코토 감독 신작 '스즈메의 문단속'이 국내 개봉을 앞두고 콜라보레이션 카페를 전격 오픈한다. 3월 8일 개봉하는 영화 '스즈메의 문단속'(감독 신카이 마코토)은 우연히 재난을 부르는 문을 열게 된 소녀 '스즈메'가 일본 각지에서 발생하는 재난을 막기 위해 필사적으로 문을 닫아가는 이야기를 그린 작품이다. '스즈메의 문단속']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fnewsen%2F20230216081247125ocbr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['소울메이트' 김다미x전소니x변우석, 특별한 우정 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216101433792</link>
+            <guid>https://v.daum.net/v/20230216101433792</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '소울메이트'가 메인 포스터와 김다미, 전소니, 변우석의 특별한 우정을 엿볼 수 있는 캐릭터 영상을 공개했다. '소울메이트'(감독 민용근, 제공 스튜디오앤뉴, 배급 NEW, 제작 클라이맥스 스튜디오・앤드마크 스튜디오, 공동제작 스튜디오앤뉴・키이스트)의 메인 포스터는 김다미와 전소니의 아름다운 투샷이 담겼다. 마치 한 폭의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216101434871cjqx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앤트맨3' 1위 진입…2위 밀려난 '슬램덩크' 오늘 300만 무난 [TEN무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216080201319</link>
-            <guid>https://v.daum.net/v/20230216080201319</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자]'더 퍼스트 슬램덩크'의&nbsp; 16일 영화진흥위원회 통합전산망에 따르면 15일 영화 '앤트맨과 와스프: 퀀텀매니아'(감독 페이튼 리드, 이하 '앤트맨3')는 개봉 첫 날 17만4886명을 불러들이며 박스오피스 1위 진입했다.&nbsp; '앤트맨3'는 미지의 세계 '양자 영역'에 빠져버린 '앤트맨 패밀리'가 MCU 사상 가장 강력한 빌런이자 무]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2F10asia%2F20230216080203097doyc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[전도연 '길복순', 3월 31일 공개→2차 예고…스타일리시한 킬러 액션 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216101236715</link>
+            <guid>https://v.daum.net/v/20230216101236715</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 넷플릭스 영화 ‘길복순’(감독 변성현)이 3월 31일 공개 확정과 함께 2차 포스터 및 예고편을 16일 공개했다. ‘길복순’은 청부살인 업계의 전설적인 킬러 길복순이 회사와 재계약 직전 죽거나 또는 죽이거나 피할 수 없는 대결에 휘말리는 이야기를 그린 액션 영화다. 제73회 베를린 국제영화제 스페셜 부문(Berlinal]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FEdaily%2F20230216101240816vjpp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앤트맨3' 개봉 첫날 '슬램덩크' 꺾고 1위…17만 동원[美친 box] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216075420133</link>
-            <guid>https://v.daum.net/v/20230216075420133</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;‘앤트맨과 와스프: 퀀텀매니아’(앤트맨3)가 ‘더 퍼스트 슬램덩크’(슬램덩크)를 제치고 1위로 등극했다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(15일) 개봉한 ‘앤트맨과 와스프: 퀀텀매니아’는 17만 4886명을 동원해 일별 박스오피스 1위를 차지했다. 누적 관객수는&nbsp;17만 5510명. 같은 날 ‘더 퍼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216075421361qvnx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[‘앤트맨과 와스프: 퀀텀매니아’ 1위, 개봉 첫날 극장가 장악 [DA:박스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216095901061</link>
+            <guid>https://v.daum.net/v/20230216095901061</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] ‘앤트맨과 와스프: 퀀텀매니아’ 1위, 개봉 첫날 극장가 장악 [DA:박스] 영화 ‘앤트맨과 와스프: 퀀텀매니아’가 개봉 첫날 전체 박스오피스 1위로 등극했다. 16일 영화관입장권 통합전산망에 따르면 ‘앤트맨과 와스프: 퀀텀매니아’가 개봉 첫날인 2월 15일(수) 17만4875명의 관객을 동원하며 전체 박스오피스 1위에 올랐다. 이는 2023]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fsportsdonga%2F20230216095904519fkiv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["남행선씨 베를린行"..전도연, 오늘(16일) 베를린 영화제 출국 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216074947055</link>
-            <guid>https://v.daum.net/v/20230216074947055</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 베우 전도연이 20일 오전 서울 중구 웨스텐조선호텔에서 진행된 영화 '비상선언'(감독 한재림) 제작보고회에 참석해 포즈를 취하고 있다.  사상 초유의 항공테러로 무조건적 착륙을 선포한 비행기를 두고 벌어지는 리얼리티 항공재난 영화 '비상선언'은 오는 8월 개봉 예정이다. /2022.06.20 /사진=이동훈 기자 photoguy@ 배]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fstarnews%2F20230216074948891cyzd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["죽을 때까지 숨길 것"…'길복순' 전도연, A급 킬러와 싱글맘 그 사이 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216094820617</link>
+            <guid>https://v.daum.net/v/20230216094820617</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 넷플릭스 영화 '길복순'이 2차 포스터와 예고편을 공개했다. 청부살인 업계의 전설적인 킬러 길복순이 회사와 재계약 직전, 죽거나 또는 죽이거나, 피할 수 없는 대결에 휘말리게 되는 이야기를 그린 액션 영화 '길복순'이 제73회 베를린 국제영화제 스페셜(Berlinale Special) 부문에 공식 초청되며 일찍이 주목을 받]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fmydaily%2F20230216094820663hjux.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['흑인 인어공주' 새 예고편.. 할리 베일리 "확신 없었다" 눈물 [Oh!llywood] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216073821885</link>
-            <guid>https://v.daum.net/v/20230216073821885</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 새로운 이른바 흑인 '인어공주' 예고편이 공개됐다. 인어공주 아리엘로 분한 배우 할리 베일리의 아름다운 목소리와 비주얼, 멜리사 맥카시가 연기한 마녀 우르술라 등을 만날 수 있다. 15일(현지시간) 베일리가 아리엘 역으로 출연하는 디즈니의 새 실사 영화 '인어공주'의 새로운 티저 예고편이 공개됐다. 30초 분량의 예고편에서 인어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216073821280sdeo.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[슈트따윈 필요없어! 상남자 존 윅의 귀환[MK무비] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216093905204</link>
+            <guid>https://v.daum.net/v/20230216093905204</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마블 히어로들만 작정한 게 아니다. 거친 상남자 키아누 리브스의 레전드 액션 블록버스터 ‘존 윅 4’도 강림한다. 오는 4월 개봉하는 ‘존 윅 4’(감독 체드 스타헬스키)는 자유를 위해 모든 것을 건 반격을 준비하는 존 윅이 최고 회의를 무너뜨리기 위해 거대한 전쟁에 나서는 이야기를 담는다. 존 윅은 치명적인 적들을 상대하며 뉴욕에서 파리, 오사카, 베를린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fstartoday%2F20230216093906880djwi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘멍뭉이’ 개만 보인단 말이야[편파적인 씨네리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216072205680</link>
-            <guid>https://v.daum.net/v/20230216072205680</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[■편파적인 한줄평 : 딴 건 거르란 말이야. 영화도 제목을 따라가는 것인가. 정확히 개만 보인다. 개가 살렸다. 다른 건 좀 더 걸러냈어야 했다. 눈에 거슬리는 지점들도 존재한다. 영화 ‘멍뭉이’(감독 김주환)다. ‘멍뭉이’는 집사 인생 조기 로그아웃 위기에 처한 ‘민수’(유연석)와 인생 자체가 위기인 ‘진국’(차태현), 두 형제가 사랑하는 반려견]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fsportskhan%2F20230216072207043mele.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['앤트맨3' 다시 마블시대 열렸다…'슬램덩크' 300만 눈앞[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216093018841</link>
+            <guid>https://v.daum.net/v/20230216093018841</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;‘앤트맨과 와스프: 퀀텀매니아’(‘앤트맨3’)가 개봉 첫날 1위를 차지한 가운데 ‘더 퍼스트 슬램덩크’(‘슬램덩크’)는 300만 돌파를 앞두고 있다. 국내 마블팬들이 극장으로 향하면서 다시금 마블시대가 열린 것으로 전망된다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(15일) 개봉한 ‘앤트맨과 와스프: 퀀텀매]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216093018587iwbt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC리뷰] "잘 돼도 배 안 아픈 배우"…진선규가 '중꺾마' 정신으로 담아낸 '카운트' (종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216071835655</link>
-            <guid>https://v.daum.net/v/20230216071835655</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 준비된 자에게만 기회가 찾아온다고 했던가. 배우 진선규가 가장 적절한 시기에 영화 '카운트'를 만나게 됐다. 오는 22일 개봉하는 '카운트'는 88 서울 올림픽 복싱 금메달리스트 박시헌 선수의 일화를 모티프로 한 작품이다. 금메달 출신 체육 교사가 오합지졸 제자들을 만나 세상을 향해 유쾌한 한 방을 날리는 이야기를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FSpoChosun%2F20230216071835150prpc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[성공률 100% 킬러이자 싱글맘‥전도연 ‘길복순’으로 또 한 번 변신 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216091710340</link>
+            <guid>https://v.daum.net/v/20230216091710340</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 전도연이 '길복순'에서 성공률 100% 킬러이자 싱글맘으로 분한다. 3월 31일 넷플릭스에서 공개되는 영화 '길복순'(감독 변성현)은 청부살인 업계의 전설적인 킬러 길복순이 회사와 재계약 직전, 죽거나 또는 죽이거나, 피할 수 없는 대결에 휘말리게 되는 이야기를 그린 작품이다. 공개된 포스터는 한 손에는 의뢰받은 ‘작품’을 완수한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fnewsen%2F20230216091712414efas.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[전종서, 하늘로 떠난 父향한 절절한 마음.."소뇌위축증 진단..미친듯이 사랑했어, 고생했어요" [전문] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216071444627</link>
-            <guid>https://v.daum.net/v/20230216071444627</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=스타뉴스, 전종서 공식계정 배우 전종서가 최근 세상을 떠난 아버지를 향한 절절한 마음을 전했다. 전종서는 16일 자신의 공식계정에 "제 데뷔와 동시에 병을 진단 받은 아빠를 뒤로하며 지금까지 6년이란 시간동안 연기하며 괴로운 날이 참 많았습니다"라며 "긴 터널 같았던 시간에 가끔 멍하니 천장을 바라보며 무얼 느끼셨을지 저는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fstarnews%2F20230216072842075kmuk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['앤트맨3' 개봉 첫날 압도적 1위, 17만 명 동원 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216091326209</link>
+            <guid>https://v.daum.net/v/20230216091326209</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 ‘앤트맨과 와스프: 퀀텀매니아’가 개봉 첫날 박스오피스 1위를 기록했다. 16일 영화진흥위원회 통합전산망에 따르면 ‘앤트맨과 와스프: 퀀텀매니아’(감독 페이튼 리드·배급 월트디즈니컴퍼니코리아)가 개봉 첫날인 지난 15일 17만4886명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 17만5510명이다. ‘앤트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Ftvdaily%2F20230216091330122ykgy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['앤트맨3' 개봉 첫날 '슬램덩크' 꺾고 박스오피스 1위 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216070710555</link>
-            <guid>https://v.daum.net/v/20230216070710555</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='앤트맨과 와스프 : 퀀텀매니아' 영화 '앤트맨과 와스프 : 퀀텀매니아'가 개봉 첫날 박스오피스 1위에 올랐다. 16일 영진위 영화관입장권 통합전산망에 따르면 '앤트맨과 와스프 : 퀀텀매니아'는 개봉 첫날인 지난 15일 17만 4875명의 관객을 모으며 1위에 등극했다. '앤트맨과 와스프 : 퀀텀매니아'는 마블 페이즈5를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fstarnews%2F20230216070712496boic.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[전도연, 남행선 아닌 싱글맘 킬러 길복순은? "참 잘해 너희 엄마" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216091321203</link>
+            <guid>https://v.daum.net/v/20230216091321203</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스(Netflix) 영화 '길복순'이 오는 3월 31일(금) 공개를 앞두고 2차 포스터 및 예고편을 공개했다. 청부살인 업계의 전설적인 킬러 길복순이 회사와 재계약 직전, 죽거나 또는 죽이거나, 피할 수 없는 대결에 휘말리게 되는 이야기를 그린 액션 영화 '길복순'이 제73회 베를린 국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216091321646fmod.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[마블 양자영역으로 초대…내용 어려워 ‘아몰랑’ (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216070515515</link>
-            <guid>https://v.daum.net/v/20230216070515515</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[앤트맨이 돌아왔다. 슈퍼히어로 중 가장 몸집이 작은 그가 ‘마블 시네마틱 유니버스’(MCU) 사상 최강의 빌런과 맞붙는다. 15일 개봉한 &lt;앤트맨과 와스프: 퀀텀매니아&gt;는 엠시유만의 독특한 시기 구분을 가리키는 ‘페이즈 5’의 본격적인 시작을 알리는 작품이다. 우주 생명체 절반을 먼지로 만들었던 타노스와의 전면전 이후 지구를 위협하는 멀티버스라는 새로운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fhani%2F20230216070516640joim.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[공식] 구교환·한예리→선우정아, '박하경 여행기' 이나영 만난다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216091252181</link>
+            <guid>https://v.daum.net/v/20230216091252181</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 이나영의 복귀작인 '박하경 여행기'가 라인업을 완성했다. '삼진그룹 영어토익반' 이종필 감독의 신작인 웨이브 오리지널 드라마 '박하경 여행기' 측은 16일 구교환, 길해연, 박세완, 박인환, 서현우, 선우정아, 신현지, 심은경, 조현철, 한예리(가나다 순) 등 대중들의 사랑을 받는 대세 배우들로 이루어진 캐스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FSpoChosun%2F20230216091252975auxf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[봉준호 감독, 피렌체 한국영화제 12년 만에 다시 찾는다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216070022376</link>
-            <guid>https://v.daum.net/v/20230216070022376</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(로마=연합뉴스) 신창용 특파원 = 세계적인 거장 반열에 오른 봉준호 감독이 12년 만에 피렌체 한국영화제를 다시 찾는다. 태극기 문화협회(회장 리카르도 젤리·부회장 장은영)는 '제21회 피렌체 한국영화제'가 3월 30일부터 4월 7일까지 열린다고 15일(현지시간) 밝혔다. 피렌체 한국영화제는 태극기 문화협회가 주최하며 이탈리아에 한국 영화를 널리 알리는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fyonhap%2F20230216070022375iwlr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[‘소울메이트’ 김다미X전소니 그림 같은 투샷‥메인 포스터 공개 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216090942079</link>
+            <guid>https://v.daum.net/v/20230216090942079</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 김다미, 전소니, 변우석 주연 '소울메이트'의 메인 포스터가 공개됐다. 3월 15일 개봉하는 영화 '소울메이트'(감독 민용근)는 첫 만남부터 서로를 알아본 두 친구 ‘미소(김다미)’와 ‘하은(전소니)’ 그리고 ‘진우(변우석)’가 기쁨, 슬픔, 설렘, 그리움까지 모든 것을 함께 한 이야기. 공개된 메인 포스터는 김다미와 전소니의 아름]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fnewsen%2F20230216090942923itec.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] '멍뭉이' 유연석·차태현·'멍벤져스' 완벽 꿀조합…세상 무해한 댕댕이 파워 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216070010357</link>
-            <guid>https://v.daum.net/v/20230216070010357</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 아기자기한 동화 같은 분위기가 마치 봄을 닮았다. 길었던 겨울을 지나 따뜻한 햇살이 기다려지는 3월, 영화 '멍뭉이'(감독 김주환)가 무해하고 싱그러운 에너지로 관객맞이에 나선다. 영화는 반려견 루니와 민수(유연석)의 일상으로 시작된다. 평범한 직장인 민수는 루니를 위해 매일 '칼퇴근'을 고수할 만큼 반려견에게 진심이지만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FSpoHankook%2F20230216070013135ivje.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[평범한 엄마↔킬러…전도연의 두 얼굴, 숨겨진 다이내믹 액션 실력('길복순') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216090902057</link>
+            <guid>https://v.daum.net/v/20230216090902057</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 넷플릭스 영화 '길복순' 2차 포스터와 예고편이 공개됐다. 16일 넷플릭스는 '길복순'의 2차 포스터와 예고편을 공개했다. '길복순'은 청부살인 업계의 전설적인 킬러 길복순(전도연 역)이 회사와 재계약 직전, 죽거나 또는 죽이거나 피할 수 없는 대결에 휘말리게 되는 이야기. 공개된 2차 포스터는 한 손에는 의뢰받은 작품을 완수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2F10asia%2F20230216090906021tgfg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[베를린영화제 개막…홍상수 '물 안에서'로 4년 연속 초청 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216060124484</link>
-            <guid>https://v.daum.net/v/20230216060124484</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 양정우 김정진 기자 = 올해 제73회 베를린국제영화제가 16일(현지시간) 개막한다. 오는 26일까지 독일 베를린에서 열리는 영화제에는 홍상수 감독의 '물 안에서'가 인카운터스(Encounters) 부문에 초청돼 트로피에 도전한다. 인카운터스는 칸국제영화제의 '주목할만한 시선'처럼 새로운 영화적 비전을 담은 작품을 소개하는 섹션이다. 20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fyonhap%2F20230216060124410rutl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[TEN인터뷰] ♥박보경 겹경사…진선규 "'범죄도시' 이후 단역서 갑자기 주인공 된 느낌" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216090102790</link>
+            <guid>https://v.daum.net/v/20230216090102790</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] "동료 배우이자 아내(박보경)가 나를 통한 기사가 아닌 단독 기사로 나오니까 이상한 감정이 들었죠. 좋고, 행복한데 묘한 느낌이 있었어요. 저는 데뷔 19년 만에 원톱 주연을 맡게 됐지만, 그래도 누군가에게 진선규는 '주인공 감이야', '역시 조연'이야로 나눌 수 있다고도 생각해요. 저는 '범죄도시' 이후로 주연을 맡은 순간까지 짧]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2F10asia%2F20230216090105589epxp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[영화평 300]MCU 고스톱이 시작됐다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216055403270</link>
-            <guid>https://v.daum.net/v/20230216055403270</guid>
+            <title><![CDATA[[공식] '앤트맨과 와스프:퀀텀매니아', 개봉 첫날 1위…17만↑ 관객 동원 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216085859681</link>
+            <guid>https://v.daum.net/v/20230216085859681</guid>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 2월 3주차 개봉 영화 및 최신 개봉작 간단평을 정리했다. 너무 멀리 가버린 마블…앤트맨과 와스프:퀀텀매니아(★★☆) 이제 관객은 결단을 내려야 한다. 마블 영화를 계속 볼 것인가, 말 것인가. 마블시네마틱유니버스(Marvel Cinematic Universe·MCU) 페이즈5의 첫 번째 영화 '앤트맨과 와스프:퀀텀매니아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fnewsis%2F20230216055403163qkbl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 영화 '앤트맨과 와스프:퀀텀매니아'가 개봉 첫날 전체 박스오피스 1위를 달성했다. 16일 영화관입장권 통합전산망에 따르면 '앤트맨과 와스프:퀀텀매니아'가 개봉 첫 날인 15일 17만 4875명의 관객을 동원하며 전체 박스오피스 1위에 올랐다. 이는 2023년 평일(1월 1일~2월 15일, 주말 및 공휴일 제외)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FSpoChosun%2F20230216090204132mmwg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[강력한 빌런 ‘캉’에 맞서는 앤트맨 가족 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216040818106</link>
-            <guid>https://v.daum.net/v/20230216040818106</guid>
+            <title><![CDATA[이나영, 구교환→한예리와 만난다..'박하경 여행기' 캐스팅 공개 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216085027477</link>
+            <guid>https://v.daum.net/v/20230216085027477</guid>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배스킨라빈스에서 해고된 전과자에서 영웅이 된 ‘앤트맨’ 스캇 랭(폴 러드)은 “인생은 알 수 없는 것”이라며 유명인으로서 일상을 즐긴다. 카페에 가면 공짜 커피를 제공받고, 자서전을 쓰고 사인회를 연다. 샌프란시스코의 어린이들은 그를 영웅으로 우러러본다. 특별한 능력을 가지고 있으면서 더 이상 아무 것도 하지 않는 아빠를 안타까워 하던 캐시(캐서린 뉴튼)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fkukminilbo%2F20230216040819703kktl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자]  배우 이나영이 21일 오후 서울 강남구 임피리얼팰리스서울에서 진행된 tvN 드라마 '로맨스는 별책부록' 제작발표회에 참석해 질의응답을 하고 있다. /사진=김휘선 기자 hwijpg@사진=나무엑터스(구교환), 저스트엔터테인먼트(길해연), 고스트 스튜디오(박세완), 포스타컴퍼니(박인환)'삼진그룹 영어토익반' 이종필 감독의 신작이자 대체]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fstarnews%2F20230216085028649jrar.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["촬영 후 유기견 입양"...'멍뭉이' 유연석, 눈물로 전한 진심(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216000045878</link>
-            <guid>https://v.daum.net/v/20230216000045878</guid>
+            <title><![CDATA[[영화소식] '귀멸의 칼날' 성우 기토 아카리 내한 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216084846433</link>
+            <guid>https://v.daum.net/v/20230216084846433</guid>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['6년 만에 스크린 복귀' 차태현 "옛날에 느끼지 못한 감동 있다" [더팩트｜박지윤 기자] '멍뭉이' 유연석과 차태현이 반려견을 넘어 가족의 의미를 다시 한번 생각하게 만든다. 유쾌함과 뭉클함으로 3월 극장가를 사로잡겠다는 포부다. 영화 '멍뭉이'(감독 김주환) 언론 시사회 및 기자간담회가 15일 오후 서울 CGV용산아이파크몰에서 열렸다. 현장에는 김주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FTHEFACT%2F20230216000046152bbxs.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = ▲ '귀멸의 칼날' 성우 기토 아카리 내한 = '귀멸의 칼날: 상현집결, 그리고 도공마을로'의 성우가 한국을 찾는다. 수입사 애니맥스브로드캐스팅 코리아는 가마도 네즈코 역의 목소리를 연기한 일본 성우 기토 아카리와 애니플렉스 프로듀서 다카하시 유마가 내한해 관객을 만난다고 16일 전했다. '귀멸의 칼날: 상현집결, 그리고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fyonhap%2F20230216084846611rfxk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['첫 단독 주연' 진선규가 흘린 피·땀·눈물, '카운트' [TF씨네리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230216000025860</link>
-            <guid>https://v.daum.net/v/20230216000025860</guid>
+            <title><![CDATA[이지아, 딸과 함께 햇살 미소 "김순옥 작품 또 선택한 이유는.." (판도라) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216084617360</link>
+            <guid>https://v.daum.net/v/20230216084617360</guid>
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[88서울올림픽 복싱 금메달리스트 박시헌 선수의 일화를 담은 작품 [더팩트｜박지윤 기자] '중꺾마'(중요한 건 꺾이지 않는 마음). 지난해 국민들의 가슴을 뜨겁게 만들었던 키워드가 영화 '카운트'를 관통한다. 데뷔 19년 만에 첫 단독 주연을 맡은 배우 진선규와 모두가 인정하는 진짜 금메달을 손에 쥐기 위해 노력한 박시헌 선수의 공통점은 바로 자신이 좋아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FTHEFACT%2F20230216000027023gmvb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;‘판도라&nbsp;:&nbsp;조작된 낙원’&nbsp;이지아가 사랑하는 가족을 지키기 위해 목숨까지 내던진다. 오는&nbsp;3월&nbsp;11일&nbsp;오후&nbsp;9시&nbsp;10분 첫 방송되는&nbsp;tvN&nbsp;새 토일드라마&nbsp;‘판도라&nbsp;:&nbsp;조작된 낙원’(크리에이터 김순옥,&nbsp;연출 최영훈,&nbsp;극본 현지민,&nbsp;기획 스튜디오드래곤,&nbsp;제작&nbsp;초록뱀미디어)&nbsp;측은 오늘(16일),&nbsp;잃어버린 기억을 되찾으면서 비극이 시작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fpoctan%2F20230216084618305wqpu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[플로렌스 퓨, 21세 연상 남친과 결별→일반인 남성과 열애설 [★할리우드] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230216084205233</link>
+            <guid>https://v.daum.net/v/20230216084205233</guid>
+            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 플로렌스 퓨 / 사진=/AFPBBNews=뉴스1=스타뉴스할리우드 배우 플로렌스 퓨가 열애설에 휩싸였다. 15일(현지시간) 현지 연예매체 페이지식스는 "플로렌스 퓨는 발렌타인 데이에 찰리 구치(Charlie Gooch)와 손을 잡고 데이트하는 모습이 목격됐다"고 밝혔다. 이어 플로렌스 퓨와 찰리 구치가 런던에서 만나 손을 잡고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Fstarnews%2F20230216084207306ltjb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2143,6 +2175,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[30년만에 돌아왔는데 다른 남자가 있었다는 엄마 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FEZEGKpaqr</link>
+            <guid>https://v.daum.net/v/FEZEGKpaqr</guid>
+            <pubDate>Thu, 16 Feb 2023 01:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2FBoiledMovie%2F20230216001257808hreh.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이중생활? '일타스캔들'이어 또다른 딸이 있었던 전도연 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/GAU9YDg1Sg</link>
+            <guid>https://v.daum.net/v/GAU9YDg1Sg</guid>
+            <pubDate>Thu, 16 Feb 2023 01:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F16%2Ffeelthemovie%2F20230216095019641fjxg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[이번 작에선 몰래 등장하는 앤트맨의 감초 친구 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/PuQyDXS4sL</link>
             <guid>https://v.daum.net/v/PuQyDXS4sL</guid>
@@ -2285,22 +2333,6 @@
             <pubDate>Tue, 14 Feb 2023 02:53:08 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F14%2Ffeelthemovie%2F20230214111006794ovvs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 배우와는 '어떤 작품'도 함께 하겠다는 최민식 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/G17bVQ9rHR</link>
-            <guid>https://v.daum.net/v/G17bVQ9rHR</guid>
-            <pubDate>Tue, 14 Feb 2023 01:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F15%2FBoiledMovie%2F20230215111759760ghjk.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[조용히 결혼한 대세 톱스타 부부의 예쁜 웨딩화보 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Kd5oCyOKNH</link>
-            <guid>https://v.daum.net/v/Kd5oCyOKNH</guid>
-            <pubDate>Tue, 14 Feb 2023 01:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F14%2Ffeelthemovie%2F20230214092850123urkw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[프랑수아 트뤼포 '400번의 구타' 영화 리뷰 (다음 영화 ─ 브런치)]]></title>
