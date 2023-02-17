@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2023-02-17T04:26:27.133Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 17 Feb 2023 05:21:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 친한 친구의 아침식사]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160558</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160558</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5bd2b40b8f8529043c671d18a93ef00750c82408" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다이애나]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=76432</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=76432</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F216EFA50530BFF5F02" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[삼생삼세 십리도화]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=99995</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=99995</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb52abe210981e376bd0f500a7115f04d6321df1b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[광대: 소리꾼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134682</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134682</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa14c44098029f19485400580d5b9bad9161bc9bb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[럭키데이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164026</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164026</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a31a9aaa601a44cf99ba7168417bb003f2c14fd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서툰 연인들의 거친 연애담]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164658</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164658</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F855767e4d3e1a4274d63df2090ba45afd5e4c08f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 씨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163647</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163647</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F49f995292837294e9823d7fcaabdf0ea13077438" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[환혼술사]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165577</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165577</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6aa6e742f7e5fa0726cf9aba6b09aa51e60c7b38" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕의 밤 : 그림 전쟁]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153656</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f861d17bf3557a9b16ee810409620b79964592e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[깐부(코로나 방학소동)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162295</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162295</guid>
+            <pubDate>Fri, 17 Feb 2023 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F11799eabdade76c4934717411f77210964d93042" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
