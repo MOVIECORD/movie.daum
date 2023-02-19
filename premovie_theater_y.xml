@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 03:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 04:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fa5d87c576e4d2a64b25d89aae80779c7f00ab7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어메이징 모리스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
-            <pubDate>Wed, 15 Feb 2023 01:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아바타: 물의 길]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
@@ -48,12 +40,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[두다다쿵: 후후섬의 비밀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154213</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154213</guid>
+            <title><![CDATA[어메이징 모리스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
             <pubDate>Wed, 15 Feb 2023 01:43:39 GMT</pubDate>
             <content:encoded><![CDATA[23.02.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67e807e4f89366ac040242642a0914b366ff8551" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다음 소희]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Tue, 31 Jan 2023 23:20:27 GMT</pubDate>
             <content:encoded><![CDATA[23.02.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cf414e700d9b327eec5cb713c9e62723598e4d6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[두다다쿵: 후후섬의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154213</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154213</guid>
+            <pubDate>Wed, 15 Feb 2023 01:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67e807e4f89366ac040242642a0914b366ff8551" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[영웅]]></title>
