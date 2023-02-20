@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 10:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 11:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1011ab6e1bfd5746503f65377108fcd0885ecf37" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[멍뭉이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
+            <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F976890ad23ce4823a86a98d068501a7e10f433b1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 웨일]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 07 Feb 2023 07:18:19 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff286326c9d489c10939c81688bfc49e910941bf5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[멍뭉이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F976890ad23ce4823a86a98d068501a7e10f433b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[콜 제인]]></title>
