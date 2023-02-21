@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 11:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 12:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cfb6c3e188f895b9174ced723d2700a99eec7f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[타이타닉]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1051</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1051</guid>
-            <pubDate>Tue, 07 Feb 2023 23:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fa5d87c576e4d2a64b25d89aae80779c7f00ab7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[영웅]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=115401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=115401</guid>
@@ -136,6 +128,21 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04a53a2b94d62ba8a1fabd956545cda3d4d3a500" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 레드북]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
+            <pubDate>Tue, 21 Feb 2023 12:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[타이타닉]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1051</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1051</guid>
+            <pubDate>Tue, 07 Feb 2023 23:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fa5d87c576e4d2a64b25d89aae80779c7f00ab7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[교섭]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130710</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130710</guid>
@@ -158,14 +165,6 @@
             <pubDate>Tue, 21 Feb 2023 04:24:40 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F62c5652a3c98ab52e3f3acf6e6b028c89d476f27" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕, 소중한 사람]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157723</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157723</guid>
-            <pubDate>Tue, 21 Feb 2023 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50b43f26bdb4c9813631dd74abaebee06f1a8efb" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
