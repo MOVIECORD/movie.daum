@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 01:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 02:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반가운 '배우 개그']]></title>
+            <link>https://brunch.co.kr/@@3O4F/29</link>
+            <guid>https://brunch.co.kr/@@3O4F/29</guid>
+            <pubDate>Tue, 21 Feb 2023 02:54:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Seo]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3O4F%2Fimage%2FPylpcGnL3LCWlY2K1XZAp3-WsvY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[절박함의 굴레에 빠져]]></title>
             <link>https://brunch.co.kr/@@caFi/88</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Feb 2023 03:26:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>SonaTina]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaW1I%2Fimage%2FSlWZx6nvOXk7jneX40Dv_wBNvto.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[명확하고 이상한 이스트우드의 테마]]></title>
-            <link>https://brunch.co.kr/@@1ibV/1085</link>
-            <guid>https://brunch.co.kr/@@1ibV/1085</guid>
-            <pubDate>Wed, 15 Feb 2023 03:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FogfGF3WwkPJYWtVMnu98VXP7PRQ.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
