@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 02:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -823,14 +823,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
-            <pubDate>Fri, 13 Jan 2023 13:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[미녀와 야수:마법에 걸린 왕자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164027</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164027</guid>
@@ -839,12 +831,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59025c7a7671dbd96db1ad8adb50c87f40f27bef" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아바타: 물의 길 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
-            <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
+            <pubDate>Fri, 13 Jan 2023 13:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[TAR 타르 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -853,6 +845,14 @@
             <pubDate>Mon, 06 Feb 2023 12:46:58 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a5fd4578cb140b0c71e25544d718d51ef0d0a76" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타: 물의 길 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
+            <pubDate>Wed, 14 Dec 2022 01:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[두다다쿵: 후후섬의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -895,20 +895,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F762a642d585ecff70e0e5cfc4211d9a0f809bf3b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
-            <pubDate>Wed, 23 Nov 2022 01:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[원피스 필름 레드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161062</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161062</guid>
             <pubDate>Sat, 18 Feb 2023 07:18:06 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cfb6c3e188f895b9174ced723d2700a99eec7f0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162710</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162710</guid>
+            <pubDate>Wed, 23 Nov 2022 01:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F343661a7c1984ae8d0598a5af0c2998117407f52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유령 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -919,12 +919,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04a53a2b94d62ba8a1fabd956545cda3d4d3a500" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[우리 사랑이 향기로 남을 때 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167094</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167094</guid>
-            <pubDate>Thu, 23 Feb 2023 01:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F82ea08071fca05b83389094b1038c4267dbaba8e" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[뮤지컬 레드북 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167092</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167092</guid>
+            <pubDate>Thu, 23 Feb 2023 03:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아임 히어로 더 파이널 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2079,6 +2078,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6429b8ebd7dfdf22ce7ff7a4156987a77b62196f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[손은서, '범죄도시' 제작자 장원석 대표와 목하 열애 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230223122202586</link>
+            <guid>https://v.daum.net/v/20230223122202586</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자] 배우 손은서(본명 손지연·38)가 '범죄도시' 제작사&nbsp;BA엔터테인먼트 장원석 대표(47)와 목하 열애 중이다.&nbsp; 손은서 소속사 저스트엔터테인먼트 측 관계자는 23일 텐아시아에 "교제는 맞다"며 "이외는 사생활이라 말씀드릴 것이 없다"고 전했다. 영화계에 따르면 친분이 있었던 두 사람은 지난해 말부터 연인으로 발전해 교제 중이다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2F10asia%2F20230223122205860tgrm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①] '대외비' 조진웅 "나는 강자한테 가장 약한편, 가장 두려운 사람은.." (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230223121430481</link>
+            <guid>https://v.daum.net/v/20230223121430481</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] '대외비' 조진웅이 극 중 캐릭터와 비슷한 점을 언급했다. 조진웅은 23일 서울 종로구 삼청동의 한 카페에서 스포츠조선과 만나 "저도 해웅처럼 강한 사람 앞에서 약한 편"이라고 했다. 오는 3월 1일 개봉하는 '대외비'는 1992년 부산, 만년 국회의원 후보 해웅과 정치판의 숨은 실세 순태, 행동파 조폭 필도가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2FSpoChosun%2F20230223121430123kacd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['대외비' 조진웅 "이성민과 호흡..매일 감탄하며 연기했다"[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230223120745339</link>
+            <guid>https://v.daum.net/v/20230223120745339</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 조진웅 /사진제공=플러스엠엔터테인먼트 '대외비' 조진웅이 이성민과 함께 호흡하며 매일 감탄했다고 털어놨다. 조진웅은 23일 오전 서울 종로구 삼청동 한 카페에서 영화 '대외비'(감독 이원태) 인터뷰를 가지고 영화에 대한 이야기를 전했다. 영화 '대외비'는 1992년 부산, 만년 국회의원 후보 해웅과 정치판의 숨은 실세 순태, 행]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Fstarnews%2F20230223120746475puga.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[조진웅 “‘재벌집’ 이성민 철 끝나기 전에 ‘대외비’ 개봉해 다행”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230223120730336</link>
+            <guid>https://v.daum.net/v/20230223120730336</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 조진웅이 이성민의 '재벌집 막내아들' 후광을 누리고 싶은 욕심을 드러냈다. 영화 '대외비'(감독 이원태)에 출연한 조진웅은 2월 23일 서울 종로구 모처에서 진행된 인터뷰를 통해 개봉을 앞둔 소회 등을 전했다. 오는 3월 1일 개봉하는 '대외비'는 1992년 부산, 만년 국회의원 후보 해웅과 정치판의 숨은 실세 순태, 행동파 조폭]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Fnewsen%2F20230223120730196nyrr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['대외비' 조진웅 "이성민, 내가 매 순간 질투하는 배우" [인터뷰 맛보기] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230223115606753</link>
+            <guid>https://v.daum.net/v/20230223115606753</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '대외비'의 배우 조진웅이 선배 이성민에 대해 말했다. 조진웅은 23일 오전 서울 종로구 모처의 한 카페에서 진행된 '대외비'(감독 이원태·제작 트윈필름) 개봉 기념 인터뷰에서 "이성민 선배와 연기하는 건 늘 즐겁다"라고 말했다. 이날 조진웅은 극 중에서 함께 호흡을 맞춘 이성민에 대해 "매 순간 질투가 나는 배우다. 감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Ftvdaily%2F20230223115610373djok.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['스마트폰', 공개 3일 만에 전 세계 34개국 TOP 10…임시완X천우희 스릴러 통했다 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230223112111369</link>
             <guid>https://v.daum.net/v/20230223112111369</guid>
@@ -2197,46 +2236,6 @@
             <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 배우 전종서의 할리우드 데뷔작 '모나리자와 블러드 문'이 내달 22일 극장 개봉을 확정하고, 메인 포스터 및 예고편을 공개했다. '모나리자와 블러드 문'(감독 애나 릴리 아미푸르, 수입배급 판씨네마)은 붉은 달이 뜬 밤 폐쇄병동을 도망친 의문의 존재 모나(전종서 분)가 낯선 도시에서 만난 이들과 완벽한 자유를 찾아 떠나는 미스터]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Fpoctan%2F20230223102740479iwhd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[마블이 정복자 캉을 '앤트맨3'에 등장시킨 이유 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230223101803508</link>
-            <guid>https://v.daum.net/v/20230223101803508</guid>
-            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt;앤트맨과 와스프: 퀀텀매니아&gt;ⓒ 월트 디즈니 컴퍼니 코리아&nbsp; 우리의 삶은 수많은 가능성이 있다. 일생에 한 번의 선택이 그 이후의 다양한 가능성을 만들어낸다. 아주 어린 시절엔 그야말로 무수한 가능성을 가지고 있다고 할 수 있다. 선생님이 될 수도 있고 화가가 될 수도 있고, 대통령이 될 수도 있다. 작은 선택들을 해나가면서 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Fohmynews%2F20230223101805262uqef.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[해리슨 포드 15년만 新 모험..'인디아나 존스: 운명의 다이얼', 6월 개봉 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230223101222320</link>
-            <guid>https://v.daum.net/v/20230223101222320</guid>
-            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=월트디즈니컴퍼니 코리아'인디아나 존스: 운명의 다이얼'이 2023년 6월 개봉을 확정하고 티저 포스터와 티저 예고편을 전격 공개했다. 전 세계가 기다린 이 시대 최고의 액션 어드벤처 시리즈 '인디아나 존스'의 다섯 번째 이야기 '인디아나 존스: 운명의 다이얼'이 2023년 6월 개봉을 확정하고 티저 포스터와 티저 예고편을 공]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Fstarnews%2F20230223101224215wvvv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합] 100만 굳히기 나선 '앤트맨3'vs진선규 내세운 뒤집기 '카운트'..박빙의 2월 흥행 대전 시작 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230223101140277</link>
-            <guid>https://v.daum.net/v/20230223101140277</guid>
-            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 2월 극장을 무대로 마블과 진선규의 흥행 대전이 시작됐다. 23일 영화진흥위원회 영화관입장권 통합전산망에 따르면 액션 영화 '앤트맨과 와스프: 퀀텀매니아'(이하 '앤트맨3', 페이튼 리드 감독)는 지난 22일 5만6214명을 동원해 전체 박스오피스 1위를 지켰다. '앤트맨3'의 누적 관객수는 103만1853명으로 기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2FSpoChosun%2F20230223101140660skpy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['소울메이트' 김다미x전소니x변우석, 오늘(23일) 유튜브 미니토크 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230223095853738</link>
-            <guid>https://v.daum.net/v/20230223095853738</guid>
-            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '소울메이트'의 김다미, 전소니, 변우석이 오늘(23일) 유튜브 채널 무비앤뉴에서 미니토크 라이브를 진행한다. 23일 오후 8시 유튜브 채널 무비앤뉴에서 새 영화 '소울메이트'의 김다미, 전소니, 변우석이 참석한 미니토크 라이브를 진행한다고 이날 밝혔다. '소울메이트'(감독 민용근, 제공 스튜디오앤뉴, 공동제공배급 NEW,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Fpoctan%2F20230223095854494lcwd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[음원차트 이어 박스오피스까지 든든한 지원군...임영웅 영화 사전예매율 10만명 돌파 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230223093817866</link>
-            <guid>https://v.daum.net/v/20230223093817866</guid>
-            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임영웅 '아임 히어로 더 파이널' 사전 예매율 1위에 10만명 돌파 [OSEN=최나영 기자] 가수&nbsp;임영웅의 공연 영화 '아임 히어로 더 파이널'이 극장가 예매율 1위&nbsp;관객수 10만명을 돌파하면서 다시한 번 그 위용을 입증했다. 오는 3월 1일 개봉하는 '아임 히어로 더 파이널'은 23일 오전&nbsp;9시 24분 기준 영화관입장권 통합전산망에 따르면&nbsp;예매율 25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2Fpoctan%2F20230223093818091fhav.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2404,7 +2403,7 @@
             <guid>https://v.daum.net/v/FVZTMeGMq8</guid>
             <pubDate>Thu, 23 Feb 2023 02:51:19 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2FBoiledMovie%2F20230223114413509wnfd.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F23%2FBoiledMovie%2F20230223115502817flri.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA["내가 죽거든 韓 광주에 묻어달라"고 한 외국인 결국… (다음 영화 ─ 매거진)]]></title>
