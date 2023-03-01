@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 09:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 10:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b78925d14ad030c67e0d3a580bc8c0f042df7a1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[서치 2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165601</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165601</guid>
-            <pubDate>Tue, 21 Feb 2023 23:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1894472a41f2396a702f8d3a5a3277a27133ce9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 웨일]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
             <pubDate>Tue, 28 Feb 2023 23:21:02 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc79ac28fbad9ef83cf2348d47dd45a3e944d1d57" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서치 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165601</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165601</guid>
+            <pubDate>Tue, 21 Feb 2023 23:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1894472a41f2396a702f8d3a5a3277a27133ce9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[카운트]]></title>
@@ -86,14 +86,6 @@
             <pubDate>Tue, 21 Feb 2023 23:21:24 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92273ac8c6e861159e699a68f587e2917d09c897" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리드 3]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164916</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164916</guid>
-            <pubDate>Tue, 28 Feb 2023 23:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec3684b04a0509762af6b67727b1ee595426c162" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어메이징 모리스]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 01 Mar 2023 04:25:24 GMT</pubDate>
             <content:encoded><![CDATA[23.02.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c6e22a98b4054e22cd864e7c2c5fde2d4489aac" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크리드 3]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164916</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164916</guid>
+            <pubDate>Tue, 28 Feb 2023 23:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec3684b04a0509762af6b67727b1ee595426c162" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[두다다쿵: 후후섬의 비밀]]></title>
