@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 08:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F371ac78f306b2af12abb58d0387b9d68d38dc872" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어떤 영웅]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152004</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152004</guid>
-            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face5a7aa40ff6716b3d0a52dcc958a4d017b4aa9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이니셰린의 밴시]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
@@ -48,12 +40,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7072e422faf401e033a8302de6563ab7d669f4c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[장기자랑]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162787</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162787</guid>
-            <pubDate>Wed, 08 Mar 2023 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffca226b673443aa1c977b0840d3a7ad795ce68ff" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[어떤 영웅]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152004</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152004</guid>
+            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face5a7aa40ff6716b3d0a52dcc958a4d017b4aa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[플레인]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 07 Mar 2023 23:21:16 GMT</pubDate>
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c065f088e501e34e63fd8155dc0db5bc20d8414" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블루 서멀, 같은 하늘을 보고 싶어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158296</guid>
+            <pubDate>Thu, 09 Mar 2023 09:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73a5603748edc529bb21493b87c9adf3f38a31c6" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
