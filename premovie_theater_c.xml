@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 04:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F371ac78f306b2af12abb58d0387b9d68d38dc872" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[플레인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165993</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165993</guid>
+            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7a9b8fa7f46959659ec9526bcc8ce09b0bb6f7b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[이니셰린의 밴시]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 07 Mar 2023 23:21:16 GMT</pubDate>
             <content:encoded><![CDATA[23.03.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F27ffce136ce17eff24aaa9e8f3f73fd0c088016c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[플레인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165993</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165993</guid>
-            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7a9b8fa7f46959659ec9526bcc8ce09b0bb6f7b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[어떤 영웅]]></title>
