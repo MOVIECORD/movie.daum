@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 01:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 02:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,14 +824,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdae69d91dee05da54a630cb63c10109366ccac90" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
-            <pubDate>Fri, 13 Jan 2023 13:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[똑똑똑 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165925</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165925</guid>
@@ -840,20 +832,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff92c0eac15c1196a7ee2f19fc8871acab838179" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
+            <pubDate>Fri, 13 Jan 2023 13:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[원피스 필름 레드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161062</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161062</guid>
             <pubDate>Wed, 08 Mar 2023 06:26:02 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cfb6c3e188f895b9174ced723d2700a99eec7f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서치 2 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -870,6 +862,14 @@
             <pubDate>Tue, 21 Feb 2023 03:25:27 GMT</pubDate>
             <content:encoded><![CDATA[23.03.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6d3448c3a42885e32485376b4ff4a89d02b6045" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
+            <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[카운트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1526,12 +1526,76 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ba53d1f2155bf4c0deabe5f21aa655542b7ad6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이병헌·박서준·아이유 '드림', 4월 26일 개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314113300803</link>
+            <guid>https://v.daum.net/v/20230314113300803</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 흥행 보증수표 이병헌 감독의 신작에 박서준, 아이유(이지은)가 합세했다. 14일 신선한 소재와 유쾌한 재미로 남녀노소 관객을 사로잡은 이병헌 감독의 4년 만의 신작이자 박서준, 이지은의 첫 만남으로 기대를 모으는 영화 '드림'이 오는 4월 26일 개봉을 확정 짓고, 런칭 포스터와 드림팀 명단 발표 영상을 공개했다. '드림'은 개념]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Ftvreport%2F20230314113306571eqiu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["밤새 함께 있어" 디카프리오, '싱글맘' 지지 하디드와 재결합설 [★할리우드] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314112526439</link>
+            <guid>https://v.daum.net/v/20230314112526439</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=/AFPBBNews=뉴스1=스타뉴스[김나연 스타뉴스 기자] 할리우드 배우 레오나르도 디카프리오가 톱모델 지지 하디드와 재결합설에 휩싸였다. 13일(현지시간) 페이지식스에 따르면 레오나르도 디카프리오와 지지 하디드는 오스카 프리 파티에서 함께 목격됐으며 대부분의 저녁 시간을 함께 보냈다. 한 소식통은 "레오나르도 디카프리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314112527991yxfh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅, 쾌속 5위 탈환..'아임 히어로 더 파이널' 3계단 ↑[★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314111159746</link>
+            <guid>https://v.daum.net/v/20230314111159746</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 한해선 기자] /사진=CGV [한해선 스타뉴스 기자] 가수 임영웅이 콘서트 영화 '아임 히어로 더 파이널'의 톱5 순위를 빠르게 다시 찾았다. 14일 영진위 영화관입장권 통합전산망에 따르면 '아임 히어로 더 파이널'은 지난 13일 2918명의 관객을 모으며 박스오피스 5위에 이름을 올렸다. 이날까지 누적 관객수는 18만 7951명이다. 임]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314111518742rjmz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[피 범벅 살인광 '곰돌이 푸' 4월 韓상륙..해외 제작비 50배 수익 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314103526986</link>
+            <guid>https://v.daum.net/v/20230314103526986</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;2023년 시끌시끌한 화제작 '곰돌이 푸: 피와 꿀'(감독: 리스 프레이크-워터필드 | 출연: 크레이그 데이빗 다우젯, 크리스 코델, 니콜라이 레온 | 수입: ㈜퍼스트런 | 배급: ㈜팝엔터테인먼트 | 제공: ㈜제이에이와이이엔터테인먼트)이 오는 4월 국내 개봉을 확정하고 티저 포스터를 최초로 공개했다. 이제껏 본 적 없는 독특한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fpoctan%2F20230314103526752xcbi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['카지노' 시즌2, 새 역사 썼다..디즈니+ 韓 오리지널 최대 시청 기록 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314103326911</link>
+            <guid>https://v.daum.net/v/20230314103326911</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 카지노 / 사진=디즈니플러스[김나연 스타뉴스 기자] '카지노' 시즌2가 디즈니+ 한국 오리지널 콘텐츠 중 공개 첫 주 기준 최대 시청 시간 기록을 새롭게 세우며 시즌 1보다 더 높은 흥행 화력을 과시했다. 디즈니+의 오리지널 시리즈 &lt;카지노&gt; 시즌 2가 공개 첫 주(2월 21일 기준) 디즈니+ 한국 오리지널 콘텐츠 중 최대 시청]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314110126699cbqn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["나발니는 상 받고 젤렌스키는 퇴짜?" 우크라, 오스카 비판 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314102643610</link>
+            <guid>https://v.daum.net/v/20230314102643610</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 최인영 기자 = 미하일로 포돌랴크 우크라이나 대통령 고문은 볼로디미르 젤렌스키 우크라이나 대통령의 화상 연설을 허용하지 않은 아카데미 영화상(오스카상) 시상식을 비판했다. 14일(한국시간) 뉴스위크에 따르면, 포돌랴크 고문은 자신의 트위터 계정에 "오스카가 정치 영역 밖에 있다고 한다면 러시아 내부 정치 내용이 넘쳐흐르는 '나발니' 다큐멘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fyonhap%2F20230314102643923pvbp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김다미 "특별하지 않던 나의 학창시절…연달아 교복입은 '청춘' 역할 영광"[SS인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314102501532</link>
+            <guid>https://v.daum.net/v/20230314102501532</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘소울메이트’에서 주인공 미소 역을 연기한 배우 김다미. 제공 | UAA [스포츠서울 | 조은별기자] ‘청춘스타’라는 수식어가 잘 어울리는 배우, 김다미가 다시금 스크린에서 교복을 입었다. 그는 15일 개봉을 앞둔 영화 ‘소울메이트(민용근 감독)’에서 자유로운 영혼을 지닌 미소 역을 맡아 한 여인의 10대부터 30대까지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2FSPORTSSEOUL%2F20230314102506217mkqh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“극장가 아카데미 훈풍”, 작품상 ‘에브리씽’ 예매율 3배 급상승·‘더 웨일’도 10위권 진입[MD포커스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230314102116376</link>
+            <guid>https://v.daum.net/v/20230314102116376</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]제95회 아카데미 시상식이 막을 내린 가운데 각 분야 수상작들에 대한 예매율이 치솟고 있다. 극장가는 아카데미 훈풍에 환영하는 분위기다. 12일(현지시간) 막을 내린 제95회 아카데미 시상식에서 영화 ‘에브리씽 에브리웨어 올 앳 원스’(이하 ‘에브리씽’)가 작품상을 비롯해 7관왕을 석권했다. 지금까지 약 43만명의 관객을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fmydaily%2F20230314102116909olbo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[박서준·아이유→이하늬, 韓 영화 자존심 살릴까 [★FOCUS] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230314095603191</link>
             <guid>https://v.daum.net/v/20230314095603191</guid>
             <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=바른손이앤에이, 롯데엔터테인먼트, 플러스엠엔터테인먼트영화 '리바운드', '킬링 로맨스', '드림'이 4월 관객들을 찾아온다. 한국 영화의 가뭄이 지속되고 있는 가운데, 세 작품이 '단비'가 될 수 있을까. 4월 가장 먼저 개봉하는 영화 '리바운드'(감독 장항준)는 2012년 전국 고교농구대회, 아무도 주목하지 않았던 최약체]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314095606321trbc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=바른손이앤에이, 롯데엔터테인먼트, 플러스엠엔터테인먼트[김나연 스타뉴스 기자] 영화 '리바운드', '킬링 로맨스', '드림'이 4월 관객들을 찾아온다. 한국 영화의 가뭄이 지속되고 있는 가운데, 세 작품이 '단비'가 될 수 있을까. 4월 가장 먼저 개봉하는 영화 '리바운드'(감독 장항준)는 2012년 전국 고교농구대회, 아무]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314110033449ceqq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[“갓곡 탄생”‥‘스즈메의 문단속’ N차 이유 중 하나는 OST (다음영화 뉴스 ─ 최신)]]></title>
@@ -1594,8 +1658,8 @@
             <link>https://v.daum.net/v/20230314091330615</link>
             <guid>https://v.daum.net/v/20230314091330615</guid>
             <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=롯데엔터테인먼트영화 '킬링 로맨스'가 오는 4월 14일 개봉을 확정 짓고 공식 보도스틸을 공개했다. 영화 '킬링 로맨스'는 섬나라 재벌 '조나단'(이선균 분)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 '여래'(이하늬 분)가 팬클럽 3기 출신 사수생 '범우'(공명 분)를 만나 기상천외한 컴백 작전을 모의하게 되는 이야기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314091336361xhbt.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 사진=롯데엔터테인먼트[김나연 스타뉴스 기자] 영화 '킬링 로맨스'가 오는 4월 14일 개봉을 확정 짓고 공식 보도스틸을 공개했다. 영화 '킬링 로맨스'는 섬나라 재벌 '조나단'(이선균 분)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 '여래'(이하늬 분)가 팬클럽 3기 출신 사수생 '범우'(공명 분)를 만나 기상천외한 컴백 작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314110142847kmxu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박서준·이지은·이병헌 감독 '드림', 4월 26일 개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1620,70 +1684,6 @@
             <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '스즈메의 문단속' OST가 SNS를 중심으로 뜨거운 화제인 가운데 여운 가득한 OST의 비하인드가&nbsp;공개됐다. '스즈메의 문단속'(감독 신카이 마코토, 수입제공 미디어캐슬, 공동제공 로커스, 배급 쇼박스)은 우연히 재난을 부르는 문을 열게 된 소녀 '스즈메'가 일본 각지에서 발생하는 재난을 막기 위해 필사적으로 문을 닫아가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fpoctan%2F20230314090926896fkqt.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['더 퍼스트 슬램덩크' 400만 돌파, 기념비적 흥행…"日 성우→텐피트, 4월 내한 이벤트" [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314085420047</link>
-            <guid>https://v.daum.net/v/20230314085420047</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 일본 애니메이션 영화 '더 퍼스트 슬램덩크'가 400만 관객을 돌파, 기념비적인 흥행 역사를 썼다. 14일 영진위 영화관입장권 통합전산망 집계에 따르면 13일 '더 퍼스트 슬램덩크'는 1만 927명을 동원했다. 누적 관객 수는 401만 7,772명. 이로써 '더 퍼스트 슬램덩크'는 박스오피스 역주행 2위를 기록 중이다. 특히]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fmydaily%2F20230314085420870lnvf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[티켓 값이 비싸도..스즈메·슬램덩크 나란히 1·2위[MK박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314085400035</link>
-            <guid>https://v.daum.net/v/20230314085400035</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[티켓 값이 비싸든, 애니메이션이든 ‘웰 메이드’는 된다. 거장 신카이 마코토 신작 ‘스즈메의 문단속’이  1위를, 장기 흥행 중인 ‘더 퍼스트 슬램덩크’가 2위를 차지했다. 14일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘스즈메의 문단속’은 전날 6만 4181명을 동원하며 박스오피스 왕좌를 지켰다. 누적 관객수는 103만 6666명. 지난 8일 개봉]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstartoday%2F20230314085401886exav.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] '5년 차 장거리 커플' 장동윤♥박유나 '롱디', 5월 개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314085201990</link>
-            <guid>https://v.daum.net/v/20230314085201990</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 영화 '롱디'(감독 림재완)가 5월 개봉을 확정했다. 14일 배급사 NEW에 따르면 장거리 커플의 현실 연애를 스크린 라이프 형식으로 그린 영화 '롱디'가 오는 5월 개봉을 확정했다. 이와 함께 화이트데이를 맞이하여 설렘 가득한 포스터가 공개됐다. '롱디'는 서른을 앞두고, 장거리 연애를 시작한 5년 차 동갑 커플 도하(장동윤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2F10asia%2F20230314085204178bxhk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박서준X아이유X이병헌 뭉쳤다..'드림', 4월 26일 개봉 확정[무비타이밍] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314084743884</link>
-            <guid>https://v.daum.net/v/20230314084743884</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 드림 / 사진=플러스엠엔터테인먼트이병헌 감독의 4년 만의 신작이자 박서준, 이지은의 첫 만남으로 기대를 모으는 영화 '드림'이 오는 4월 26일 개봉을 확정 짓고, 런칭 포스터와 드림팀 명단 발표 영상을 공개했다. '드림'은 개념 없는 전직 축구선수 '홍대'(박서준 분)와 열정 없는 PD '소민'(이지은 분)이 집 없는 오합지졸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fstarnews%2F20230314084745077hpau.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['롱디' 장동윤♥박유나, 현실 롱디 커플 로맨스 그린다…5월 개봉[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314084729882</link>
-            <guid>https://v.daum.net/v/20230314084729882</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '롱디' 측이 화이트데이를 맞이해 설렘 가득한 포스터를 공개했다.&nbsp; '롱디'(감독 림재완, 제작 트웰브져니・바젤레브스, 배급 NEW)는 서른을 앞두고 장거리 연애를 시작한 5년차 동갑 커플 도하(장동윤 분)와 태인(박유나 분)의 언택트 러브 스토리.&nbsp;롱디지만 24시간 연결되어 있는 요즘 세대의 새로운 연애방식을 ‘스크린 라]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fpoctan%2F20230314084729488hiia.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박서준X이지은 ‘드림’ 4월26일 개봉‥‘극한직업’ 이병헌 감독 신작[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314084428811</link>
-            <guid>https://v.daum.net/v/20230314084428811</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 박서준과 이지은 주연 '드림'이 4월 26일 개봉한다. 영화 '드림'(감독 이병헌)은 개념 없는 전직 축구선수 ‘홍대’(박서준)와 열정 없는 PD ‘소민’(이지은)이 집 없는 오합지졸 국대 선수들과 함께 불가능한 꿈에 도전하는 이야기를 그린 작품이다. 1,626만 관객을 동원한 '극한직업'을 연출한 이병헌 감독 신작으로, 2010년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fnewsen%2F20230314084428454ekvp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 이병헌 감독·박서준·아이유 '드림', 4월 26일 개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314084402806</link>
-            <guid>https://v.daum.net/v/20230314084402806</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 영화 '드림'(감독 이병헌)이 4월 26일 개봉을 확정했다. 14일 배급사 플러스엠엔터테인먼트는 "신선한 소재와 유쾌한 재미로 남녀노소 관객을 사로잡은 이병헌 감독의 4년 만의 신작이자 박서준, 이지은의 첫 만남으로 기대를 모으는 영화 '드림'이 오는 4월 26일 개봉을 확정 지었다"고 밝혔다. '드림'은 개념 없는 전직]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2F10asia%2F20230314084404975cpwj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[개념 없는 박서준X열정 없는 아이유…이병헌 감독 '드림', 4월 26일 개봉한다 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230314083930717</link>
-            <guid>https://v.daum.net/v/20230314083930717</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 박서준과 이지은(아이유) 주연작 '드림'이 다음 달 26일 개봉한다. '드림'(감독 이병헌)은 개념 없는 전직 축구선수 홍대(박서준)와 열정 없는 PD 소민(이지은)이 집 없는 오합지졸 국대 선수들과 함께 불가능한 꿈에 도전하는 이야기를 그린 영화다. 1,626만 관객을 사로잡은 영화 '극한직업'에 이어 뜨거운 팬덤을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Fmydaily%2F20230314083930971grvf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1846,12 +1846,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이번 아카데미 시상식에서 유독 울컥했던 이유 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/qNSD9jUNxn</link>
-            <guid>https://v.daum.net/v/qNSD9jUNxn</guid>
-            <pubDate>Tue, 14 Mar 2023 01:21:54 GMT</pubDate>
+            <title><![CDATA[지금보니 엄청난 톱스타인 8년전 무명 남녀 아역배우 커플 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/HsN0Bg3o1x</link>
+            <guid>https://v.daum.net/v/HsN0Bg3o1x</guid>
+            <pubDate>Tue, 14 Mar 2023 02:38:13 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2Ffeelthemovie%2F20230314112019144puna.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[13년 전엔 이루어지지 못했는데 이번엔 부부가 된 커플 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/4ExIZ5LZXP</link>
+            <guid>https://v.daum.net/v/4ExIZ5LZXP</guid>
+            <pubDate>Tue, 14 Mar 2023 02:38:13 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2FBoiledMovie%2F20230314101532330cakm.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F14%2FBoiledMovie%2F20230314104759581elcd.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[한국인 아님! 팬들 앞에 큰절한 세계적인 월드 스타 (다음 영화 ─ 매거진)]]></title>
@@ -1996,14 +2004,6 @@
             <pubDate>Sat, 11 Mar 2023 10:20:35 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F11%2Ffeelthemovie%2F20230311190641704lmxk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[알고보니 공포영화의 전설이었던 '더 글로리' 송혜교 엄마 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/plLD0fhVW9</link>
-            <guid>https://v.daum.net/v/plLD0fhVW9</guid>
-            <pubDate>Sat, 11 Mar 2023 06:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F11%2FBoiledMovie%2F20230311230748643skyf.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화 속 소희를 위로하는 수많은 '유진'에게 (다음 영화 ─ 브런치)]]></title>
