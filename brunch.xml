@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 08:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 16 Mar 2023 05:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>함태진]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8Yy1%2Fimage%2F_dbWjdxhCRWwQU4hZ8rBkwJNK04.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[샤잠 신들의 분노]]></title>
+            <link>https://brunch.co.kr/@@3kT/6470</link>
+            <guid>https://brunch.co.kr/@@3kT/6470</guid>
+            <pubDate>Thu, 16 Mar 2023 09:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나는 누군가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3kT%2Fimage%2FhRswZ_KV99UU8jiNLpeOhwf9Zrw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[슈퍼맨도 마시는 조니워커]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Mar 2023 07:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정지은 Jean]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F49qz%2Fimage%2F6bkz8rQk3uXk2gC6E3qei0JC9xY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 부모의 마음이 보인다]]></title>
-            <link>https://brunch.co.kr/@@98Yb/92</link>
-            <guid>https://brunch.co.kr/@@98Yb/92</guid>
-            <pubDate>Tue, 07 Mar 2023 01:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이세일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F98Yb%2Fimage%2F9XweRb-1qHnhwr9-tsyORypN_qo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
