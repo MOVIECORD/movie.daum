@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 16 Mar 2023 02:44:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>노용헌]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F99iE%2Fimage%2FftntyH4mx5Ugt__KI3A-WDAJlGQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 영화 그 이상]]></title>
+            <link>https://brunch.co.kr/@@9lOS/239</link>
+            <guid>https://brunch.co.kr/@@9lOS/239</guid>
+            <pubDate>Thu, 16 Mar 2023 03:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2F91syzv8Wtv9W_HCx6oAveLOhPQM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[슈퍼맨도 마시는 조니워커]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Mar 2023 06:28:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김재용]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fc0z4%2Fimage%2FVDxL_IP0KfmNLzAQvtYBU6SuPKw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화의 두 번째 미래]]></title>
-            <link>https://brunch.co.kr/@@9lOS/254</link>
-            <guid>https://brunch.co.kr/@@9lOS/254</guid>
-            <pubDate>Mon, 06 Mar 2023 07:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FKdKoazBk0Hnx1xkzFzNmxNHj6GA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
