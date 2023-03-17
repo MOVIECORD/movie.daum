@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 02:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cfb6c3e188f895b9174ced723d2700a99eec7f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[앤트맨과 와스프: 퀀텀매니아]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144668</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144668</guid>
+            <pubDate>Fri, 17 Mar 2023 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b78925d14ad030c67e0d3a580bc8c0f042df7a1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아바타: 물의 길]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=62708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62708</guid>
             <pubDate>Wed, 15 Mar 2023 11:16:52 GMT</pubDate>
             <content:encoded><![CDATA[22.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cdb0abb3d8da8c6332bf6a945a86f9a32f67abd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 영웅]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152004</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152004</guid>
-            <pubDate>Thu, 16 Mar 2023 02:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face5a7aa40ff6716b3d0a52dcc958a4d017b4aa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[애프터썬]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a5fd4578cb140b0c71e25544d718d51ef0d0a76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[6번 칸]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152014</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152014</guid>
-            <pubDate>Fri, 17 Mar 2023 01:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6d3448c3a42885e32485376b4ff4a89d02b6045" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[어떤 영웅]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152004</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152004</guid>
+            <pubDate>Thu, 16 Mar 2023 02:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face5a7aa40ff6716b3d0a52dcc958a4d017b4aa9" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
