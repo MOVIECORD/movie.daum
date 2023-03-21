@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 06:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 07:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,7 +316,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
             <pubDate>Fri, 17 Feb 2023 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,014,058명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,014,056명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -832,20 +832,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa43bcffe6f2b9e902c9d59bb2a855693df456525" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이니셰린의 밴시 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
-            <pubDate>Thu, 23 Feb 2023 08:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[샤잠! 신들의 분노 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151654</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151654</guid>
             <pubDate>Tue, 28 Feb 2023 06:30:48 GMT</pubDate>
             <content:encoded><![CDATA[23.03.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F931a1b2f24797dae46005ed4375d10960777d827" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이니셰린의 밴시 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
+            <pubDate>Thu, 23 Feb 2023 08:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 웨일 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -878,14 +878,6 @@
             <pubDate>Mon, 06 Feb 2023 12:46:58 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1894472a41f2396a702f8d3a5a3277a27133ce9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[다음 소희 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157300</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157300</guid>
-            <pubDate>Mon, 23 Jan 2023 03:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd32c3f7d4508b6ad2bfcc930fd582be6fcaff5d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아바타: 물의 길 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -926,6 +918,14 @@
             <pubDate>Tue, 21 Mar 2023 05:17:49 GMT</pubDate>
             <content:encoded><![CDATA[22.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1cfb6c3e188f895b9174ced723d2700a99eec7f0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
+            <pubDate>Fri, 13 Jan 2023 13:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웅남이 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1583,7 +1583,47 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f88d870a0da5738ee3e1f19e3596d005eabe166" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 측 "'승부' 유아인에 계약 해지 공문 발송? 확인 불가능" [공식입장] (다음영화 뉴스 ─ 최신)]]></title>
+            <title><![CDATA[전도연, 정경호 이전에 '너는 내 운명' 황정민 있었다 "'길복순' 대본도 안 보고 특별출연" [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230321160635313</link>
+            <guid>https://v.daum.net/v/20230321160635313</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 전도연이 '길복순'에 황정민 특별출연 비하인드 스토리를 밝혔다. 21일 오전 서울 강남구 그랜드 인터컨티넨탈 파르나스 서울에선 넷플릭스 영화 '길복순' 제작보고회가 열렸다. 연출 및 각본을 맡은 변성현 감독과 출연 배우 전도연, 설경구, 김시아, 이솜, 구교환 등이 참석했다. 이날 변성현 감독은 황정민의 특별출연에 대해 "생각지도 못했다. 전화, 아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Fmydaily%2F20230321160635708caip.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아바타 3' 촬영 완료..."아역배우 성장하기 전에 찍었다" [할리웃통신] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230321155730827</link>
+            <guid>https://v.daum.net/v/20230321155730827</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 영화 '아바타 3' 촬영이 마무리됐다. 21일 미국 영화 전문 매체 스크린 랜트는 '아바타' 시리즈 프로듀서 존 란다우와 진행한 질의응답을 공개했다. 이날 존 란다우는 '아바타' 시리즈의 향후 일정 및 현재 상황에 대해 언급했다. 그는 "우리는 '아바타: 물의 길'만 찍은 게 아니라 이미 '아바타 3'와 '아바타 4'의 1막까]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Ftvreport%2F20230321155734535bdss.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[2600억 쏟은 '앤트맨3', 1·2편 매출 못 넘기고 불명예 퇴장 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230321155210554</link>
+            <guid>https://v.daum.net/v/20230321155210554</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 마블시네마틱유니버스(MCU)의 작품들이 연이어 부진한 흥행 성적을 기록 중에 있다. 하락세에서 벗어나기 위해 2억 달러(한화 약 2600억 원)를 새 작품에 쏟아부었지만 결과는 처참할 뿐이다. 심지어 마블의 최신작 '앤트맨과 와스프: 퀀텀매니아'는 1.3억 달러, 1.6억 달러가 쓰인 1편과 2편의 매출도 넘기지 못한 채 불명예]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Ftvdaily%2F20230321155211885ojdv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유아인 '승부' 투자사 측 "넷플릭스가 '계약 해지 사유' 공문? 사실무근" [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230321154902366</link>
+            <guid>https://v.daum.net/v/20230321154902366</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 영화 '승부' 투자사 에이스메이커무비웍스가 '마약 혐의' 유아인 논란으로 넷플릭스로부터 계약 해지 관련 공문을 받았다는 보도에 대해 입장을 밝혔다. 앞서 21일 오전 일간스포츠는 "넷플릭스가 '승부' 투자사인 에이스메이커무비웍스에 주연 유아인의 마약 혐의와 관련해 '계약 해지에 해당하는 사안인 걸 알고 있느냐'라는 내용의 공]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Fmydaily%2F20230321154902810owmn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유아인 ‘승부’ 투자사 측 “계약 해지 관련 공문은 사실 무근”[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230321154243017</link>
+            <guid>https://v.daum.net/v/20230321154243017</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 유아인이 마약 투약 혐의를 받고 경찰 조사를 앞둔 가운데, 출연작인 '승부'를 공개하려던 넷플릭스가 영화 투자사 에이스메이커무비웍스에 '이는 계약해지 사안'이라는 내용의 공문을 보냈다는 보도가 나왔다. 이에 에이스메이커무비웍스는 "사실 무근"이라고 밝혔다. 3월 21일 넷플릭스는 뉴스엔에 해당 보도와 관련, "언급할 수 있는 부분]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Fnewsen%2F20230321154243769zyum.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 측 "'승부' 유아인 계약 해지 공문 발송? 확인 불가능" [공식입장] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230321151728631</link>
             <guid>https://v.daum.net/v/20230321151728631</guid>
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
@@ -1701,46 +1741,6 @@
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 윤혜영 기자] 마약 투약 혐의를 받는 배우 유아인이 주연을 맡은 영화 '승부'와 관련해 넷플릭스가 투자사 에이스메이커에 계약 해지 관련 공문을 보냈다는 보도에 대해 "확인 불가"라는 입장을 전했다. 넷플릭스 관계자는 21일 스포츠투데이에 '승부' 투자사에 공문을 보냈다는 보도 관련 "아직 확인해드릴 수 있는 부분이 없다. 공문 관련해서도 확인]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Fsportstoday%2F20230321131304797xblm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한계 넘어선 전도연표 킬러 액션…'길복순', 글로벌 관객 저격할까 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230321125612751</link>
-            <guid>https://v.daum.net/v/20230321125612751</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 이영훈 기자] 배우 설경구, 이솜, 전도연, 김시아, 구교환이 21일 오전 서울 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 열린 넷플릭스 영화 ‘길복순’(감독 변성현) 제작보고회에 참석해 포토타임을 갖고 있다. ‘길복순’은 청부살인업계의 전설적인 킬러 길복순이 회사와 재계약 직전, 죽거나 또는 죽이거나, 피할 수 없는 대결에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2FEdaily%2F20230321125616115etdw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['길복순' 액션도 이름도 전도연이 시작점···블랙코미디로 글로벌 흔들까(종합) [SE★현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230321125208706</link>
-            <guid>https://v.daum.net/v/20230321125208706</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 배우 전도연의 변신, 개성 강한 배우들의 찰떡 호흡, 그리고 액션 속 블랙코미디까지. 넷플릭스 영화 ‘길복순’이 관전 포인트를 가득 안고 전 세계를 압도할 준비를 마쳤다. 21일 오전 서울 강남구 그랜드 인터컨티넨탈 파르나스 서울에서 ‘길복순’(감독 변성현)의 제작보고회가 개최됐다. 변성현 감독과 배우 전도연, 설경구, 김시아, 이솜, 구교환]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Fseouleconomy%2F20230321143911784wngh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[스한:현장] "'길복순'의 시작은 전도연"…변성현 감독, 핏빛 액션 선보인다(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230321124342583</link>
-            <guid>https://v.daum.net/v/20230321124342583</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '일타 스캔들'의 '로코퀸' 전도연이 이번엔 '액션퀸'으로 등극할 전망이다.&nbsp; 21일 오전 그랜드 인터컨티넨탈 파르나스 서울에서 넷플릭스 영화 '길복순'의 제작보고회가 개최됐다. 이 자리에는 배우 전도연, 설경구, 김시아, 이솜, 구교환, 변성현 감독이 참석했다. '길복순'은 청부살인업계의 전설적인 킬러 길복순(전도연)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2FSpoHankook%2F20230321124343574vwmf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[지천명 나이에 '길복순'으로 피비린내 액션 도전한 전도연 "역시 전도연은 전도연"[SS현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230321123601495</link>
-            <guid>https://v.daum.net/v/20230321123601495</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전도연이 21일 그랜드인터컨티넨탈 파르나스 서울에서 열린 넷플릭스(Netflix) 오리지널 영화 ‘길복순’ 제작보고회에서 포토타임을 갖고 있다. 최승섭기자 thunder@sportsseoul.com [스포츠서울 | 조은별기자]배우 전도연의 한계는 어디까지일까. 30대 나이에 ‘칸의 여왕’이라는 수식어를 달았던 이 배우는 지천명을 넘어 중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2FSPORTSSEOUL%2F20230321123604694ucwe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["몸이 고장 나더라도…" 전도연, 온몸 바쳐 만들어낸 킬러 '길복순' [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230321123546488</link>
-            <guid>https://v.daum.net/v/20230321123546488</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '길복순' 전도연이 킬러이자 엄마, 모순적인 캐릭터를 그려낸다. 21일 오전 그랜드 인터컨티넨탈 파르나스 그랜드볼룸홀에서 넷플릭스 오리지널 영화 '길복순'(감독 변성현)의 제작보고회가 열렸다. 현장에는 배우 전도연, 설경구, 김시아, 이솜, 구교환과 변성현 감독이 참석했다. '길복순'은 청부살인업계의 전설적인 킬러 길복순이 회사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2Fxportsnews%2F20230321123548380xqab.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1903,6 +1903,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[3연속 함께하지만 감독의 '페르소나'까진 아니라는 지천명 아이돌 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/HombDR5Jp0</link>
+            <guid>https://v.daum.net/v/HombDR5Jp0</guid>
+            <pubDate>Tue, 21 Mar 2023 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F21%2FBoiledMovie%2F20230321160235843ysee.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[중학생때 토익 900점 받던 모범생이 연예인 되려하자,부모님 반응이… (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/qzDUFCQSkc</link>
             <guid>https://v.daum.net/v/qzDUFCQSkc</guid>
@@ -2055,12 +2063,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F19%2Ffeelthemovie%2F20230319191008978wgct.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[교사 딸의 은밀한 동영상을 본 엄마의 충격적인 행동 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/fb7USfhVjf</link>
-            <guid>https://v.daum.net/v/fb7USfhVjf</guid>
-            <pubDate>Mon, 20 Mar 2023 01:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F19%2Fkinolights%2F20230319163046535crdo.jpg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA['스토리텔러들의 집합소' 픽사 애니메이션 BEST 5 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@fdgF/24</link>
+            <guid>https://brunch.co.kr/@@fdgF/24</guid>
+            <pubDate>Tue, 21 Mar 2023 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>코스텔로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfdgF%2Fimage%2FmVjfJdQEI0zcWhbbRgW67HoTUfY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[마틴 맥도나 <이니셰린의 밴시> 단평 : 관계의 은유 (다음 영화 ─ 브런치)]]></title>
@@ -2213,14 +2221,6 @@
             <pubDate>Thu, 16 Mar 2023 05:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>함태진]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8Yy1%2Fimage%2F_dbWjdxhCRWwQU4hZ8rBkwJNK04.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[샤잠 신들의 분노 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@3kT/6470</link>
-            <guid>https://brunch.co.kr/@@3kT/6470</guid>
-            <pubDate>Thu, 16 Mar 2023 09:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나는 누군가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3kT%2Fimage%2FhRswZ_KV99UU8jiNLpeOhwf9Zrw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
