@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 04:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,14 +79,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc17bd488667977a165b768c837fc0e8e0cf0588d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[불멸의 여자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168428</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168428</guid>
-            <pubDate>Mon, 20 Mar 2023 07:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F860a36702781eb34b30897af31d35a76020a2dea" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[꼬마돼지 베이브의 바다 대모험]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167341</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167341</guid>
@@ -127,6 +119,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6a52bd9e2fc1229fe39316f25075118a895a03b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[불멸의 여자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168428</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168428</guid>
+            <pubDate>Mon, 20 Mar 2023 07:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F860a36702781eb34b30897af31d35a76020a2dea" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라이스보이 슬립스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163516</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163516</guid>
+            <pubDate>Tue, 21 Mar 2023 04:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44951d9a6c6cd8c69903562f6eac4cd6e625a29c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[팔로우드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142401</guid>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 15 Mar 2023 01:36:56 GMT</pubDate>
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69853d392e8fe1b55347351bdc62d78641605843" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[여섯 개의 밤]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159399</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159399</guid>
-            <pubDate>Tue, 14 Mar 2023 08:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c065f088e501e34e63fd8155dc0db5bc20d8414" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
