@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 13:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 14:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,13 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2312b7ce8bfec47df2133e878696bde1468d3d2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엘 카미노]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168308</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168308</guid>
-            <pubDate>Wed, 15 Mar 2023 12:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[리바운드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130429</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130429</guid>
@@ -117,6 +110,13 @@
             <pubDate>Wed, 15 Mar 2023 01:36:56 GMT</pubDate>
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c8a041e166d45adfc0ffd2f34bef8e1729dd2b8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘 카미노]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168308</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168308</guid>
+            <pubDate>Wed, 15 Mar 2023 12:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해피 투게더]]></title>
