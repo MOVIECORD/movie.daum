@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 12:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 13:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -880,14 +880,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
-            <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[플레인 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165993</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165993</guid>
@@ -902,6 +894,14 @@
             <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdae69d91dee05da54a630cb63c10109366ccac90" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
+            <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[상견니 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2045,6 +2045,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F24%2Fohmynews%2F20230324174504354bqis.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[이조로 변호사의 작품 속 법률산책 - ‘웅남이’의 방화, 그리고 실화 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230324164731080</link>
+            <guid>https://v.daum.net/v/20230324164731080</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘웅남이’(감독 박성광)는 동굴 속에서 마늘과 쑥을 먹은 반달곰이 사람으로 변신하여 국제범죄조직과 맞서는 내용을 코믹하게 그리고 있습니다. 곰이 마늘과 쑥을 먹고 사람으로 변했다는 내용은 우리에게 잘 알려진 단군신화를 연상시킵니다. 작품 속에서, 짐승과 같은 능력이 있는 웅남이(박성웅 분)는 계곡에서 잡은 물고기를 불을 피워 구]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F24%2Ffnnewsi%2F20230324164731988iwsb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['멋짐' 잃은 이선균…"'나의 아저씨' 먼저 보세요" (킬링 로맨스)[종합] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230324155002265</link>
             <guid>https://v.daum.net/v/20230324155002265</guid>
@@ -2163,14 +2171,6 @@
             <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 정빛 기자] 디즈니+ '카지노' 최민식이 초반 반응을 짚었다. 최민식은 24일 서울 종로 삼청동 한 카페에서 스포츠조선과 만나 "초반에 재미없다고 하더라. 조금만 기다리면 재밌어질텐데라는 생각이었다"라며 "디에이징 기술은 무리였다"고 말했다. '카지노'는 돈도 빽도 없이 필리핀에서 카지노의 전설이 된 남자 차무식(최민식)이 살]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F24%2FSpoChosun%2F20230324125341224kcgj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아역배우 강채빈, 영화 '삼악도' 출연..곽시양·조윤서와 호흡 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230324124820911</link>
-            <guid>https://v.daum.net/v/20230324124820911</guid>
-            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 아역배우들의 활동이 다양해지면서 활동 7년 차에 접어드는 아역배우 강채빈이 오컬트 호러 '삼악도'(감독 채기준)에서 조윤서, 곽시양과 호흡을 맞춘다 영화 '삼악도'는 일제강점기 때 사라졌다고 믿었던 사이비종교의 진실을 파헤치던 탐사보도팀이 절대악의 존재를 마주하게 되며 벌어지는 이야기를 담은 오컬트 호러 장르이다. 극중 사이비종]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F24%2Fpoctan%2F20230324124822153gbzz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
