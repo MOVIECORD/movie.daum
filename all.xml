@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 11:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 12:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -864,14 +864,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[샤잠! 신들의 분노 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151654</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151654</guid>
-            <pubDate>Tue, 28 Feb 2023 06:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F931a1b2f24797dae46005ed4375d10960777d827" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[멍뭉이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
@@ -886,6 +878,14 @@
             <pubDate>Fri, 17 Feb 2023 04:25:05 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f54309e8ad78924a394fdee9a3cf106d129ab13" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샤잠! 신들의 분노 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151654</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151654</guid>
+            <pubDate>Tue, 28 Feb 2023 06:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F931a1b2f24797dae46005ed4375d10960777d827" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[플레인 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -960,20 +960,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5b6513ecab4533ccf2a9765444e18bc34566e21b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오토라는 남자 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164920</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164920</guid>
-            <pubDate>Fri, 10 Mar 2023 04:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[패왕별희 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2674</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2674</guid>
             <pubDate>Wed, 22 Mar 2023 08:23:25 GMT</pubDate>
             <content:encoded><![CDATA[23.04.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6f6faaf55f01f7d4c11f10963e12dc86a0be97e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오토라는 남자 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164920</guid>
+            <pubDate>Fri, 10 Mar 2023 04:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에어 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2015,6 +2015,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[소속사에서 생활비 가불 받아 생활했다는 한예종 전체 수석 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/8cqDEoUNRN</link>
+            <guid>https://v.daum.net/v/8cqDEoUNRN</guid>
+            <pubDate>Sat, 25 Mar 2023 12:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F25%2FBoiledMovie%2F20230325205322309echg.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[박성광 감독님 죄송합니다…비판을 해야겠습니다 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/VU0LEcbDKU</link>
             <guid>https://v.daum.net/v/VU0LEcbDKU</guid>
@@ -2165,14 +2173,6 @@
             <pubDate>Thu, 23 Mar 2023 08:24:54 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F23%2Ffanzeel%2F20230323165010151wsbv.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[강동원에게 VIP 대접을 받은 이분의 놀라운 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/fuLXbO6h80</link>
-            <guid>https://v.daum.net/v/fuLXbO6h80</guid>
-            <pubDate>Thu, 23 Mar 2023 03:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F23%2Ffeelthemovie%2F20230323122016820fsrj.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA["너는 예전의 나처럼, 나는 예전의 너처럼" (다음 영화 ─ 브런치)]]></title>
