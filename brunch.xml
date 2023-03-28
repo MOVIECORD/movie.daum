@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 02:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 03:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이니쉐린의 밴시]]></title>
+            <link>https://brunch.co.kr/@@6SmU/66</link>
+            <guid>https://brunch.co.kr/@@6SmU/66</guid>
+            <pubDate>Tue, 28 Mar 2023 03:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>somewhere]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6SmU%2Fimage%2FEOaXMn_piMYEkwFQoz3uxm0R-Sk" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[2022년 영화 추천 BEST 10]]></title>
             <link>https://brunch.co.kr/@@fdgF/53</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Mar 2023 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>성상민]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1nzW%2Fimage%2F7qewp2TGf-udUK9-PcUTsQ6Lnak.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[두 여학생의 우정이 아닌 사랑을 다룬 영화]]></title>
-            <link>https://brunch.co.kr/@@vux/921</link>
-            <guid>https://brunch.co.kr/@@vux/921</guid>
-            <pubDate>Tue, 21 Mar 2023 05:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>송석주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fvux%2Fimage%2FMRh_y6RlnN_M56CMthZyzMJD-FU" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
