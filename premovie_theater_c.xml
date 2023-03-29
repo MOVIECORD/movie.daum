@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 22:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 23:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해피 투게더]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1254</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1254</guid>
-            <pubDate>Mon, 13 Mar 2023 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e92a52d9f624f674c7c14b240f235bf34943c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[에어]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167889</link>
@@ -104,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 이웃 히틀러]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162221</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162221</guid>
-            <pubDate>Wed, 29 Mar 2023 01:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e005b271b34226214d3e033272d4e4240cca6cc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블라스트: 폭탄제거반]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167215</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167215</guid>
@@ -144,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff00dd7c9c5ddfb753255381d745cf697736ebaa3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사쿠라]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145995</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145995</guid>
+            <pubDate>Wed, 29 Mar 2023 23:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91da68787ceed349da613465097eba532f3afceb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[오늘 출가합니다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151418</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151418</guid>
@@ -165,6 +157,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=168811</guid>
             <pubDate>Wed, 29 Mar 2023 01:41:36 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오글리스: 웰컴 투 냄새 마을]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152462</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152462</guid>
+            <pubDate>Wed, 29 Mar 2023 23:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc00542e64877e6863e549a0c351c96cb5d9b2c63" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

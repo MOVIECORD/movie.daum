@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 22:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 23:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,6 +382,30 @@
             <pubDate>Fri, 10 Mar 2023 05:19:57 GMT</pubDate>
             <content:encoded><![CDATA[23.04.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F03568A4A51AD51BA12" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리틀 포레스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106307</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106307</guid>
+            <pubDate>Wed, 29 Mar 2023 23:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f9aae261c6ad6662e3bc4346821e4357ddff112" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어부의 딸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149963</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149963</guid>
+            <pubDate>Wed, 29 Mar 2023 23:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c72dced05978b0118d438ba733e4f06460049f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에일리언 워페어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130884</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130884</guid>
+            <pubDate>Wed, 29 Mar 2023 23:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1552cb84b4054d488be93be6f1aa189b1555471312327" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
