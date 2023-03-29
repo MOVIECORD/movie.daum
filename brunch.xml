@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 04:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 05:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 03:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>즁 필름]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3fB%2Fimage%2F_-w0BMH4Ce2VXhXCTELCmrLPEI0.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<오토라는 남자> 우리에겐 이 꼰대가 필요하다]]></title>
+            <link>https://brunch.co.kr/@@5XLU/561</link>
+            <guid>https://brunch.co.kr/@@5XLU/561</guid>
+            <pubDate>Wed, 29 Mar 2023 05:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kino DAY]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FMT-mbLy_kKzjR32Lb35WKIAUzT8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<애프터 양>, <블레이드 러너>의 명상화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Mar 2023 13:44:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>두류산]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe6yA%2Fimage%2FlwQ6UlJrmsr8IhLrZUfY7GfSgWc.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[친구, 혹은 관계의 유효기간]]></title>
-            <link>https://brunch.co.kr/@@1kMD/146</link>
-            <guid>https://brunch.co.kr/@@1kMD/146</guid>
-            <pubDate>Mon, 27 Mar 2023 13:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마리리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1kMD%2Fimage%2FZaSIDqgMjhyLfrMf0-7PU7YPJz0.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
