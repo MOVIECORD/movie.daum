@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 04:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 30 Mar 2023 03:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FgS74OPKE3O0YZ32r1wCvLJnCSjI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[32. 셜록 2세 (1924)]]></title>
+            <link>https://brunch.co.kr/@@7UhI/37</link>
+            <guid>https://brunch.co.kr/@@7UhI/37</guid>
+            <pubDate>Thu, 30 Mar 2023 05:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>안승민 ASM]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7UhI%2Fimage%2Fse1tcJHhJtK4jfVvVynUkdxUSh0.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['다중 우주'가 존재한다면, 그곳에서의 내 삶은 어떨까]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Mar 2023 10:28:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>웅인]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfgnD%2Fimage%2F5q4eaRQQIm9UekUI1xDJKdB9Dac.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[현재의 내가 과거의 나에게 희망을 안겨 주었다.]]></title>
-            <link>https://brunch.co.kr/@@fgnD/1</link>
-            <guid>https://brunch.co.kr/@@fgnD/1</guid>
-            <pubDate>Tue, 28 Mar 2023 10:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>웅인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfgnD%2Fimage%2FmEw74k3JFiPqm1efTZ-t4PAabGE.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
