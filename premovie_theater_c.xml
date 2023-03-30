@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 10:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 11:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac33c3a4c4dae18c52bc162cbd5a32a646263966" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[물안에서]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167355</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167355</guid>
+            <pubDate>Thu, 30 Mar 2023 11:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[거울 속 외딴 성]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166592</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166592</guid>
@@ -136,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff00dd7c9c5ddfb753255381d745cf697736ebaa3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킬링 로맨스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
+            <pubDate>Thu, 30 Mar 2023 11:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd87f4137dff0f3b425a66944e82a97fbfad4e488" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뮤턴트 이스케이프]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162056</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162056</guid>
@@ -150,21 +166,6 @@
             <pubDate>Sun, 26 Mar 2023 01:38:39 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F860a36702781eb34b30897af31d35a76020a2dea" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[밥만 잘 사주는 이상한 이사님 극장판]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168811</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168811</guid>
-            <pubDate>Wed, 29 Mar 2023 01:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오글리스: 웰컴 투 냄새 마을]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152462</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152462</guid>
-            <pubDate>Wed, 29 Mar 2023 23:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc00542e64877e6863e549a0c351c96cb5d9b2c63" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
