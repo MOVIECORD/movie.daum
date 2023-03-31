@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 03:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 04:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb00aca7f6762981e4ba08ebe8196f1e3148f340d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[루이스 카팔디: 하우 아임 필링 나우]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169176</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169176</guid>
+            <pubDate>Fri, 31 Mar 2023 04:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb29da11ede042df4afd477ffc6ef53f851bb7e2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[내 친구 추파카브라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168986</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168986</guid>
@@ -222,6 +230,22 @@
             <pubDate>Wed, 29 Mar 2023 04:23:45 GMT</pubDate>
             <content:encoded><![CDATA[23.04.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fddfc7686c13cbe39a806631a23bc113f577ebb5f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[페노메나스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169076</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169076</guid>
+            <pubDate>Fri, 31 Mar 2023 04:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb5d40ac37cdfc24005f4a879232ae84c4df13b03" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[언브로큰]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=82522</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=82522</guid>
+            <pubDate>Fri, 31 Mar 2023 04:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26694F4854A5FDC12D" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
