@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 04:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 05:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,7 +316,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
             <pubDate>Fri, 17 Feb 2023 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,203,367명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,203,368명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -816,20 +816,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157532</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157532</guid>
-            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[파벨만스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163275</guid>
             <pubDate>Tue, 07 Mar 2023 23:21:16 GMT</pubDate>
             <content:encoded><![CDATA[23.03.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e333efefaf4ea38c4ec0cc6d6ba66854aea08c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157532</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157532</guid>
+            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오토라는 남자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -871,14 +871,6 @@
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[찬란한 나의 복수 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168243</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168243</guid>
-            <pubDate>Tue, 28 Mar 2023 02:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf29f092fba405e584cf1f3c99897759d4fdcc4f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀멸의 칼날: 상현집결, 그리고 도공 마을로 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167745</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167745</guid>
@@ -893,6 +885,14 @@
             <pubDate>Wed, 22 Mar 2023 01:25:52 GMT</pubDate>
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F948385deb6f06731bda28f84b686799e0c5e168a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[찬란한 나의 복수 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168243</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168243</guid>
+            <pubDate>Tue, 28 Mar 2023 02:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf29f092fba405e584cf1f3c99897759d4fdcc4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[흐르다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2633,6 +2633,14 @@ K팝 보이그룹 최초로 美 애니메이션 영화 시장 진출 (다음영�
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[700만 관객이 보다가 분노했다는 하정우의 연기장면 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/yBGaaRNFBA</link>
+            <guid>https://v.daum.net/v/yBGaaRNFBA</guid>
+            <pubDate>Fri, 31 Mar 2023 05:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F31%2Ffeelthemovie%2F20230331141349710oxxo.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[지상파 간판 아나운서에서 영화감독이 되어 돌아온 그녀 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/8EeduCHRQS</link>
             <guid>https://v.daum.net/v/8EeduCHRQS</guid>
@@ -2783,14 +2791,6 @@ K팝 보이그룹 최초로 美 애니메이션 영화 시장 진출 (다음영�
             <pubDate>Wed, 29 Mar 2023 09:21:04 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Ffeelthemovie%2F20230329181017382xuov.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[옥수역에 가면 볼수있다는 한국 최고의 미녀 여기자 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/UcVLes8CHv</link>
-            <guid>https://v.daum.net/v/UcVLes8CHv</guid>
-            <pubDate>Wed, 29 Mar 2023 07:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Ffeelthemovie%2F20230329153037211wmrx.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<던전 앤 드래곤>캐릭터 쇼가 빛나는 게임 원작 판타지 (다음 영화 ─ 브런치)]]></title>
