@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 22:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 23:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <pubDate>Thu, 30 Mar 2023 23:20:02 GMT</pubDate>
             <content:encoded><![CDATA[23.04.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4836507cc3ee43e2930ccf99099676981550165268847" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빌 나이 - 싸이언스 가이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111203</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111203</guid>
+            <pubDate>Sat, 01 Apr 2023 23:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe6c9bcad082e6bff836e2e0309466a664f06d894" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
