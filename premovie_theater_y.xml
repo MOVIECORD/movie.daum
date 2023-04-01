@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 01:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 28 Feb 2023 23:21:02 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[패왕별희]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2674</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2674</guid>
+            <pubDate>Sat, 01 Apr 2023 01:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F86c38c1c461f21aae8a8a4c36378f01511ee2e36" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서]]></title>
@@ -127,6 +135,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf29f092fba405e584cf1f3c99897759d4fdcc4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[흐르다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156188</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156188</guid>
+            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c8a041e166d45adfc0ffd2f34bef8e1729dd2b8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[상견니]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166536</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166536</guid>
@@ -149,22 +165,6 @@
             <pubDate>Fri, 31 Mar 2023 06:24:06 GMT</pubDate>
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2312b7ce8bfec47df2133e878696bde1468d3d2c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[흐르다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156188</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156188</guid>
-            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c8a041e166d45adfc0ffd2f34bef8e1729dd2b8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이니셰린의 밴시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
-            <pubDate>Wed, 15 Mar 2023 01:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
