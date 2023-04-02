@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 04:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 05:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스즈메의 문단속]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
-            <pubDate>Tue, 07 Mar 2023 23:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[더 퍼스트 슬램덩크]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164918</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 03 Jan 2023 23:20:07 GMT</pubDate>
             <content:encoded><![CDATA[23.01.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0aaca4b87c541b11085139bd941da0996a78ec1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스즈메의 문단속]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
+            <pubDate>Tue, 07 Mar 2023 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[던전 앤 드래곤: 도적들의 명예]]></title>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157532</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157532</guid>
-            <pubDate>Sat, 18 Mar 2023 01:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아임 히어로 더 파이널]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
@@ -110,6 +102,14 @@
             <pubDate>Fri, 31 Mar 2023 06:24:06 GMT</pubDate>
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2312b7ce8bfec47df2133e878696bde1468d3d2c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157532</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157532</guid>
+            <pubDate>Sat, 18 Mar 2023 01:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 상현집결, 그리고 도공 마을로]]></title>
