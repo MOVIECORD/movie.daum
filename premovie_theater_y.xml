@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 07:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 08:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e333efefaf4ea38c4ec0cc6d6ba66854aea08c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[소울메이트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133833</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133833</guid>
-            <pubDate>Wed, 15 Mar 2023 01:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9347064f88ab6cccbafd14fbdc6c8ca1368ac12e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오토라는 남자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164920</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164920</guid>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 28 Feb 2023 23:21:02 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[소울메이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133833</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133833</guid>
+            <pubDate>Wed, 15 Mar 2023 01:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9347064f88ab6cccbafd14fbdc6c8ca1368ac12e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스＋]]></title>
@@ -111,14 +111,6 @@
             <content:encoded><![CDATA[23.03.29]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[샷건 웨딩]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164439</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164439</guid>
-            <pubDate>Fri, 31 Mar 2023 06:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2312b7ce8bfec47df2133e878696bde1468d3d2c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[찬란한 나의 복수]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168243</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168243</guid>
@@ -135,20 +127,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2df5c2a801f97b602c729dd0c34d64bde259b11" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀멸의 칼날: 상현집결, 그리고 도공 마을로]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167745</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167745</guid>
-            <pubDate>Wed, 01 Mar 2023 23:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c32ea586013cd5cdf8537bad4bbdf727498b58a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이니셰린의 밴시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
-            <pubDate>Sun, 02 Apr 2023 11:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[샷건 웨딩]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164439</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164439</guid>
+            <pubDate>Fri, 31 Mar 2023 06:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2312b7ce8bfec47df2133e878696bde1468d3d2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[흐르다]]></title>
@@ -159,12 +143,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c8a041e166d45adfc0ffd2f34bef8e1729dd2b8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[귀멸의 칼날: 상현집결, 그리고 도공 마을로]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167745</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167745</guid>
+            <pubDate>Wed, 01 Mar 2023 23:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c32ea586013cd5cdf8537bad4bbdf727498b58a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[멍뭉이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
             <pubDate>Sun, 02 Apr 2023 07:15:32 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이니셰린의 밴시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
+            <pubDate>Sun, 02 Apr 2023 11:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
