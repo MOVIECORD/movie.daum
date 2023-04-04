@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 02:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 03:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,14 +143,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c32ea586013cd5cdf8537bad4bbdf727498b58a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이니셰린의 밴시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
-            <pubDate>Sun, 02 Apr 2023 11:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[샷건 웨딩]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164439</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164439</guid>
@@ -159,12 +151,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2312b7ce8bfec47df2133e878696bde1468d3d2c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 웨일]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
-            <pubDate>Tue, 04 Apr 2023 02:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f54309e8ad78924a394fdee9a3cf106d129ab13" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[여덟 번째 감각]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167623</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167623</guid>
+            <pubDate>Tue, 04 Apr 2023 03:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F948385deb6f06731bda28f84b686799e0c5e168a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이니셰린의 밴시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
+            <pubDate>Sun, 02 Apr 2023 11:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
