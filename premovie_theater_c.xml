@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 15:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 16:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd33cc10a8188067086380ded613576bc3388d81" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[라스트 필름 쇼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150929</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150929</guid>
-            <pubDate>Sat, 01 Apr 2023 01:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff00dd7c9c5ddfb753255381d745cf697736ebaa3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오디션]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
@@ -94,6 +86,14 @@
             <pubDate>Tue, 04 Apr 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 필름 쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150929</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150929</guid>
+            <pubDate>Sat, 01 Apr 2023 01:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff00dd7c9c5ddfb753255381d745cf697736ebaa3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[낭만적 공장]]></title>
