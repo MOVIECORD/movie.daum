@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 04:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[곰돌이 푸: 피와 꿀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166673</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166673</guid>
+            <pubDate>Thu, 06 Apr 2023 01:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4d935d4d395f12ecf1edb95600fa859acae70c9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뮤턴트 이스케이프]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162056</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162056</guid>
@@ -144,12 +152,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F86c38c1c461f21aae8a8a4c36378f01511ee2e36" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[곰돌이 푸: 피와 꿀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166673</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166673</guid>
-            <pubDate>Thu, 06 Apr 2023 01:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4d935d4d395f12ecf1edb95600fa859acae70c9" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[엘 카미노]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168308</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168308</guid>
+            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해피 투게더]]></title>
@@ -158,13 +165,6 @@
             <pubDate>Wed, 29 Mar 2023 23:19:22 GMT</pubDate>
             <content:encoded><![CDATA[23.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56e92a52d9f624f674c7c14b240f235bf34943c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[엘 카미노]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168308</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168308</guid>
-            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
         </item>
     </channel>
 </rss>
