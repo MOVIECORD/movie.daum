@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 06:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 07:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Wed, 05 Apr 2023 07:18:27 GMT</pubDate>
             <content:encoded><![CDATA[23.04.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff28462f3bb7cc1ea00323127176a6802b431ec68" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 합시다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=10527</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=10527</guid>
+            <pubDate>Fri, 07 Apr 2023 07:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2627823D5134A8CF27" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
