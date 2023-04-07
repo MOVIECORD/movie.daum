@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 13:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 14:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -832,14 +832,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[카운트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137907</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137907</guid>
-            <pubDate>Wed, 08 Feb 2023 01:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7dfd23fad7843cdfa228295b2e7536d0ce924f5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[파벨만스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163275</guid>
@@ -854,6 +846,14 @@
             <pubDate>Thu, 09 Feb 2023 02:51:32 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[카운트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137907</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137907</guid>
+            <pubDate>Wed, 08 Feb 2023 01:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7dfd23fad7843cdfa228295b2e7536d0ce924f5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웅남이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -959,14 +959,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[옥수역귀신 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151655</guid>
-            <pubDate>Wed, 05 Apr 2023 01:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b6b793317a09a16506c6626a982626bcdef8592" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[사랑의 고고학 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159314</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159314</guid>
@@ -989,6 +981,14 @@
             <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[옥수역귀신 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151655</guid>
+            <pubDate>Wed, 05 Apr 2023 01:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b6b793317a09a16506c6626a982626bcdef8592" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[제비 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1980,6 +1980,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2627823D5134A8CF27" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['스즈메의 문단속' 400만 돌파…'슬램덩크' 넘어설까 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230407230801138</link>
+            <guid>https://v.daum.net/v/20230407230801138</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 일본 애니메이션 '스즈메의 문단속'이 400만 관객을 돌파했다. 이 작품 수입사 미디어캐슬은 '스즈메의 문단속'이 7일 오후 누적 관객 수 400만을 넘어섰다고 밝혔다. 이로써 '스즈메의 문단속'은 '더 퍼스트 슬램덩크'에 이어 국내 개봉 일본 영화 중 관객 400만 명을 동원한 두 번째 영화가 됐다. '스즈메의 문단속'은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fyonhap%2F20230407230801392cypy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스즈메의 문단속' 400만 돌파, "역대 애니메이션 톱 8위 진입"[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230407230131097</link>
+            <guid>https://v.daum.net/v/20230407230131097</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]영화 '스즈메의 문단속'이 개봉 31일째인 오늘, 4월 7일(금) 400만 관객을 돌파했다. '스즈메의 문단속'은 우연히 재난을 부르는 문을 열게 된 소녀 '스즈메'가 일본 각지에서 발생하는 재난을 막기 위해 필사적으로 문을 닫아가는 이야기. 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'은 4월 7일(금) 오후 10시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fmydaily%2F20230407230131611ghti.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[정태우 "♥장인희, 다니엘 헤니보다 내가 잘생겼다고…열심히 일하는 원동력" [종합] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230407205009295</link>
             <guid>https://v.daum.net/v/20230407205009295</guid>
@@ -2122,22 +2138,6 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;넷플릭스 오리지널 영화 &lt;길복순&gt; 포스터.ⓒ 넷플릭스&nbsp; *이 기사에는 영화 스포일러가 있습니다.&nbsp; 청부살인 업계 최고의 회사인 MK 엔터테인먼트 소속 킬러 길복순(전도연). 맡은 '작품'은 반드시 완수해 내는 에이스인&nbsp;그녀에게는 한 가지 고민이 있다. 바로 소속사와의 재계약. 10대 딸 재영(김시아)을 제대로 책임져야 한다는 생각이 들]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fohmynews%2F20230407150302342fyfx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[안지호 "장항준, 최고의 감독님…'리바운드' 형들은 진짜 형" [엑's 인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230407145019234</link>
-            <guid>https://v.daum.net/v/20230407145019234</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 배우 안지호가 영화 '리바운드'로 함께 한 장항준 감독과 안재홍, 이신영, 정진운 등 동료이자 형들에 대한 남다른 믿음과 애정을 드러냈다. '리바운드'에서 열정 가득한 막내이자 자칭 '마이클 조던' 진욱 역을 연기한 안지호는 2004년 생으로, 실제 농구선수로 등장하는 6명 사이에서도 가장 막내다. 촬영이 진]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fxportsnews%2F20230407145020810myio.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:영화 뷰] 뻔하거나 과하거나…국내 관객들에 ‘불호’ 누적하는 넷플릭스 영화 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230407142245406</link>
-            <guid>https://v.daum.net/v/20230407142245406</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[K-콘텐츠에 힘입어 공개 초반 해외 시청자들의 관심을 받고는 있지만, 국내 관객들 사이에선 엇갈린 반응들이 이어지곤 한다. 드라마, 예능 분야에서는 호평 속 글로벌 인기를 누리기도 하지만 유독 영화 부문에선 힘을 쓰지 못하고 있는 넷플릭스 오리지널 영화의 이야기다. 지난달 31일 청부살인업계의 전설적인 킬러 길복순(전도연 분)이 회사와 재계약 직전 죽거나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fdailian%2F20230407142247837eptu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
