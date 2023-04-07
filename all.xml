@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 08:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 09:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -896,14 +896,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4d935d4d395f12ecf1edb95600fa859acae70c9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[패왕별희 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=2674</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=2674</guid>
-            <pubDate>Wed, 22 Mar 2023 08:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F86c38c1c461f21aae8a8a4c36378f01511ee2e36" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엘 카미노 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168308</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168308</guid>
@@ -917,6 +909,14 @@
             <pubDate>Wed, 15 Feb 2023 04:25:31 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1011ab6e1bfd5746503f65377108fcd0885ecf37" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[패왕별희 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2674</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2674</guid>
+            <pubDate>Wed, 22 Mar 2023 08:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F86c38c1c461f21aae8a8a4c36378f01511ee2e36" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해피 투게더 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -959,12 +959,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0887bce0ec55b149326221adf015579269570ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[옥수역귀신 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151655</guid>
+            <pubDate>Wed, 05 Apr 2023 01:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b6b793317a09a16506c6626a982626bcdef8592" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[사랑의 고고학 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159314</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159314</guid>
             <pubDate>Wed, 29 Mar 2023 01:41:36 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcdb3f150a753835c3bb10e96f219631287794ba1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오디션 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
+            <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[물안에서 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167355</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167355</guid>
+            <pubDate>Tue, 04 Apr 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[제비 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -981,30 +1005,6 @@
             <pubDate>Fri, 31 Mar 2023 01:27:34 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F57ca90dcd1ac9a5c6696d41474c0ed87a668bab9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[오디션 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
-            <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[옥수역귀신 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151655</guid>
-            <pubDate>Wed, 05 Apr 2023 01:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b6b793317a09a16506c6626a982626bcdef8592" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[물안에서 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167355</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167355</guid>
-            <pubDate>Tue, 04 Apr 2023 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라스트 필름 쇼 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1980,6 +1980,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2627823D5134A8CF27" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[25년 만에 거리로 나선 영화감독들, 저작권법 개정 한목소리 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230407175510652</link>
+            <guid>https://v.daum.net/v/20230407175510652</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 한국영화감독들이 창작자 권리 보호를 위한 저작권법 개정을 촉구하는 시위를 벌였다. 한국영화감독조합(DGK)은 7일 문화체육관광부가 주최한 '영상저작물 의견 수렴 간담회'에 앞서 마포구 상암동 스탠포드 호텔 앞에서 게릴라 시위를 열었다고 밝혔다. 이날 오후 열린 영상저작물 의견 수렴 간담회는 영상물 저작자 보상 청구권 도입]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fyonhap%2F20230407175511007yits.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에 영원히 지는 건 없음을 보여주는 '리바운드' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230407173302048</link>
+            <guid>https://v.daum.net/v/20230407173302048</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김초롱 기자] ▲ &nbsp;영화 &lt;리바운드&gt; 관련 이미지.ⓒ 넥슨코리아&nbsp; 아.&nbsp;세상사 왜 이렇게 힘들까.&nbsp;인생이란 무엇일까.&nbsp;살다보면,&nbsp;어떻게 나한테 이런 일이 생기나 싶은 순간이 한 번도 아니고,&nbsp;그것도 연달아 몰아닥치는 순간들이 있다.&nbsp; 이런 것이 인생이라면 인생을 굳이 견디고 감내하며 살아갈 필요도,&nbsp;이유도 없는 것 같다는 생각이 들 때 즈음.&nbsp;나는 이 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fohmynews%2F20230407173302667ntnn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["정당한 보상을"…영화 감독들, 저작권법 개정 촉구 게릴라 시위 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230407171031456</link>
             <guid>https://v.daum.net/v/20230407171031456</guid>
@@ -2122,22 +2138,6 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아이즈 ize 정유미(칼럼니스트)지난 달 열린 제95회 아카데미 시상식에서 '파벨만스'는 감독상, 작품상, 각본상, 여우주연상, 남우조연상, 음악상, 미술상 7개 부문 후보에 올랐다. 알다시피 결과는 '무관'. 이 정도로 여러 부문에 후보로 이름을 올린 작품이라면 한두 개 정도 상을 받기 마련인데, '파벨만스'는 단 한 개의 오스카 트로피도 가져가지 못했다]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2FIZE%2F20230407105320580qxoi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[제59회 백상예술대상, TV·영화·연극 부문별 후보 공개 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230407104000938</link>
-            <guid>https://v.daum.net/v/20230407104000938</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘제59회 백상예술대상’ TV·영화·연극 부문 후보가 공개됐다. 7일 백상예술대상 사무국은 공식 홈페이지를 오픈하고 지난 1년간 TV·영화·연극 부문에서 활약을 펼친 부문별 최종 후보를 발표했다. TV 부문은 올해도 다양한 채널과 플랫폼에서 쏟아진 콘텐트 홍수 속, 후보 선정부터 두 말할 필요 없이 치열한 심사 과정을 거쳤다. 굵직한 콘텐트들이 있었]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fsportskhan%2F20230407104001859nait.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['파우스트' 원진아 "유인촌·박해수와 호흡, 고액 과외 받는 느낌"[인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230407103801846</link>
-            <guid>https://v.daum.net/v/20230407103801846</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 원진아 / 사진=LG아트센터, 샘컴퍼니, ARTEC[김나연 스타뉴스 기자] 배우 원진아가 연극 '파우스트'를 통해 유인촌, 박해수와 호흡을 맞춘 소감을 밝혔다. 6일 서울시 강서구의 LG아트센터 서울에서 연극 '파우스트'(연출 양정웅)의 배우 원진아와 만나 다양한 이야기를 나눴다. '파우스트'는 독일의 대문호 '요한 볼프강]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Fstarnews%2F20230407103804096ztka.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2300,6 +2300,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[너무 기괴하게 취해서 사람들 무섭게한 3호선 만취녀 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/fhGFOS5JxH</link>
+            <guid>https://v.daum.net/v/fhGFOS5JxH</guid>
+            <pubDate>Fri, 07 Apr 2023 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F07%2Ffeelthemovie%2F20230407175011837cixs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[이하늬를 나락가게 해 연예계 은퇴시킨 이 SF 영화 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/2W3iiamBCU</link>
             <guid>https://v.daum.net/v/2W3iiamBCU</guid>
@@ -2450,14 +2458,6 @@
             <pubDate>Wed, 05 Apr 2023 12:44:14 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F05%2Ffeelthemovie%2F20230405212757247clgw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에서 가장 사랑스러운 '녹색커플'의 귀환 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/QlfbxW3orF</link>
-            <guid>https://v.daum.net/v/QlfbxW3orF</guid>
-            <pubDate>Wed, 05 Apr 2023 12:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F05%2FBoiledMovie%2F20230405210300815tbwn.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[감상에서 소비로, 영화를 빨리 감기로 보는 사람들 (다음 영화 ─ 브런치)]]></title>
