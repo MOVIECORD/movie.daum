@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 06:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd32c3f7d4508b6ad2bfcc930fd582be6fcaff5d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[파벨만스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163275</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163275</guid>
-            <pubDate>Wed, 22 Mar 2023 01:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e333efefaf4ea38c4ec0cc6d6ba66854aea08c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아임 히어로 더 파이널]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
@@ -104,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오토라는 남자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164920</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164920</guid>
-            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[파벨만스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163275</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163275</guid>
+            <pubDate>Wed, 22 Mar 2023 01:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e333efefaf4ea38c4ec0cc6d6ba66854aea08c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘 카미노]]></title>
@@ -125,6 +117,14 @@
             <pubDate>Wed, 22 Mar 2023 01:25:43 GMT</pubDate>
             <content:encoded><![CDATA[23.03.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07162528bee656b61466ef7e4bb686bf83d792f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오토라는 남자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164920</guid>
+            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[곰돌이 푸: 피와 꿀]]></title>
