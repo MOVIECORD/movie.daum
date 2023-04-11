@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 22:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 23:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,22 @@
             <pubDate>Sun, 09 Apr 2023 23:17:34 GMT</pubDate>
             <content:encoded><![CDATA[23.04.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12252F0E4A4BACC634" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[칼리 더 킬러]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120781</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120781</guid>
+            <pubDate>Tue, 11 Apr 2023 23:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F06eafc8dce7ce7382d34452701f04e173f84c2c7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[베로니카]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114993</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114993</guid>
+            <pubDate>Tue, 11 Apr 2023 23:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d95782c93a715fded6b7af2a1336f503997e04a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
