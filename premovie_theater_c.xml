@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 22:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 23:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sun, 09 Apr 2023 16:22:06 GMT</pubDate>
             <content:encoded><![CDATA[23.04.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8876ecefc861afc397a9943ab781bdf0316c4983" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킬링 로맨스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
-            <pubDate>Sat, 01 Apr 2023 01:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd84c07fbbf6e045088e3ab6c862f04d95657f648" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[렌필드]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 13 Apr 2023 10:19:22 GMT</pubDate>
             <content:encoded><![CDATA[23.04.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afc8d82139bfaca81e7341f450b93bc7df8a7fc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무명]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163641</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163641</guid>
+            <pubDate>Thu, 13 Apr 2023 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcda9be2bbd98deecf05d142c0f187ff7ce0cd11c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
