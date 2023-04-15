@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 05:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 06:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,7 +252,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=163275</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163275</guid>
             <pubDate>Tue, 07 Mar 2023 23:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>71,704명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>71,702명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e333efefaf4ea38c4ec0cc6d6ba66854aea08c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -848,20 +848,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e333efefaf4ea38c4ec0cc6d6ba66854aea08c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157532</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157532</guid>
-            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[카운트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137907</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137907</guid>
             <pubDate>Wed, 08 Feb 2023 01:41:01 GMT</pubDate>
             <content:encoded><![CDATA[23.02.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7dfd23fad7843cdfa228295b2e7536d0ce924f5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157532</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157532</guid>
+            <pubDate>Tue, 28 Feb 2023 23:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[카구야 님은 고백받고 싶어 -첫 키스는 끝나지 않아- (다음영화 영화관 ─ 현재상영)]]></title>
@@ -878,14 +878,6 @@
             <pubDate>Thu, 13 Apr 2023 03:19:21 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F57ca90dcd1ac9a5c6696d41474c0ed87a668bab9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아임 히어로 더 파이널 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
-            <pubDate>Wed, 15 Feb 2023 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[웅남이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -912,20 +904,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아임 히어로 더 파이널 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
+            <pubDate>Wed, 15 Feb 2023 01:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에브리씽 에브리웨어 올 앳 원스＋ (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165692</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165692</guid>
+            <pubDate>Wed, 15 Feb 2023 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1011ab6e1bfd5746503f65377108fcd0885ecf37" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[라스트 필름 쇼 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150929</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150929</guid>
             <pubDate>Sat, 15 Apr 2023 05:16:38 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff00dd7c9c5ddfb753255381d745cf697736ebaa3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[장기자랑 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162787</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162787</guid>
-            <pubDate>Sat, 15 Apr 2023 05:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43b0ac98229f46c5470ad1a5f763b4f2f8d6dad9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[슈퍼 마리오 브라더스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2008,6 +2008,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e1808c39fcfaa0c1ea6084844bbc28f4e70533a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[올해 칸영화제 관전포인트 3가지…첫 초청 송중기VS 제니 VS　송강호 8번째 칸行 VS 경쟁부문 진출 실패 [SS연예프리즘] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230415151957333</link>
+            <guid>https://v.daum.net/v/20230415151957333</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 조은별기자]‘칸의 남자’ 송강호, 한류스타 송중기, 그리고 월드 셀럽 제니까지...다음달 16일부터 27일까지 프랑스 칸에서 열리는 세계 최대 영화 축제 제 76회 칸 국제영화제에 올해도 다양한 한국작품들과 배우들이 참여한다. 다만 지난해 감독상과 남우주연상을 거머쥐며 K콘텐츠의 우수함을 세계 만방에 알렸던 것과 달리 올해는 경쟁부문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2FSPORTSSEOUL%2F20230415152000513ylhm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해리포터' 리부트, "헤르미온느=유색인종 배우 캐스팅 가능성 크다" 주장 [Oh!llywood] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230415151817309</link>
+            <guid>https://v.daum.net/v/20230415151817309</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] '해리 포터' TV 시리즈를 제작되는 가운데 유색인종 배우가&nbsp;주인공을&nbsp;맡을 지 주목된다. 데드라인, 버라이어티 등 외신들에 따르면 HBO Max는 새로운 출연진을 캐스팅해 '해리 포터' 시리즈를 리부트한다. 워너 브라더스와 맥스(이전의 HBO Max)는 완전히 새로운 출연진과 책을 더 충실하게 각색하기 위한 10년 계획으로 '해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fpoctan%2F20230415151819047kaan.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[취향 저격 코미디의 진가 ['킬링 로맨스'④] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230415143023796</link>
+            <guid>https://v.daum.net/v/20230415143023796</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '킬링 로맨스'(감독 이원석)가 관객들에게 다양한 즐거움을 선사하는 취향 저격 코미디로 개봉 첫 주 관객들을 가까이에서 만나며 아낌없는 영화 알리기에 나선다. 14일 개봉한 '킬링 로맨스'는 섬나라 재벌 조나단(이선균 분)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 여래(이하늬)가 팬클럽 3기 출신 사수생 범우(공명)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fxportsnews%2F20230415143024282zjsv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이원석 감독 "극장에서 봐야 할 코미디의 묘미" (인터뷰)['킬링 로맨스'③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230415143017795</link>
+            <guid>https://v.daum.net/v/20230415143017795</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '킬링 로맨스'로 9년 만에 상업 영화 연출에 복귀한 이원석 감독이 코미디에 대한 남다른 애정을 전했다. '킬링 로맨스'는 섬나라 재벌 조나단(이선균 분)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 여래(이하늬)가 팬클럽 3기 출신 사수생 범우(공명)를 만나 기상천외한 컴백 작전을 모의하게 되는 이야기를 담은 영화다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fxportsnews%2F20230415143018766osup.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["20분만 견디면 신세계"…이하늬·이선균의 새 얼굴 ['킬링 로맨스'①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230415143003786</link>
+            <guid>https://v.daum.net/v/20230415143003786</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이하늬와 이선균이 영화 '킬링 로맨스'(감독 이원석)를 통해 전에 보지 못한 새로운 얼굴을 선보이며 신선함을 안긴다. 이하늬는 '킬링 로맨스'에서 대재앙 같은 발연기로 인해 국민 조롱거리로 전락한 톱스타 황여래 역을 연기했다. 대중의 쏟아지는 악플에 지친 여래는 은퇴 결심 후 남태평양 콸라섬으로 은둔을 시도하고, 자수성가한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fxportsnews%2F20230415143004600pkqs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[애니메이션은 마니아만 본다? 500만 목전 대중이 택한 '스즈메' [Oh!쎈 초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230415142318720</link>
+            <guid>https://v.daum.net/v/20230415142318720</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자] 신카이 마코토 감독의 신작 '스즈메의 문단속'이 500만 관객&nbsp;돌파를 앞두고 있다. 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'은 14일 자정 기준, 총 누적 관객 수 448만 2,045명을 동원하며 2023년 개봉 영화 중 최고 흥행작에 등극했다. 개봉 이후 35일 연속 박스오피스 1위를 기록한 데 이어 400만 관객]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fpoctan%2F20230415142318649fqyl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['슈퍼 마리오 브라더스', 실사 영화 조롱 딛고 절반 제작비로 '최고 성적' [TEN할리우드] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230415140801583</link>
             <guid>https://v.daum.net/v/20230415140801583</guid>
@@ -2118,54 +2166,6 @@
             <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[임효준 기자] 우리나라에서는 공상과학 소설이나 SF(Science Fiction)영화가 흥행하기 어렵다고 한다. 매일 매일이 드라마틱한 사건들이 넘쳐나서 실제 삶이 더 재밌다는 우스갯소리가 있다. 사건 사고 속에 노출된 인간은 보편성과 특수성을 내재한 복잡하고 어려운 존재다. '나' 개인을 보면 유일한 것처럼 뽐내다가도 어느 순간 획일화되어지는 영화와 연]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fohmynews%2F20230415104506837ftft.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['킬링 로맨스' 개봉 첫날 3위로 출발..'존 윅 4' 압도적 1위[★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230415100937539</link>
-            <guid>https://v.daum.net/v/20230415100937539</guid>
-            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 킬링 로맨스 / 사진=영화 포스터[김나연 스타뉴스 기자] '킬링 로맨스'가 개봉 첫날 3위로 출발했다. 15일 영화진흥위원회 통합전산망에 따르면 전날 공개된 영화 '킬링 로맨스'는 2만 1111명의 관객을 동원해 박스오피스 3위를 기록했다. '킬링 로맨스'는 섬나라 재벌 '조나단'(이선균 분)과 운명적 사랑에 빠져 돌연 은퇴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fstarnews%2F20230415100938537cbny.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호X송중기X제니, 칸 영화제 초청→박서준 '더 마블스' 티저 공개[위클리 무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230415100001363</link>
-            <guid>https://v.daum.net/v/20230415100001363</guid>
-            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 송강호, 송중기, 제니 /사진=스타뉴스 [김미화 스타뉴스 기자] ○...배우 송강호, 송중기, 블랙핑크 제니가 올해 칸 국제영화제 초청을 받았다. 지난 13일 오전(현지시간) 76회 칸 국제영화제 사무국은 프랑스 파리에서 공식 기자회견을 갖고 공식 초청 리스트를 발표했다. 이날 김지운 감독의 '거미집'은 비경쟁 부문에 초청 받았다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fstarnews%2F20230415100002648yqmu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이하늬, 워킹맘의 한계 없는 도전 "'킬링 로맨스', 韓 역사 남을 영화"[TEN인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230415094702205</link>
-            <guid>https://v.daum.net/v/20230415094702205</guid>
-            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우는 배우에 맞는 일을 해야 배우라고 불릴 수 있다는 게 이하늬의 생각이다. 그가 출산 후 6개월 만에 액션 스쿨에 나간 이유도 이와 맞닿아 있다. 임신도, 출산도 처음인 워킹맘이지만 아이에게 미안한 마음도 있지만 배우로서 최대한 도전을 계속하고 있다.&nbsp; 이하늬는 2021년 비연예인과 결혼, 지난해 딸을 출산했다. 드라마, 영]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2F10asia%2F20230415094707240mhpn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['존윅4' 3일 연속 1위…이하늬·이선균 '킬링로맨스' 3위 출발 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230415093403079</link>
-            <guid>https://v.daum.net/v/20230415093403079</guid>
-            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '존 윅 4'가 개봉 이후 3일 연속 1위를 차지한 가운데, 신작 '킬링 로맨스'가 3위로 출발했다. 15일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '존 윅 4'는 이날 1391개 스크린에서 10만5883명의 관객을 동원하며 누적간객수 33만3558명을 기록, 박스오피스 1위를 수성했다. '존 윅4'는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2FNEWS1%2F20230415093405149aehd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[전도연 “전 아직 목 말라요”[인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230415092133965</link>
-            <guid>https://v.daum.net/v/20230415092133965</guid>
-            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[상업적 흥행에 늘 목마르다고 했다. ‘칸의 여왕’으로 배우로서 가치를 인정받았지만 상업적 결과는 아쉬웠다는 게, 3년 전 배우 전도연의 바람이었다. 올해 케이블채널 tvN ‘일타스캔들’과 OTT플랫폼 넷플릭스 ‘길복순’(감독 변성현)의 흥행으로 그 갈증은 단박에 날렸을 법 했다. “아뇨! 물 한 잔 마셨다고 갈증이 해소되는 건 아니지 않나요? 전 아직]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fsportskhan%2F20230415092134901zjjt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이하늬 "딸에게 사랑한다 가스라이팅 수준으로 해... 워킹맘으로 죄책감 느껴" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230415090142782</link>
-            <guid>https://v.daum.net/v/20230415090142782</guid>
-            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미스코리아 출신의 예쁜 배우라는 선입견을 이토록 과감하게 깨고 매 작품마다 액션이면 액션, 노래면 노래, 정극과 코미디, 영화와 드라마까지 자유롭고 완벽하게 넘나들며 만능 엔터테이너로서 자신의 이름을 새롭게 써 나가는 이하늬를 만났다. 영화 '킬링 로맨스'에서 대한민국을 '여래바래'로 만들던 톱스타 '황여래'를 연기한 이하늬는 작품 속에서 희대의 발연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2FiMBC%2F20230415090143331jeaq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
