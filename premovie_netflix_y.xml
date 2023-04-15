@@ -4,17 +4,9 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 15:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 16:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[언브로큰]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=82522</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=82522</guid>
-            <pubDate>Fri, 31 Mar 2023 04:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26694F4854A5FDC12D" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[서커스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166942</link>
@@ -142,6 +134,14 @@
             <pubDate>Thu, 13 Apr 2023 02:34:20 GMT</pubDate>
             <content:encoded><![CDATA[23.05.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1936c9f68fe99403a9a485748d78918594be7eba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 클로버: 마법제의 검]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167003</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167003</guid>
+            <pubDate>Sat, 15 Apr 2023 16:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8ba1c31f03799109bfbccfd9120b526d1a656e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
