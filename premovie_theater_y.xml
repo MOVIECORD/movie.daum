@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 03:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 04:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,22 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07162528bee656b61466ef7e4bb686bf83d792f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[물안에서]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167355</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167355</guid>
-            <pubDate>Tue, 11 Apr 2023 23:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[오토라는 남자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164920</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164920</guid>
-            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[라스트 필름 쇼]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150929</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150929</guid>
@@ -166,6 +150,22 @@
             <pubDate>Sun, 16 Apr 2023 01:28:23 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F43b0ac98229f46c5470ad1a5f763b4f2f8d6dad9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오토라는 남자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164920</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164920</guid>
+            <pubDate>Tue, 28 Mar 2023 23:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87f40f22955a97cb8d8d2059592cbf3dadba9eac" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[물안에서]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167355</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167355</guid>
+            <pubDate>Tue, 11 Apr 2023 23:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9af0d5de4d95d96b22ad4189f54cd8addf5f6848" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
