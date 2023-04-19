@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 15:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 16:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,20 +104,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc17bd488667977a165b768c837fc0e8e0cf0588d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[멍뭉이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
-            <pubDate>Thu, 06 Apr 2023 11:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[콜드플레이 뮤직 오브 더 스피어스 - 라이브 앳 리버 플레이트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168825</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168825</guid>
             <pubDate>Tue, 18 Apr 2023 23:19:57 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb0d552be0bd8b8b153cd480731ec76edcec7ace7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[멍뭉이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
+            <pubDate>Thu, 06 Apr 2023 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[카운트]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아임 히어로 더 파이널]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
-            <pubDate>Wed, 19 Apr 2023 12:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[카구야 님은 고백받고 싶어 -첫 키스는 끝나지 않아-]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166594</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166594</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 19 Apr 2023 14:17:10 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F57ca90dcd1ac9a5c6696d41474c0ed87a668bab9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 필름 쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150929</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150929</guid>
+            <pubDate>Wed, 19 Apr 2023 16:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff00dd7c9c5ddfb753255381d745cf697736ebaa3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
