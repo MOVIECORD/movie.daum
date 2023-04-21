@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 08:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 09:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,6 +326,22 @@
             <pubDate>Thu, 20 Apr 2023 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[23.04.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff61e0d74e061d08f6c4981a39faec4b2f02cf4c1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트루먼 쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1660</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1660</guid>
+            <pubDate>Fri, 21 Apr 2023 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce081cc81fef491385caa608606d35bc1540870443923" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[연애의 온도]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=72734</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=72734</guid>
+            <pubDate>Fri, 21 Apr 2023 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F030CB44B5135503F16" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
