@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 10:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 11:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -880,14 +880,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb0d552be0bd8b8b153cd480731ec76edcec7ace7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오디션 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
-            <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀를 기울이면 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164739</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164739</guid>
@@ -910,6 +902,14 @@
             <pubDate>Fri, 24 Mar 2023 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc17bd488667977a165b768c837fc0e8e0cf0588d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오디션 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
+            <pubDate>Tue, 28 Mar 2023 14:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c4d306467eec9a03e2dc09d432d6e6c2939933d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1668,6 +1668,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=169575</guid>
             <pubDate>Thu, 13 Apr 2023 04:22:22 GMT</pubDate>
             <content:encoded><![CDATA[23.04.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a82cd5c4843cc82704323b8cc9777b5e951b5da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[존 멀레이니: 베이비 J ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -2395,12 +2396,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[화성과 지구의 거리…그만한 그리움의 크기 (다음영화 뉴스 ─ 최신)]]></title>
+            <title><![CDATA[개봉 앞둔 '분노의 질주'...11편도 제작한다 [할리웃통신] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230421193030858</link>
+            <guid>https://v.daum.net/v/20230421193030858</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] '분노의 질주' 10번째 시리즈가 다음 달 개봉을 앞두고 있는데, 영화 관계자는 벌써 11번째 시리즈 제작을 확정했다.&nbsp; 외신 매체 버라이어티는 지난 19일(현지 시간) 영화 '분노의 질주' 시리즈 11편 제작이 확정됐으며 감독도 정해졌다고 보도했다.&nbsp;제작이 확정된 '분노의 질주 11'은 5월에 개봉하는 '분노의 질주: 라이드 오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Ftvreport%2F20230421193035828tjuy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[화성과 지구의 거리…‘줌 회의’는 버겁다 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230421190505403</link>
             <guid>https://v.daum.net/v/20230421190505403</guid>
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 검색창에 ‘에스레터’를 쳐보세요. 런던으로 날아오면서 서울과 시간이 점점 멀어진다. 한시간, 두시간, 세시간… 여덟시간. 팬데믹을 지나면서, 화상회의를 통해 국제회의를 하는 빈도가 늘었지만 늘 만족스럽지 않았다. 화면에 나열된 모든 얼굴들에 눈길을 주기 어려웠다. 저 멀리서 송출하는 얼굴은 보고 있지만 그 눈이 어디로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Fhani%2F20230421190506780tllf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 검색창에 ‘에스레터’를 쳐보세요. 런던으로 날아오면서 서울과 시간이 점점 멀어진다. 한시간, 두시간, 세시간… 여덟시간. 팬데믹을 지나면서, 화상회의를 통해 국제회의를 하는 빈도가 늘었지만 늘 만족스럽지 않았다. 화면에 나열된 모든 얼굴들에 눈길을 주기 어려웠다. 저 멀리서 송출하는 얼굴은 보고 있지만 그 눈이 어디로 향]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Fhani%2F20230421193503916rtmx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[84세 美 배우, 촬영장 성추행 사과 "농담으로 직장 잃어"[★할리우드] (다음영화 뉴스 ─ 최신)]]></title>
@@ -2545,14 +2554,6 @@
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '화란'이 제76회 칸 국제영화제 주목할 만한 시선 섹션에 공식 초청된 가운데, 주연 배우 홍사빈, 송중기, 김형서(비비)가 영화제에 초청된 소감을 밝혔다. '화란'은 지옥 같은 현실에서 벗어나고 싶은 소년 연규가 조직의 중간 보스 치건을 만나 위태로운 세계에 함께 하게 되며 펼쳐지는 이야기를 그린 누아르 드라마.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2FNEWS1%2F20230421142525270gzaa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['화란' 송중기, 칸 입성 소감 "충분히 즐기고 오겠다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230421142505840</link>
-            <guid>https://v.daum.net/v/20230421142505840</guid>
-            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '화란'이 76회 칸 국제영화제 '주목할 만한 시선' 섹션에 공식 초청된 가운데 홍사빈, 송중기, 김형서(비비)의 생애 첫 칸 진출 소감을 밝혔다. 영화 '화란'(감독 김창훈)은 지옥 같은 현실에서 벗어나고 싶은 소년 연규가 조직의 중간 보스 치건을 만나 위태로운 세계에 함께 하게 되며 펼쳐지는 이야기를 그린 느와르 드라마다.&nbsp;]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Fxportsnews%2F20230421142507465rafc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2715,6 +2716,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[멈추지 않는 디즈니+의 4월 신작 라인업 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/z1QH5EyPw5</link>
+            <guid>https://v.daum.net/v/z1QH5EyPw5</guid>
+            <pubDate>Fri, 21 Apr 2023 11:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[키노라이츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Fkinolights%2F20230421194040003hwoi.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[이웃주민이자 아파트 문제로 함께 투쟁중인 두 스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/GXuYXd2mO3</link>
             <guid>https://v.daum.net/v/GXuYXd2mO3</guid>
@@ -2865,14 +2874,6 @@
             <pubDate>Thu, 20 Apr 2023 23:19:48 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Ffanzeel%2F20230421080126687watg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[백상예술대상 조연상·최우수상 후보에 나란히 이름 올린 두 여배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/GwHMde9rqR</link>
-            <guid>https://v.daum.net/v/GwHMde9rqR</guid>
-            <pubDate>Thu, 20 Apr 2023 22:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2FBoiledMovie%2F20230421063005208pgax.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영화가 된 소년, <파벨만스> (다음 영화 ─ 브런치)]]></title>
