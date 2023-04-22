@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 04:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 05:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀를 기울이면]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164739</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164739</guid>
-            <pubDate>Tue, 18 Apr 2023 23:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5db1885346421bd1ac13ead730d1b7b048a068ac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[콜드플레이 뮤직 오브 더 스피어스 - 라이브 앳 리버 플레이트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168825</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168825</guid>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 04 Apr 2023 23:18:02 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc17bd488667977a165b768c837fc0e8e0cf0588d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀를 기울이면]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164739</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164739</guid>
+            <pubDate>Tue, 18 Apr 2023 23:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5db1885346421bd1ac13ead730d1b7b048a068ac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스]]></title>
