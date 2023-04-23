@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 06:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 07:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe5553ce0b522520c79a8b67e55e949458425cfbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스프린터]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
-            <pubDate>Tue, 18 Apr 2023 23:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d8b5f06e64a3b7fcce60f2d451216e5e5181fb8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[플레이 데드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168373</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168373</guid>
@@ -166,6 +158,13 @@
             <pubDate>Tue, 18 Apr 2023 23:20:04 GMT</pubDate>
             <content:encoded><![CDATA[23.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae6b7d9791be174684613cfe2cd0261b528e3794" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[남자는 처음을 원하고 여자는 마지막을 원한다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166732</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166732</guid>
+            <pubDate>Sun, 23 Apr 2023 07:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.04]]></content:encoded>
         </item>
     </channel>
 </rss>
