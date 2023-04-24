@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 09:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 10:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1lcG%2Fimage%2Fxnfs3ABUfYfRj2T0AckHownPPII.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[영화 오블리비언(2013)]]></title>
+            <link>https://brunch.co.kr/@@Tm7/1544</link>
+            <guid>https://brunch.co.kr/@@Tm7/1544</guid>
+            <pubDate>Mon, 24 Apr 2023 10:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김준식]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FTm7%2Fimage%2FHbMVe4t20yRZYFvVNvphHLtXSo8.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[유명해지지 않아도 성공하지 못해도 꼭 지켜야 하는 것]]></title>
             <link>https://brunch.co.kr/@@cOda/307</link>
             <guid>https://brunch.co.kr/@@cOda/307</guid>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Apr 2023 09:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>조새월]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeRPZ%2Fimage%2FAcvOtPm2_UXx2Q14Z0-QFzdxIgI.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[수프 한 그릇, 뿌리의 조각]]></title>
-            <link>https://brunch.co.kr/@@bFNU/15</link>
-            <guid>https://brunch.co.kr/@@bFNU/15</guid>
-            <pubDate>Mon, 24 Apr 2023 09:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>dd]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbFNU%2Fimage%2F9iV6dbSlHZCUylAd0CTt8rhkKhs.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
