@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 06:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[거울 속 외딴 성]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166592</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166592</guid>
-            <pubDate>Tue, 11 Apr 2023 23:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0887bce0ec55b149326221adf015579269570ea" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[멍뭉이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139547</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139547</guid>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 20 Apr 2023 01:21:52 GMT</pubDate>
             <content:encoded><![CDATA[23.04.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45d2757689eab926154349e73e0f68a9e273ed68" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[거울 속 외딴 성]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166592</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166592</guid>
+            <pubDate>Tue, 11 Apr 2023 23:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0887bce0ec55b149326221adf015579269570ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오디션]]></title>

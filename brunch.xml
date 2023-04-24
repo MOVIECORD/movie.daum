@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 06:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 24 Apr 2023 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수차미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2zbl%2Fimage%2Fi5lfbgXxH4ynzBZSdSIvO66IYmE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에서 가장 어려운 건 역시 짝 찾기와 퇴사]]></title>
+            <link>https://brunch.co.kr/@@5fpi/476</link>
+            <guid>https://brunch.co.kr/@@5fpi/476</guid>
+            <pubDate>Mon, 24 Apr 2023 06:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FM23NcR-B19w-I9tqUiOX5UOHOXA.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[킬러 길복순과 ESG경영]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Apr 2023 02:38:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Roman]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F32u%2Fimage%2FMlN1mPR0EMpf42OcXwknGmFWMQY.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[집으로 돌아온 남편의 이야기, <존 윅 4>]]></title>
-            <link>https://brunch.co.kr/@@4vGh/882</link>
-            <guid>https://brunch.co.kr/@@4vGh/882</guid>
-            <pubDate>Tue, 18 Apr 2023 02:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>공존]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4vGh%2Fimage%2FfEX2af2NzHzTi4IU1IEOd341Y-Q.webp" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
