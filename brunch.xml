@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1pYx%2Fimage%2FuA4wVilMvw4iB1_IOpw8sXi_Uhc" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[영화 '더 웨일' 리뷰]]></title>
+            <link>https://brunch.co.kr/@@1lcG/2249</link>
+            <guid>https://brunch.co.kr/@@1lcG/2249</guid>
+            <pubDate>Mon, 24 Apr 2023 08:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최다함 문화소믈리에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1lcG%2Fimage%2Fxnfs3ABUfYfRj2T0AckHownPPII.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[영화가 된 소년, <파벨만스>]]></title>
             <link>https://brunch.co.kr/@@dfTq/7</link>
             <guid>https://brunch.co.kr/@@dfTq/7</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Apr 2023 03:20:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>호단]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7jYd%2Fimage%2F1zyU2bzJLTx84OTMnKCipv6AnGU.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[Review] 돌아오지 않을 순수의 시절, 클로즈]]></title>
-            <link>https://brunch.co.kr/@@d6EE/7</link>
-            <guid>https://brunch.co.kr/@@d6EE/7</guid>
-            <pubDate>Thu, 20 Apr 2023 06:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>차소연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd6EE%2Fimage%2FBlKoedU-RhLWT3xbCX1yi03D3ZQ.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
