@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 04:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 25 Apr 2023 03:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2FPbFgpM4WV1Eei-CDKfSCXrD0sZ0.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[학창 시절 추억을 '소중한 날의 꿈'에서]]></title>
+            <link>https://brunch.co.kr/@@9jHr/646</link>
+            <guid>https://brunch.co.kr/@@9jHr/646</guid>
+            <pubDate>Tue, 25 Apr 2023 05:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>WOODYK]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9jHr%2Fimage%2FOr2koc9G8aVwUeKOoqVJ-wvGk6M" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[사랑은 미안하다고 말하지 않아]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Apr 2023 10:20:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김준식]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FTm7%2Fimage%2FHbMVe4t20yRZYFvVNvphHLtXSo8.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[유명해지지 않아도 성공하지 못해도 꼭 지켜야 하는 것]]></title>
-            <link>https://brunch.co.kr/@@cOda/307</link>
-            <guid>https://brunch.co.kr/@@cOda/307</guid>
-            <pubDate>Mon, 24 Apr 2023 09:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>주형 서순오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcOda%2Fimage%2FzboreTafIQEyeKqgBk4iqdfjRh8" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
