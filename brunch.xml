@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 03:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 04:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 26 Apr 2023 03:21:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>siwoorain]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4y6R%2Fimage%2FoSbYv37xWN2DyPqo-CMMffEBSRc.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[골 때리지만 용기를 주고 싶었던 이야기]]></title>
+            <link>https://brunch.co.kr/@@18al/198</link>
+            <guid>https://brunch.co.kr/@@18al/198</guid>
+            <pubDate>Wed, 26 Apr 2023 04:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>songoflucia]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F18al%2Fimage%2FKx7-V8rcs2_3XPV00Wk1c5SPFUM.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<존 윅 4> 자유와 안식을 찾아 떠나는 마지막 여정]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Apr 2023 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수차미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2zbl%2Fimage%2Fi5lfbgXxH4ynzBZSdSIvO66IYmE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화비평. 애도와 구원에 관한 신화적 서사]]></title>
-            <link>https://brunch.co.kr/@@asGw/74</link>
-            <guid>https://brunch.co.kr/@@asGw/74</guid>
-            <pubDate>Mon, 24 Apr 2023 07:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이작가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FasGw%2Fimage%2FQ7Ja8Dqp-Ab1kKKhzM3novWGbmI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
