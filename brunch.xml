@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 07:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 08:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 28 Apr 2023 05:18:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>백건우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3xO%2Fimage%2FynO-W0WqjqxFEeRe2i1gJW95mVI.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 보기 좋은 일본 영화 추천]]></title>
+            <link>https://brunch.co.kr/@@dMnj/152</link>
+            <guid>https://brunch.co.kr/@@dMnj/152</guid>
+            <pubDate>Fri, 28 Apr 2023 08:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤조]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdMnj%2Fimage%2FXur8gVVGQj4uRtJSmHjZGup9c4c.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[무명, 고오진감래]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Apr 2023 10:22:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2F0QyVnrWPsInCRYGZ0vg2Q9CJopA.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<드림>의 안일함에 대하여]]></title>
-            <link>https://brunch.co.kr/@@fdgF/73</link>
-            <guid>https://brunch.co.kr/@@fdgF/73</guid>
-            <pubDate>Wed, 26 Apr 2023 10:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>코스텔로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfdgF%2Fimage%2FFXrrXXcRK-_8aWnFblJBzBhSckk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
