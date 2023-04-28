@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 28 Apr 2023 06:24:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맑은구름]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FoNv%2Fimage%2Fvs1xuFpb0viJnkdBVZXBVRIYB6c.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[끝났지만 끝나지 않은 이야기.]]></title>
+            <link>https://brunch.co.kr/@@bNwG/258</link>
+            <guid>https://brunch.co.kr/@@bNwG/258</guid>
+            <pubDate>Fri, 28 Apr 2023 07:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2FlseEJuB_uK7P-eWqzDR0n3_yoz8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그냥 무난한 슈퍼 마리오, 근데 제가 바란게 이거거든요]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Apr 2023 10:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>코스텔로]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfdgF%2Fimage%2FFXrrXXcRK-_8aWnFblJBzBhSckk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[웃음 반 감동 반 주문했는데…소스 덜 '드림']]></title>
-            <link>https://brunch.co.kr/@@ej3R/22</link>
-            <guid>https://brunch.co.kr/@@ej3R/22</guid>
-            <pubDate>Wed, 26 Apr 2023 10:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>테토아부지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fej3R%2Fimage%2F2Rglfyd1qODdBgGzUfiePL9NYM0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
