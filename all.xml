@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 04:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
             <pubDate>Fri, 17 Feb 2023 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,984,066명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,984,064명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -976,6 +976,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6eb8d85f13103665b6ae505af10fa5d3ce4de9f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스프린터 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
+            <pubDate>Fri, 28 Apr 2023 04:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[리턴 투 서울 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160426</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160426</guid>
@@ -1021,14 +1029,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=166732</guid>
             <pubDate>Mon, 24 Apr 2023 04:22:17 GMT</pubDate>
             <content:encoded><![CDATA[23.04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[초대의 법칙 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161670</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161670</guid>
-            <pubDate>Wed, 26 Apr 2023 01:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9718c4dd5058e58eebbc278e707dce89f9334f87" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유랑지구2 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1605,6 +1605,14 @@
             <pubDate>Mon, 05 Dec 2022 16:28:14 GMT</pubDate>
             <content:encoded><![CDATA[23.05.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F762a642d585ecff70e0e5cfc4211d9a0f809bf3b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[원 나이트 스탠드 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169934</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169934</guid>
+            <pubDate>Fri, 28 Apr 2023 04:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe3d8d098ecbc32fceeef53785529403eee82524" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[내 이름은 마더 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -2240,20 +2248,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F969d45d9ca5209b6d3d9a9466dbbc1f1ab4d3a8b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[24th JIFF] 배우·화가·음악가 백현진의 DNA (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230428125314104</link>
+            <guid>https://v.daum.net/v/20230428125314104</guid>
+            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 뿐 아니라 음악, 미술계에서도 다방면으로 활동하고 있는 백현진이 자신의 취향을 담은 영화로 전주국제영화제를 찾았다. 28일 오전 전북 전주시 완산구에서 제24회 전주국제영화제 'J 스페셜: 올해의 프로그래머' 기자간담회가 진행돼 백현진, 문석 프로그래머가 참석했다. 'J 스페셜: 올해의 프로그래머'는 문화 예술 분야에서 활동하는 영화인을 프로그래머로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Fdailian%2F20230428125317951tvzx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[오영이 in JIFF] 다르덴 형제가 사각지대를 대하는 태도 '토리와 로키타' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230428124510969</link>
+            <guid>https://v.daum.net/v/20230428124510969</guid>
+            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’    세계적인 거장 다르덴 형제가 한국에 첫 방문하게 된 계기가 된 제24회 전주국제영화제 개막작 '토리와 로키타'는 낯선 땅에 도달해 체류증을 얻기 위한 두 외국인 아이의 여정이 그려진 영화다. 매 작품마다 사회적 함의를 담은 메시지를 전해온 다르덴 형제는 '토리와 로키타'를 통해 누구보다도 유럽 사회 내 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Fseouleconomy%2F20230428124515235rlap.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[백현진은 언제나 선을 넘지 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230428124011900</link>
+            <guid>https://v.daum.net/v/20230428124011900</guid>
+            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘우리는 늘 선을 넘지’라는 ‘제24회 전주국제영화제’의 슬로건에 백현진만큼 맞는 사람이 있을까. 음악가, 미술가, 연기자 등 다양한 예술 분야에서 활동하며 경계 없는 활동을 펼쳐온 종합예술가 백현진이 전주를 찾았다. 백현진은 올해 ‘전주국제영화제’의 특별 세션인 ‘J 스페셜: 올해의 프로그래머’에 선정돼 전주 방문을 하게 됐다. 그는 28일 오전 전주시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Filgansports%2F20230428124017968xrgv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[백현진 "오디션 단 한 번도 안 봤다, 평가받는 것 싫어해" [24회 JIFF] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230428121254486</link>
             <guid>https://v.daum.net/v/20230428121254486</guid>
             <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(전주=뉴스1) 정유진 기자 = 화가 겸 뮤지션, 배우인 백현진이 오디션을 단 한 번도 본 적이 없다고 말했다. 백현진은 28일 전북 전주시 완산구 베스트웨스턴플러스전주호텔에서 열린 제24회 전주국제영화제 'J 스페셜: 올해의 프로그래머' 기자회견에서 "오디션을 단 한 번도 보지는 않았고 오디션 보는 걸 싫어한다, 누구한테 평가받아야 하는 게 싫다"고]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2FNEWS1%2F20230428121255941noig.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진 "양진호와 싱크로율 '쩐다'고? 꼰대·한남 끔찍이 싫어" [24회 JIFF] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230428120720364</link>
-            <guid>https://v.daum.net/v/20230428120720364</guid>
-            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(전주=뉴스1) 정유진 기자 = 화가 겸 뮤지션, 배우인 백현진이 '꼰대' '한남'에 대해 불편한 마음을 드러냈다. 백현진은 28일 전북 전주시 완산구 베스트웨스턴플러스전주호텔에서 열린 제24회 전주국제영화제 'J 스페셜: 올해의 프로그래머' 기자회견에서 영화나 드라마 속에서 폭력적인 빌런을 자주 연기하는 것에 대해 "물리적이고 폭력적인 성향을 가지고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2FNEWS1%2F20230428120722348qicc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['드림' 이병헌 감독 "'극한직업'과 비교 당연..박서준·아이유 고마워"[★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
@@ -2286,6 +2310,14 @@
             <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배우 겸 가수 백현진이 국내 영화제들이 정치 세력에 휘둘리지 않았으면 좋겠다는 바람을 내비쳤다. 백현진은 28일 전북 전주시 완산구 베스트웨스턴플러스전주호텔에서 열린 제24회 전주국제영화제 ‘J 스페셜: 올해의 프로그래머’ 기자회견에서 배우로서 전주국제영화제에 바라는 점을 묻자 “정치하는 사람들에게 휘둘리지 않기 쉽지 않겠지만, 최대한 휘둘리지 않으면]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Fsportskhan%2F20230428114657212bcdb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]정준호 "영화관광도시 전주 만들고 싶다"[24회 JIFF] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230428114050444</link>
+            <guid>https://v.daum.net/v/20230428114050444</guid>
+            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정준호(54)는 올해 전주영화제 공동집행위원장 임기를 시작했다. 영화제 측은 지난해 12월26일 정준호와 민성욱 전주영화제 부집행위원장을 공동집행위원장으로 임명했다. 다소 파격적인 인사였다. 일각에서는 정준호의 임명을 두고 독립·대안 영화제의 방향성과 맞지 않다고 우려를 표했다. 영화제도 변화의 흐름 속 생존과 발전을 모색해야 하는 시대. 임명된 정준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Fakn%2F20230428114052032uyle.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[‘킬링 로맨스’ 이하늬, 깨진 에그 봉합시킨 열정 (다음영화 뉴스 ─ 최신)]]></title>
@@ -2374,30 +2406,6 @@
             <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 | 김미화 기자] /사진=JTBC '스즈메의 문단속' 신카이 마코토 감독이 JTBC '뉴스룸'에 출연한다. 신카이 마코토 감독은 오는 29일 오후 6시에 방송되는 JTBC '뉴스룸'에 출연해 인터뷰를 가진다. 신카이 마코토 감독은 '너의 이름은', '날씨의 아이' 등 그의 기존 작품들부터 이번 영화 '스즈메의 문단속'을 구상하게 된 계기,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Fstarnews%2F20230428102240607hffq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['스즈메의 문단속' 신카이 마코토 감독, 29일 '뉴스룸' 출격[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230428100712502</link>
-            <guid>https://v.daum.net/v/20230428100712502</guid>
-            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 신카이 마코토 감독이 '뉴스룸'에 출연해 영화에 관한 이야기를 전한다. 오는 29일(토) 오후 6시에 방송되는 JTBC 뉴스 ‘뉴스룸’에는 일본 애니메이션 영화 ‘스즈메의 문단속’을 연출한 신카이&nbsp;마코토 감독이 출연한다. 이날&nbsp;신카이&nbsp;마코토 감독은 ‘너의 이름은’(2017), ‘날씨의 아이’(2019) 등 자신의 기존 작품들부터]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Fpoctan%2F20230428100712946ryio.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["전세계가 주목한 'K-공포'"…정유미X이선균 '잠', 칸영화제 비평가주간 달굴까 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230428100534451</link>
-            <guid>https://v.daum.net/v/20230428100534451</guid>
-            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 올해 열리는 제76회 칸국제영화제 비평가주간에 초청된 공포 영화 '잠'(유재선 감독, 루이스픽쳐스 제작)이 해외 포스터와 예고편을 공개했다. 이번에 공개된 포스터는 어둠 속에서 서로를 향해 누워있지만, 정면을 응시하고 있는 수진(정유미)과 잠이 든 현수(이선균)의 모습이 강렬한 색채 대비를 이루고 있어 눈길을 사로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2FSpoChosun%2F20230428100534843wpsy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[신카이 마코토 감독 "'슬램덩크', '스즈메'의 라이벌" [엑's 인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230428095320902</link>
-            <guid>https://v.daum.net/v/20230428095320902</guid>
-            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰②에 이어) 신카이 마코토 감독이 국내에서 일본 애니메이션의 인기를 이끌고 있는 자신의 연출작 '스즈메의 문단속'과 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)를 '라이벌'이라고 칭했다. 신카이 마코토 감독은 27일 오후 서울 용산구 한 호텔에서 열린 영화 '스즈메의 문단속' 내한 인터뷰에서 다양한 이야기를 전했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Fxportsnews%2F20230428095321161sbij.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2560,6 +2568,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[소름주의! '트랜스포머'가 더 멋있게 돌아왔다! (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/fQJKY3fOp3</link>
+            <guid>https://v.daum.net/v/fQJKY3fOp3</guid>
+            <pubDate>Fri, 28 Apr 2023 04:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F28%2Ffeelthemovie%2F20230428131017362dgdy.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA["악당이야" 한마디에 출연 결심하고 20kg 증량한 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/Hw0veNhVi1</link>
             <guid>https://v.daum.net/v/Hw0veNhVi1</guid>
@@ -2712,20 +2728,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fmaxmovie%2F20230427103422074jddn.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[CG 아니었어? 헬기로 스포츠카를 추락시키는 이 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/bt2ZDkT6Kx</link>
-            <guid>https://v.daum.net/v/bt2ZDkT6Kx</guid>
-            <pubDate>Thu, 27 Apr 2023 01:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Ffeelthemovie%2F20230427095006605mlka.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[‘더 퍼스트 슬램덩크’ 뒷북 후기 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@4ybU/308</link>
             <guid>https://brunch.co.kr/@@4ybU/308</guid>
             <pubDate>Fri, 28 Apr 2023 02:37:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>허원준]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4ybU%2Fimage%2Fec1np2j0KJbOS_PNV4pA8bYm0xA.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[관계를 정의하는 시선 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5bPS/62</link>
+            <guid>https://brunch.co.kr/@@5bPS/62</guid>
+            <pubDate>Fri, 28 Apr 2023 04:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영시코기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5bPS%2Fimage%2FWdkpGPIWEW6pmW-yg6Lvk9s1vDI" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[“참 멋진 인생이야, 안 그래?” (다음 영화 ─ 브런치)]]></title>
@@ -2870,14 +2886,6 @@
             <pubDate>Wed, 26 Apr 2023 04:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>songoflucia]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F18al%2Fimage%2FKx7-V8rcs2_3XPV00Wk1c5SPFUM.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[23.04.25. 스즈메의 문단속 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@21zj/42</link>
-            <guid>https://brunch.co.kr/@@21zj/42</guid>
-            <pubDate>Wed, 26 Apr 2023 06:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>차설]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F21zj%2Fimage%2F5tomIIdcmsAfq_N94aEDlO6dnP8" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>

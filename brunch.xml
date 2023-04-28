@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 04:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 28 Apr 2023 02:37:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>허원준]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4ybU%2Fimage%2Fec1np2j0KJbOS_PNV4pA8bYm0xA.JPG" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[관계를 정의하는 시선]]></title>
+            <link>https://brunch.co.kr/@@5bPS/62</link>
+            <guid>https://brunch.co.kr/@@5bPS/62</guid>
+            <pubDate>Fri, 28 Apr 2023 04:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영시코기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5bPS%2Fimage%2FWdkpGPIWEW6pmW-yg6Lvk9s1vDI" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[“참 멋진 인생이야, 안 그래?”]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Apr 2023 04:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>songoflucia]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F18al%2Fimage%2FKx7-V8rcs2_3XPV00Wk1c5SPFUM.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[23.04.25. 스즈메의 문단속]]></title>
-            <link>https://brunch.co.kr/@@21zj/42</link>
-            <guid>https://brunch.co.kr/@@21zj/42</guid>
-            <pubDate>Wed, 26 Apr 2023 06:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>차설]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F21zj%2Fimage%2F5tomIIdcmsAfq_N94aEDlO6dnP8" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
