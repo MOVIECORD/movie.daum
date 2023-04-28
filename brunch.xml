@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 09:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 10:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 28 Apr 2023 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최다함 문화소믈리에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1lcG%2Fimage%2F6VQa65JzqP7cosKdyxRJcn1fukU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA['함께'를 위해 우린 결국 '혼자'라고]]></title>
+            <link>https://brunch.co.kr/@@aDPd/497</link>
+            <guid>https://brunch.co.kr/@@aDPd/497</guid>
+            <pubDate>Fri, 28 Apr 2023 10:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>날고싶은 자작나무 려원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaDPd%2Fimage%2FXAYb2Oguqn7u9jAyZuoJm9CNCU8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[‘더 퍼스트 슬램덩크’ 뒷북 후기]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Apr 2023 05:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이연]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4prc%2Fimage%2FdHbzPlsUqCHQT6Y9n5DaTk1NVDY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 영화는 우리에게 첫 영화다]]></title>
-            <link>https://brunch.co.kr/@@auu2/130</link>
-            <guid>https://brunch.co.kr/@@auu2/130</guid>
-            <pubDate>Thu, 27 Apr 2023 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>간로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fauu2%2Fimage%2F8VqbSxX5SHEwIHhImyxcA8gzJDE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
