@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 05:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd6105e7d4919af308749f5785eee564320dfada" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[무명]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163641</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163641</guid>
-            <pubDate>Tue, 25 Apr 2023 23:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcda9be2bbd98deecf05d142c0f187ff7ce0cd11c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[킬링 로맨스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
@@ -80,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe239fd29a9a82847e419e4c0d0490a6ca8dd7e4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[무명]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163641</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163641</guid>
+            <pubDate>Tue, 25 Apr 2023 23:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcda9be2bbd98deecf05d142c0f187ff7ce0cd11c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[항구의 니쿠코짱!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151339</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151339</guid>
             <pubDate>Wed, 26 Apr 2023 23:19:10 GMT</pubDate>
             <content:encoded><![CDATA[23.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdf9dd12919a2b4c0372fc9b3b751d62eb22788b3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[렌필드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163251</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163251</guid>
-            <pubDate>Tue, 18 Apr 2023 23:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85599d900af16c514f03e6257773304537ae529c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라이스보이 슬립스]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 26 Apr 2023 12:35:45 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[렌필드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163251</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163251</guid>
+            <pubDate>Tue, 18 Apr 2023 23:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85599d900af16c514f03e6257773304537ae529c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[롱 플레이스]]></title>
