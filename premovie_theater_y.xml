@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 15:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 16:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피기]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156894</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156894</guid>
-            <pubDate>Tue, 25 Apr 2023 23:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afc8d82139bfaca81e7341f450b93bc7df8a7fc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[자전거 도둑]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=1312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=1312</guid>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 18 Apr 2023 23:19:57 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85599d900af16c514f03e6257773304537ae529c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[피기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156894</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156894</guid>
+            <pubDate>Tue, 25 Apr 2023 23:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afc8d82139bfaca81e7341f450b93bc7df8a7fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스]]></title>
