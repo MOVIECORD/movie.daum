@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스즈메의 문단속]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
+            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 퍼스트 슬램덩크]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164918</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164918</guid>
@@ -38,14 +46,6 @@
             <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5605612b56736f1b4dedc8953b29b5d04c32c053" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스즈메의 문단속]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
-            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[옥수역귀신]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdf9dd12919a2b4c0372fc9b3b751d62eb22788b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[라이스보이 슬립스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163516</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163516</guid>
-            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[자전거 도둑]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=1312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=1312</guid>
@@ -110,6 +102,14 @@
             <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
             <content:encoded><![CDATA[23.03.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라이스보이 슬립스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163516</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163516</guid>
+            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[거울 속 외딴 성]]></title>
