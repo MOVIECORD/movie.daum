@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 02:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 03:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,7 +159,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=162386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162386</guid>
             <pubDate>Tue, 28 Mar 2023 05:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,663,656명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,663,653명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5605612b56736f1b4dedc8953b29b5d04c32c053" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -875,14 +875,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아임 히어로 더 파이널 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
-            <pubDate>Wed, 15 Feb 2023 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[자전거 도둑 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=1312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=1312</guid>
@@ -891,20 +883,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3bfdf13c37ed8ed6131ac28c6fc801f379219857" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아임 히어로 더 파이널 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167541</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167541</guid>
+            <pubDate>Wed, 15 Feb 2023 01:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd8ba9a0ddfa0c21777ecaf688063612b9cfe27c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[거울 속 외딴 성 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166592</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166592</guid>
             <pubDate>Wed, 29 Mar 2023 01:41:36 GMT</pubDate>
             <content:encoded><![CDATA[23.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0887bce0ec55b149326221adf015579269570ea" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[피기 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156894</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156894</guid>
-            <pubDate>Sat, 15 Apr 2023 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afc8d82139bfaca81e7341f450b93bc7df8a7fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -923,6 +915,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85599d900af16c514f03e6257773304537ae529c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[피기 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156894</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156894</guid>
+            <pubDate>Sat, 15 Apr 2023 03:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afc8d82139bfaca81e7341f450b93bc7df8a7fc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[오디션 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=29389</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=29389</guid>
@@ -939,12 +939,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb0d552be0bd8b8b153cd480731ec76edcec7ace7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아머드 사우루스: 기계공룡제국의 침략 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169114</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169114</guid>
-            <pubDate>Tue, 18 Apr 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcee2dfa62bb078a3aaa4b6bd6b04c6330821a192" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[이니셰린의 밴시 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
+            <pubDate>Tue, 02 May 2023 03:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가디언즈 오브 갤럭시: Volume 3 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1010,20 +1010,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6eb8d85f13103665b6ae505af10fa5d3ce4de9f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스프린터 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
-            <pubDate>Fri, 28 Apr 2023 04:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[리턴 투 서울 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160426</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160426</guid>
             <pubDate>Mon, 17 Apr 2023 06:24:16 GMT</pubDate>
             <content:encoded><![CDATA[23.05.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F06e276d169a64256b73e55903d5d8df30c9bf554" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스프린터 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
+            <pubDate>Fri, 28 Apr 2023 04:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유랑지구2 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1641,6 +1641,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Facad64f72b510ee17da377543294c0252b7ad52e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뉴진스 다니엘, ‘인어공주’ 에리얼 더빙? 어색한 발음에 부정적 반응↑ (종합)[DA:이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230502121330633</link>
+            <guid>https://v.daum.net/v/20230502121330633</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  뉴진스 다니엘, ‘인어공주’ 에리얼 더빙? 어색한 발음에 부정적 반응↑ (종합)[DA:이슈] 디즈니 신작 ‘인어공주’가 한국판 더빙 군단 일부와 더빙 예고편을 공개했다. 주인공 에리얼의 더빙 주인공 정체를 두고 이벤트를 개최했지만 눈치 빠른 누리꾼들에 의해 사실상 정체가 공개된 거나 마찬가지. 더빙 예고편까지 공개되자 관심은 오히려 우려로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F02%2Fsportsdonga%2F20230502121332840lfrs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['마리오'·'가오갤3' 공세…100만 관객 '드림'은 이루어질까 [엑's 이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230502115144884</link>
+            <guid>https://v.daum.net/v/20230502115144884</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 이병헌 감독의 영화 '드림'이 박스오피스 1위 자리를 '슈퍼 마리오 브라더스'(이하 '마리오')에 내준 가운데, 작품의 흥행 성적에 대한 관심이 높아지고 있다. 영진위 통합전산망에 따르면, '드림'은 1일 기준 누적 관객 64만 5512명을 기록하고 있다. 개봉일이었던 4월 26일부터 3일 동안 박스오피스 1위를 지키던 '드림']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F02%2Fxportsnews%2F20230502115145947rpkl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[RM→정국, 영화관에 간 방탄소년단[Oh!쎈 펀치] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230502114821738</link>
+            <guid>https://v.daum.net/v/20230502114821738</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 그룹 방탄소년단이 영화관에 갔다. 멤버별로 친분이 있는 배우나 감독의 초대로 참석하게 됐던 것. 멤버들은 극장 내 무대에 올라 짤막하게 인사만 했을 뿐인데 이튿날까지 관심을 모았다. 예상컨대 방탄소년단 멤버들도 영화의 주인공으로서 무대인사의 주최자가 될 날이 머지않은 듯하다. “RM 네 덕을 보고 싶다”는 장항준 감독의 말 한마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F02%2Fpoctan%2F20230502114822746bhqf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['슈퍼 마리오 브라더스' 1조↑ 수익·북미 톱3…'드림' 꺾고 1위[공식] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230502112134483</link>
             <guid>https://v.daum.net/v/20230502112134483</guid>
@@ -1775,30 +1799,6 @@
             <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 ’드림‘은 아이유에게 힘들었지만 동시에 성장할 수 있었던 기회를 준 작품이었다. 모든 게 처음이라 쉽진 않았지만, 고난은 그가 한 단계 성장할 수 있는 발판이 됐다. 드라마 ‘나의 아저씨’와 ‘호텔 델루나’ 등을 연달아 히트시키며 안방극장의 흥행 보장 수표로 거듭난 아이유. 그런 그가 스크린에도 발을 디뎠다. 영화 ‘드림]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F02%2Ftvdaily%2F20230502082947709yirk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['살인자의 쇼핑몰', 이동욱X김혜준 캐스팅..내년 디즈니+ 공개 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230502082157675</link>
-            <guid>https://v.daum.net/v/20230502082157675</guid>
-            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 사진=이동욱(킹콩by스타쉽), 김혜준(앤드마크)디즈니+가 소설 '살인자의 쇼핑몰'을 원작으로 한 새로운 오리지널 시리즈 '살인자의 쇼핑몰' 공개를 확정했다. 디즈니+의 오리지널 시리즈 '살인자의 쇼핑몰'이 2024년 공개를 확정하고 이제껏 보지 못한 신선한 시너지를 예고하는 이동욱, 김혜준의 캐스팅 라인업을 공개했다. '살인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F02%2Fstarnews%2F20230502082158990tdtw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘슈퍼 마리오 브라더스’ 3일 연속 ‘드림’ 제치고 1위[박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230502081921619</link>
-            <guid>https://v.daum.net/v/20230502081921619</guid>
-            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '슈퍼 마리오 브라더스'가 3일 연속 박스오피스 1위를 차지했다. 5월 2일 영화진흥위원회 통합전산망 집계에 따르면 1일 영화 '슈퍼 마리오 브라더스'(감독 아론 호바스, 마이클 젤레닉)가 18만6,324명을 동원하며 전체 박스오피스 1위에 올랐다. 누적 관객 수는 95만5,438명으로, 100만 관객 돌파를 앞두고 있다. 같은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F02%2Fnewsen%2F20230502081922080gtop.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[역전에 이은 굳히기…'슈퍼 마리오' 100만 간다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230502081757594</link>
-            <guid>https://v.daum.net/v/20230502081757594</guid>
-            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 근로자의 날 연휴 80만명 끌어모아 누적 관객수 95만명 곧 100만 돌파 '드림' 1위→2위…흥행 빨간불 들어와 [서울=뉴시스] 손정빈 기자 = 할리우드 애니메이션 영화 '슈퍼 마리오 브라더스'가 근로자의 날 연휴 80만명이 넘는 관객을 끌어모으며 누적 100만명 돌파를 눈앞에 뒀다. '극한직업' 이병헌 감독의 새 영화로 주목 받]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F02%2Fnewsis%2F20230502081757663uson.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2081,14 +2081,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F01%2Ffeelthemovie%2F20230501115916717vwja.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[은행 VIP고객들 '돈' 횡령하던 '은행원', 결국... (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/1PhJ98g1vN</link>
-            <guid>https://v.daum.net/v/1PhJ98g1vN</guid>
-            <pubDate>Sun, 30 Apr 2023 23:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F01%2Fmaxmovie%2F20230501080043512nzpc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[나를 돼지라고 괴롭혔던 애들이 눈앞에서 납치됐다…선택은? (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/uvHJ19JGiE</link>
             <guid>https://v.daum.net/v/uvHJ19JGiE</guid>
@@ -2119,6 +2111,14 @@
             <pubDate>Sun, 30 Apr 2023 08:22:29 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F30%2FBoiledMovie%2F20230430171325448oqvr.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석, 무너진 한국영화 살릴 수 있을까? (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/23XIRkT64P</link>
+            <guid>https://v.daum.net/v/23XIRkT64P</guid>
+            <pubDate>Tue, 02 May 2023 03:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F30%2Ffanzeel%2F20230430110021768bxyr.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[같은 이유, 다른 결론 (다음 영화 ─ 브런치)]]></title>
