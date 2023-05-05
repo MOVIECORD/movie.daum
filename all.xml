@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 15:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 16:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -843,13 +843,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd6105e7d4919af308749f5785eee564320dfada" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 공연실황, 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170006</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
-            <pubDate>Wed, 03 May 2023 01:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.03]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[리바운드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130429</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130429</guid>
@@ -872,6 +865,13 @@
             <pubDate>Wed, 03 May 2023 01:24:45 GMT</pubDate>
             <content:encoded><![CDATA[23.05.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffeb0710eb68b1e099ea6ba9db23def9961c8bb22" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 공연실황, 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170006</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
+            <pubDate>Wed, 03 May 2023 01:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.03]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리턴 투 서울 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1103,14 +1103,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=170092</guid>
             <pubDate>Thu, 04 May 2023 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[23.05.09]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최후의 호흡 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130943</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130943</guid>
-            <pubDate>Fri, 21 Apr 2023 23:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec197d893a82499f9b83852dc4eb0fc91555738832031" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[강박이 똑똑! ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1780,22 +1772,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=161390</guid>
             <pubDate>Fri, 21 Apr 2023 06:23:45 GMT</pubDate>
             <content:encoded><![CDATA[23.06.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트루먼 쇼 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1660</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1660</guid>
-            <pubDate>Fri, 21 Apr 2023 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce081cc81fef491385caa608606d35bc1540870443923" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[연애의 온도 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=72734</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=72734</guid>
-            <pubDate>Fri, 21 Apr 2023 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F030CB44B5135503F16" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[당신의 부탁 ([다음영화] 왓챠 ─ 종료예정)]]></title>
