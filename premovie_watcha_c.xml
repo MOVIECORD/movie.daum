@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 22:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 23:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,22 @@
             <pubDate>Fri, 05 May 2023 23:18:56 GMT</pubDate>
             <content:encoded><![CDATA[23.05.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2348F33B5491263430" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑과 전쟁]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=65919</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=65919</guid>
+            <pubDate>Sun, 07 May 2023 23:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc4b8105a605b9b37337a85e3683eabcd32d29cc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[월드워Z]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=48708</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=48708</guid>
+            <pubDate>Sun, 07 May 2023 23:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F03568A4A51AD51BA12" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
