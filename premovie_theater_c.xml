@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 11:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 12:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2bddba952d043fb241fae148799affa41158ffaa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바깥 나라의 소녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160980</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160980</guid>
+            <pubDate>Mon, 08 May 2023 12:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff98377c2bfc112dacd21b01a3da2dbfe1e1a04e9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[남자는 처음을 원하고 여자는 마지막을 원한다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166732</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166732</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 May 2023 03:18:55 GMT</pubDate>
             <content:encoded><![CDATA[23.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F830915f4ff07ceb8f0221ef76eabf9dd262fd89b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[수라]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
-            <pubDate>Mon, 08 May 2023 10:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09f2644cb8657ec2cda1a637848eca40e054848e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
