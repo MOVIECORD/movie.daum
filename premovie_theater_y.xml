@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 14:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 15:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,6 +119,14 @@
             <content:encoded><![CDATA[23.05.03]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[킬링 로맨스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
+            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe239fd29a9a82847e419e4c0d0490a6ca8dd7e4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[클로즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160385</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160385</guid>
@@ -149,14 +157,6 @@
             <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F541382b0a4105163dc37e4aba7d44e8c115b72d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킬링 로맨스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
-            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe239fd29a9a82847e419e4c0d0490a6ca8dd7e4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[무명]]></title>
