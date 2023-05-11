@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 09:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 10:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8876ecefc861afc397a9943ab781bdf0316c4983" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드림]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
-            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159863</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159863</guid>
             <pubDate>Thu, 04 May 2023 04:21:37 GMT</pubDate>
             <content:encoded><![CDATA[23.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdea3a62914133f571a8a7ef336d893f096426335" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
+            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[롱디]]></title>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0887bce0ec55b149326221adf015579269570ea" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[칠중주: 홍콩 이야기]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144663</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144663</guid>
-            <pubDate>Thu, 11 May 2023 01:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbad19b9cb21b448a732edf168756cc4ec7ea335" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엑소시스트: 더 바티칸]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168221</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168221</guid>
@@ -125,6 +117,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
             <pubDate>Wed, 10 May 2023 05:16:51 GMT</pubDate>
             <content:encoded><![CDATA[23.05.03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[칠중주: 홍콩 이야기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144663</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144663</guid>
+            <pubDate>Thu, 11 May 2023 01:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbad19b9cb21b448a732edf168756cc4ec7ea335" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[조제, 호랑이 그리고 물고기들]]></title>
@@ -143,6 +143,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F40e36586854a567747b64f58f323b65a798faacd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킬링 로맨스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
+            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe239fd29a9a82847e419e4c0d0490a6ca8dd7e4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[클로즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160385</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160385</guid>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F541382b0a4105163dc37e4aba7d44e8c115b72d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킬링 로맨스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149715</guid>
-            <pubDate>Mon, 01 May 2023 14:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe239fd29a9a82847e419e4c0d0490a6ca8dd7e4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
