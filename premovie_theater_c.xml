@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 09:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 10:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6eb8d85f13103665b6ae505af10fa5d3ce4de9f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스프린터]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
-            <pubDate>Fri, 28 Apr 2023 04:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[남은 인생 10년]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
             <pubDate>Wed, 10 May 2023 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스프린터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
+            <pubDate>Fri, 28 Apr 2023 04:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빅트립2 : 아기곰 배달 대작전]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac7e589d63becfd840021702a2751522992f130c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[말없는 소녀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157903</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157903</guid>
-            <pubDate>Sat, 13 May 2023 09:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cdc596cb0d48c05d2210f7ebadab55587c0e179" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[초대의 법칙]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161670</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161670</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 09 May 2023 23:18:04 GMT</pubDate>
             <content:encoded><![CDATA[23.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe5ecc09fec8dd2bea8f48637d90056a174fe1071" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[야쿠자들 : 폭력의 도시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164449</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164449</guid>
+            <pubDate>Sat, 13 May 2023 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f65450491bcba1137ec20ca26f080666fb7b26c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
