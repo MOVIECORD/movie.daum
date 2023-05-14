@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 05:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 06:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=154241</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154241</guid>
             <pubDate>Sun, 09 Apr 2023 16:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,802,451명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,802,448명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8876ecefc861afc397a9943ab781bdf0316c4983" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -174,7 +174,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=154241</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154241</guid>
             <pubDate>Sun, 09 Apr 2023 16:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,976,236명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,976,230명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8876ecefc861afc397a9943ab781bdf0316c4983" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -794,14 +794,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b0eb68a4c944965ae78c83112bbb799c25b876b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼 마리오 브라더스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154241</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154241</guid>
-            <pubDate>Sun, 09 Apr 2023 16:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8876ecefc861afc397a9943ab781bdf0316c4983" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[문재인입니다 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169517</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169517</guid>
@@ -810,12 +802,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d2892c758240006ffb4c0ba3e91ded61223e0a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159863</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159863</guid>
-            <pubDate>Thu, 20 Apr 2023 08:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdea3a62914133f571a8a7ef336d893f096426335" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[슈퍼 마리오 브라더스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154241</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154241</guid>
+            <pubDate>Sun, 09 Apr 2023 16:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8876ecefc861afc397a9943ab781bdf0316c4983" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -832,6 +824,14 @@
             <pubDate>Tue, 11 Apr 2023 14:17:38 GMT</pubDate>
             <content:encoded><![CDATA[23.04.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159863</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159863</guid>
+            <pubDate>Thu, 20 Apr 2023 08:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdea3a62914133f571a8a7ef336d893f096426335" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[존 윅 4 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -969,6 +969,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
+            <pubDate>Wed, 10 May 2023 02:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나의 사소한 슬픔 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153681</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153681</guid>
@@ -977,20 +985,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a504a950ce5c50c4694de9240767cd729a9a34b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바깥 나라의 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160980</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160980</guid>
+            <pubDate>Mon, 08 May 2023 12:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6cb64f190114303fe32b3c435a12d7e8427c929" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[말이야 바른 말이지 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159397</guid>
+            <pubDate>Mon, 08 May 2023 05:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14b8f7363ee9a251f72fa973f5bf9661bd579c6f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스프린터 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
             <pubDate>Fri, 28 Apr 2023 04:21:30 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
-            <pubDate>Wed, 10 May 2023 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빅트립2 : 아기곰 배달 대작전 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1015,22 +1031,6 @@
             <pubDate>Fri, 12 May 2023 19:14:42 GMT</pubDate>
             <content:encoded><![CDATA[23.05.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e66dd80cc238f007679a38d15113daafde75856" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바깥 나라의 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160980</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160980</guid>
-            <pubDate>Mon, 08 May 2023 12:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6cb64f190114303fe32b3c435a12d7e8427c929" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[말이야 바른 말이지 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159397</guid>
-            <pubDate>Mon, 08 May 2023 05:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14b8f7363ee9a251f72fa973f5bf9661bd579c6f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[울지마 엄마 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -3046,6 +3046,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2126A94F5487E15C23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["갇힌 느낌"…엠마 왓슨→산드라 블록, 다 때려치우고 싶은 번아웃[Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230514150715359</link>
+            <guid>https://v.daum.net/v/20230514150715359</guid>
+            <pubDate>Sun, 14 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 번아웃(burnout)이란 글자 그대로 모든 게 다 타버려서 심신이 극도로 지친 상태를 말한다. 한국의 직장인들에게 특히 나타나는 증상인데, 이게 꼭 국내로만 국한된 현상은 아닌 듯하다. 할리우드를 대표하는 여러 명의 배우들이 번아웃 증후군을 호소하며 활동을 쉬고 있기 때문이다. 먼저 90년생 배우 엠마 왓슨의 사례를 살펴보려고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F14%2Fpoctan%2F20230514150715966kptr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['가오갤3' 이유 있는 흥행…이러다 4편 나올 듯(종합)[Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230514122243338</link>
             <guid>https://v.daum.net/v/20230514122243338</guid>
@@ -3196,14 +3204,6 @@
             <pubDate>Sat, 13 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 이선균의 '열일' 행보가 눈에 띈다. 영화 '킬링 로맨스'에서 B급 코미디의 맛을 십분 살린 이선균은 '탈출: 프로젝트 사일런스(PROJECT SILENCE)'(감독 김태곤)와 '잠'(감독 유재선)까지 두 편의 작품을 안고 프랑스 칸으로 향한다. 이선균은 지난달 개봉한 '킬링 로맨스'(감독 이원석)를 통해 섬나라 재]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F14%2FNEWS1%2F20230514060123095npco.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[TF인터뷰] 신카이 마코토 감독이 밝힌 '스즈메의 문단속' A to Z (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230514000019068</link>
-            <guid>https://v.daum.net/v/20230514000019068</guid>
-            <pubDate>Sat, 13 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['스즈메의 문단속' 300만 돌파 기념 재내한 "상처가 있던 소녀가 회복해 가는 과정이 한국 관객들을 움직였다" [더팩트｜박지윤 기자] '스즈메의 문단속'이 치유와 재생의 메시지로 한국 관객들을 사로잡으며 연일 기록 행진을 이어가고 있다. 이를 만든 신카이 마코토 감독은 약 두 달 만에 기분 좋게 다시 한국을 방문했고, 작품에 관한 다양한 이야기를 나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F14%2FTHEFACT%2F20230514000020719etll.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
