@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 10:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 15 May 2023 05:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>선이정]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FrsA%2Fimage%2FsVWSMZEjyj09A1b7OQzFuJv7v2E.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 어른들은 이 남매를 착취하는가!]]></title>
+            <link>https://brunch.co.kr/@@8kr3/30</link>
+            <guid>https://brunch.co.kr/@@8kr3/30</guid>
+            <pubDate>Mon, 15 May 2023 10:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2FtbF4I7o-lMxLrIeUo8nxYsQXaeU.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[같은 이유, 다른 결론]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Apr 2023 10:22:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김동진]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FmW7%2Fimage%2FUr7OKbm-dNF86eHwbuk8QDMCwLs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 소년에게 돌 던질 자 누구인가.]]></title>
-            <link>https://brunch.co.kr/@@7GHw/289</link>
-            <guid>https://brunch.co.kr/@@7GHw/289</guid>
-            <pubDate>Thu, 27 Apr 2023 10:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Munalogi]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7GHw%2Fimage%2FFgADOT-YRlwSjvv7v2uhfYIs988.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
