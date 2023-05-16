@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 03:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 04:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 16 May 2023 03:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>조신익]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F32i2%2Fimage%2FrhacMxA4Lp_ChM8IV9Kf2KmXZ_M.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[불완전한 마음으로 돌아간 곳에서 방황하는 이의 뒷모습]]></title>
+            <link>https://brunch.co.kr/@@bNwG/268</link>
+            <guid>https://brunch.co.kr/@@bNwG/268</guid>
+            <pubDate>Tue, 16 May 2023 04:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2FmMvOeDYGdbuP7k1uLDuN8b_LRt4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<킬링 로맨스>, 무엇을 위한 형식인가]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Apr 2023 06:24:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>주유소가맥]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeS0a%2Fimage%2Ft3tbFQFe0uTXsGGC4bHwL9tMAXQ.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[어른들을 위한 해리포터, 존 윅]]></title>
-            <link>https://brunch.co.kr/@@7Pgu/40</link>
-            <guid>https://brunch.co.kr/@@7Pgu/40</guid>
-            <pubDate>Fri, 28 Apr 2023 06:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>핵보컬]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7Pgu%2Fimage%2FFc6833_FCJYTbsrVXGwysFaZks8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
