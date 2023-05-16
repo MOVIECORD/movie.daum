@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 09:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 10:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,22 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2b24fd597c0f5bd591da31fe74fdb1765449bded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 사소한 슬픔]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153681</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153681</guid>
-            <pubDate>Fri, 12 May 2023 04:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a504a950ce5c50c4694de9240767cd729a9a34b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[말이야 바른 말이지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159397</guid>
-            <pubDate>Mon, 08 May 2023 05:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14b8f7363ee9a251f72fa973f5bf9661bd579c6f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[울지마 엄마]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164623</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164623</guid>
@@ -94,6 +78,22 @@
             <pubDate>Tue, 09 May 2023 23:18:04 GMT</pubDate>
             <content:encoded><![CDATA[23.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7419667aaeec633fe1988808330e1dd2218a5187" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 사소한 슬픔]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153681</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153681</guid>
+            <pubDate>Fri, 12 May 2023 04:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a504a950ce5c50c4694de9240767cd729a9a34b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[말이야 바른 말이지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159397</guid>
+            <pubDate>Mon, 08 May 2023 05:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14b8f7363ee9a251f72fa973f5bf9661bd579c6f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스프린터]]></title>
