@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 12:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 13:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d6000c6b565bc7404a854ab7b535df75733856a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그 여름]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169897</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169897</guid>
+            <pubDate>Tue, 23 May 2023 13:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6630cfd1994ea87121d2151e92a200c12b251f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나의 사소한 슬픔]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153681</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153681</guid>
@@ -128,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09f2644cb8657ec2cda1a637848eca40e054848e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[1986 그 여름, 그리고 고등어통조림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163076</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163076</guid>
+            <pubDate>Tue, 23 May 2023 13:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1628ac0720f5689d6957f3161012f72921a4d2e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[줄리아의 인생극장]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167898</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167898</guid>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 21 May 2023 01:37:53 GMT</pubDate>
             <content:encoded><![CDATA[23.05.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd82bce856f0d3abe728834fcc54f4c58de192e76" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[드림팰리스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163850</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163850</guid>
-            <pubDate>Mon, 22 May 2023 04:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb15bed743ea0bfd808268ea2311fb93feb56bac3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는 당신에게]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162219</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162219</guid>
-            <pubDate>Sun, 21 May 2023 06:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F983da1f72cf09a5f7472eb8e12d76360ca753820" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
