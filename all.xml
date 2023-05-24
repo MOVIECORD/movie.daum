@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 01:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 02:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=167558</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167558</guid>
             <pubDate>Tue, 02 May 2023 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>843,345명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>843,343명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fed61e73b455aba36c3c4b434b6fafe2944e698" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=129156</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129156</guid>
             <pubDate>Wed, 03 May 2023 01:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,347,344명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,347,341명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b0eb68a4c944965ae78c83112bbb799c25b876b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -773,7 +773,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
             <pubDate>Tue, 16 May 2023 23:17:33 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F13e8fa6a157719a32c1fb66c0f770921f45567da" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbba5ebdc0a4edab6b44ed2592227a39b179d52da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[분노의 질주: 라이드 오어 다이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -832,20 +832,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
-            <pubDate>Fri, 17 Feb 2023 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159863</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159863</guid>
             <pubDate>Thu, 20 Apr 2023 08:22:41 GMT</pubDate>
             <content:encoded><![CDATA[23.05.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdea3a62914133f571a8a7ef336d893f096426335" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
+            <pubDate>Fri, 17 Feb 2023 09:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[슬픔의 삼각형 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F737ca2c9197f9c7d1b308d41abf6c01f130b01a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마인드케이지 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165156</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165156</guid>
+            <pubDate>Wed, 24 May 2023 02:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e966c82db5e030b35a7d8afaacb243bac43ddcb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[타임 이즈 업2 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164558</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164558</guid>
@@ -1078,14 +1086,6 @@
             <pubDate>Tue, 23 May 2023 23:17:46 GMT</pubDate>
             <content:encoded><![CDATA[23.05.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1da2080d98be10fbe092c3a58e4eab6781f87e26" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[세인트 세이야: 더 비기닝 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169279</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169279</guid>
-            <pubDate>Tue, 23 May 2023 23:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0583f9298130b2fe184fa8d53b4b0fb8511a02cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인랑 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2030,6 +2030,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[고개 숙인 김태리, 뿔난 팬심 되돌릴까[스경X초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230524103623012</link>
+            <guid>https://v.daum.net/v/20230524103623012</guid>
+            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김태리가 고개를 숙였다. ‘열정페이’의 동의어인 ‘재능 기부’로 구인공고를 올렸다가 역풍을 맞은 뒤 하루만에 직접 사과를 했다. “그 무엇보다 지금은 진심 어린 사과가 먼저라는 생각이 들었다”며 사과문을 적은 그는 뿔난 팬심을 되돌릴 수 있을까. 김태리는 23일 밤 사회관계망서비스(SNS)에 “모든 말에 앞서, 심려를 끼쳐 죄송하다. 마음 불편했]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Fsportskhan%2F20230524103625109dtzk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[노윤서, 칸에서 더 빛나는 신인‥디카프리오·양자경과 함께 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230524103228829</link>
+            <guid>https://v.daum.net/v/20230524103228829</guid>
+            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 노윤서가 프랑스 칸 국제영화제 레드카펫 및 만찬에 참석해 세계적인 영화인들과 함께했다. 지난 5월 21일(현지 시각) 노윤서는 제76회 프랑스 칸 국제영화제 중 진행된 영화 '파이어브랜드'(Firebrand) 레드카펫과 케어링 그룹 주최 '위민 인 모션' 만찬에 참석했다. 노윤서는 칸 국제영화제 집행위원장 티에리 프레모와 '우먼 인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Fnewsen%2F20230524103229002zjrw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[나탈리 포트만 "'스타워즈' 복귀? 열려 있는데 아무도 요청 안해" [Oh!llywood] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230524103121786</link>
+            <guid>https://v.daum.net/v/20230524103121786</guid>
+            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 나탈리 포트만(41)이 유명 프랜차이즈&nbsp;'스타워즈'의 재출연에 대해 "열려 있다"라고&nbsp;말했다. 다만&nbsp;"그 누구도 나에게 돌아오라고 요청하지 않았다"라고 사실관계를 전했다. 나탈리 포트만은&nbsp;2005년 '스타워즈'에 마지막으로 출연했던 바. 그녀는 이 우주 오페라 프랜차이즈로의 복귀 여부에&nbsp;대해 "아니"라고 잘라 말하지 않았다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Fpoctan%2F20230524103121799ociy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["추잡한 남성 판타지" 제니 데뷔작 '아이돌', 첫 공개 이후 혹평 [★FOCUS] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230524102716598</link>
             <guid>https://v.daum.net/v/20230524102716598</guid>
@@ -2050,7 +2074,7 @@
             <link>https://v.daum.net/v/20230524100432642</link>
             <guid>https://v.daum.net/v/20230524100432642</guid>
             <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 조은별기자]곧 아빠가 되는 배우 송중기가 칸에서도 남다른 애처가 면모를 보였다. 출연작 ‘화란’이 제 76회 칸국제영화제(이하 칸영화제) 주목할 만한 시선 부문에 초청된 그는  24일(현지시간) 칸 팔레 데 페스티발 드뷔시 극장에서 열리는 공식상영에 임신 9개월 차인 만삭의 아내 케이티 루이스 사운더스와 함께 레드카펫을 밟는다. 그는]]></content:encoded>
+            <content:encoded><![CDATA[[스포츠서울 | 조은별기자] 곧 아빠가 되는 배우 송중기가 칸에서도 남다른 애처가 면모를 보였다. 출연작 ‘화란’이 지난 프랑스 칸에서 개막한 제 76회 칸국제영화제(이하 칸영화제) ‘주목할 만한 시선’ 부문에 초청된 그는 24일(현지시간) 칸 팔레 데 페스티발 드뷔시 극장에서 열리는 공식 상영에 영국 출신 배우 아내와 동행한다. 현재 임신 9개월 차]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2FSPORTSSEOUL%2F20230524100432908rpye.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
@@ -2164,30 +2188,6 @@
             <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[배우 마동석은 충무로에서 하나의 브랜드가 됐다. 맨주먹 하나로 야쿠자 일당을 제압해도, 힘으로 금고문을 뜯어도, 심각한 상황에 유치한 말장난을 던져도 마동석이라면 괜찮다. 마동석이 기획·제작하고, 각색까지 참여한 ‘범죄도시’ 시리즈는 마동석식 액션과 코미디를 잘 보여준다. 31일 개봉하는 ‘범죄도시3’(연출 이상용) 역시 누구보다 강하면서, 누구보]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Fmunhwa%2F20230524091209501riop.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스 앤더슨 신작 '애스터로이드 시티', 6월 28일 개봉…역대급 라인업 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230524090714242</link>
-            <guid>https://v.daum.net/v/20230524090714242</guid>
-            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 할리우드를 대표하는 비주얼리스트, 웨스 앤더슨 감독이 신작으로 돌아왔다. 영화 ‘애스터로이드 시티’(감독 웨스 앤더슨)가 오는 6월 28일(수) 개봉을 확정하며, 눈길을 사로잡는 메인 포스터를 공개했다. 국제 영화제의 메카, 제76회 칸 국제영화제 경쟁부문에 공식 초청된 웨스 앤더슨 감독의 황홀한 신작 ‘애스터로이드 시티]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2FEdaily%2F20230524090716515inis.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘탈출’·‘잠’으로 칸 찾은 이선균 “스스로 ‘마이너하다’고 생각했다”[인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230524090240082</link>
-            <guid>https://v.daum.net/v/20230524090240082</guid>
-            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이선균은 스스로를 ‘마이너하다’고 생각해왔다고 한다. ‘파스타’ 같은 멜로드라마의 셰프, ‘기생충’의 ‘박사장’, ‘킬링 로맨스’의 ‘조나단 나’까지 더없이 다양한 캐릭터를 연기한 이선균이지만 ‘탈출 : 프로젝트 사일런스’ 같은 블록버스터급 재난영화엔 출연한 적이 없었다. “저에게 이런 장르의 대작이 거의 들어오지 않았어요(웃음). 스스로 ‘안]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Fsportskhan%2F20230524090242574zrwz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["송중기 훔쳐보느라 눈 아파"…'화란' 홍사빈, 팬심 고백 [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230524090144049</link>
-            <guid>https://v.daum.net/v/20230524090144049</guid>
-            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(프랑스 칸=iMBC연예)'화란' 홍사빈이 송중기, 비비를 향한 팬심을 감추느라 애를 먹었다. 제76회 칸 국제영화제 주목할 만한 시선(Un Certain Regard) 부문에 송중기, 홍사빈, 김형서(가수 비비)의 영화 '화란'(김창훈 감독)이 공식 초청됐다. 이와 관련 23일 오후(현지시간) 프랑스 남부 칸에서 관련 인터뷰가 진행됐다. '화란'은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2FiMBC%2F20230524090145741ylbe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2350,6 +2350,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[스승과 제자로 만나다 결국 결혼까지 한 남녀 톱스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/9klfhMfOVO</link>
+            <guid>https://v.daum.net/v/9klfhMfOVO</guid>
+            <pubDate>Wed, 24 May 2023 02:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Ffeelthemovie%2F20230524113020184mnas.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이 아리따운 '꽃미남'은 곧 '악마'로 변합니다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/fvA8Wlrq5C</link>
+            <guid>https://v.daum.net/v/fvA8Wlrq5C</guid>
+            <pubDate>Wed, 24 May 2023 02:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Fmaxmovie%2F20230524112229643fhmn.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃미남 구마사제에서 가짜 퇴마사가 되어 돌아오는 강동원 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/HCibkadYM5</link>
+            <guid>https://v.daum.net/v/HCibkadYM5</guid>
+            <pubDate>Wed, 24 May 2023 02:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2FBoiledMovie%2F20230524110232750mccn.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[결혼 사진 찍는날 하필 16kg 감량하고 쓰러진 톱스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/427kjB0gOC</link>
             <guid>https://v.daum.net/v/427kjB0gOC</guid>
@@ -2484,30 +2508,6 @@
             <pubDate>Tue, 23 May 2023 01:34:23 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F23%2Ffeelthemovie%2F20230523093028507klva.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[8년만에 감독으로 복귀하는 하정우 신작 어떤 내용? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/pc7bhEg12x</link>
-            <guid>https://v.daum.net/v/pc7bhEg12x</guid>
-            <pubDate>Tue, 23 May 2023 01:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F23%2FBoiledMovie%2F20230523085238841oyhy.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[팬들의 성원에 힘입어 최근 재개봉한 日명작! (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/HjIGfIhVwd</link>
-            <guid>https://v.daum.net/v/HjIGfIhVwd</guid>
-            <pubDate>Mon, 22 May 2023 23:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F23%2Fmaxmovie%2F20230523080118495pzex.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 화려한 영화인들을 국내에서 만날 수 있는 방법은? (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/tHKi4ClfH6</link>
-            <guid>https://v.daum.net/v/tHKi4ClfH6</guid>
-            <pubDate>Mon, 22 May 2023 23:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F23%2Fmaxmovie%2F20230523080050318lutx.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[현실적 이야기와 볼거리 가득한 아쿠아 쇼! (다음 영화 ─ 브런치)]]></title>
