@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 09:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 10:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=129156</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129156</guid>
             <pubDate>Wed, 03 May 2023 01:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,347,340명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,347,338명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b0eb68a4c944965ae78c83112bbb799c25b876b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -872,14 +872,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d2892c758240006ffb4c0ba3e91ded61223e0a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
-            <pubDate>Tue, 11 Apr 2023 14:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[존 윅 4 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162386</guid>
@@ -894,6 +886,14 @@
             <pubDate>Sat, 13 May 2023 04:20:50 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b9cae7a5bb69a3ab5350d83214f4f92dc90424b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
+            <pubDate>Tue, 11 Apr 2023 14:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리바운드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -952,14 +952,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1dd23ff0117caadf6e2fc7db6184eec157e8d8f5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[말없는 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157903</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157903</guid>
-            <pubDate>Fri, 19 May 2023 05:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cdc596cb0d48c05d2210f7ebadab55587c0e179" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[마인드케이지 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165156</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165156</guid>
@@ -968,20 +960,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e966c82db5e030b35a7d8afaacb243bac43ddcb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[말없는 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157903</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157903</guid>
+            <pubDate>Fri, 19 May 2023 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cdc596cb0d48c05d2210f7ebadab55587c0e179" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[이윽고 바다에 닿다 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159273</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159273</guid>
             <pubDate>Fri, 19 May 2023 05:17:08 GMT</pubDate>
             <content:encoded><![CDATA[23.06.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d6000c6b565bc7404a854ab7b535df75733856a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그 여름 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169897</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169897</guid>
-            <pubDate>Tue, 23 May 2023 13:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6630cfd1994ea87121d2151e92a200c12b251f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 사소한 슬픔 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1046,6 +1038,14 @@
             <pubDate>Tue, 23 May 2023 23:17:46 GMT</pubDate>
             <content:encoded><![CDATA[23.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9718c4dd5058e58eebbc278e707dce89f9334f87" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그 여름 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169897</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169897</guid>
+            <pubDate>Tue, 23 May 2023 13:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6630cfd1994ea87121d2151e92a200c12b251f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[1986 그 여름, 그리고 고등어통조림 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2022,6 +2022,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[개봉 D-6 '범죄도시3', 벌써 대박 조짐…마동석 프랜차이즈 힘?[TEN스타필드] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230525190101969</link>
+            <guid>https://v.daum.net/v/20230525190101969</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 《강민경의 인서트》 영화 속 중요 포인트를 확대하는 인서트 장면처럼 강민경 텐아시아 기자가 영화계 이슈를 집중 조명합니다. 입체적 시각으로 화젯거리의 앞과 뒤를 세밀하게 살펴보겠습니다. 영화 '범죄도시3'(감독 이상용)가 개봉까지 6일 남은 가운데, 벌써부터 흥행 대박 조짐을 보이고 있다. 25일 영화진흥위원회 영화관입장권 통합]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2F10asia%2F20230525190105211uzcw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선영 "'응팔' 이후 아역에 정 안 주려 노력..매번 실패해"[인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230525185401727</link>
+            <guid>https://v.daum.net/v/20230525185401727</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 김선영 / 사진=인디스토리배우 김선영이 아역 배우들에게 정을 주지 않으려고 노력하는 이유를 밝혔다. 25일 서울시 성동구의 한 카페에서 영화 '드림팰리스'(감독 가성문)의 배우 김선영과 만나 다양한 이야기를 나눴다. '드림팰리스'는 남편의 목숨값으로 장만한 아파트를 지키려는 두 여자의 고군분투를 담은 소셜 리얼리즘 드라마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fstarnews%2F20230525185402566sbng.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[드뇌브 '티셔츠 드레스'부터 로렌스 '쪼리 입장'까지 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230525183303035</link>
+            <guid>https://v.daum.net/v/20230525183303035</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기원전 458년. 그리스 극작가 아이스킬로스가 쓴 &lt;아가멤논&gt;엔 발밑에 깔린 붉은 비단을 ‘왕의 길’로 묘사한다. 붉은 색소는 곤충에게서 소량만 추출할 수 있었다. 오랜 시간 유럽에선 왕족의 색으로 통했고, 아즈텍과 마야 문명에서도 최소한 귀족 신분이어야 입을 수 있는 색이었다. 인류에게 레드카펫의 판타지는 여전히 유효하다. 세계적인 영화제와 시상식에서 어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fked%2F20230525183305467muxx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['남은인생 10년' 고마츠 나나-사카구치 켄타로, 내한 무대인사 '전석매진' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230525181607478</link>
+            <guid>https://v.daum.net/v/20230525181607478</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]영화 '남은 인생 10년'이 고마츠 나나, 사카구치 켄타로의 내한 무대인사 예매의 오픈과 동시에 초고속 전석 매진을 기록했다. 24일 개봉한 '남은 인생 10년'은 스무 살에 난치병을 선고받은 '마츠리'가 삶의 의지를 잃은 '카즈토'를 만나 눈부신 사계절을 장식하는 사랑 이야기를 그린 영화로, 주연 배우 고마츠 나나, 사카구]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fspotvnews%2F20230525181610215nlfv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[‘칸’ 송중기·홍사빈·김형서 “인생서 가장 긴 박수 세례"[현장 사진] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230525180104898</link>
             <guid>https://v.daum.net/v/20230525180104898</guid>
@@ -2148,38 +2180,6 @@
             <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘범죄도시3’의 아오키 무네타카(43)가 이준혁(39)을 처음 만난 소감을 전했다. '범죄도시3'는 서울 광수대로 이동한 마석도(마동석 역)가 신종 마약 범죄 사건의 배후인 주성철(이준혁 역)과 마약 사건에 연루된 또 다른 빌런 리키(아오키 무네타카 역)를 잡기 위해 펼치는 통쾌한 범죄 소탕 작전을 그린다. 아오키 무네]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fmydaily%2F20230525153133531ysra.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김선영 “‘응팔’ 진주 이후 아역에 정 주지 않으려 노력”(드림팰리스)[EN:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230525152341696</link>
-            <guid>https://v.daum.net/v/20230525152341696</guid>
-            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 김선영이 "아역배우들에게 정 주지 않겠다"고 다짐하게 된 일화를 밝혔다. 영화 '드림팰리스'(감독 가성문)에 출연한 김선영은 5월 25일 서울 성동구 모처에서 진행된 언론 인터뷰를 통해 극중 호흡을 맞춘 이윤지, 최민영에 대한 애정을 전했다. 31일 개봉하는 영화 '드림팰리스'는 남편의 목숨값으로 장만한 아파트를 지키려는 두 여자의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fnewsen%2F20230525152341327xioy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['드림팰리스' 김선영 "이윤지 슬픈 눈 좋았다…진짜 말하는 느낌" [엑's 인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230525151925528</link>
-            <guid>https://v.daum.net/v/20230525151925528</guid>
-            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 김선영이 '드림팰리스'를 통해 이윤지와 함께 호흡을 맞춘 소감을 전했다. 김선영은 25일 오후 서울 성동구 성수동의 한 카페에서 열린 영화 '드림팰리스'(감독 가성문) 인터뷰에서 다양한 이야기를 전했다. '드림팰리스'는 남편의 목숨값으로 장만한 아파트를 지키려는 두 여자의 고군분투를 담은 영화로 김선영은 가족의 드림팰리스를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fxportsnews%2F20230525151926790pdyb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['드림팰리스' 김선영 "여성 서사 작품 귀해..이런 순간 또 오길" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230525151721451</link>
-            <guid>https://v.daum.net/v/20230525151721451</guid>
-            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 김선영 / 사진=인디스토리배우 김선영이 '드림팰리스'에 대해 "이런 순간이 또 왔으면 좋겠다"며 더 많은 여성 서사의 이야기를 원한다고 밝혔다. 25일 서울시 성동구의 한 카페에서 영화 '드림팰리스'(감독 가성문)의 배우 김선영과 만나 다양한 이야기를 나눴다. '드림팰리스'는 남편의 목숨값으로 장만한 아파트를 지키려는 두]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fstarnews%2F20230525151722910jkwc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김선영 “‘동네 웃긴 아줌마’ 심벌돼‥소시오패스 역할 하고싶다”(드림팰리스)[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230525150833042</link>
-            <guid>https://v.daum.net/v/20230525150833042</guid>
-            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 김선영이 사람 좋은 캐릭터 아닌, '반전 있는 사이코패스'도 해보고 싶은 소망을 밝혔다. 영화 '드림팰리스'(감독 가성문)에 출연한 김선영은 5월 25일 서울 성동구 모처에서 진행된 언론 인터뷰를 통해 이미지 변신을 해보고 싶은 마음을 전했다. 오는 31일 개봉하는 영화 '드림팰리스'는 남편의 목숨값으로 장만한 아파트를 지키려는 두]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Fnewsen%2F20230525150833208lmjr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2342,6 +2342,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[역대급 동안 미모를 지니신 80세 할머니의 정체 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/t8Rr3vsbL0</link>
+            <guid>https://v.daum.net/v/t8Rr3vsbL0</guid>
+            <pubDate>Thu, 25 May 2023 10:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F25%2Ffeelthemovie%2F20230525191003678nyer.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[사랑과 일 다 잡은 송중기! 칸영화제 모습 보니... (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/BTcaqrj3gV</link>
             <guid>https://v.daum.net/v/BTcaqrj3gV</guid>
@@ -2492,14 +2500,6 @@
             <pubDate>Wed, 24 May 2023 08:23:50 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Ffeelthemovie%2F20230524170020463bcnm.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['이휘재의 인생극장' 기억한다면, 좋아할 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/xjMbsNJGOR</link>
-            <guid>https://v.daum.net/v/xjMbsNJGOR</guid>
-            <pubDate>Wed, 24 May 2023 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F24%2Ffanzeel%2F20230524165000522lbtb.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그가 사랑하는 해변과 모두의 율리시스를 향해. (다음 영화 ─ 브런치)]]></title>
