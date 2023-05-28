@@ -4,17 +4,9 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 02:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[인어공주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133193</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
-            <pubDate>Tue, 23 May 2023 23:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbba5ebdc0a4edab6b44ed2592227a39b179d52da" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[분노의 질주: 라이드 오어 다이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167558</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 16 May 2023 23:17:26 GMT</pubDate>
             <content:encoded><![CDATA[23.05.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fed61e73b455aba36c3c4b434b6fafe2944e698" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인어공주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133193</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
+            <pubDate>Tue, 23 May 2023 23:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbba5ebdc0a4edab6b44ed2592227a39b179d52da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가디언즈 오브 갤럭시: Volume 3]]></title>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a969d22500d00bf312707c53dc5433bcf942c68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사슴의 왕]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151364</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151364</guid>
-            <pubDate>Thu, 25 May 2023 01:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58abc8045be4bbe51cf21cbcae94a80e2d05f313" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메리 마이 데드 바디]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163878</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163878</guid>
@@ -96,12 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[문재인입니다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169517</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169517</guid>
-            <pubDate>Wed, 10 May 2023 01:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d2892c758240006ffb4c0ba3e91ded61223e0a7" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[사슴의 왕]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151364</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151364</guid>
+            <pubDate>Thu, 25 May 2023 01:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58abc8045be4bbe51cf21cbcae94a80e2d05f313" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅트립2 : 아기곰 배달 대작전]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169991</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169991</guid>
+            <pubDate>Fri, 26 May 2023 23:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd82bce856f0d3abe728834fcc54f4c58de192e76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[존 윅 4]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5605612b56736f1b4dedc8953b29b5d04c32c053" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[문재인입니다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169517</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169517</guid>
+            <pubDate>Wed, 10 May 2023 01:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d2892c758240006ffb4c0ba3e91ded61223e0a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스프린터]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
             <pubDate>Tue, 23 May 2023 23:17:37 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빅트립2 : 아기곰 배달 대작전]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169991</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169991</guid>
-            <pubDate>Fri, 26 May 2023 23:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd82bce856f0d3abe728834fcc54f4c58de192e76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드림]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd6105e7d4919af308749f5785eee564320dfada" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[줄리아의 인생극장]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167898</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167898</guid>
-            <pubDate>Sat, 27 May 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e24353b203b85cce0f90728bc43f8cfe283997" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[토리와 로키타]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160408</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160408</guid>
@@ -160,12 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F40e36586854a567747b64f58f323b65a798faacd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리바운드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130429</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130429</guid>
-            <pubDate>Thu, 25 May 2023 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F541382b0a4105163dc37e4aba7d44e8c115b72d6" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[줄리아의 인생극장]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167898</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167898</guid>
+            <pubDate>Sat, 27 May 2023 03:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e24353b203b85cce0f90728bc43f8cfe283997" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[내 아내 이야기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152001</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152001</guid>
+            <pubDate>Sun, 28 May 2023 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b9cae7a5bb69a3ab5350d83214f4f92dc90424b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

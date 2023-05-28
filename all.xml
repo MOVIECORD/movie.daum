@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 02:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,20 +768,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인어공주 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=133193</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
-            <pubDate>Tue, 16 May 2023 23:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbba5ebdc0a4edab6b44ed2592227a39b179d52da" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[분노의 질주: 라이드 오어 다이 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167558</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167558</guid>
             <pubDate>Tue, 02 May 2023 01:24:21 GMT</pubDate>
             <content:encoded><![CDATA[23.05.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fed61e73b455aba36c3c4b434b6fafe2944e698" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인어공주 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133193</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
+            <pubDate>Tue, 16 May 2023 23:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbba5ebdc0a4edab6b44ed2592227a39b179d52da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[가디언즈 오브 갤럭시: Volume 3 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -840,14 +840,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a969d22500d00bf312707c53dc5433bcf942c68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사슴의 왕 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151364</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151364</guid>
-            <pubDate>Tue, 16 May 2023 23:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58abc8045be4bbe51cf21cbcae94a80e2d05f313" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메리 마이 데드 바디 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163878</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163878</guid>
@@ -856,12 +848,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[문재인입니다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169517</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169517</guid>
-            <pubDate>Wed, 10 May 2023 01:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d2892c758240006ffb4c0ba3e91ded61223e0a7" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[사슴의 왕 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151364</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151364</guid>
+            <pubDate>Tue, 16 May 2023 23:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58abc8045be4bbe51cf21cbcae94a80e2d05f313" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅트립2 : 아기곰 배달 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169991</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169991</guid>
+            <pubDate>Sun, 21 May 2023 01:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd82bce856f0d3abe728834fcc54f4c58de192e76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[존 윅 4 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -872,20 +872,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5605612b56736f1b4dedc8953b29b5d04c32c053" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[문재인입니다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169517</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169517</guid>
+            <pubDate>Wed, 10 May 2023 01:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d2892c758240006ffb4c0ba3e91ded61223e0a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스프린터 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
             <pubDate>Fri, 28 Apr 2023 04:21:30 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빅트립2 : 아기곰 배달 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169991</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169991</guid>
-            <pubDate>Sun, 21 May 2023 01:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd82bce856f0d3abe728834fcc54f4c58de192e76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드림 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -904,14 +904,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd6105e7d4919af308749f5785eee564320dfada" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[줄리아의 인생극장 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167898</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167898</guid>
-            <pubDate>Sat, 27 May 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e24353b203b85cce0f90728bc43f8cfe283997" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[토리와 로키타 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160408</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160408</guid>
@@ -920,12 +912,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F40e36586854a567747b64f58f323b65a798faacd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리바운드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=130429</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=130429</guid>
-            <pubDate>Tue, 21 Mar 2023 08:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F541382b0a4105163dc37e4aba7d44e8c115b72d6" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[줄리아의 인생극장 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167898</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167898</guid>
+            <pubDate>Sat, 27 May 2023 03:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e24353b203b85cce0f90728bc43f8cfe283997" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[내 아내 이야기 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152001</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152001</guid>
+            <pubDate>Sun, 28 May 2023 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b9cae7a5bb69a3ab5350d83214f4f92dc90424b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시3 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -952,14 +952,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1dd23ff0117caadf6e2fc7db6184eec157e8d8f5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[말없는 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157903</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157903</guid>
-            <pubDate>Fri, 19 May 2023 05:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cdc596cb0d48c05d2210f7ebadab55587c0e179" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드림팰리스 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163850</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163850</guid>
@@ -974,6 +966,14 @@
             <pubDate>Wed, 24 May 2023 02:37:51 GMT</pubDate>
             <content:encoded><![CDATA[23.05.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e966c82db5e030b35a7d8afaacb243bac43ddcb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[말없는 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157903</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157903</guid>
+            <pubDate>Fri, 19 May 2023 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cdc596cb0d48c05d2210f7ebadab55587c0e179" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[세인트 세이야: 더 비기닝 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1048,6 +1048,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F683b5aa1118029a13eb27ffb766b40b2b157cb7e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[익스트림 페스티벌 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169987</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169987</guid>
+            <pubDate>Sun, 28 May 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde6cc50d966aa3eb9f0f2d24a643157cb123e58f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[나의 사소한 슬픔 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153681</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153681</guid>
@@ -1078,14 +1086,6 @@
             <pubDate>Tue, 23 May 2023 13:24:20 GMT</pubDate>
             <content:encoded><![CDATA[23.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd1628ac0720f5689d6957f3161012f72921a4d2e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[적인걸: 음양미인도 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169602</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169602</guid>
-            <pubDate>Fri, 26 May 2023 23:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1da2080d98be10fbe092c3a58e4eab6781f87e26" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레슬러 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2008,6 +2008,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['폐막' 제76회 칸영화제, 쥐스틴 트리에 황금종려상…송강호 시상자 활약 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230528121458828</link>
+            <guid>https://v.daum.net/v/20230528121458828</guid>
+            <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 제76회 칸국제영화제에서 영화 '아나토미 오브 어 폴'을 연출한 프랑스 여성 감독 쥐스틴 트리에가 최고상인 황금종려상을 수상했다. 27일(현지시간) 프랑스 칸의 뤼미에르 대극장에서 제76회 칸국제영화제 폐막식이 열렸다.&nbsp; 이날 폐막식과 함께 열린 시상식에서 황금종려상의 영예는 '아나토미 오브 어 폴'을 연출한 쥐스틴 트리에에게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fxportsnews%2F20230528121500040pedo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[8년만에 극적 부활, 죽어가던 시리즈 되살린 두 남자 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230528121202802</link>
+            <guid>https://v.daum.net/v/20230528121202802</guid>
+            <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 지난 2021년에 개봉한 &lt;스파이더맨:노 웨이 홈&gt;은 세계적으로 19억 2100만 달러의 흥행성적을 기록하며 역대 세계흥행 7위에 이름을 올리고 있다(박스오피스 모조 기준). &lt;스파이더맨: 노 웨이 홈&gt;에서 관객들이 가장 열광했던 장면은 단연 샘 레이미 감독이 연출한 &lt;스파이더맨&gt; 3부작의 주인공 토비 맥과이어와 &lt;어메이징 스파이더맨&gt;의 주]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fohmynews%2F20230528121204057pwcv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[경쟁부문 못갔어도 韓 영화 다수 상영…K팝 스타들도 대거 참석 [칸 총결산]① (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230528120115608</link>
+            <guid>https://v.daum.net/v/20230528120115608</guid>
+            <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(칸=뉴스1) 고승아 기자 = 올해 한국영화는 5편의 장편과 2편의 단편 총 7편이 제76회 칸 국제영화제의 초청을 받았다. 국내 영화는 경쟁 부문에 진출하지 못했지만, 다양한 부문에서 소개돼 눈길을 끌었다. 지난해 남우주연상을 수상한 배우 송강호는 올해 8번 째 칸을 찾아 관록을 보여줬다. 여기에 K팝 스타들이 대거 참석해 화제성을 가져가기도 했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2FNEWS1%2F20230528120115695svmb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[여성감독 작품, 역대 3번째 황금종려상…할리우드 스타들도 화제 [칸 총결산]② (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230528120110605</link>
+            <guid>https://v.daum.net/v/20230528120110605</guid>
+            <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(칸=뉴스1) 고승아 기자 = 제76회 칸 국제영화제가 11박 12일간 여정의 막을 내렸다. 할리우드 스타들의 방문 속에서 칸의 단골인 거장 감독들과 여러 여성 감독들이 경쟁을 펼쳤고, 그 결과 영화 '아나토미 오브 어 폴'(ANATOMIE D'UNE CHUTE)이 황금종려상을 수상하는 영예를 안았다. 27일 오후(이하 현지시간, 한국시간 28일 오전)]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2FNEWS1%2F20230528120111119gtsx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] 김선영X이윤지가 탄탄히 쌓아올린 '드림팰리스' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230528120108600</link>
+            <guid>https://v.daum.net/v/20230528120108600</guid>
+            <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 사진=영화 스틸컷배우 김선영과 이윤지가 '드림팰리스'를 탄탄하게 쌓아올렸다. '드림팰리스'는 남편의 목숨값으로 장만한 아파트를 지키려는 두 여자의 고군분투를 담은 소셜 리얼리즘 드라마. 산업재해로 남편을 잃은 '혜정'(김선영 분)과 '수인'(이윤지 분)은 진상규명을 위해 함께 싸운 사이. '혜정'은 합의금을 받고 싸움을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fstarnews%2F20230528120109807bzsb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[76th 칸 영화제] 쥐스틴 트리에, 황금종려상 수상...역대 세 번째 女 감독(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230528120014579</link>
+            <guid>https://v.daum.net/v/20230528120014579</guid>
+            <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["메르시 보꾸"...송강호, 여우주연상 시상자로 등장 블랙핑크 제니→에스파, 칸 빛낸 K-POP [더팩트｜박지윤 기자] 쥐스틴 트리에 감독의 'Anatomy of a Fall(아나토미 오브 어 폴)'이 칸 국제영화제 최고상인 황금종려상을 거머쥐었다. 27일(이하 현지시간) 프랑스 칸 뤼미에르 대극장에서 제76회 칸 국제영화제 폐막식이 열렸다. 이날 쥐스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2FTHEFACT%2F20230528120015820joqj.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[흑인 인어공주, 외모 품평까지... 우려 날려버린 '인어공주' (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230528112401132</link>
             <guid>https://v.daum.net/v/20230528112401132</guid>
@@ -2118,54 +2166,6 @@
             <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘아나토미 오브 어 폴’을 연출한 프랑스 여성 감독 쥐스틴 트리에가 27일(현지시간) 폐막한 제76회 칸국제영화제에서 최고 영예인 황금종려상을 품에 안았다. ‘아나토미 오브 어 폴’은 남편을 살해한 혐의를 벗으려는 여성에 관한 이야기를 담았다. 여성 감독이 황금종려상을 수상한 건 역대 세 번째다. ‘피아노’(1993)의 제인 캠피온이 최초였고, 최근에는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fmunhwa%2F20230528082709027jwmd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[달리는 모두에게 건네는 응원 편지, '스프린터' [스크린PICK] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230528080108337</link>
-            <guid>https://v.daum.net/v/20230528080108337</guid>
-            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 개봉 영화를 소개합니다. 스프린터 은퇴만 남은 신기록 보유자 ‘현수’, 최고의 자리를 잃을까 두려운 ‘정호’, 유망주였지만 팀 해체 위기에 놓인 ‘준서’. 그래도 계속 달려야 하니까. 제자리에. 차렷, GO! 농구 소재 애니메이션 ‘더 퍼스트 슬램덩크’를 시작으로, 실화 바탕의 농구 영화 ‘리바운드’, 홈리스 월드컵 소]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2FEdaily%2F20230528080110668yllx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[양조위x곽부성 '풍재기시', 강렬한 카리스마 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230528075811271</link>
-            <guid>https://v.daum.net/v/20230528075811271</guid>
-            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '풍재기시' 측이 배우 양조위와 곽부성의 압도적 앙상블과 화려한 볼거리를 기대케 하는 보도스틸을 공개했다. '풍재기시'(감독 옹자광, 수입 티미디어, 배급 빅브라더스)는 1960년대 영국령 홍콩. 삼합회와 경찰 조직을 장악해 비즈니스 제국을 설계한 엘리트 브레인 남강(양조위 분)과 신분 상승을 꿈꾸는 행동파 뇌락(곽부성 분]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fpoctan%2F20230528075811873arcg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시3' 개봉 전 프리미어 상영부터 2위…기대작 맞네 [美친 box] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230528074807148</link>
-            <guid>https://v.daum.net/v/20230528074807148</guid>
-            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 개봉 전 프리미어를 진행한 영화 ‘범죄도시3’가 박스오피스 2위에 올라 눈길을 끈다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(27일) ‘범죄도시3’는 14만 2679명이 들어 일별 박스오피스 전체 2위에 올랐다. ‘범죄도시3’(감독 이상용, 배급 에이비오엔터테인먼트・플러스엠 엔터테인먼트, 제작 빅펀치픽처스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fpoctan%2F20230528074807542eoss.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[장영남 "송강호 연기 구경하느라, 내 애드리브 준비 못해" [칸 리포트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230528071701805</link>
-            <guid>https://v.daum.net/v/20230528071701805</guid>
-            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 장영남이 송강호를 향한 믿음을 드러냈다. 장영남은 26일 오후(현지시간) 프랑스 남부 칸 팔레 데 페스티벌 영화진흥위원회 부스에서 영화 '거미집' 관련 인터뷰를 진행했다. 장영남은 '푸른소금'에 이어 '거미집'에서 다시 한 번 송강호를 만났다. '거미집'에서 송강호는 김기열 감독, 장영남은 김기열 감독이 만드려는 이야기를 이해하지 못하고 반대하는 프로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fdailian%2F20230528071703346wzvk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['거미집' 임수정, 좋은 배우가 되겠다는 다짐 [칸 리포트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230528071658804</link>
-            <guid>https://v.daum.net/v/20230528071658804</guid>
-            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 임수정이 20년 만에 김지운 감독과 함께한 '거미집'으로 칸 국제영화제에 입성했다. '장화 홍련'(2003)으로 배우의 출발선에 선 임수정의 가능성을 끄집어내줬던 김지운 감독은 20년이 흐른 뒤에는 새로운 얼굴을 발견해 줬다. 임수정은 자신이 왜 영화를 좋아했고, 연기를 사랑했는지 '거미집'을 작업하면서 다시 한 번 온 몸으로 느끼고 있다. 26일 오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fdailian%2F20230528071701356vopp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[스한:BOX] '분노의 질주10' 2주차 주말도 점령…'범죄도시3' 2위 진입 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230528070958695</link>
-            <guid>https://v.daum.net/v/20230528070958695</guid>
-            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '분노의 질주: 라이드 오어 다이'가 개봉 2주차 주말 극장가를 점령했다. 마동석 주연의 '범죄도시3'는 개봉 전 유료 시사회로 단숨에 박스오피스 2위에 진입했다. 28일 영진위 통합전산망 집계에 따르면 '분노의 질주: 라이드 오어 다이'는 전날&nbsp;14만4362명의 관객을 동원, 박스오피스 1위를 차지했다. 누적 관객 수는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2FSpoHankook%2F20230528071001731rtdd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
