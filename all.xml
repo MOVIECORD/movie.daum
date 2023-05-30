@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 09:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 10:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=167558</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167558</guid>
             <pubDate>Tue, 02 May 2023 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,447,506명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,447,504명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fed61e73b455aba36c3c4b434b6fafe2944e698" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -824,14 +824,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a969d22500d00bf312707c53dc5433bcf942c68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[메리 마이 데드 바디 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163878</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163878</guid>
-            <pubDate>Tue, 02 May 2023 06:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[슈퍼 마리오 브라더스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154241</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154241</guid>
@@ -848,12 +840,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdea3a62914133f571a8a7ef336d893f096426335" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
-            <pubDate>Tue, 11 Apr 2023 14:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[메리 마이 데드 바디 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163878</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163878</guid>
+            <pubDate>Tue, 02 May 2023 06:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스프린터 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -902,6 +894,14 @@
             <pubDate>Wed, 10 May 2023 01:22:22 GMT</pubDate>
             <content:encoded><![CDATA[23.05.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d2892c758240006ffb4c0ba3e91ded61223e0a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드림 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135762</guid>
+            <pubDate>Tue, 11 Apr 2023 14:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[줄리아의 인생극장 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2039,6 +2039,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[先 캐스팅·後 시나리오…주연 4명의 매력은 (익스트림 페스티벌)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230530185003718</link>
+            <guid>https://v.daum.net/v/20230530185003718</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '익스트림 페스티벌' 김홍기 감독이 출연 배우들에 대한 애정을 드러냈다. 30일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '익스트림 페스티벌'(감독 김홍기)의 언론시사회가 진행됐다. 현장에는 배우 김재화, 조민재, 박강섭, 장세림, 감독 김홍기가 함께했다. '익스트림 페스티벌'은 망하기 일보 직전 지역 축제를 무사히 개최하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F30%2Fxportsnews%2F20230530185007150njrs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['익스트림 페스티벌' 재기발랄한 코미디 속 강력한 묵직함 한방 [스한:현장](종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230530182658217</link>
+            <guid>https://v.daum.net/v/20230530182658217</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;삶의 모든 순간이 예측한 대로 흘러가지 않듯 전혀 예상하지 못한 순간 큭큭하고 소리내 웃게 되는 독특한 독립 장편 영화가 탄생했다. 단편 영화 '중성화'의 김홍기 감독과 주연배우 김재화, 조민재 그리고 독립영화계 숨은 연기파 박강섭과 눈에 띄는 신인 장세림이 뭉친 영화 '익스트림 페스티벌'이 그 주인공이다.&nbsp; 영화 '익스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F30%2FSpoHankook%2F20230530182703982szkb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[개봉 D-1 '범죄도시3', 변칙 개봉으로 1위? "이렇게 뜨거울 줄은…"[TEN무비] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230530180101359</link>
             <guid>https://v.daum.net/v/20230530180101359</guid>
@@ -2181,22 +2197,6 @@
             <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이준혁이 '범죄도시3' 빌런 캐릭터를 위해 체중 증량을 했던 당시를 떠올렸다. 이준혁은 30일 오전 서울 종로구 소격동의 한 카페에서 열린 영화 '범죄도시3'(감독 이상용) 인터뷰에서 다양한 이야기를 전했다. '범죄도시3'는 대체불가 괴물형사 마석도(마동석 분)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 주성]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F30%2Fxportsnews%2F20230530165159233opec.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['디즈니 최초 한국계 감독' 피터 손 "부모님, 애니메이터 반대" (엘리멘탈)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230530165143728</link>
-            <guid>https://v.daum.net/v/20230530165143728</guid>
-            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '엘리멘탈' 감독 피터 손이 영화에 담긴 자전적 이야기와 함께 자신의 어린 시절을 회상했다. 30일 오전 서울 용산구 CGV용산아이파크몰에서 영화 '엘리멘탈'(감독 피터 손)의 언론시사회와 내한 기자간담회가 진행됐다. 현장에는 피터 손 감독과 이채연 애니메이터가 함께했다. '엘리멘탈'은 불, 물, 공기, 흙 4원소가 살고 있는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F30%2Fxportsnews%2F20230530165144828crkq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[공감하는 부분, 하나쯤은 있겠지…K-축제로 그린 유쾌한 블랙 코미디 (익스트림 페스티벌)[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230530164859600</link>
-            <guid>https://v.daum.net/v/20230530164859600</guid>
-            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '익스트림 페스티벌'이 각양각색의 독특한 캐릭터로 현실 코미디를 선보인다. 30일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '익스트림 페스티벌'(감독 김홍기)의 언론시사회가 진행됐다. 현장에는 배우 김재화, 조민재, 박강섭, 장세림, 감독 김홍기가 함께했다. '익스트림 페스티벌'은 망하기 일보 직전 지역 축제를 무사히 개최]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F30%2Fxportsnews%2F20230530164900462wyet.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2359,6 +2359,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[후배 배우를 '지옥 훈련' 시키는 선배 톱스타의 모습(?) (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/uQkU3JPlYJ</link>
+            <guid>https://v.daum.net/v/uQkU3JPlYJ</guid>
+            <pubDate>Tue, 30 May 2023 10:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F30%2Ffeelthemovie%2F20230530183227698bbwr.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[정조 문화제라더니 갑자기 연산군 문화제로 바뀐 지역 축제 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/W4qgh5yPtQ</link>
             <guid>https://v.daum.net/v/W4qgh5yPtQ</guid>
@@ -2509,14 +2517,6 @@
             <pubDate>Sun, 28 May 2023 23:19:35 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F29%2Fmaxmovie%2F20230529080031490buna.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[9년 전, 안젤리나 졸리가 디즈니 마녀로 변신한 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/5ov9NMfOSd</link>
-            <guid>https://v.daum.net/v/5ov9NMfOSd</guid>
-            <pubDate>Sun, 28 May 2023 23:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F29%2Ffanzeel%2F20230529080030353knrv.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그가 사랑하는 해변과 모두의 율리시스를 향해. (다음 영화 ─ 브런치)]]></title>
