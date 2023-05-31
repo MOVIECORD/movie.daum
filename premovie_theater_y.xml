@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 11:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 12:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cdc596cb0d48c05d2210f7ebadab55587c0e179" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마인드케이지]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165156</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165156</guid>
-            <pubDate>Wed, 31 May 2023 10:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e966c82db5e030b35a7d8afaacb243bac43ddcb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[세인트 세이야: 더 비기닝]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169279</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169279</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 16 May 2023 23:17:26 GMT</pubDate>
             <content:encoded><![CDATA[23.05.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스프린터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
+            <pubDate>Wed, 31 May 2023 12:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
