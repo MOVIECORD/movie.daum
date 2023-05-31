@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 01:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 02:57:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 25 May 2023 21:15:36 GMT</pubDate>
             <content:encoded><![CDATA[23.06.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F683b5aa1118029a13eb27ffb766b40b2b157cb7e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[박하경 여행기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169817</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169817</guid>
+            <pubDate>Wed, 31 May 2023 02:55:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F664a8be869ea5fa32c456a516881a2022e94e8cb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈]]></title>
@@ -149,7 +157,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=167476</guid>
             <pubDate>Tue, 30 May 2023 23:17:14 GMT</pubDate>
             <content:encoded><![CDATA[23.06.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4e54605bc0ae45a363451f6d5ab9e089ca812732" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faba4ad78b86bedd4014b738b68e88e915aa0a686" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[자우림, 더 원더랜드]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 May 2023 23:17:14 GMT</pubDate>
             <content:encoded><![CDATA[23.06.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F816304398cc241d37ef83215fac3c5be82b4be6c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[익스트림 페스티벌]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169987</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169987</guid>
-            <pubDate>Tue, 30 May 2023 23:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde6cc50d966aa3eb9f0f2d24a643157cb123e58f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
