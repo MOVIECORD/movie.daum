@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 14:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 15:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호크와 도브]]></title>
+            <link>https://v.daum.net/v/6h99tytnVn</link>
+            <guid>https://v.daum.net/v/6h99tytnVn</guid>
+            <pubDate>Fri, 02 Jun 2023 15:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼히어로 스토리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F02%2Fhero_nitko%2F20230602233752081whye.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[그러고 보니 닮았네…남매 사이인 두 톱스타]]></title>
             <link>https://v.daum.net/v/VwOnQlrqwQ</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Jun 2023 15:20:25 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F02%2Fmaxmovie%2F20230602000117266dalo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[두 아들과 고등학교 축제 참석한 아들 넷 맘 김혜수]]></title>
-            <link>https://v.daum.net/v/5Io3X27ASS</link>
-            <guid>https://v.daum.net/v/5Io3X27ASS</guid>
-            <pubDate>Thu, 01 Jun 2023 14:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F01%2FBoiledMovie%2F20230601223204459miyw.png" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
