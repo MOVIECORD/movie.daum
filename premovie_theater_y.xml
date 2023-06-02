@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 01:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 02:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[라이드 온]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165530</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165530</guid>
-            <pubDate>Wed, 31 May 2023 01:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54803b17ca42700c3e7bcc6d153ae7e53f5fc1a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[슈퍼 마리오 브라더스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154241</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154241</guid>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 23 May 2023 23:17:37 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F353b6aea0624a60cfeb7a7d402e5e2409a22d28d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라이드 온]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165530</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165530</guid>
+            <pubDate>Wed, 31 May 2023 01:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54803b17ca42700c3e7bcc6d153ae7e53f5fc1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드림팰리스]]></title>
