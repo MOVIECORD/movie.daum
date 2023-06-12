@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 03:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 04:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
             <pubDate>Mon, 15 May 2023 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,782,867명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,782,865명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -172,7 +172,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
             <pubDate>Mon, 15 May 2023 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,782,867명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,782,865명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -906,14 +906,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a969d22500d00bf312707c53dc5433bcf942c68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[북 클럽: 넥스트 챕터 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167917</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167917</guid>
-            <pubDate>Wed, 07 Jun 2023 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6620cb49d827e63d8f1b7f92d2fd77253ac376b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[익스트림 페스티벌 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169987</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169987</guid>
@@ -936,6 +928,14 @@
             <pubDate>Mon, 15 May 2023 02:37:29 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F353b6aea0624a60cfeb7a7d402e5e2409a22d28d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[북 클럽: 넥스트 챕터 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167917</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167917</guid>
+            <pubDate>Wed, 07 Jun 2023 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6620cb49d827e63d8f1b7f92d2fd77253ac376b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑하는 당신에게 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -986,20 +986,27 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e400b5accb1ba88ad13adad4c8b3b962812a1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[슈가: 로드 투 디데이 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170729</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170729</guid>
-            <pubDate>Thu, 08 Jun 2023 09:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08fa9fe6c0a8ce063218ad8d1c49c2afe7e73bf7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너의 눈을 들여다보면 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157799</guid>
             <pubDate>Sun, 21 May 2023 02:38:56 GMT</pubDate>
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb4c63878196d7f0c5bcad7b8d55b76e9f1661d8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비의도적 연애담 스페셜 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171202</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171202</guid>
+            <pubDate>Mon, 12 Jun 2023 04:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슈가: 로드 투 디데이 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170729</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170729</guid>
+            <pubDate>Thu, 08 Jun 2023 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08fa9fe6c0a8ce063218ad8d1c49c2afe7e73bf7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파이어하트 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1096,14 +1103,6 @@
             <pubDate>Sat, 10 Jun 2023 14:15:42 GMT</pubDate>
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F423d7b7b0ce9a65c62290b2fcc27f737d8f8ae56" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[순응자 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=20295</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=20295</guid>
-            <pubDate>Sun, 11 Jun 2023 04:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe89e19f7fce874296eee4f628cd5fab4a6a8496a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[과학자를 그리다 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1834,6 +1833,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9abfeea71acf46effa9ccea94a45c6145d1fa2e4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[캐스트 어웨이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2635</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2635</guid>
+            <pubDate>Mon, 12 Jun 2023 04:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F20655F164B594AED53" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범블비 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111384</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111384</guid>
+            <pubDate>Mon, 12 Jun 2023 04:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bc2bd35935e431a94711bba5a7fd45a1544769242732" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라이언 일병 구하기 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1172</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1172</guid>
+            <pubDate>Mon, 12 Jun 2023 04:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F182A0F144A27C0E201" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42723</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42723</guid>
+            <pubDate>Mon, 12 Jun 2023 04:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f94c40d2f725599fff0dc14d25b11fa0d9ea6f6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머 3 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=53935</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=53935</guid>
+            <pubDate>Mon, 12 Jun 2023 04:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F155C534F4DECA59931" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머: 사라진 시대 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=74823</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=74823</guid>
+            <pubDate>Mon, 12 Jun 2023 04:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2664CC495387E8E60E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엄마의 레시피 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=108048</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=108048</guid>
@@ -1970,6 +2017,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a8ab1dc3f771b8d54e4fc9c4e0a543c8e3007df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[공식] 차승원, 박찬욱 첫 넷플릭스 각본 영화 '전,란' 출연 확정 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230612131959166</link>
+            <guid>https://v.daum.net/v/20230612131959166</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 차승원이 넷플릭스 영화 '전,란'(김상만 감독, 모호필름·세미콜론 스튜디오 제작)에 출연한다. YG엔터테인먼트는 12일 박찬욱 감독이 제작, 각본에 참여하고 김상만 감독이 연출하는 넷플릭스 영화 '전,란'에 차승원의 출연 소식을 알리며, 그의 활발한 활동을 예고했다. 차승원은 임진왜란이 발발하자 나라와 백성들을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2FSpoChosun%2F20230612131959828vnmi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석이 귀띔한 '범죄도시4', "김무열 옆 숨겨진 인물 있어" [HI★인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230612130810993</link>
+            <guid>https://v.daum.net/v/20230612130810993</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[괴물형사 마석도의 위력은 역시나 대단했다. 영화 '범죄도시3'가 개봉 2주 차 주말 130만 명이 넘는 관객을 끌어모으며 누적 관객 800만 명 돌파를 눈앞에 두고 있다. 또다시 천만 영화가 탄생하리라는 기대감이 높다. '범죄도시' 세 번째 시리즈는 광역수사대에서 일하게 된 형사 마석도가 쫓던 살인 사건이 신종 마약 유통과 관련이 있다는 걸 알게 되면서 벌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2Fhankooki%2F20230612130816121xhwk.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 김선호 "욕설 어색해 연습…말투가 호의적이라고" [인터뷰]② (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230612123907580</link>
+            <guid>https://v.daum.net/v/20230612123907580</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 배우 김선호가 ‘귀공자’로 첫 스크린 주연작에 도전한 솔직한 소감과 함께 욕설, 액션 등 쉽지 않았던 캐릭터 도전 과정을 털어놨다. 김선호는 12일 오전 서울 종로구 소격동의 한 카페에서 영화 ‘귀공자’의 개봉을 앞두고 취재진과 작품에 대한 이야기를 나눴다. 오는 21일 개봉을 앞둔 ‘귀공자’는 필리핀 불법 경기장을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2FEdaily%2F20230612123910481ghgi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[“더는 폐 끼칠 수 없어” 김선호, 자신을 돌아본 시간들(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230612121805359</link>
             <guid>https://v.daum.net/v/20230612121805359</guid>
@@ -2104,30 +2175,6 @@
             <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠투데이 서지현 기자] '범죄도시3'가 박스오피스를 점령했다. 12일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 주말(9일~11일) 영화 '범죄도시3'는 132만3113명이 관람하며 누적 778만2867명을 기록했다. 이로써 '범죄도시3'는 개봉 이후 맞이한 두 번째 주말에 770만을 돌파하며 800만 관객 동원을 눈앞에 두고 있다. 2위는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2Fsportstoday%2F20230612110705183srcx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김선호 "사생활 논란, 나를 돌아본 시간..폐 끼치지 않으려 노력"[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230612110358432</link>
-            <guid>https://v.daum.net/v/20230612110358432</guid>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 배우 김선호가 12일 오전 서울 종로구 삼청동의 한 카페에서 진행된 영화 '귀공자' 개봉 관련 인터뷰를 위해 포즈를 취하고 있다.  김선호는 극 중 마르코(강태주 분)를 쫓는, 갑자기 나타난 맑은 눈의 광인 '귀공자'(김선호 분) 역할을 맡았다.   '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 '마르코' 앞에 정체불명의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2Fstarnews%2F20230612111207390morw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김선호 “더이상 폐 끼치지 않아야겠단 생각 뿐이었다”(귀공자)[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230612110259384</link>
-            <guid>https://v.daum.net/v/20230612110259384</guid>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 김선호가 스크린 첫 주연으로 대중 앞에 복귀하는 소감을 밝혔다. 영화 '귀공자'(감독 박훈정)에 출연한 김선호는 6월 12일 서울 종로구 모처에서 진행된 인터뷰를 통해 개봉을 앞둔 소회를 전했다. 오는 21일 개봉하는 영화 '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 ‘마르코’ 앞에 정체불명의 남자 ‘귀공자’를 비롯한 각기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2Fnewsen%2F20230612110302962kmuz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰②] 김선호 "첫 스크린 주연, 부족한 내 연기 보며 소리지를 뻔"('귀공자') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230612105859075</link>
-            <guid>https://v.daum.net/v/20230612105859075</guid>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 김선호(37)가 "첫 주연작, 내 부족한 연기 보면서 소리지를 뻔 했다 "고 말했다. 김선호가 12일 오전 스포츠조선과 인터뷰를 통해 액션 누아르 영화 '귀공자'(박훈정 감독, 영화사 금월 제작)로 데뷔 14년 만에 첫 스크린 도전에 나선 감회를 전했다. '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 앞]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2FSpoChosun%2F20230612105859699inhr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2290,6 +2337,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[엄마를 닮아서 너무 예쁘따는 장서희의 딸 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/Q5V1iG0gtF</link>
+            <guid>https://v.daum.net/v/Q5V1iG0gtF</guid>
+            <pubDate>Mon, 12 Jun 2023 04:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F12%2Ffeelthemovie%2F20230612123034606bcsn.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[24년 전에 개봉한 '알라딘' 감독의 레전드 데뷔작 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/KMhqWPnXsx</link>
             <guid>https://v.daum.net/v/KMhqWPnXsx</guid>
@@ -2440,14 +2495,6 @@
             <pubDate>Sat, 10 Jun 2023 04:21:52 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F10%2Ffanzeel%2F20230610130022654wjuh.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 떠난 반려견 위해 만든 동화책 수익 전액 기부한 '범죄도시' 빌런 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/yrl8NlXeEy</link>
-            <guid>https://v.daum.net/v/yrl8NlXeEy</guid>
-            <pubDate>Sat, 10 Jun 2023 04:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F10%2FBoiledMovie%2F20230610123012612ebar.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[어디서 MCU 냄새가 나는 것 같은데 (다음 영화 ─ 브런치)]]></title>
