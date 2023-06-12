@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 04:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 05:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<그 여름>, 그 새의 이름을 알았다.]]></title>
+            <link>https://brunch.co.kr/@@eHDb/34</link>
+            <guid>https://brunch.co.kr/@@eHDb/34</guid>
+            <pubDate>Mon, 12 Jun 2023 05:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권순범]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeHDb%2Fimage%2F3BL_N3FHToqvlnaAc2CF2dSndOU.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[어디서 MCU 냄새가 나는 것 같은데]]></title>
             <link>https://brunch.co.kr/@@5jTv/217</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 May 2023 09:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>포미]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeZEz%2Fimage%2FAwAFM0JQfUbX_Ah5uPJJaxhxIKU.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이상과 현실의 경계에 놓인 아이들의 이야기]]></title>
-            <link>https://brunch.co.kr/@@e7mT/28</link>
-            <guid>https://brunch.co.kr/@@e7mT/28</guid>
-            <pubDate>Wed, 24 May 2023 09:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>안녕 박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe7mT%2Fimage%2FGgn46uFuSszyZhCB6u7zR1VR1Mw.JPEG" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
