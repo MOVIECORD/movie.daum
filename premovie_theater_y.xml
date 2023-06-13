@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 01:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 02:44:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,22 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faba4ad78b86bedd4014b738b68e88e915aa0a686" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[익스트림 페스티벌]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169987</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169987</guid>
-            <pubDate>Wed, 07 Jun 2023 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde6cc50d966aa3eb9f0f2d24a643157cb123e58f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는 당신에게]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162219</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162219</guid>
-            <pubDate>Sun, 11 Jun 2023 13:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29d3c0a889d64ffd2cddf39d7a4d04432b025918" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드림팰리스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163850</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163850</guid>
@@ -166,6 +150,22 @@
             <pubDate>Wed, 07 Jun 2023 09:17:55 GMT</pubDate>
             <content:encoded><![CDATA[23.06.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6620cb49d827e63d8f1b7f92d2fd77253ac376b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[익스트림 페스티벌]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169987</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169987</guid>
+            <pubDate>Wed, 07 Jun 2023 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde6cc50d966aa3eb9f0f2d24a643157cb123e58f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑하는 당신에게]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162219</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162219</guid>
+            <pubDate>Sun, 11 Jun 2023 13:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29d3c0a889d64ffd2cddf39d7a4d04432b025918" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
