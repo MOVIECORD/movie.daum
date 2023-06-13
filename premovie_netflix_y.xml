@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 03:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 04:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Mon, 12 Jun 2023 04:22:01 GMT</pubDate>
             <content:encoded><![CDATA[23.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2664CC495387E8E60E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러 오브 러브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171142</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171142</guid>
+            <pubDate>Tue, 13 Jun 2023 04:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F65fdb5beebcd52ed86464f5bbf9cc02e11d70ee8" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
