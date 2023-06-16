@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 02:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 03:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 16 Jun 2023 01:43:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FsWL1d1yicZatgmXt0lrEpiQO_XU.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[기대보다 익숙한 교훈극]]></title>
+            <link>https://brunch.co.kr/@@1ibV/1119</link>
+            <guid>https://brunch.co.kr/@@1ibV/1119</guid>
+            <pubDate>Fri, 16 Jun 2023 03:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FMr6PpgNcHJlTMueyBMJh-ItOoms.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[박훈정 액션 세계관의 새로운 장, '귀공자']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Jun 2023 02:52:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F8sHW5L-SYfnsNSIuwaZASB4lGW4.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<가디언즈 오브 갤럭시: Volume3>, 말,음악,춤]]></title>
-            <link>https://brunch.co.kr/@@eHDb/32</link>
-            <guid>https://brunch.co.kr/@@eHDb/32</guid>
-            <pubDate>Fri, 02 Jun 2023 02:52:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>권순범]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeHDb%2Fimage%2Fl-H3bNO98p_4uGu0YM_aSss1GLo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
