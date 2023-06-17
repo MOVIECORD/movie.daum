@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 10:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 11:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,6 +63,14 @@
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
+            <pubDate>Thu, 15 Jun 2023 06:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a9630c05575cb2b73eb29d62d96eb160f3e0444" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[1986 그 여름, 그리고 고등어통조림]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163076</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163076</guid>
@@ -85,14 +93,6 @@
             <pubDate>Tue, 13 Jun 2023 23:16:00 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F624e3ff08dffc113e89615e0d45904595a32ded6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
-            <pubDate>Thu, 15 Jun 2023 06:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a9630c05575cb2b73eb29d62d96eb160f3e0444" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름날 우리]]></title>
