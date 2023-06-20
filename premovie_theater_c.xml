@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,12 +119,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4f93712ef767eeb4f4a0cd1a67d741f26a148f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[인드림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158469</guid>
+            <pubDate>Wed, 14 Jun 2023 11:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faee031d0af3b4179ed54a4365e35ecc74c250a07" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[믿거나 말거나, 진짜야]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157813</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157813</guid>
             <pubDate>Wed, 14 Jun 2023 23:19:15 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde7ffcbee51ccc815ee9e4bc6c68ea1a89b5d69d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이닝]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3166</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3166</guid>
+            <pubDate>Tue, 20 Jun 2023 06:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9c60f9f3a9249adb6920ffe9dabd86b2a303a34" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름날 우리]]></title>
@@ -149,22 +165,6 @@
             <pubDate>Thu, 15 Jun 2023 23:18:31 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4900581af7192872b30cd831531a75ebc04101a1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인드림]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158469</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158469</guid>
-            <pubDate>Wed, 14 Jun 2023 11:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faee031d0af3b4179ed54a4365e35ecc74c250a07" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[살롱 드 서울]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164618</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164618</guid>
-            <pubDate>Fri, 16 Jun 2023 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc9d1947208ef1600b6ee6eb0ac1b821dfb7e659d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

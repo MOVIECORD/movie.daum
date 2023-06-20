@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -123,7 +123,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=164918</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164918</guid>
             <pubDate>Fri, 23 Dec 2022 12:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,687,034명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,687,009명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0aaca4b87c541b11085139bd941da0996a78ec1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -219,7 +219,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=164918</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164918</guid>
             <pubDate>Fri, 23 Dec 2022 12:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,687,366명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,687,341명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0aaca4b87c541b11085139bd941da0996a78ec1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -267,7 +267,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=151324</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151324</guid>
             <pubDate>Wed, 31 May 2023 15:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>36,814명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>36,786명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9b83519e440db774b1f0502747aed85320f504b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -832,20 +832,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b0eb68a4c944965ae78c83112bbb799c25b876b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
-            <pubDate>Wed, 10 May 2023 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너의 눈을 들여다보면 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157799</guid>
             <pubDate>Wed, 14 Jun 2023 01:41:29 GMT</pubDate>
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb4c63878196d7f0c5bcad7b8d55b76e9f1661d8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
+            <pubDate>Wed, 10 May 2023 02:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[제이홉 인 더 박스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1055,12 +1055,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4f93712ef767eeb4f4a0cd1a67d741f26a148f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[인드림 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158469</guid>
+            <pubDate>Wed, 14 Jun 2023 11:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faee031d0af3b4179ed54a4365e35ecc74c250a07" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[믿거나 말거나, 진짜야 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157813</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157813</guid>
             <pubDate>Wed, 14 Jun 2023 23:19:15 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde7ffcbee51ccc815ee9e4bc6c68ea1a89b5d69d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이닝 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3166</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3166</guid>
+            <pubDate>Tue, 20 Jun 2023 06:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9c60f9f3a9249adb6920ffe9dabd86b2a303a34" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1085,22 +1101,6 @@
             <pubDate>Thu, 15 Jun 2023 23:18:31 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4900581af7192872b30cd831531a75ebc04101a1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인드림 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158469</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158469</guid>
-            <pubDate>Wed, 14 Jun 2023 11:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faee031d0af3b4179ed54a4365e35ecc74c250a07" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[살롱 드 서울 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164618</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164618</guid>
-            <pubDate>Fri, 16 Jun 2023 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc9d1947208ef1600b6ee6eb0ac1b821dfb7e659d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기묘한 가족 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2173,6 +2173,54 @@
             <content:encoded><![CDATA[23.06.23]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[밀러 리스크 못 이겨낸 '플래시', '인어공주' 절반 수준의 오프닝 성적 기록 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230620150811039</link>
+            <guid>https://v.daum.net/v/20230620150811039</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '플래시'가 결국 에즈라 밀러의 사생활 논란에 대한 리스크를 이겨내지 못한 모양새다. 평론가 및 실관람객들의 극찬이 이어지고 있지만, 흥행 면에선 기대보다 못한 성적을 기록하고 있는 것. 심지어 '인디아나 존스' '미션 임파서블' 등 대형 프랜차이즈 작품들의 개봉까지 예고돼 있어 전망이 밝진 않은 상태이다. 19일(현지시간]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Ftvdaily%2F20230620150812653sxvg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김혜수 "데뷔 이래 가장 상스러워"…'밀수', 37년 차 배우도 신났다 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230620145007336</link>
+            <guid>https://v.daum.net/v/20230620145007336</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 기자) '밀수', 데뷔 37년 차에 접어든 배우 김혜수도 움직였다. 20일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '밀수'(감독 류승완) 제작발표회가 열렸다. 이 자리에는 배우 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시와 류승완 감독이 참석했다. '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fxportsnews%2F20230620145008565nkww.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['밀수' 김혜수, 톱배우의 입담·애티튜드…현장의 어록 여신[스타in 포커스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230620144839268</link>
+            <guid>https://v.daum.net/v/20230620144839268</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 방인권 기자] 배우 김혜수가 20일 서울 광진구 롯데시네마 건대입구점에서 열린 영화 ‘밀수’ 제작보고회에서 포토타임을 갖고 있다. 류승완 감독의 신작 영화  ‘밀수’는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극으로 오는 7월 26일  개봉예정이다.[이데일리 스타in 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FEdaily%2F20230620145147564wdzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨: 어크로스…', MCU보다 돋보이는 멀티버스 활용법 [시네마 프리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230620143007598</link>
+            <guid>https://v.daum.net/v/20230620143007598</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 마블 코믹스 '스파이더맨'의 영화 판권을 보유한 소니 픽처스에서 만든 '스파이더맨: 어크로스 더 유니버스'(감독 켐프 파워)는 새로운 스파이더맨 마일스 모랄레스(샤메익 무어 분)의 이야기를 그리는 작품이다. 전편인 '스파이더맨: 뉴 유니버스'(2018)에서 마일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FNEWS1%2F20230620143009248yodi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘밀수’ 홈페이지에서 만나는 70년대 주옥같은 OST (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230620142426378</link>
+            <guid>https://v.daum.net/v/20230620142426378</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '밀수'가 공식 홈페이지를 오픈, 다채로운 이벤트를 예고한다. 7월 26일 개봉하는 영화 '밀수'(감독 류승완)는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극. 6월 20일 오픈한 '밀수' 공식 홈페이지에는 영화 속 도시 ‘군천’을 배경으로 영화에 대한 정보부터 캐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fnewsen%2F20230620142428882fliw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[캡틴 아메리카의 그녀, 이젠 톰 크루즈 파트너로‥내한까지(미임파7) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230620141723140</link>
+            <guid>https://v.daum.net/v/20230620141723140</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 톰 크루즈가 선택한 액션 파트너 헤일리 앳웰의 활약이 기대를 모은다. 7월 12일 개봉하는 영화 '​미션 임파서블: 데드 레코닝 PART ONE'(감독 크리스토퍼 맥쿼리)은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 에단 헌트(톰 크루즈)와 IMF팀이 미스터리하고 강력한 적을 만나게 되면서 팀의 운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fnewsen%2F20230620141723159awrm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[김혜수 입담, ‘밀수’하고 싶네[스경X현장] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230620141621101</link>
             <guid>https://v.daum.net/v/20230620141621101</guid>
@@ -2283,54 +2331,6 @@
             <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[언니들이 돌아왔다. 배우 김혜수, 염정아가 영화 ‘밀수’로 여름 극장가를 찾아온다. 20일 오전 서울 광진구 롯데시네마 건대입구점에서 영화 ‘밀수’ 제작보고회가 개최됐다. 현장에는 배우 김혜수, 염정아를 비롯해 조인성, 박정민, 고민시, 김종수, 류승완 감독이 참석했다. ‘밀수’는 제작사 외유내강과 ‘모가디슈’ 류승완 감독의 신작으로 화제를 모았다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Filgansports%2F20230620122711236haex.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["'밀수', 노래교실 같던 현장"…김혜수·염정아의 빛나는 범죄활극 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230620122557086</link>
-            <guid>https://v.daum.net/v/20230620122557086</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 기자) '밀수' 팀이 화기애애한 분위기로 힘든 촬영을 완벽히 해냈다. 20일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '밀수'(감독 류승완) 제작발표회가 열렸다. 이 자리에는 배우 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시와 류승완 감독이 참석했다. '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fxportsnews%2F20230620122558778hizp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수' 김혜수 "많은 작품, 캐릭터 했지만 지금껏 연기 중 가장 상스러운 역할" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230620121742921</link>
-            <guid>https://v.daum.net/v/20230620121742921</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오전 영화 '밀수'의 제작보고회가 열렸다. 이날 행사에는 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시, 류승완 감독이 참석해 작품에 대해 이야기했다. 열 네살에 식모살이부터 시작해 돈이 되고, 자신의 몸을 지킬 수 있는 것이라면 무엇이든 해온 '조춘자'를 연기한 김혜수는 "마이웨이라는 말로 설명하듯 길이 없으면 길을 뚫고서라도 만들어 가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FiMBC%2F20230620121743520olmg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수' 염정아 "너무 그리워 눈물이 핑도는 현장, 그 가운데 김혜수가 있었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230620121642906</link>
-            <guid>https://v.daum.net/v/20230620121642906</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오전 영화 '밀수'의 제작보고회가 열렸다. 이날 행사에는 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시, 류승완 감독이 참석해 작품에 대해 이야기했다. 평생 물질만 하다 밀수판에 가담한 해녀들의 리더. 어린 시절부터 선장인 아버지 따라 바다를 놀이터 삼아 커온 그녀는 동네 해녀들을 다부지게 지켜온 해녀였지만, 살기 위해 밀수판에 가담하게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FiMBC%2F20230620121643450cash.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수' 조인성 "오랜만에 한국어 연기, 표독스러운 액션 기대해 달라" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230620121441863</link>
-            <guid>https://v.daum.net/v/20230620121441863</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오전 영화 '밀수'의 제작보고회가 열렸다. 이날 행사에는 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시, 류승완 감독이 참석해 작품에 대해 이야기했다. 사업가적인 면모와 악독한 기질로 밀수판을 접수한 전국구 밀수왕. 부산을 장악하고 전국구 밀수 1인자가 되었지만 부산항이 단속으로 인해 막히자 새로운 활로를 모색하던 중 춘자를 만난 '권 상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FiMBC%2F20230620121442601hzel.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수' 박정민 "엘비스 프레슬리의 재림, 연출 경험살려 뮤비도 찍어" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230620121241820</link>
-            <guid>https://v.daum.net/v/20230620121241820</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20일 오전 영화 '밀수'의 제작보고회가 열렸다. 이날 행사에는 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시, 류승완 감독이 참석해 작품에 대해 이야기했다. 카리스마 있는 춘자와 진숙 사이에서 찍 소리 한 번 못해보고 막내 역할에 충실해온 인물, 잠시 이들의 밀수판에 공백이 생기자 자신도 한번 인생을 바꿔볼 수 있겠다는 야망을 갖게 된 '장도리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FiMBC%2F20230620121242610qmtz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[모가디슈→밀수...조인성 "류승완 감독 전속 배우 된 느낌" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230620121159793</link>
-            <guid>https://v.daum.net/v/20230620121159793</guid>
-            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) '모가디슈'에 이어 '밀수'를 통해&nbsp;류승완 감독과 두 번째 호흡을 맞추는 조인성이 이제는 '류승완 전속 배우'가 된 것 같다고 말했다. 20일 오전 서울 광진구 롯데시네마 건대입구에서 '밀수' 제작보고회가 열렸다. 이날은 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시, 류승완 감독이 참석했으며, 진행은 방송인 박경]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FHockeyNewsKorea%2F20230620121202275qemn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2493,6 +2493,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[친구들로부터 사귀나 의심받던 동갑내기 남녀 스타 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/pOoacteWYS</link>
+            <guid>https://v.daum.net/v/pOoacteWYS</guid>
+            <pubDate>Tue, 20 Jun 2023 06:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Ffeelthemovie%2F20230620151018720ezmn.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[김혜수가 '공황장애' 극복하고 촬영했다는 신작 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/2oVH6s7Ak7</link>
+            <guid>https://v.daum.net/v/2oVH6s7Ak7</guid>
+            <pubDate>Tue, 20 Jun 2023 06:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2FBoiledMovie%2F20230620142626984ytbq.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[시상식서 반해 나중에 따로 보자 한 남녀스타,그 후… (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/3BG84dv8hK</link>
             <guid>https://v.daum.net/v/3BG84dv8hK</guid>
@@ -2637,22 +2653,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Ffanzeel%2F20230619145012717btia.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[이목구비마저 너무 닯은 최민식의 딸이라는 이 여성 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/HNkyikFLI2</link>
-            <guid>https://v.daum.net/v/HNkyikFLI2</guid>
-            <pubDate>Mon, 19 Jun 2023 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Ffeelthemovie%2F20230619144132900lbec.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[9년 전, 테러 위협 받았으나 사회를 바꿔버린 기적의 영화 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/5O0mAIqkmi</link>
-            <guid>https://v.daum.net/v/5O0mAIqkmi</guid>
-            <pubDate>Mon, 19 Jun 2023 02:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F19%2Ffanzeel%2F20230619113844412jgex.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[아름다운 4원소로 붓칠 한 사회문화 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@5jTv/221</link>
             <guid>https://brunch.co.kr/@@5jTv/221</guid>
@@ -2683,6 +2683,22 @@
             <pubDate>Tue, 20 Jun 2023 04:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김진만]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FZdN%2Fimage%2FKedsvxrOI_1xqcFJZxQLBCvt5i0.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[불 같은 나와 물 같은 네가 서로 끌리는 이유 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5fpi/496</link>
+            <guid>https://brunch.co.kr/@@5fpi/496</guid>
+            <pubDate>Tue, 20 Jun 2023 06:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FqH4-SsOsJjiahNAaF9ESwuNnEjQ.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 판타지가 필요하다 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@1b7J/181</link>
+            <guid>https://brunch.co.kr/@@1b7J/181</guid>
+            <pubDate>Tue, 20 Jun 2023 06:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>산책덕후 한국언니]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1b7J%2Fimage%2Fk6dX4CzCKe7vCNGPt8pwLGiN1R4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[인생은 짧지만 깁니다 (다음 영화 ─ 브런치)]]></title>
@@ -2795,22 +2811,6 @@
             <pubDate>Fri, 16 Jun 2023 03:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FMr6PpgNcHJlTMueyBMJh-ItOoms.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[내 맘대로 하는 영화 리뷰 <트랜스포머 비스트의 서막> (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@dXtR/69</link>
-            <guid>https://brunch.co.kr/@@dXtR/69</guid>
-            <pubDate>Fri, 16 Jun 2023 04:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXtR%2Fimage%2Fva6gEk7uVBnC7JmuzZh5XuMcgbQ.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<플래시> 재미는 있고 감동은 없는 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@1YTv/582</link>
-            <guid>https://brunch.co.kr/@@1YTv/582</guid>
-            <pubDate>Fri, 16 Jun 2023 04:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>서댐]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1YTv%2Fimage%2FlUeREni8gefkSRprtA4MLCoJH7E.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
