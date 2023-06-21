@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 07:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 08:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[분노의 질주: 라이드 오어 다이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167558</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167558</guid>
+            <pubDate>Wed, 21 Jun 2023 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fed61e73b455aba36c3c4b434b6fafe2944e698" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[인어공주]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=133193</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
@@ -156,14 +164,6 @@
             <pubDate>Wed, 21 Jun 2023 05:17:32 GMT</pubDate>
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe89e19f7fce874296eee4f628cd5fab4a6a8496a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙 워터: 어비스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142786</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142786</guid>
-            <pubDate>Wed, 21 Jun 2023 05:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cd2f3561e0bc6efdb3153871b83a3dc71ba1c0c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
