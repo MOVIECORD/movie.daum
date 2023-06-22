@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 08:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 09:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,6 +79,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b0eb68a4c944965ae78c83112bbb799c25b876b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[너의 눈을 들여다보면]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157799</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157799</guid>
+            <pubDate>Wed, 14 Jun 2023 01:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb4c63878196d7f0c5bcad7b8d55b76e9f1661d8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[남은 인생 10년]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
@@ -87,27 +95,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[206: 사라지지 않는]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154141</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154141</guid>
-            <pubDate>Thu, 22 Jun 2023 02:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4f93712ef767eeb4f4a0cd1a67d741f26a148f9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[마마무: 마이콘 더 무비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171347</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171347</guid>
             <pubDate>Wed, 21 Jun 2023 01:38:40 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[너의 눈을 들여다보면]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157799</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157799</guid>
-            <pubDate>Wed, 14 Jun 2023 01:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb4c63878196d7f0c5bcad7b8d55b76e9f1661d8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[제이홉 인 더 박스]]></title>
@@ -164,6 +156,14 @@
             <pubDate>Wed, 21 Jun 2023 07:17:28 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbba5ebdc0a4edab6b44ed2592227a39b179d52da" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스즈메의 문단속]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
+            <pubDate>Thu, 22 Jun 2023 09:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3a684ccaeb7aeac8e3f060ffe7249f7fe039443a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
