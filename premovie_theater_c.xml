@@ -4,9 +4,16 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 23:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 01:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
+            <pubDate>Fri, 23 Jun 2023 01:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
@@ -158,14 +165,6 @@
             <pubDate>Thu, 22 Jun 2023 23:21:36 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50538db134440e7338acf14731c73090d308879b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[좀비 사용 설명서]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149704</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149704</guid>
-            <pubDate>Thu, 22 Jun 2023 23:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff255d185a925af6db40d1409b29785d69bd1e3cd" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
