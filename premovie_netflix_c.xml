@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Sun, 11 Jun 2023 21:15:25 GMT</pubDate>
             <content:encoded><![CDATA[23.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F935615a6c9fa0a96043b2bfccc5c4a435dff7759" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[태그]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120111</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120111</guid>
+            <pubDate>Mon, 26 Jun 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb78ae52bdd2b93c08ef5b56d9cb3fe990763d504" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빌리 린의 롱 하프타임 워크]]></title>
@@ -376,6 +384,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F15110210A905C6E98A" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[북경의 왕]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111045</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111045</guid>
+            <pubDate>Mon, 26 Jun 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f670e30678c795e5caa840afb885cc7f26d3a65" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[건축학개론]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=67165</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=67165</guid>
@@ -534,6 +550,22 @@
             <pubDate>Mon, 19 Jun 2023 05:18:08 GMT</pubDate>
             <content:encoded><![CDATA[23.07.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F271DDE475362FB170B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가문의 영광5 - 가문의 귀환]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=72739</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=72739</guid>
+            <pubDate>Mon, 26 Jun 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1878894750C1115C33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[씽2게더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
+            <pubDate>Mon, 26 Jun 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
