@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 06:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 07:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
             <pubDate>Mon, 15 May 2023 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,667,555명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>9,667,553명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -793,20 +793,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀공자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
-            <pubDate>Wed, 07 Jun 2023 11:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F945e8e4423929dff36c16293be23eb703dd7afa5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 어크로스 더 유니버스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
             <pubDate>Fri, 09 Jun 2023 10:19:50 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀공자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
+            <pubDate>Wed, 07 Jun 2023 11:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F945e8e4423929dff36c16293be23eb703dd7afa5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시3 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -864,14 +864,6 @@
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
-            <pubDate>Wed, 10 May 2023 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
@@ -886,6 +878,14 @@
             <pubDate>Sat, 24 Jun 2023 03:01:25 GMT</pubDate>
             <content:encoded><![CDATA[23.06.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08fa9fe6c0a8ce063218ad8d1c49c2afe7e73bf7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
+            <pubDate>Wed, 10 May 2023 02:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[너의 눈을 들여다보면 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -991,20 +991,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909a0f122378faeb5609a5a9f652130d7efb79c3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[악마들 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158891</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158891</guid>
-            <pubDate>Wed, 21 Jun 2023 01:38:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69720ac488fc98d4171cf6c5769028a0e7c81a0b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[라방 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169992</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169992</guid>
             <pubDate>Wed, 21 Jun 2023 06:25:44 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F132925ee1e42a7666cf8151cd558df1fd3dea5cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[악마들 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158891</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158891</guid>
+            <pubDate>Wed, 21 Jun 2023 01:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69720ac488fc98d4171cf6c5769028a0e7c81a0b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[1986 그 여름, 그리고 고등어통조림 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2123,6 +2123,94 @@
             <content:encoded><![CDATA[23.07.04]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['악마들' 최귀화 "팀장 역할, 마석도가 시키는 것만 해봤는데" [ST현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626162205949</link>
+            <guid>https://v.daum.net/v/20230626162205949</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] '악마들' 최귀화가 같은 경찰 팀장 역할이면서도 다른 연기에 대해 언급했다. 26일 오후 서울시 용산구 CGV 용산아이파크몰에서 영화 '악마들'(연출 김재훈·제작 콘텐츠지) 언론배급시사회가 열려 김재훈 감독, 배우 장동윤, 오대환, 최귀화, 장재호가 참석했다. '악마들'은 검거의 순간 서로의 몸이 바뀐 희대의 살인마 진혁(장동윤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fsportstoday%2F20230626162206407bntb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['악마들' 오대환 "장동윤과 보디체인지 연기, 서로 말투 따라하지 말자 약속" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626162145937</link>
+            <guid>https://v.daum.net/v/20230626162145937</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 기자) 오대환과 장동윤이 서로의 몸이 바뀐 역을 소화한 비법을 전했다. 26일 오후 서울 용산구 CGV용산 아이파크몰에서 영화 '악마들'(감독 김재훈) 언론시사회가 진행됐다. 이 자리에는 김재훈 감독을 비롯해 배우 장동윤, 오대환, 최귀화, 장재호가 참석했다. '악마들'은 검거의 순간 서로의 몸이 바뀐 희대의 살인마 진혁(장동윤 분)과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fxportsnews%2F20230626162146666oede.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘악마들’ 오대환 “첫 주연? 모두가 고생한 덕에 해냈다” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626162102899</link>
+            <guid>https://v.daum.net/v/20230626162102899</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘악마들’ 오대환이 첫 주연을 맡은 소감을 밝혔다. 26일 오후 서울 CGV 용산 아이파크에서 영화 ‘악마들’ 시사회 및 간담회가 열렸다. 김재훈 감독과 배우 장동윤 오대환 최귀화 장재호가 참석했다. 오대환은 “제가 그동안 해왔던 드라마 영화보다 조금 많은 신을 소화했다. 이 영화 주인공은 현장에서 고생한 스태프들”이라고 말했다. 이어 “저희는 알고 있다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstartoday%2F20230626162104095vyid.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['악마들' 장동윤 "첫 악역, 살인 즐기는 인물에 이입 쉽지 않았다" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626161844817</link>
+            <guid>https://v.daum.net/v/20230626161844817</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 장동윤이 첫 악역을 소화하면서 감정 이입이 쉽지 않았다고 말했다. 장동윤은 26일 오후 서울 용산구 CGV 용산아이파크몰에서 진행된 영화 '악마들'(감독 김재훈)의 언론배급시사회 및 기자간담회에서 "어느 작품을 하든 매 작품마다 이렇게 연기했으면 어땠을까 아쉬움이 당연히 남는다, 진혁이라는 캐릭터가 워낙 강렬하고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2FNEWS1%2F20230626161845978iupo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘악마들’ 장동윤 “첫 악역 쉽지 않았다” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626161805797</link>
+            <guid>https://v.daum.net/v/20230626161805797</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[장동윤이 첫 악역을 연기한 소감을 밝혔다. 26일 오후 서울 CGV 용산 아이파크에서 영화 ‘악마들’ 시사회 및 간담회가 열렸다. 김재훈 감독과 배우 장동윤 오대환 최귀화 장재호가 참석했다. 장동윤은 “어느 작품을 하든 어떻게 하든 아쉬움이 남는다. 진혁이 극한의 감정을 표현하는 캐릭터라 신경을 많이 썼다”고 말했다. 이어 “감독님이 시나리오 집필한만큼 색]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstartoday%2F20230626161806267trmo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['악마들' 오대환 "데뷔 첫 영화 주연, 무게감보다 책임감" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626161649744</link>
+            <guid>https://v.daum.net/v/20230626161649744</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 용산CGV=김나연 기자] 사진='악마들' 스틸컷배우 오대환이 영화 '악마들'로 첫 주연을 맡은 소감을 전했다. 26일 서울시 용산구 CGV용산아이파크몰에서 영화 '악마들'의 언론배급시사회 및 기자간담회가 개최됐다. 이 자리에는 김재훈 감독, 장동윤, 오대환, 최귀화, 장재호가 참석해 다양한 이야기를 나눴다. '악마들'은 검거의 순간 서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstarnews%2F20230626161650485xakq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['악마들' 오대환 "1인 2역, 장동윤과 서로 말투 따라하지 않기로" [ST현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626161204515</link>
+            <guid>https://v.daum.net/v/20230626161204515</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] '악마들' 오대환과 장동윤이 1인 2역 연기 소감을 밝혔다. 26일 오후 서울시 용산구 CGV 용산아이파크몰에서 영화 '악마들'(연출 김재훈·제작 콘텐츠지) 언론배급시사회가 열려 김재훈 감독, 배우 장동윤, 오대환, 최귀화, 장재호가 참석했다. '악마들'은 검거의 순간 서로의 몸이 바뀐 희대의 살인마 진혁(장동윤)과 형사 재환(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fsportstoday%2F20230626161205244upnq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘악마들’ 장동윤, 잔혹한 연쇄살인마로 “극한의 감정 표현” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626160953423</link>
+            <guid>https://v.daum.net/v/20230626160953423</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 장동윤이 '악마들'을 통해 무자비한 연쇄살인마로 분한 소감을 밝혔다. 장동윤은 6월 26일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '악마들'(감독 김재훈) 언론 시사회 후 간담회를 통해 첫 악역에 도전한 소감을 밝혔다. 오는 7월 5일 개봉하는 영화 '악마들'은 검거의 순간 서로의 몸이 바뀐 희대의 살인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fnewsen%2F20230626160953297fmfd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[설경구·도경수 '더 문', 미국→프랑스 전 세계 155개국 선판매 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626160518210</link>
+            <guid>https://v.daum.net/v/20230626160518210</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 올여름 관객들에게 경이로운 달과 우주의 모습을 생생하게 전달할 영화 '더 문'(감독 김용화, 제공배급 CJ ENM, 제작 CJ ENM STUDIOS 블라드스튜디오)이 개봉 전 해외 155개국에 선판매되는 성과를 거뒀다. '더 문'은 미국, 캐나다, 싱가포르, 필리핀, 호주, 뉴질랜드, 독일, 스페인, 이탈리아, 대만, 태국 등]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fpoctan%2F20230626160519101klnx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["남에게 피해주지 않는 삶"..'사냥개들' 우도환의 다짐들 [★FULL인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626160010932</link>
+            <guid>https://v.daum.net/v/20230626160010932</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김미화 기자] 넷플릭스 시리즈 '사냥개들'의 배우 우도환이 14일 진행된 인터뷰를 위해 포즈를 취하고 있다. /사진제공=넷플릭스 2023.06.14 /사진=이동훈 기자 photoguy@ 배우 우도환이 '사냥개들'의 액션으로 한국을 넘어 전 세계를 사로잡았다. 최근  서울시 강남구 한 카페에서 넷플릭스 오리지널 시리즈 '사냥개들'의 주인공]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstarnews%2F20230626160012074obcu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘쌍천만’ 앞둔 ‘범죄도시3’, 매출액 1000억 육박 “마동석 파워”[MD픽] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626153705862</link>
+            <guid>https://v.daum.net/v/20230626153705862</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]쌍천만을 앞둔 ‘범죄도시3’가 1,000억원의 매출액에 육박하는 흥행세를 이어가고 있다. 미국매체 버라이어티는 25일(현지시간) “‘범죄도시3’가 5월 31일 개봉 이후 967만 장의 티켓을 판매해 7,320만 달러(약 955억원)를 벌어들이며 올해 개봉한 영화 중 가장 많은 수익을 올렸다”고 보도했다. 영진위 통합전산망에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fmydaily%2F20230626153705406fkvz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['어디로 가고 싶으신가요', 그럼에도 살아야 하는 이유 [유일무비] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230626145530872</link>
             <guid>https://v.daum.net/v/20230626145530872</guid>
@@ -2179,108 +2267,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2F10asia%2F20230626140110580nvee.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[로맨스 웹소설 실사화...'그녀가 좋아하는 것은', 7월 19일 개봉 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230626140031666</link>
+            <guid>https://v.daum.net/v/20230626140031666</guid>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=최은영 기자] 영화 '그녀가 좋아하는 것은'의 티저 포스터, 예고편이 공개됐다. 웹소설을 기반으로 만화, 드라마까지 큰 인기를 끈 슈퍼 IP 원작 영화 '그녀가 좋아하는 것은'이 오는 7월 19일(수) 개봉을 확정했다. '그녀가 좋아하는 것은'은 각자 좋아하는 것을 숨기고 살아가던 안도(카미오 후주 분)와 미우라(야마다 안나 분)가 우연히 서점]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Ftvreport%2F20230626140032473dyvu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['콘크리트 유토피아', 독창적인 스토리와 압도적 규모의 프로덕션 예고 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230626135244406</link>
             <guid>https://v.daum.net/v/20230626135244406</guid>
             <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 영화 '콘크리트 유토피아'가 배우와 제작진의 뜨거운 열정을 담은 '황궁 아파트 입주 기록' 영상을 공개했다. '콘크리트 유토피아'는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야기를 그린 재난 드라마다. 이번에 공개된 '황궁 아파트 입주 기록' 영상은 이제껏 보지 못했던]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fmydaily%2F20230626135244997kqsm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ‘내한’ 아라키 유코 “김고은 ‘작은 아씨들’에 푹 빠졌어요” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626134802271</link>
-            <guid>https://v.daum.net/v/20230626134802271</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일본 배우 아라키 유코(30)가 한일합작 영화 ‘씨 히어 러브(SEE HEAR LOVE)’로 한국을 찾았다. 모델 출신 아라키 유코는 영화와 드라마를 오가며 활발하게 활동 중이다. 영화 ‘거짓말쟁이 미군과 고장난 마짱’ ‘사토시의 청춘’ ‘닥터헬기 긴급구명’ 등에 출연했다. 한국의 인기 드라마 ‘이태원 클라쓰’의 리메이크작 ‘롯폰기 클라쓰’에서 오수아 역으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstartoday%2F20230626134804488rfuj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘악마들’, ’범죄도시3’ 흥행열기 잇는다..韓 범죄 액션 스릴러 릴레이 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626134528199</link>
-            <guid>https://v.daum.net/v/20230626134528199</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=강서정 기자] 웰메이드 액션 스릴러 ‘악마들’(감독 김재훈)이 ‘범죄도시3’의 흥행 열기를 이어갈 다음 주자로 나선다. ‘악마들’은 검거의 순간 서로의 몸이 바뀐 희대의 살인마 ‘진혁’과 형사 ‘재환’, 둘의 대결을 그린 바디체인지 액션 스릴러.&nbsp;㈜콘텐츠지 제작, 바디체인지 소재와 스릴러 장르의 획기적인 접목으로 화제를 모으는 영화 ‘악마들’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fpoctan%2F20230626134529682ykei.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[“톱 인플루언서들의 세계로 들어오세요”[스경X현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626133350888</link>
-            <guid>https://v.daum.net/v/20230626133350888</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박규영과 강민혁이 톱 인플루언서들의 갈등, 권력 다툼이 섬세하게 살아있는 세계로 초대한다. OTT플랫폼 넷플릭스 새 시리즈 ‘셀러브리티’(감독 김철규)서 생동감 넘치는 SNS 셀러브리티들의 삶을 공개한다. 26일 오전 서울 마포구 호텔 나루 서울 엠갤러리에서 진행된 ‘셀러브리티’ 제작발표회엔 박규영, 강민혁, 이청아, 이동건, 전효성, 김철규 감]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fsportskhan%2F20230626133351762xywi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['엘리멘탈' 박스오피스 1위 역주행, 입소문 제대로 탔다 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626122007546</link>
-            <guid>https://v.daum.net/v/20230626122007546</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 디즈니·픽사 애니메이션 '엘리멘탈'이 개봉 2주차에 입소문 흥행을 타고 박스오피스 역주행을 기록했다. 지난 14일 개봉된 영화 '엘리멘탈'(감독 피터 손)은 불, 물, 공기, 흙 4원소가 살고 있는 ‘엘리멘트 시티’에서 재치 있고 불처럼 열정 넘치는 '앰버'가 유쾌하고 감성적이며 물 흐르듯 사는 '웨이드'를 만나 특별한 우정을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Ftvdaily%2F20230626122010923ugba.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[“SNS의 명과 암”..꽃들의 민낯보러 왔단다, ‘셀러브리티’[MK현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626120901347</link>
-            <guid>https://v.daum.net/v/20230626120901347</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김철규 감독은 26일 오전 마포동 호텔 나루에서 열린 넷플릭스 오리지널 시리즈 ‘셀러브리티’ 제작발표회에서 “인스타그램으로 대표되는 SNS 세계는 생긴지 얼마 안 됐고, 젊은 세대들이 압도적으로 많이 이용한다”고 운을 뗐다. 김 감독은 “그 안에서 다뤄지는 내용들도 핫하고 힙하고 유행의 최첨단에 있다”면서 “‘셀러브리티’의 그런 이야기와 이미지로 에피소드를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstartoday%2F20230626120904915moxa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘셀러브리티’ 감독 “아이키·이사배 출연, 현실성 중요했다” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626120540278</link>
-            <guid>https://v.daum.net/v/20230626120540278</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[OTT플랫폼 넷플릭스 새 시리즈 ‘셀러브리티’ 김철규 감독이 아이키, 이사배 등 유명 인플루언서들이 대거 출연한 이유를 밝혔다. 김철규 감독은 26일 오전 서울 마포구 호텔 나루 서울 엠갤러리에서 진행된 ‘셀러브리티’ 제작발표회에서 “이 드라마에 가장 중점을 두고 구현하려고 했던 건 현실감이었다. 진짜 이야기같은, 지금 길거리 나가면 만날 수 있는 사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fsportskhan%2F20230626120541731qebq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘오겜2 합류’...‘셀러브리티’된 박규영 “‘팔색조’ 칭찬 듣고파” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626120300207</link>
-            <guid>https://v.daum.net/v/20230626120300207</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박규영이 진정한 ‘셀러브리티’로 거듭날 전망이다. 박규영은 26일 오전 마포동 호텔 나루에서 열린 넷플릭스 오리지널 시리즈 ‘셀러브리티’ 제작발표회에서 “존경하는 김철규 감독님 작품에 출연할 수 있어서 감사드린다”고 인사했다. 그는 “SNS 통해서 정말 수많은 정보가 쏟아진다. 이제 우리 세상에 너무 깊이 들어와있어서 없으면 이상한 것 같다”면서 “SNS의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstartoday%2F20230626120301621vzxi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[박규영, ‘오겜2’ 출연설에…“‘셀러브리티’도 관심가져주길” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626120205187</link>
-            <guid>https://v.daum.net/v/20230626120205187</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박규영이 OTT플랫폼 넷플릭스 새 시리즈 ‘오징어 게임’ 시즌2 출연설에 휩싸인 가운데, 관련 질문엔 조심스러운 입장을 내비쳤다. 박규영은 26일 오전 서울 마포구 호텔 나루 서울 엠갤러리에서 진행된 넷플릭스 새 시리즈 ‘셀러브리티’ 제작발표회에서 “‘오징어게임2’ 출연 보도가 나오면서 앞서 공개된 ‘셀러브리티’에 대한 부담도 있을텐데, 어떻게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fsportskhan%2F20230626120206909bsur.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘셀러브리티’ 박규영 “캐릭터 3단 변신, 새 얼굴 보여줄 것” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626114220175</link>
-            <guid>https://v.daum.net/v/20230626114220175</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박규영의 새로운 얼굴을 만난다. ‘셀러브리티’를 통해서다. 박규영은 26일 오전 마포동 호텔 나루에서 열린 넷플릭스 오리지널 시리즈 ‘셀러브리티’ 제작발표회에서 “존경하는 김철규 감독님 작품에 출연할 수 있어서 감사드린다”고 인사했다. 그는 “SNS 통해서 정말 수많은 정보가 쏟아진다. 이제 우리 세상에 너무 깊이 들어와있어서 없으면 이상한 것 같다”]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fstartoday%2F20230626114221933gqyc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘셀러브리티’ 박규영 “SNS의 명과 암 보여주는 이야기” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626114037047</link>
-            <guid>https://v.daum.net/v/20230626114037047</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박규영이 OTT플랫폼 넷플릭스 새 시리즈 ‘셀러브리티’에 대한 자신감을 표현했다. 박규영은 26일 오전 서울 마포구 호텔 나루 서울 엠갤러리에서 진행된 ‘셀러브리티’ 제작발표회에서 출연 이유를 묻자 “내가 존경하는 김철규 감독 작품에 출연할 수 있어서 영광이었다”고 운을 뗀 뒤 “SNS는 새롭다기 보다는 이미 세상 깊숙히 들어가있어서 없으면 불편]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fsportskhan%2F20230626114039134ycns.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍종선의 연예단상⑭] 구사일생의 법칙? ‘귀공자’ 빌런 김선호 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626111030232</link>
-            <guid>https://v.daum.net/v/20230626111030232</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[텍스트(Text)는 문자, 이미지를 비롯한 시각 언어나 소리 등 일정한 기호로 이루어진 복합체를 의미한다. 콘텍스트(Context)는 텍스트를 둘러싼 맥락을 뜻한다. 현대 사회에서 순수한 텍스트는 극소수이며, 모두 해석될 수 있다. 따라서 텍스트를 해석할 때, 텍스트의 주변 상황(콘텍스트)을 생각하며 텍스트의 의미를 파악해간다. 그러나 모두 같은 콘텍스트를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fdailian%2F20230626111032881ksbo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[25년 전 그 영화로 돌아보는 K리그 인종차별 사건 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230626110902152</link>
-            <guid>https://v.daum.net/v/20230626110902152</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] 올 시즌 놀랍게 성장한 경기력과 불어난 관중으로 뜨거운 인기를 구가하는 K리그에 때 아닌 논란이 있었다. 그간 한국에선 표면화되지 않았던 인종차별 사건이 K리그, 그것도 1부 리그 최강팀 국가대표 선수들 사이에서 발생해 징계위까지 오른 것이다. 내막은 이러하다. 선수들이 SNS에서 댓글로 대화를 나누며 한때 전북 현대 모터스에서 뛰었던 태국]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F26%2Fohmynews%2F20230626110905185unje.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>

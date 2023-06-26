@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 06:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 07:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀공자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
-            <pubDate>Wed, 21 Jun 2023 01:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F945e8e4423929dff36c16293be23eb703dd7afa5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 어크로스 더 유니버스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
             <pubDate>Wed, 21 Jun 2023 01:38:40 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀공자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
+            <pubDate>Wed, 21 Jun 2023 01:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F945e8e4423929dff36c16293be23eb703dd7afa5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시3]]></title>
@@ -87,14 +87,6 @@
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남은 인생 10년]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
-            <pubDate>Tue, 23 May 2023 23:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스즈메의 문단속]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
@@ -109,6 +101,14 @@
             <pubDate>Sat, 24 Jun 2023 03:01:25 GMT</pubDate>
             <content:encoded><![CDATA[23.06.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08fa9fe6c0a8ce063218ad8d1c49c2afe7e73bf7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[남은 인생 10년]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
+            <pubDate>Tue, 23 May 2023 23:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[너의 눈을 들여다보면]]></title>
