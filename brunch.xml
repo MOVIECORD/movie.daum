@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 27 Jun 2023 08:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>조G]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9tkU%2Fimage%2F27E8x30BtOa8YdACjZKoOvvaBE4.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[음악으로 대성당 지은 엔니오 모리코네]]></title>
+            <link>https://brunch.co.kr/@@3ov1/97</link>
+            <guid>https://brunch.co.kr/@@3ov1/97</guid>
+            <pubDate>Tue, 27 Jun 2023 09:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>부크크]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3ov1%2Fimage%2FR-N7SERwucvTWWmHzb9EQGMeV2w.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[15000원의 가치]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:22:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2FiHtzRIxZYsubhAmYDhIOBm4c6Zg.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝이는 이탈리아의 여름]]></title>
-            <link>https://brunch.co.kr/@@7Xby/134</link>
-            <guid>https://brunch.co.kr/@@7Xby/134</guid>
-            <pubDate>Fri, 23 Jun 2023 09:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7Xby%2Fimage%2Frdwn80qsVzEIMyruHo4Y5Y_kflc.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
