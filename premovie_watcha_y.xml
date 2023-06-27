@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 04:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 05:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -163,6 +163,14 @@
             <pubDate>Tue, 27 Jun 2023 04:24:40 GMT</pubDate>
             <content:encoded><![CDATA[23.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c6a4593987736b4ff053a90f35dd0930394b959" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[존 오브 데드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=13842</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=13842</guid>
+            <pubDate>Tue, 27 Jun 2023 05:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa761c856ed716c3bcaef65bc188c64aa9ab97141" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
