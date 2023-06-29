@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 20:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 21:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -251,6 +251,14 @@
             <pubDate>Wed, 28 Jun 2023 07:19:28 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4619f84419360c1690ebbe102d00e1fb81ccb19" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 군단]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43096</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43096</guid>
+            <pubDate>Thu, 29 Jun 2023 21:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c71aa2be3f224ea74b69c2ffe049ff6436c1376" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
