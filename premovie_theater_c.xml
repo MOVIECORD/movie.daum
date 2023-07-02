@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 05:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaba4a7ac437e24fba01ecc243280cb368f94431" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[플래닛]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170500</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170500</guid>
+            <pubDate>Wed, 28 Jun 2023 01:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff05342a357e73804e73eaac0b2ac4fabf4c6ec7d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[풍재기시]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117058</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117058</guid>
@@ -124,14 +132,6 @@
             <pubDate>Fri, 09 Jun 2023 09:17:27 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa12a1ff89d58b21259ed6587f22e8ddfae5a4958" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[플래닛]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170500</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170500</guid>
-            <pubDate>Wed, 28 Jun 2023 01:54:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff05342a357e73804e73eaac0b2ac4fabf4c6ec7d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비밀의 언덕]]></title>
