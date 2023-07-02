@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 21:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 22:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,20 +150,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc851b9a49ca9c2cbac4622f17280e83f13d795e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[하얀봄]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171796</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171796</guid>
+            <pubDate>Sun, 02 Jul 2023 22:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[와일드캣]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149949</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149949</guid>
             <pubDate>Tue, 27 Jun 2023 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[23.07.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F748799de953bffdf003fd0b26814c410f3d03fe8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[퀴어 마이 프렌즈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160079</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160079</guid>
-            <pubDate>Sun, 02 Jul 2023 04:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[23.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0da4c91507f42309e0dc6ae0b51908a10f8eba8b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
