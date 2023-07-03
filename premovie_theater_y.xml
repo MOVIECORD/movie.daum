@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 07:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 08:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,6 +95,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F947a0d62f2772aa0f5c73b86b631779ef1183879" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[라방]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169992</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169992</guid>
+            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F132925ee1e42a7666cf8151cd558df1fd3dea5cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파이어하트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154406</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154406</guid>
@@ -111,12 +119,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bb48813acf0cbc6bd9b988916455de3288f266" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[라방]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169992</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169992</guid>
-            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F132925ee1e42a7666cf8151cd558df1fd3dea5cf" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[만해 한용운 님의 침묵]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124139</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124139</guid>
+            <pubDate>Mon, 03 Jul 2023 08:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F63efef6c4b381e1357395fe9ae00ff89da18c18d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[트랜스포머: 비스트의 서막]]></title>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 29 Jun 2023 03:35:14 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 눈을 들여다보면]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157799</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157799</guid>
-            <pubDate>Mon, 03 Jul 2023 03:31:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb4c63878196d7f0c5bcad7b8d55b76e9f1661d8" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
