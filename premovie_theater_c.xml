@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 11:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 12:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6900520a3d3be38e24ff04126c092a382d596b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[비밀의 언덕]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157906</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157906</guid>
+            <pubDate>Wed, 28 Jun 2023 01:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[조디악]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=41488</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=41488</guid>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 04 Jul 2023 07:19:45 GMT</pubDate>
             <content:encoded><![CDATA[23.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d5258fe79bd60ac21721ae92b9e0ffb4f675761" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[비밀의 언덕]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157906</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157906</guid>
-            <pubDate>Wed, 28 Jun 2023 01:54:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[작은정원]]></title>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F201e1b3721089fe7b80e949de0bb801d0fa0d855" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[명탐정 코난: 흑철의 어영]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
+            <pubDate>Thu, 06 Jul 2023 12:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6dec4461e6cda1478882996026d215b34691119" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[핑크퐁 시네마 콘서트 3: 진저브레드맨을 잡아라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171610</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171610</guid>
@@ -156,14 +164,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=171420</guid>
             <pubDate>Wed, 05 Jul 2023 01:51:19 GMT</pubDate>
             <content:encoded><![CDATA[23.07.11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슬기로운 아내 수업]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=140044</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=140044</guid>
-            <pubDate>Thu, 06 Jul 2023 01:54:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07bc7fe45929f37c100d2805cb155ece9ac42576" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
