@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 09:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 10:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa74097cfa4c6af4b0482b31890b3fe5a549f76bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보 이즈 어프레이드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166324</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166324</guid>
-            <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 21 Jun 2023 01:38:40 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F945e8e4423929dff36c16293be23eb703dd7afa5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보 이즈 어프레이드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166324</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166324</guid>
+            <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빈틈없는 사이]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff05342a357e73804e73eaac0b2ac4fabf4c6ec7d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[파이어하트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154406</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154406</guid>
-            <pubDate>Thu, 06 Jul 2023 12:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909a0f122378faeb5609a5a9f652130d7efb79c3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[풍재기시]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117058</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117058</guid>
             <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9f8f90234915e49e49af1e6a1bdfbfdc0cb0872" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[파이어하트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154406</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154406</guid>
+            <pubDate>Thu, 06 Jul 2023 12:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909a0f122378faeb5609a5a9f652130d7efb79c3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[명탐정코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인]]></title>
@@ -152,20 +152,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaba4a7ac437e24fba01ecc243280cb368f94431" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
+            <pubDate>Sat, 08 Jul 2023 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기적을 믿는 소녀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150228</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150228</guid>
             <pubDate>Thu, 06 Jul 2023 01:53:55 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36b7ea53213dc33f2e10f49b62cb1340d571d3ec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[플래시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=43294</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=43294</guid>
-            <pubDate>Fri, 07 Jul 2023 01:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F947a0d62f2772aa0f5c73b86b631779ef1183879" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
