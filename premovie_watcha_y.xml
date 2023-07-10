@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2023-07-10T03:05:35.936Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Jul 2023 04:25:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오텁시]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=55541</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=55541</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2476104B53B32FAD1B" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[딜-투페어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=46154</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=46154</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2510F64853EC068F07" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[슈팅 갤러리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=88107</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=88107</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F252D274A53EC07B601" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나이프 엣지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=60827</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=60827</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F245AB84853B3316F28" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[룰라바이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=86904</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=86904</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2126A94F5487E15C23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블리트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=4267</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=4267</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe910b1a2d0b9409ff18756a1941a2446fd4c20b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그대라는기억 연숙씨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159394</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159394</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c07a6e8ef7a0a24a0d4e466400b9417ffa7b814" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다이브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=46553</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=46553</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22757f74c7c83e24d1177a215e799d0f6842085f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데쓰 캘린더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151495</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151495</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b991eb05622c13a9f3f7e45e515f99b99aa0a92" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데우스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161824</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161824</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e66dd80cc238f007679a38d15113daafde75856" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[반딧불이 딘딘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109774</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109774</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9594c03dfdc9cab703f571a0b7a659b25e7b722" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배틀 포 사이판]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168423</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168423</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c898c45ba6623b3fa7c0945ff9e4eddf3506729" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블리딩 스틸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109516</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109516</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c20914180a3f5fa4f641cd106d49b9c6c9e4494" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이터널: 저주받은 중세기사단]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166434</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166434</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2403ea81b92ff05757d6eb637c388bf499e53a6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[자이언트 스네이크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169603</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169603</guid>
+            <pubDate>Mon, 10 Jul 2023 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98d309ad00b607fbbd6a67e583d4e5e0f67faca7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
