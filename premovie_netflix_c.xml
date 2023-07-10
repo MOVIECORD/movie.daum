@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 04:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AB18C4F96E" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[파이널 디씨전]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=17661</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=17661</guid>
+            <pubDate>Mon, 10 Jul 2023 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F136F1B10ABC837442C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[레이버 데이]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=69142</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=69142</guid>
@@ -262,6 +270,14 @@
             <pubDate>Sat, 08 Jul 2023 21:16:39 GMT</pubDate>
             <content:encoded><![CDATA[23.08.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67ebddc475ab335041a8f34f207ae8372ee9a54b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마크, 메리 & 섬 아더 피플]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150790</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150790</guid>
+            <pubDate>Mon, 10 Jul 2023 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F044fa3e906f23fc1009f76a2e427dda6200ebdc7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
