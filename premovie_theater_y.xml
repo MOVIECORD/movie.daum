@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 09:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 10:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
-            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
+            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀공자]]></title>
