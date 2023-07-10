@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 20:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 21:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,12 +264,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67ebddc475ab335041a8f34f207ae8372ee9a54b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[첸나이 익스프레스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=80425</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=80425</guid>
+            <pubDate>Mon, 10 Jul 2023 21:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F215EC93D51E1240E21" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[마크, 메리 & 섬 아더 피플]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150790</guid>
             <pubDate>Mon, 10 Jul 2023 05:20:17 GMT</pubDate>
             <content:encoded><![CDATA[23.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F044fa3e906f23fc1009f76a2e427dda6200ebdc7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쾀스 머니]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152789</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152789</guid>
+            <pubDate>Mon, 10 Jul 2023 21:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90e30e95dbfce4f267346b2464d3352b242868b7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
