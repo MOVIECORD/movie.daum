@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 23:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 01:55:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[여름날 우리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
+            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[범죄도시3]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[여름날 우리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
-            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[악마들]]></title>
@@ -160,12 +160,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e400b5accb1ba88ad13adad4c8b3b962812a1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[플래시]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=43294</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=43294</guid>
-            <pubDate>Sun, 09 Jul 2023 15:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F947a0d62f2772aa0f5c73b86b631779ef1183879" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
+            <pubDate>Mon, 10 Jul 2023 01:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
         </item>
     </channel>
 </rss>
