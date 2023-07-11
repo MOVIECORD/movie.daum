@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 08:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 09:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[플래닛]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170500</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170500</guid>
-            <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff05342a357e73804e73eaac0b2ac4fabf4c6ec7d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어디로 가고 싶으신가요]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169212</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169212</guid>
@@ -149,6 +141,14 @@
             <pubDate>Sun, 09 Jul 2023 02:01:01 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa12a1ff89d58b21259ed6587f22e8ddfae5a4958" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[플래닛]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170500</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170500</guid>
+            <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff05342a357e73804e73eaac0b2ac4fabf4c6ec7d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[명탐정코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인]]></title>

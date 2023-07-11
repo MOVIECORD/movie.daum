@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 08:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 09:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100일 동안 100가지 물건만 쓰며 버텨야 하는 두 남자]]></title>
+            <link>https://v.daum.net/v/WVG8276hIM</link>
+            <guid>https://v.daum.net/v/WVG8276hIM</guid>
+            <pubDate>Tue, 11 Jul 2023 09:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F11%2Ffeelthemovie%2F20230711171010562krjw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[400편 넘는 영화음악을 만든 우리 시대의 베토벤]]></title>
             <link>https://v.daum.net/v/fNcsDl1iEV</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jul 2023 08:27:56 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F10%2Fmaxmovie%2F20230710172347553udsk.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[보면 즐거운 한국에서 가장 웃긴 사람들만 모인 현장]]></title>
-            <link>https://v.daum.net/v/29jZO6o5xY</link>
-            <guid>https://v.daum.net/v/29jZO6o5xY</guid>
-            <pubDate>Mon, 10 Jul 2023 08:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F10%2Ffeelthemovie%2F20230710171008850zdnk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
