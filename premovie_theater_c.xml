@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 02:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 03:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[조디악]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=41488</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=41488</guid>
-            <pubDate>Wed, 05 Jul 2023 01:51:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[바비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
@@ -96,12 +88,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7fa7f52384bf92334fabe69ea9006f544dc1cb65" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[디어 마이 러브]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163613</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163613</guid>
+            <title><![CDATA[조디악]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41488</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41488</guid>
             <pubDate>Wed, 05 Jul 2023 01:51:19 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8f58a078d9a7ef59bb3b562ae66a0870de1639c" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아버지의 마음]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Mon, 10 Jul 2023 10:22:15 GMT</pubDate>
             <content:encoded><![CDATA[23.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d1dbd7b67d0bd6ec66d5a2426a8a6375a5c901a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[디어 마이 러브]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163613</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163613</guid>
+            <pubDate>Wed, 05 Jul 2023 01:51:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8f58a078d9a7ef59bb3b562ae66a0870de1639c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비닐하우스]]></title>
