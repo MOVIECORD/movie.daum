@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 04:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 05:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9f8f90234915e49e49af1e6a1bdfbfdc0cb0872" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[명탐정코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167146</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167146</guid>
-            <pubDate>Fri, 23 Jun 2023 01:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e400b5accb1ba88ad13adad4c8b3b962812a1a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[기적을 믿는 소녀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150228</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150228</guid>
@@ -159,12 +151,20 @@
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수라]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
-            <pubDate>Tue, 11 Jul 2023 01:44:47 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[파이어하트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154406</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154406</guid>
+            <pubDate>Tue, 11 Jul 2023 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909a0f122378faeb5609a5a9f652130d7efb79c3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[명탐정코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167146</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167146</guid>
+            <pubDate>Fri, 23 Jun 2023 01:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e400b5accb1ba88ad13adad4c8b3b962812a1a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
