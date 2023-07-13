@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 04:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 05:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d7872baeac2673dad84fb624770449fe7da96a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[신입사원: 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169550</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169550</guid>
+            <pubDate>Thu, 13 Jul 2023 05:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff64fd1f1e422db5728a989918acd559c8d28e0fd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[퀴어 마이 프렌즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160079</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160079</guid>
@@ -157,13 +165,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=172082</guid>
             <pubDate>Wed, 12 Jul 2023 23:19:56 GMT</pubDate>
             <content:encoded><![CDATA[23.07.14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[언노운: 뼈 동굴]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171995</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171995</guid>
-            <pubDate>Wed, 12 Jul 2023 23:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.17]]></content:encoded>
         </item>
     </channel>
 </rss>
