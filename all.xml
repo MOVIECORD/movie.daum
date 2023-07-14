@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 23:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 01:56:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -863,14 +863,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1b16bc494372fa515885a536e01a116b24e552f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 아름다운 그: 이터널 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
-            <pubDate>Thu, 06 Jul 2023 10:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[귀공자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
@@ -885,6 +877,14 @@
             <pubDate>Sun, 18 Jun 2023 09:16:33 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 아름다운 그: 이터널 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
+            <pubDate>Thu, 06 Jul 2023 10:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파이어하트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -911,19 +911,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa74097cfa4c6af4b0482b31890b3fe5a549f76bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[수라 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
+            <pubDate>Thu, 18 May 2023 01:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
             <pubDate>Fri, 23 Jun 2023 01:51:37 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기적을 믿는 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150228</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150228</guid>
-            <pubDate>Thu, 13 Jul 2023 15:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36b7ea53213dc33f2e10f49b62cb1340d571d3ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1067,15 +1067,15 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=169550</guid>
             <pubDate>Thu, 13 Jul 2023 05:19:23 GMT</pubDate>
             <content:encoded><![CDATA[23.08.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff64fd1f1e422db5728a989918acd559c8d28e0fd" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7eb17871d81472c6531ad029f987b8d06584e7fd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퀴어 마이 프렌즈 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160079</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160079</guid>
             <pubDate>Tue, 11 Jul 2023 23:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0da4c91507f42309e0dc6ae0b51908a10f8eba8b" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[23.08.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34d0b76a55e3aaacc659376de0e60ed006cd9025" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다섯 번째 흉추 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1803,108 +1803,164 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2722484A53B3303E24" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA['기생충' 조여정x'더 글로리' 정성일 만났다..'인터뷰' 17일 첫촬영 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714081755880</link>
-            <guid>https://v.daum.net/v/20230714081755880</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 2024년 극장가에 독특한 소재로 센세이션을 일으킬 영화 '인터뷰'(감독 조영준, 제작 위드에이스튜디오)가 조여정과 정성일 두 배우의 캐스팅을 완료하고 7월 17일 크랭크 인을 앞두고 있다.&nbsp; 영화 '인터뷰'는 특종이 간절한 베테랑 기자 선주(조여정)에게 무려 열 한 명을 살해한 전대미문 연쇄살인범 영훈(정성일)이 특별한 인터뷰]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fpoctan%2F20230714081756958jipa.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[정우성 '보호자', 토론토·시체스 해외 영화제 러브콜…월드투어 공개 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714103801958</link>
+            <guid>https://v.daum.net/v/20230714103801958</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 정우성 감독의 첫 장편 영화 ‘보호자’가 개봉 전부터 유수의 해외 영화제에 연이어 초청되며 관심을 받고 있다. 영화 ‘보호자’가 이에 14일 ‘월드투어 영상’을 공개했다. ‘보호자’는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁과 그를 노리는 이들 사이의 이야기를 그린 액션 영화다. 정우성이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FEdaily%2F20230714103804389olrt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] '더 글로리' 나이스한 XXX 정성일, 차기작은 조여정과 밀착 스릴러 '인터뷰' (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714081654869</link>
-            <guid>https://v.daum.net/v/20230714081654869</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 스릴러 영화 '인터뷰'(조영준 감독, 위드에이스튜디오 제작)가 조여정과 정성일 두 배우의 캐스팅을 완료하고 오는 17일 크랭크 인을 앞두고 있다. '인터뷰'는 조여정, 정성일 주연 캐스팅을 확정하고 지난 12일 고사를 마치고 오는 17일 전격 크랭크 인 한다. 먼저 '인터뷰'는 '기생충'(19) '인간중독'(14)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FSpoChosun%2F20230714081654257osig.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['비공식작전', 궁지에 몰린 하정우는 통한다 ② (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714103012694</link>
+            <guid>https://v.daum.net/v/20230714103012694</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 하정우 / 사진=쇼박스또 극한의 상황에 몰렸고, 그의 간절함을 담은 눈빛과 특유의 인간미는 이번에도 통했다. '비공식작전'에서 열연을 펼친 하정우의 이야기다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 '민준'(하정우 분)과 현지 택시기사 '판수'(주지훈 분)의 버디 액션 영화. '민준'은 외교부]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fstarnews%2F20230714103013785ykff.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['비공식작전' 아는 맛의 재해석…소재 우려 깬 유쾌한 질주[봤어영] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714080017514</link>
-            <guid>https://v.daum.net/v/20230714080017514</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 하정우, 주지훈의 케미가 ‘신과 함께’ 시리즈 이후 또 한 번 정점을 경신했다. 영화 ‘비공식작전’(감독 김성훈)으로 돌아온 하정우, 주지훈이 ‘분노의 질주’ 시리즈 못지 않은 ‘K-질주’ 액션의 정수로 올 여름 극장가에 영화적 쾌감을 선사할 전망이다. 지난 13일 시사회를 통해 베일을 벗은 ‘비공식작전’은 실종된 동료]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FEdaily%2F20230714080020053ayei.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['비공식작전' 주지훈의 질주..'따따블' 재미 보장③ (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714103010690</link>
+            <guid>https://v.daum.net/v/20230714103010690</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 주지훈 / 사진=쇼박스주지훈의 질주가 '비공식작전'의 '따따블' 재미를 안겼다. 능청스럽다가, 간절했다가 주지훈이 다시 한 번 인생 캐릭터를 경신했다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 '민준'(하정우 분)과 현지 택시기사 '판수'(주지훈 분)의 버디 액션 영화. 1986년 레바논 베이루트에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fstarnews%2F20230714103011886ithk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[모두가 아는 ‘비공식작전’[한현정의 직구리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714073600060</link>
-            <guid>https://v.daum.net/v/20230714073600060</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[음식 이미지만 봐도 그 맛을 알것 같은, 실제로도 그러한, 규모가 좀 있는 곳이라면 어디에서든 먹을 수 있는 ‘스테디 인기 메뉴’다. 맛이 없단 게 아니다. 다만 “재료가 같아도 셰프의 태도나 쓰는 양념, 조리방식에 따라 ‘전혀 다른 요리’가 나올 수 있다”는 감독의 자평에는 “아니요, 지독하게 아는 맛이에요”라고 말하고 싶다. ‘버디 무비’로선 티키타카가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fstartoday%2F20230714073602638ijzc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[리뷰] '비공식작전' 아는 맛에 유머와 케미로 더한 감칠맛 ① (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714103005682</link>
+            <guid>https://v.daum.net/v/20230714103005682</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김미화 기자] /사진='비공식작전' 영화 '비공식작전'이 익숙하게 아는 맛에 유머와 케미로 새로운 감칠맛을 만들어 내 한상 차려냈다. 김성훈 감독이 연출한 '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 '민준'과 현지 택시기사 '판수'의 버디 액션 영화. 기존에 '피랍'이라는 제목으로 알려졌지만 '비공식작전'으로 여름 관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fstarnews%2F20230714103006518yaui.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['미션 임파서블7', 이틀째 16만↑ 압도적 1위 [TEN무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714073007967</link>
-            <guid>https://v.daum.net/v/20230714073007967</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자] 할리우드 배우 톰 크루즈의 액션 영화 '미션 임파서블: 데드 레코닝 파트 원'이 이틀째 박스오피스 1위다.&nbsp; 영화진흥위원회 영화관입장권통합전산망에 따르면 '미션 임파서블: 데드 레코닝 파트 원'(감독 크리스토퍼 맥쿼리, 이하 '미션 임파서블7')은 개봉 둘째 날인 13일 16만2762명 관객을 동원해 55만9309명&nbsp;누적 관객수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2F10asia%2F20230714073010138xxhd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[크리스토퍼 놀란 신작 '오펜하이머', "단 하나의 CG도 사용하지 않고 핵폭발 구현" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714102801616</link>
+            <guid>https://v.daum.net/v/20230714102801616</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 영화 '오펜하이머'의 감독 크리스토퍼&nbsp;놀란은 인터뷰를 통해 CG 없이 구현된 핵폭발 실험 장면을 설명했다. '오펜하이머'(감독 크리스토퍼&nbsp;놀란)는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야하는 천재 과학자의 핵 개발 프로젝트를 다룬 작품이다. 제2차 세계대전 당시 핵무기 개발을 위해 진행되었던 비밀 프로젝트 ‘맨해튼 프로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2F10asia%2F20230714102805608xujm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[느끼해, ‘비공식작전’[편파적인 씨네리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714072202863</link>
-            <guid>https://v.daum.net/v/20230714072202863</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[■편파적인 씨네리뷰 : 이번엔 좀 안일했다? ‘믿보’(믿고 보는) 팀의 배신이다. 힘있는 실화가 느끼해져 버렸다. 아는 맛만 늘어놓으면 ‘맛집’ 대열에 낀다고 자만했던 것일까. 영화 ‘비공식작전’(감독 김성훈), 이번엔 좀 안일했다. ‘비공식작전’은  실종된 동료를 구하기 위해 레바논으로 떠난 외교관 ‘민준’(하정우)과 현지 택시기사 ‘판수’(주지훈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fsportskhan%2F20230714072203791tuob.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[시사회 중 사라진 맷 데이먼…63년만에 할리우드 올스톱 위기 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714101804212</link>
+            <guid>https://v.daum.net/v/20230714101804212</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘오펜하이머’ 시사회에 참석했던 맷 데이먼, 에밀리 블런트, 실리안 머피 등 배우들이 사진만 찍고 시사회장을 떠나는 일이 벌어졌다. 미 작가조합(WGA)에 이어 미국 배우·방송인 노동조합(SAG-AFTRA, 이하 배우조합)이 지난 13일(이하 현지시간) 파업을 결의하면서다. 할리우드 양대 노조가 1960년 이후 63년 만에 동반 파업을 벌이게 됐다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fmk%2F20230714101806410bkyn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[류승완 ‘밀수’·류승범 ‘무빙’, 류가 형제의 여름 사냥 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714063019228</link>
-            <guid>https://v.daum.net/v/20230714063019228</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[형제지간인 류승완 감독과 배우 류승범이 올여름 영화 ‘밀수’와 디즈니+ 드라마 ‘무빙’을 각각 내놓는다. 사진｜롯데엔터테인먼트·디즈니+충무로 스타 감독 류승완과 독보적인 매력과 연기력을 갖춘 배우 류승범. ‘류가 형제’가 각각 영화 ‘밀수’와 디즈니+ 드라마 ‘무빙’으로 올여름 흥행몰이에 나선다. 류승완 감독은 26일 개봉하는 ‘밀수’로 대작이 쏟아지는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fsportsdonga%2F20230714063021174jgpb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[오펜하이머 시사회도 술렁…할리우드 작가·배우 동반 파업 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714101546121</link>
+            <guid>https://v.daum.net/v/20230714101546121</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[한국경제TV 김종학 기자] 미국 영화 산업의 중심지인 할리우드가 멈춰설 위기에 직면했다. 미국 할리우드 배우와 작가들은 생성형 인공지능으로 인한 초상권 침해와 스트리밍 서비스 성장에 따른 공정한 수익 배분이 이뤄지지 않고 있다며 콘텐츠 기업들을 압박하고 있다. 미국 내 14만 여명의 배우와 스턴트 연기자, 성우 등이 소속되어 있는 스크린 연기자 조합-미]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fkedtv%2F20230714101546917wako.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘밀수’ 밀수왕 vs ‘무빙’ 초능력자, 올여름은 조인성과 함께 [줌人] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714061515082</link>
-            <guid>https://v.daum.net/v/20230714061515082</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 대표 꽃미남 배우 조인성을 극장과 안방극장에서 동시에 볼 수 있다면 어떨까. 평소 조인성의 팬이라면, 혹은 입덕을 앞둔 사람들이 있다면 주목하라. 조인성이 오는 26일 영화 ‘밀수’와 8월 6일 디즈니+ 시리즈 ‘무빙’으로 올여름을 뜨겁게 달구러 찾아온다. 조인성은 데뷔 초부터 조각 같은 외모와 187cm의 큰 키로 시선을 끌었다. 2000년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Filgansports%2F20230714061519114tawp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[기자 조여정×연쇄살인범 정성일 '인터뷰' 캐스팅, "고도의 밀착 스릴러"[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714100635757</link>
+            <guid>https://v.daum.net/v/20230714100635757</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]2024년 극장가에 독특한 소재로 센세이션을 일으킬 영화 &lt;인터뷰&gt;가 조여정과 정성일 두 배우의 캐스팅을 완료하고 7월 17일(월) 크랭크 인을 앞두고 있다. 영화 '인터뷰'는 특종이 간절한 베테랑 기자 ‘선주’(조여정)에게 무려 열 한 명을 살해한 전대미문 연쇄살인범 ‘영훈’(정성일)’이 특별한 인터뷰를 제안하면서 벌어지는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fmydaily%2F20230714100635417carn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[종합] "'범죄도시3'가 극장 살렸다"…6월 韓영화, 팬데믹 전 97.3% 회복→역대 2번째 매출 기록 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714060839026</link>
-            <guid>https://v.daum.net/v/20230714060839026</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시리즈 통합 3000만 돌파 시대를 연 범죄 액션 영화 '범죄도시3'(이상용 감독) 덕분에 6월 극장가가 제대로 수혜를 입었다. 13일 영화진흥위원회가 발표한 '2023년 6월 한국 영화산업 결산'에서는 극장가 6월 전체 매출액이 1451억원으로 집계, 코로나19 팬데믹 이전인 2017~2019년 6월 전체 매출액 평균(1491억원)의 97.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FSpoChosun%2F20230714060839427iben.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[국가대표 선발전, 형을 죽인 사람을 만났다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714095100981</link>
+            <guid>https://v.daum.net/v/20230714095100981</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김성호 기자] ▲ 만분의 일초&nbsp;포스터ⓒ BIFAN&nbsp; 같은 목표에 도달하는 백 가지 길이 있을 수 있다. 북한산 정상에 오르는 것 또한 마찬가지다. 북한산 백운대는 언제나 제자리에 있지만, 그곳까지 오르는 길은 여러 가지가 있는 것이다. 오늘은 이 코스로, 내일은 저 코스로 등산길을 걷는다면, 목적지는 같아도 전혀 다른 재미를 느낄 수가 있는 것이 등산이라]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fohmynews%2F20230714095102354jbbd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 CEO "마블·스타워즈 제작 편수·비용 줄이는 중" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714040734588</link>
-            <guid>https://v.daum.net/v/20230714040734588</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 밥 아이거 디즈니 최고경영자(CEO)가 비용 절감을 위해 마블 스튜디오와 스타워즈 시리즈의 제작 편수와 예산 지출을 줄이고 있다고 밝혔다. 아이거 CEO는 13일(현지시간) 미 경제매체 CNBC 인터뷰에서 자사 영화의 흥행 실적에 대해 "최근 신작 중 일부는 더 좋은 성적을 거뒀으면 좋았을 것이라는 아쉬움이 있었다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fyonhap%2F20230714040734981cvda.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['미션 임파서블7', 이틀 연속 압도적 1위…55만 관객 돌파[박스S] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714095018951</link>
+            <guid>https://v.daum.net/v/20230714095018951</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] '미션 임파서블: 데드 레코닝 PART ONE'이 이틀 만에 55만 관객을 돌파했다. 14일 오전 영화관입장권통합전산망에 따르면 '미션 임파서블: 데드 레코닝 PART ONE'은 지난 13일 하루 동안 16만 2762명의 관객을 동원하며 이틀 연속 박스오피스 1위를 차지했다. 누적관객수는 55만 9309명으로 이틀 만에 5]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fspotvnews%2F20230714095019980onty.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘미션임파서블7’, 올해 개봉 외화 오프닝 1위 [연예뉴스 HOT] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714003011546</link>
-            <guid>https://v.daum.net/v/20230714003011546</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 톰 크루즈 주연의 할리우드 영화 ‘미션 임파서블: 데드 레코닝 파트1’이 올해 외화 최고 오프닝 기록을 썼다. 12일 영화관입장권통합전산망에 따르면 영화는 개봉 첫날인 11일 22만9762명을 기록하며 단숨에 박스오피스 1위에 올랐다. 이는 신드롬급 인기를 끌며 819만 관객을 동원한 지난해 ‘탑건: 매버릭’의 첫날 기록(18만8312명)을 뛰어넘는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fsportsdonga%2F20230714003011932sxhx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[달에 고립된 도경수, 희망과 용기를 말하다‥‘더 문’ 스틸 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714094835891</link>
+            <guid>https://v.daum.net/v/20230714094835891</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '달에서 지구까지 무사 귀환'이라는 미션에 도전하는 '더 문'의 치열한 순간을 담은 2차 보도스틸이 공개됐다. 8월 2일 개봉하는 영화 '더 문'(감독 김용화)은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 작품이다. 많은 기대를 안고 우주로 날아올랐던 달 탐사 우주선]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fnewsen%2F20230714094835648psfq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[저승길 인도하던 하정우-주지훈, 피랍 외교관 구출하는 '비공식작전' 출격(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714002008476</link>
-            <guid>https://v.daum.net/v/20230714002008476</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) 저승길을 인도하던 하정우와 주지훈이&nbsp;피랍된 외교관을 구출해 무사히 귀국길로 인도하는 '비공식작전'에 나선다. 13일 오후 서울 강남구 메가박스 코엑스에서 '비공식작전' 언론배급시사회 및 기자간담회가 열렸다. 이날은 하정우, 주지훈, 김성훈 감독이 참석했다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FHockeyNewsKorea%2F20230714002010895zvrb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[Cine 리뷰]'비공식작전', 하정우-주지훈 완벽 단짠 밸런스에 감칠맛 한 스푼 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714094224606</link>
+            <guid>https://v.daum.net/v/20230714094224606</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] 단짠 밸런스가 잘 맞는 영화 한 편. 좋은 배우와 감독이 만들어 낸 유머-감동 밸런스가 딱 맞는 영화에 액션이란 감칠맛이 더해진 '비공식작전'이다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 민준(하정우)과 현지 택시기사 판수(주지훈)의 버디 액션 영화다. 1987년, 외무고시부터 미국을 선망했지만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fspotvnews%2F20230714094228269mlhq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[강원 출신 배우 김서형·라미란 활약 이어간다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230714000606248</link>
-            <guid>https://v.daum.net/v/20230714000606248</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스크린과 안방 극장을 오가며 압도적 존재감을 보여주고 있는 강원 출신 배우들이 올 여름 활약을 이어간다. 먼저 강릉 출신 김서형 주연의 스릴러 영화 ‘비닐하우스’가 오는 26일 개봉한다. 김서형은 이 작품에서 집 없이 비닐하우스에 살며 요양사로 일하는 문정 역할을 맡았다. 간호하던 할머니가 갑작스러운 사고로 숨지자 이 사실을 숨기기 위해 되돌릴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fkado%2F20230714000608017ermp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[조여정·정성일, 고도의 밀착 스릴러 그린다…'인터뷰' 17일 크랭크인 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714093302180</link>
+            <guid>https://v.daum.net/v/20230714093302180</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]영화 '인터뷰'가 조여정과 정성일 두 배우의 캐스팅을 완료하고 오는 17일 크랭크 인을 앞두고 있다.&nbsp; '인터뷰'는 '기생충'(2019), '인간중독'(2014), '표적'(2014) 등으로 다양한 캐릭터 변신 속에서 안정감 있는 연기력을 매번 보여준 베테랑 배우 조여정이 피도 눈물도 없는 성격의 소유자로 특종에 목마른 사회부 기자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2F10asia%2F20230714093305684hknp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[요상한 유해진·톡쏘는 김희선…'달짝지근해' 5色 캐릭터 포스터 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714092353817</link>
+            <guid>https://v.daum.net/v/20230714092353817</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 올여름 극장가를 달짝지근하게 만들 화제의 영화 ‘달짝지근해: 7510’이 유해진, 김희선, 차인표, 진선규, 한선화 5인의 다양한 개성을 보여줄 캐릭터 포스터와 유해진 ‘캐릭터 예고편_내레이션 유해진’을 14일 공개했다. 영화 ‘달짝지근해: 7510’은 과자밖에 모르는 천재적인 제과 연구원 치호(유해진 분)가 직진밖에 모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FEdaily%2F20230714092356590uwna.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['달짝지근해' 유해진x김희선, 이 집 캐릭터 맛집이네 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714092222768</link>
+            <guid>https://v.daum.net/v/20230714092222768</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 올여름 극장가를 달짝지근하게 만들 화제의 영화 '달짝지근해: 7510'(감독 이한, 제공배급 ㈜마인드마크, 제작 무비락)이 5인의 다양한 개성을 보여줄 캐릭터 포스터와 유해진 ‘캐릭터 예고편_내레이션 유해진’을 공개했다. 영화 '달짝지근해: 7510'은 과자밖에 모르는 천재적인 제과 연구원 치호(유해진)가 직진밖에 모르는 세상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fpoctan%2F20230714092223065tczx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성 첫 장편 ‘보호자’, 제47회 토론토 국제영화제 초청 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714092211763</link>
+            <guid>https://v.daum.net/v/20230714092211763</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정우성의 첫 장편 연출작 ‘보호자’가 해외 영화제에 연이어 초청되면서 화제몰이 중이다. 영화 ‘보호자’는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁(정우성)과 그를 노리는 이들 사이의 이야기를 그린 액션 영화. 정우성이 감독 겸 주연 배우를 맡았다. 14일 공개된 영상에는 영화제 현장의 열기뿐만 아니라 전 세계 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fstartoday%2F20230714092212334blmd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['미임파7' 1위 수성, 누적 55만 돌파 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714091606551</link>
+            <guid>https://v.daum.net/v/20230714091606551</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 ‘미션 임파서블: 데드 레코닝 PART ONE’이 박스오피스 1위를 기록했다. 14일 영화진흥위원회 통합전산망에 따르면 ‘미션 임파서블: 데드 레코닝 PART ONE’이 지난 13일 16만2762명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 55만9309명이다. ‘미션 임파서블: 데드 레코닝 PART O]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Ftvdaily%2F20230714091608179sxwg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['무사귀환, 하나의 목표'…'더 문' 설경구·도경수·김희애, 치열한 고군분투 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714091147383</link>
+            <guid>https://v.daum.net/v/20230714091147383</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '더 문'(감독 김용화)이 달에서 지구까지 무사 귀환이라는 미션에 도전하는 인물들의 치열한 순간을 담은 스틸을 공개했다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장 재국(설경구)의 사투를 그린 영화다. 공개된 스틸은 선우와 재국뿐만 아니라 현 우주센터장과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fxportsnews%2F20230714091148561czbn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준표 공감 유발 열연..이번엔 ‘콘크리트 유토피아’에서 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714091013329</link>
+            <guid>https://v.daum.net/v/20230714091013329</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] 이병헌, 박서준, 박보영의 만남으로 기대를 모으는 올여름 최고의 기대작&nbsp;‘콘크리트 유토피아’&nbsp;박서준의 열연이 돋보이는 청춘 캐릭터 계보에 관심이 모인다. 절친한 두 경찰대생이 납치사건의 목격자가 되어 직접 수사에 나서며 벌어지는 일을 그린 영화&nbsp;‘청년경찰’&nbsp;에서 경찰대생 ‘기준’ 역을 맡은 박서준은 의욕 충만하고 혈기 왕성한 캐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fpoctan%2F20230714091013361glnu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성 첫 장편 감독 데뷔작 '보호자', 제47회 토론토 국제영화제 초청 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230714091003323</link>
+            <guid>https://v.daum.net/v/20230714091003323</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 배우 정우성이 감독을 맡은 첫 장편 영화 '보호자'(감독 정우성)가 개봉 전부터 해외 영화제에 연이어 초청되면서 월드 투어 영상을 공개했다. 영화 '보호자'는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁(정우성)과 그를 노리는 이들 사이의 이야기를 그린 액션 영화. 공개된 영상에는 영화제 현장의 열]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2F10asia%2F20230714091006901oaed.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2067,12 +2123,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[1986년 레바논 한국 대사관 납치사건 '실화'를 바탕으로 한 영화 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/yBrFLh5JG1</link>
+            <guid>https://v.daum.net/v/yBrFLh5JG1</guid>
+            <pubDate>Fri, 14 Jul 2023 01:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Fmaxmovie%2F20230714100918508uuls.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[예쁘고 연기잘해 출연반대한 감독이 사과한 신인여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/1brq9QatbM</link>
+            <guid>https://v.daum.net/v/1brq9QatbM</guid>
+            <pubDate>Fri, 14 Jul 2023 01:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2Ffeelthemovie%2F20230714092002466fpmo.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[마지막 아니었어? 80세 될 때까지 '미션' 하고 싶다는 톰 크루즈 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/4rWLBiD7Li</link>
             <guid>https://v.daum.net/v/4rWLBiD7Li</guid>
             <pubDate>Thu, 13 Jul 2023 23:21:22 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FBoiledMovie%2F20230714082003336xemt.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F14%2FBoiledMovie%2F20230714084247797mnlx.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[33년 전, 최수종♥하희라 부부 만들어 준 그 영화 (다음 영화 ─ 매거진)]]></title>
@@ -2209,22 +2281,6 @@
             <pubDate>Wed, 12 Jul 2023 23:21:42 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F13%2Fmaxmovie%2F20230713093530120feix.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[27년이 지나도 여전히 기억나는 레전드 액션 블록버스터 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/QI6R9Ev82Q</link>
-            <guid>https://v.daum.net/v/QI6R9Ev82Q</guid>
-            <pubDate>Wed, 12 Jul 2023 23:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F13%2Ffanzeel%2F20230713080021201fbbj.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[세계적인 '괴짜천재 화가'의 삶, 마침내 한국에 공개된다! (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/tK63G2dYJb</link>
-            <guid>https://v.daum.net/v/tK63G2dYJb</guid>
-            <pubDate>Wed, 12 Jul 2023 21:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F13%2Fmaxmovie%2F20230713113822823tprr.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[톰 형 1000% 착즙 '미션 임파서블7' (다음 영화 ─ 브런치)]]></title>
