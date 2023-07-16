@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 04:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 05:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
-            <pubDate>Sat, 08 Jul 2023 01:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보 이즈 어프레이드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166324</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166324</guid>
@@ -88,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[좋.댓.구]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161914</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161914</guid>
-            <pubDate>Tue, 11 Jul 2023 23:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F384fef7bbcc909153a2daead57b3cf388808facf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 아름다운 그: 이터널]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
@@ -104,12 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 피노키오 위대한 모험]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170398</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170398</guid>
-            <pubDate>Thu, 13 Jul 2023 01:55:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1b16bc494372fa515885a536e01a116b24e552f" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
+            <pubDate>Sat, 08 Jul 2023 01:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[좋.댓.구]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161914</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161914</guid>
+            <pubDate>Tue, 11 Jul 2023 23:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F384fef7bbcc909153a2daead57b3cf388808facf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀공자]]></title>
@@ -128,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 피노키오 위대한 모험]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170398</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170398</guid>
+            <pubDate>Thu, 13 Jul 2023 01:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1b16bc494372fa515885a536e01a116b24e552f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[악마들]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158891</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158891</guid>
@@ -144,20 +144,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[하나님의 마음]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169681</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169681</guid>
+            <pubDate>Sun, 16 Jul 2023 05:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bb48813acf0cbc6bd9b988916455de3288f266" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[수라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
             <pubDate>Sat, 15 Jul 2023 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[기적을 믿는 소녀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150228</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150228</guid>
-            <pubDate>Sun, 16 Jul 2023 03:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36b7ea53213dc33f2e10f49b62cb1340d571d3ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파이어하트]]></title>
