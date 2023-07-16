@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 09:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 10:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하나님의 마음]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169681</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169681</guid>
-            <pubDate>Sun, 16 Jul 2023 05:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bb48813acf0cbc6bd9b988916455de3288f266" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
@@ -166,6 +158,13 @@
             <pubDate>Fri, 14 Jul 2023 12:39:41 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909a0f122378faeb5609a5a9f652130d7efb79c3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
+            <pubDate>Sun, 16 Jul 2023 10:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
         </item>
     </channel>
 </rss>
