@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 06:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 07:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 17 Jul 2023 06:28:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FSuC1HoG2V-HeecM7WhIpas7X5nM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[남이 정한 대로 살지 않을 용기]]></title>
+            <link>https://brunch.co.kr/@@f9ml/24</link>
+            <guid>https://brunch.co.kr/@@f9ml/24</guid>
+            <pubDate>Mon, 17 Jul 2023 07:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>지마음]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff9ml%2Fimage%2FwGpiAvg6DwUngdseQPIU46Zni2c.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[톰 형 1000% 착즙 '미션 임파서블7']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jul 2023 06:28:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>HAZY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeV6Y%2Fimage%2FYQkJRWHEN4OU435bWUmW94nTELw.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[머물게 하는 슬픔도 질주하는 화도, 모두 나야]]></title>
-            <link>https://brunch.co.kr/@@8Xkh/39</link>
-            <guid>https://brunch.co.kr/@@8Xkh/39</guid>
-            <pubDate>Mon, 10 Jul 2023 06:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마음의 방]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8Xkh%2Fimage%2FVbdsQBAASx5W5pzjJpJc5oSka2U.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
