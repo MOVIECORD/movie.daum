@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 09:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 10:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=163777</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163777</guid>
             <pubDate>Wed, 14 Jun 2023 01:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,284,993명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,284,991명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
             <pubDate>Mon, 15 May 2023 02:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,639,388명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,639,386명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
             <pubDate>Sat, 17 Jun 2023 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>253,260명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>253,258명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -831,20 +831,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비밀의 언덕 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157906</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157906</guid>
-            <pubDate>Wed, 28 Jun 2023 01:54:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[인디아나 존스: 운명의 다이얼 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
             <pubDate>Thu, 15 Jun 2023 06:22:58 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비밀의 언덕 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157906</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157906</guid>
+            <pubDate>Wed, 28 Jun 2023 01:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 아름다운 그: 이터널 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -879,14 +879,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1b16bc494372fa515885a536e01a116b24e552f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하나님의 마음 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169681</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169681</guid>
-            <pubDate>Mon, 17 Jul 2023 04:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bb48813acf0cbc6bd9b988916455de3288f266" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[애스터로이드 시티 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169158</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169158</guid>
@@ -901,6 +893,14 @@
             <pubDate>Thu, 18 May 2023 01:24:33 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[하나님의 마음 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169681</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169681</guid>
+            <pubDate>Mon, 17 Jul 2023 04:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3bb48813acf0cbc6bd9b988916455de3288f266" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파이어하트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1525,6 +1525,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f89d9c2487c6a53db8976f441d4d381c3a88b88" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[로다주, “‘아이언맨’으로 출연료 5500억원 받았다”[해외이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230717184948996</link>
+            <guid>https://v.daum.net/v/20230717184948996</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘아이언맨’은 로버트 다우니 주니어(58) 배우 인생의 터닝포인트였다. 그는 1996년 4월 헤로인, 코카인, 장전되지 않은 총기 소지 혐의로 체포됐다. '아이언맨' 캐스팅이 한창 진행될 때 그는 할리우드에서 활동하지 못하는 상황이었다. 마블은 그와 티모시 올리펀트 중 누구를 아이언맨으로 캐스팅할지 고민하다 고심 끝에 로다주를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fmydaily%2F20230717184948790opif.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘더 문’, ‘승리호’ 신파 vs ‘그래비티’ 아류 사이 표류할까[스경연예연구소] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230717182517498</link>
+            <guid>https://v.daum.net/v/20230717182517498</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘더 문’(감독 김용화)이 한국형 우주SF물로서 색다른 도전을 하겠다며 호언했지만, 이를 바라보는 우려섞인 시선들도 쏟아지고 있다. ‘달에 고립된 대원’이란 설정이 비슷한 수작 ‘그래비티’를 뛰어넘지 못하고 아류로 남을 것인지, 혹은 ‘승리호’처럼 한국형 신파로 차별화를 꾀할 것인지, 그 한계점에 대한 김용화 감독의 선택에 관심이 쏠리고 있다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fsportskhan%2F20230717182518528jqsu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아는 맛과 쪼는 맛 사이 ‘비공식작전’ [쿡리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230717182502482</link>
+            <guid>https://v.daum.net/v/20230717182502482</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1986년 1월, 내전이 극심하던 레바논에서 대한민국 외교관이 피랍당하는 일이 벌어진다. 생사가 묘연하던 외교관에게서 구조 요청이 온 건 그로부터 1년 8개월이 흐른 뒤. 서울올림픽을 1년도 채 남기지 않은 상황에서 외무부는 이를 비공식적인 방법을 통해 해결하고자 한다. 레바논 투입을 자처한 외교관 민준(하정우)은 우여곡절 끝에 현지에서 수상쩍은 택시기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fkukinews%2F20230717182503877rowu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[CG 없다…'오펜하이머' 개봉 앞둔 놀란의 집요한 철학 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230717182413465</link>
+            <guid>https://v.daum.net/v/20230717182413465</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '다크 나이트' 3부작, '인셉션', '인터스텔라', '덩케르크', '테넷' 등으로 국내에서만 3,315만 명의 관객을 동원한 크리스토퍼 놀란 감독이 CG 없이 구현한 '오펜하이머'로 또 한번 관객을 유혹한다. 크리스토퍼 놀란은 시공간을 자유자재로 활용하는 연출력, CG를 최소화해 완성시킨 놀랍도록 사실감 넘치는 프]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2FSBSfunE%2F20230717182417487vdam.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[강남시선] 나는 오늘도 영화관에 간다 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230717180859071</link>
             <guid>https://v.daum.net/v/20230717180859071</guid>
@@ -1651,38 +1683,6 @@
             <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[파격 BL 로맨스 '사랑에 애태우며 노래하라'가 국내 개봉 확정 소식과 함께 메인 포스터를 공개했다. [감독: 쿠마사카 이즈루  출연: 이나바 유우, 엔도 켄신 외  수입/배급: ㈜도키엔터테인먼트] 어느 날 밤 복면의 괴한에게 습격 당하면서 몸과 마음에 깊은 상처를 입은 초등 교사 '히토시'가 의문의 청년 'KAI'를 만나 서로의 상처를 직면하고 구원하]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2FiMBC%2F20230717145445886cnuo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[성범죄 목격한 12세 소녀... 아이가 보여준 진실 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230717143603134</link>
-            <guid>https://v.daum.net/v/20230717143603134</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이학후 기자] ▲ &lt;블레이즈&gt;&nbsp;영화 포스터ⓒ 에이케이엔터테인먼트(주)&nbsp; 여느 때와 다를 바 없는 어느 날, 귀를 완전히 덮는 커다란 헤드폰을 끼고 아이스크림을 먹으며 길을 걷던 12세 소녀 블레이즈(줄리아 새비지 분)는 제이크(조쉬 로슨 분)가 해나(야엘 스톤 분)에게 가한 끔찍한 성폭력 범죄를 우연히 목격하게 된다. 정신적 충격을 받은 블레이즈는 경찰서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fohmynews%2F20230717143610150fyqq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 영화는 좋은 아버지 되기를 말하지 않았다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230717141802134</link>
-            <guid>https://v.daum.net/v/20230717141802134</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[안치용 기자] "그 무엇보다 좋은 아버지가 되고 싶었어…" &nbsp; 영화 &lt;더 썬(The Son)&gt;을 대표하는 문구이다. 배급사가 앞세운 카피이고, 아마 영화평이나 기사도 좋은 아버지 되기의 어려움에 초점을 맞추었기에 십상이다. 표면상으로는 틀린 얘기가 아니다. 그러나 만일 영화에서 그 얘기를 넘어선 무엇인가를 말하지 않았다면 연출과 각본을 맡은 플로리안 젤]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fohmynews%2F20230717141815710eedv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[미야자키 하야오 은퇴작, 또 대박…역대 지브리 '두 번째' 기록 [룩@재팬] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230717140030311</link>
-            <guid>https://v.daum.net/v/20230717140030311</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=유비취 기자] 일본 애니메이션 거장 미야자키 하야오의 신작 '그대들, 어떻게 살 것인가'가 개봉 직후 흥행 조짐을 보이고 있다. 지난 14일 미야자키 하야오 감독의 신작 '그대들, 어떻게 살 것인가'가 일본에서 첫 선을 보였다. 영화는 별다른 홍보 없이 개봉됐으나, 벌써 15억 6,000만 엔(한화 약 142억 원)의 수익을 올렸다. '그대들,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Ftvreport%2F20230717140036544nshm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['초강력 인공지능' 빌런, 미션 임파서블 팀도 당했다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230717140013285</link>
-            <guid>https://v.daum.net/v/20230717140013285</guid>
-            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김동근 기자] ▲ &nbsp;영화 &lt; 미션 임파서블: 데드 레코닝 PART ONE &gt; 포스터ⓒ  롯데컬처웍스(주)롯데엔터테인먼트&nbsp; ※ 이 기사에는 영화 주요 내용이 포함돼 있습니다. 인간은 끊임없이 기술을 발전시켜 왔다. 작은 도구부터 시작된 발명과 발견의 과정은 자동으로 계산을 해주고 이미지를 만들어주는 컴퓨팅 기술로 이어진다. 그 크기마저 작게 만들어 이제는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F17%2Fohmynews%2F20230717140015790tine.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2077,6 +2077,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fa2Qn%2Fimage%2Fs9IVVuADcUlbbLd1V5j66KTG2jI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
+            <title><![CDATA[행동하는 인간이 세상을 구한다<썸머워즈> (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@bHSp/399</link>
+            <guid>https://brunch.co.kr/@@bHSp/399</guid>
+            <pubDate>Mon, 17 Jul 2023 10:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>종종]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbHSp%2Fimage%2F8GFV_uRvHt8EXchFhfEwjZRuyao.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[원 투 훅 투 어퍼 위빙 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@rsA/292</link>
+            <guid>https://brunch.co.kr/@@rsA/292</guid>
+            <pubDate>Mon, 17 Jul 2023 10:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>선이정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FrsA%2Fimage%2FanFXNGvBtKPaC2HAGGU6Cv7ohFY.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[셀럽이 되기 위한 조건이 있을까? (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@czWP/398</link>
+            <guid>https://brunch.co.kr/@@czWP/398</guid>
+            <pubDate>Mon, 17 Jul 2023 10:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>행복나무]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FczWP%2Fimage%2Fyr2cW4J9QBA8jKfYzs5_Rrv7bsA.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[나와 너를 살리는 길 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@7rpj/186</link>
+            <guid>https://brunch.co.kr/@@7rpj/186</guid>
+            <pubDate>Mon, 17 Jul 2023 10:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>달리아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7rpj%2Fimage%2FH86qKnu1O9nKEczKo0-AvEY3nwE" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<애스터로이드 시티> 산으로 가고 있는 웨스 앤더슨 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@6dyt/1005</link>
+            <guid>https://brunch.co.kr/@@6dyt/1005</guid>
+            <pubDate>Mon, 17 Jul 2023 10:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FXgqclCY_UdIsSf2xTcz4f_YMO1g.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[노년의 사랑이 다가 아니다! (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@8kr3/49</link>
             <guid>https://brunch.co.kr/@@8kr3/49</guid>
@@ -2123,46 +2163,6 @@
             <pubDate>Wed, 12 Jul 2023 03:01:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FOOT9M7Eqc42j6uz0xbkz7olIKlA.jfif" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔니오: 더 마에스트로> 영화 음악 거장의 뒷 이야기 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6dyt/1001</link>
-            <guid>https://brunch.co.kr/@@6dyt/1001</guid>
-            <pubDate>Wed, 12 Jul 2023 03:01:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FWjVr_lDORmDgGaLzde6ZKhLfyUQ.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[좋.댓.구를 위해서라면 무엇이 대수리 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@cxOt/5</link>
-            <guid>https://brunch.co.kr/@@cxOt/5</guid>
-            <pubDate>Tue, 11 Jul 2023 05:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤제경]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcxOt%2Fimage%2F_0biCEVTZ9bJC8bElIvzD7Qm18Q.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대라면 누구나 ‘좋아요’를 누를 영화 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@2ViD/787</link>
-            <guid>https://brunch.co.kr/@@2ViD/787</guid>
-            <pubDate>Tue, 11 Jul 2023 06:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>키노라이츠 김준모 편집장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2ViD%2Fimage%2F0zNUgdynGjmoM9kCE4UZflgl9Js.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤죽박죽, <스턴트 우먼> (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@eV6Y/51</link>
-            <guid>https://brunch.co.kr/@@eV6Y/51</guid>
-            <pubDate>Tue, 11 Jul 2023 06:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>HAZY]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeV6Y%2Fimage%2F6zpWwfYPY-r4M3kNtz_I2DBywRI.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<미션 임파서블: 데드 레코닝 PART ONE>탄탄서사 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@6dyt/1000</link>
-            <guid>https://brunch.co.kr/@@6dyt/1000</guid>
-            <pubDate>Tue, 11 Jul 2023 06:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FzKaSQOGO_q7Vs2PWe9zuDUtX0tI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
