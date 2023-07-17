@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 07:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 08:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
+            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 아름다운 그: 이터널]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 08 Jul 2023 01:51:04 GMT</pubDate>
             <content:encoded><![CDATA[23.07.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
-            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀공자]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[조디악]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=41488</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=41488</guid>
-            <pubDate>Tue, 11 Jul 2023 23:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[수라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
@@ -166,6 +158,13 @@
             <pubDate>Wed, 12 Jul 2023 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa74097cfa4c6af4b0482b31890b3fe5a549f76bf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
+            <pubDate>Mon, 17 Jul 2023 08:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
         </item>
     </channel>
 </rss>
