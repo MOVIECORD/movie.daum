@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 21:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 22:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -855,14 +855,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀공자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
-            <pubDate>Wed, 07 Jun 2023 11:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F945e8e4423929dff36c16293be23eb703dd7afa5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[비밀의 언덕 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157906</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157906</guid>
@@ -877,6 +869,14 @@
             <pubDate>Sun, 18 Jun 2023 09:16:33 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀공자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155850</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155850</guid>
+            <pubDate>Wed, 07 Jun 2023 11:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F945e8e4423929dff36c16293be23eb703dd7afa5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 피노키오 위대한 모험 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -935,20 +935,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6dec4461e6cda1478882996026d215b34691119" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바비 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
-            <pubDate>Mon, 10 Jul 2023 12:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[밀수 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147080</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147080</guid>
             <pubDate>Fri, 07 Jul 2023 08:25:18 GMT</pubDate>
             <content:encoded><![CDATA[23.07.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F51a727081fdf0a5774f9e360f3ae3f15c85bc61d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바비 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
+            <pubDate>Mon, 10 Jul 2023 12:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인시디어스: 빨간 문 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1805,6 +1805,46 @@
             <pubDate>Tue, 18 Jul 2023 21:15:27 GMT</pubDate>
             <content:encoded><![CDATA[23.07.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F461b3a8a9cfce211f0011de2ab3d17f762576586" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이영진, 영화 '태일이' 내레이션 참여...“뜻깊은 시간 보내 행복했다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230719071224874</link>
+            <guid>https://v.daum.net/v/20230719071224874</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;스스로 희망의 불꽃이 된 청년 전태일의 이야기를 다룬 애니메이션 '태일이'(감독 홍준표)가 홍준표 감독 연출,&nbsp;이영진&nbsp;배우 내레이션의 배리어프리버전으로 제작됐다. 1970년 동대문 평화시장에서 “근로기준법을 준수하라”며 자신의 몸에 석유를 끼얹고 불을 붙인 청년 전태일의 이야기를 다룬 '태일이'는 장동윤, 염혜란, 진선규 등 실]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F19%2Fpoctan%2F20230719071225884bgny.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['미션 임파서블7', 7일 연속 1위…200만 관객 돌파 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230719070833828</link>
+            <guid>https://v.daum.net/v/20230719070833828</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '미션 임파서블: 데드 레코닝 파트 원'(감독 크리스토퍼 맥쿼리)이 7일 연속 박스오피스 1위에 오른 가운데, 누적관객수 200만 관객을 돌파했다. 19일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '미션 임파서블: 데드 레코닝 파트 원'은 지난 18일 하루 11만7437명의 관객을 동원하며 박스오피스 1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F19%2FNEWS1%2F20230719070834749bqva.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘밀수’ 1초의 낭비도 없는 순도 100%의 만점짜리 오락영화 [리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230719070010645</link>
+            <guid>https://v.daum.net/v/20230719070010645</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지루한 순간이나 불필요하게 느껴지는 장면이 전무(全無)하다. 단 1초의 낭비도 없는, 순도 100%의 완벽한 오락영화 ‘밀수’. 단언컨대 올 여름 한국영화계의 빛과 소금이 될 전망이다. 26일 개봉하는 영화는 1970년대 바닷가 마을에 화학 공장이 들어서면서 일자리를 잃게 된 억척스러운 해녀들이 밀수 범죄에 가담하고 벌어지는 일을 그린다. 김혜수·염정아·]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F19%2Fsportsdonga%2F20230719070012567kctq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[하정우·주지훈vs설경구·도경수…브로맨스 맞대결 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230719063010333</link>
+            <guid>https://v.daum.net/v/20230719063010333</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 주지훈과 하정우, 도경수와 설경구(왼쪽부터)가 각각 영화 ‘비공식작전’과 ‘더 문’으로 브로맨스 호흡을 펼치면서 관객의 호기심을 잡아끌고 있다. 스포츠동아 DB배우 하정우(45)와 주지훈(41), 설경구(56)와 도경수(30)가 각각 주연한 영화 ‘비공식작전’과 ‘더 문’을 통해 ‘브로맨스’ 맞대결을 펼친다. 여름 극장가를 겨냥해 개봉하는 ‘빅4’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F19%2Fsportsdonga%2F20230719063012298phxz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[도경수, 무대+연기 두 마리 토끼 다 잡는다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230719063007328</link>
+            <guid>https://v.daum.net/v/20230719063007328</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사진제공｜CJ ENM그룹 엑소의 멤버이자 배우 디오(도경수)가 올여름 무대와 연기, 두 마리 토끼를 잡기 위해 나선다. 최대 제작비 280억 원을 들인 SF 블록버스터 ‘더 문’으로 흥행 사냥에 나서는 동시에 4년 만에 그룹 활동을 펼치며 글로벌 인기까지 과시한다. 도경수는 8월 2일 개봉하는 ‘더 문’에서 달에 발을 디딘 대한민국 1호 우주인 황선우를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F19%2Fsportsdonga%2F20230719063009608iqrr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[‘밀수’ 김혜수 염정아, 언니들은 배신하지 않는다[영화보고서:리뷰] (다음영화 뉴스 ─ 최신)]]></title>
