@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 06:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 07:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 19 Jul 2023 03:58:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>genie]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfqkX%2Fimage%2FzW36D2clHJEoQp7EUd8dTQOPu10.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<어바웃 타임>의 시간 여행]]></title>
+            <link>https://brunch.co.kr/@@1Z9U/7</link>
+            <guid>https://brunch.co.kr/@@1Z9U/7</guid>
+            <pubDate>Wed, 19 Jul 2023 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>성수산책]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Z9U%2Fimage%2FM4qoVyUiAh4OFdYMsVf-JMxgUfE.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[씨네마 천국 단상]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jul 2023 10:21:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>이지원]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6Ei1%2Fimage%2FonG9MQDKFiuj7ASVQQ8BdwX1W-U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 소재들을 감당하기엔 조금 얕은 듯 한데]]></title>
-            <link>https://brunch.co.kr/@@5fpi/513</link>
-            <guid>https://brunch.co.kr/@@5fpi/513</guid>
-            <pubDate>Tue, 18 Jul 2023 10:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2F2ZtO4LDalilB60NAkvd_j2kAm8I.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
