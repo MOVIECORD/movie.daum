@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 02:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 03:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 19 Jul 2023 02:52:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최영훈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd9N4%2Fimage%2F4EntM_o-M_kt3Kq2tSthBFhFGS0" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화음악과 직장생활]]></title>
+            <link>https://brunch.co.kr/@@fqkX/17</link>
+            <guid>https://brunch.co.kr/@@fqkX/17</guid>
+            <pubDate>Wed, 19 Jul 2023 03:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>genie]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfqkX%2Fimage%2FzW36D2clHJEoQp7EUd8dTQOPu10.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[당신의 여행]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jul 2023 08:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유수진]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1TrC%2Fimage%2Fmn3uE9HxkctI-M6P9emWlMZu0kM.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[애스터로이드 시티 단상]]></title>
-            <link>https://brunch.co.kr/@@cDBo/158</link>
-            <guid>https://brunch.co.kr/@@cDBo/158</guid>
-            <pubDate>Tue, 18 Jul 2023 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Gozetto]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FcDBo%2Fimage%2FPn2TP7nJQoauJYLbDBez_kyRfGw" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
