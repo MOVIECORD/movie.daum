@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 04:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 05:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 20 Jul 2023 04:22:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>시그리드]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F4BjS%2Fimage%2FCGRhh4rXXv8R2_OehRv_jdEkuCk.gif" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[톰 크루즈, 이 구역 낭만의 최종 수호자]]></title>
+            <link>https://brunch.co.kr/@@9lOS/299</link>
+            <guid>https://brunch.co.kr/@@9lOS/299</guid>
+            <pubDate>Thu, 20 Jul 2023 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FzGVX1P4Oi2Jem6ypFdihINRORBM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[도서관, 그 마지막 피난처]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jul 2023 08:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>푸른색시계]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff3zx%2Fimage%2FZ49cO05f4_XcfwMocE3B4hNJyto.PNG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[내 맘대로 하는 영화리뷰 <미션 임파서블 데드레코닝>]]></title>
-            <link>https://brunch.co.kr/@@dXtR/76</link>
-            <guid>https://brunch.co.kr/@@dXtR/76</guid>
-            <pubDate>Tue, 18 Jul 2023 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>동동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdXtR%2Fimage%2FwcmJkLXzKwnqTnW2Nh_9XeXT7Po" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
