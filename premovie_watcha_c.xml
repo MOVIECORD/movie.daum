@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 04:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 05:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,6 +430,22 @@
             <pubDate>Wed, 19 Jul 2023 02:51:51 GMT</pubDate>
             <content:encoded><![CDATA[23.07.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6ba22998089c151752dc06d184f2db06f258698" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로마의 휴일]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1266</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1266</guid>
+            <pubDate>Fri, 21 Jul 2023 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F156F1B10AB8E6E1128" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 샌드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95380</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95380</guid>
+            <pubDate>Fri, 21 Jul 2023 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01f42fc6fd7612854d597771a1af044584c50526" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
