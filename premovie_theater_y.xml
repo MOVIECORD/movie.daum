@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 01:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 02:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d1dbd7b67d0bd6ec66d5a2426a8a6375a5c901a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보 이즈 어프레이드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166324</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166324</guid>
-            <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔니오: 더 마에스트로]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
             <pubDate>Tue, 04 Jul 2023 23:20:44 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보 이즈 어프레이드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166324</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166324</guid>
+            <pubDate>Tue, 04 Jul 2023 23:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[범죄도시3]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비밀의 언덕]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157906</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157906</guid>
-            <pubDate>Tue, 11 Jul 2023 23:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[좋.댓.구]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161914</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161914</guid>
@@ -160,12 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F384fef7bbcc909153a2daead57b3cf388808facf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 아름다운 그: 이터널]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
-            <pubDate>Fri, 21 Jul 2023 04:20:49 GMT</pubDate>
+            <title><![CDATA[비밀의 언덕]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157906</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157906</guid>
+            <pubDate>Tue, 11 Jul 2023 23:19:41 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 피노키오 위대한 모험]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170398</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170398</guid>
+            <pubDate>Sat, 22 Jul 2023 02:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1b16bc494372fa515885a536e01a116b24e552f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
