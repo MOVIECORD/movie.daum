@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 05:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=143538</guid>
             <pubDate>Fri, 21 Jul 2023 11:15:14 GMT</pubDate>
             <content:encoded><![CDATA[23.08.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28b64368a881502be613df0dea9906d458dd1e02" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6275f1acb9d73c1187caa36374e2d7a20f68fbb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[헌티드 맨션]]></title>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1828f008ff3f6196a3fecf8a91dd9e1d9f3fcbde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[틴에이지 크라켄 루비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168995</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168995</guid>
-            <pubDate>Fri, 30 Jun 2023 08:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24e816e1b5915bb2eefed5a47936b6b999d2947d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[비닐하우스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163756</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163756</guid>
@@ -72,28 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b47182d829074c2a8f8aa518280e38c60ffc8e1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[틴에이지 크라켄 루비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168995</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168995</guid>
+            <pubDate>Fri, 30 Jun 2023 08:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24e816e1b5915bb2eefed5a47936b6b999d2947d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[에고이스트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164261</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164261</guid>
             <pubDate>Tue, 18 Jul 2023 23:17:38 GMT</pubDate>
             <content:encoded><![CDATA[23.07.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff84cfbf019d09571176f9108cb78e817a1e7a2f5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[러브 라이프]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162620</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162620</guid>
-            <pubDate>Tue, 04 Jul 2023 07:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d5258fe79bd60ac21721ae92b9e0ffb4f675761" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[신입사원: 더 무비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169550</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169550</guid>
-            <pubDate>Tue, 18 Jul 2023 23:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7eb17871d81472c6531ad029f987b8d06584e7fd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보호자]]></title>
@@ -120,12 +104,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b87c8d23c7904f9b3678654f1104fb93c8c6486" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[러브 라이프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162620</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162620</guid>
+            <pubDate>Tue, 04 Jul 2023 07:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d5258fe79bd60ac21721ae92b9e0ffb4f675761" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[다섯 번째 흉추]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161325</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161325</guid>
             <pubDate>Tue, 18 Jul 2023 23:17:38 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F756ec19121618f1147a24ca2ae257d19ed3665d0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신입사원: 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169550</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169550</guid>
+            <pubDate>Tue, 18 Jul 2023 23:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7eb17871d81472c6531ad029f987b8d06584e7fd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이름 없는 춤]]></title>
