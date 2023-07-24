@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 05:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 06:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
-            <pubDate>Sat, 08 Jul 2023 01:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아버지의 마음]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170447</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=170447</guid>
@@ -120,12 +112,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
-            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
+            <pubDate>Sat, 08 Jul 2023 01:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 썬]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Tue, 11 Jul 2023 23:19:41 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1e8a100df13eae218d6ac3cedd867cbc01811a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인디아나 존스: 운명의 다이얼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=62731</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=62731</guid>
+            <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하나님의 마음]]></title>
