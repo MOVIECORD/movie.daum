@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 10:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 어크로스 더 유니버스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
-            <pubDate>Wed, 21 Jun 2023 01:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[틴에이지 크라켄 루비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168995</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168995</guid>
@@ -104,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24e816e1b5915bb2eefed5a47936b6b999d2947d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[범죄도시3]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
-            <pubDate>Wed, 31 May 2023 01:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[스파이더맨: 어크로스 더 유니버스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
+            <pubDate>Wed, 21 Jun 2023 01:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아버지의 마음]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 24 Jul 2023 14:18:39 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa063c3e46a98fe623b4eeee11e6e3a900ea68a45" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시3]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
+            <pubDate>Wed, 31 May 2023 01:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
