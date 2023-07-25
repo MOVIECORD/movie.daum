@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 02:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff84cfbf019d09571176f9108cb78e817a1e7a2f5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[몬스터 패밀리 2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165296</guid>
-            <pubDate>Mon, 24 Jul 2023 11:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0252828108f6b9932577e2965925ff4250e0240b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보호자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138866</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138866</guid>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 18 Jul 2023 23:17:38 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F756ec19121618f1147a24ca2ae257d19ed3665d0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 패밀리 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165296</guid>
+            <pubDate>Mon, 24 Jul 2023 11:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0252828108f6b9932577e2965925ff4250e0240b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신입사원: 더 무비]]></title>
