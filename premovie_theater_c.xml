@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 03:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 04:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3844ad90c024da98f9e139ed97c2a74aa4462a1f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보호자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138866</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138866</guid>
-            <pubDate>Sun, 23 Jul 2023 12:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39fa69c52e50d0c24b560eb43238e46dfe6fbef1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[여덟 개의 산]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160390</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160390</guid>
@@ -85,6 +77,14 @@
             <pubDate>Tue, 04 Jul 2023 07:19:45 GMT</pubDate>
             <content:encoded><![CDATA[23.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5d5258fe79bd60ac21721ae92b9e0ffb4f675761" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[살바도르 달리 : 불멸을 찾아서]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146423</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146423</guid>
+            <pubDate>Wed, 26 Jul 2023 01:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a5996b651abe2f64e99ae447e0e5db08aa6830b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신입사원: 더 무비]]></title>
@@ -158,12 +158,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe0dbcdc422f54403bbe25ebe0b441906cf3a11fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[살바도르 달리 : 불멸을 찾아서]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146423</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146423</guid>
-            <pubDate>Wed, 26 Jul 2023 01:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a5996b651abe2f64e99ae447e0e5db08aa6830b" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[더 도어 : 다섯 개의 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170493</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170493</guid>
+            <pubDate>Wed, 26 Jul 2023 04:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc84e388ed77cbc1b84ef8f17f412edf20e60b1e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
