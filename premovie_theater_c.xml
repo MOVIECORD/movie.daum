@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 15:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,13 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3844ad90c024da98f9e139ed97c2a74aa4462a1f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[낭만여행]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170379</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170379</guid>
-            <pubDate>Tue, 25 Jul 2023 14:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.27]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다섯 번째 흉추]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161325</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161325</guid>
@@ -77,6 +70,13 @@
             <pubDate>Tue, 18 Jul 2023 23:17:38 GMT</pubDate>
             <content:encoded><![CDATA[23.08.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7eb17871d81472c6531ad029f987b8d06584e7fd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만여행]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170379</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170379</guid>
+            <pubDate>Tue, 25 Jul 2023 14:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퀴어 마이 프렌즈]]></title>
