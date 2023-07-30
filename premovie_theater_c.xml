@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 18:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 19:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <content:encoded><![CDATA[23.07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네 마음을 열어줘]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155069</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155069</guid>
-            <pubDate>Wed, 26 Jul 2023 01:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe0dbcdc422f54403bbe25ebe0b441906cf3a11fa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[한번 죽어 봤다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=140029</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=140029</guid>
@@ -164,6 +156,14 @@
             <pubDate>Fri, 28 Jul 2023 10:18:39 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa007bc8dcb25e013c6c100b1f248003a5c5fb6dc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 도어 : 다섯 개의 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170493</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170493</guid>
+            <pubDate>Sun, 30 Jul 2023 19:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc84e388ed77cbc1b84ef8f17f412edf20e60b1e" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
