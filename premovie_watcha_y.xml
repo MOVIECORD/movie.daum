@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 04:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 02 Aug 2023 04:20:36 GMT</pubDate>
             <content:encoded><![CDATA[23.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4e05a94bc1df41d39b921d20cd74a0347800acc7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데스노트 : 더 뉴 월드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104623</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104623</guid>
+            <pubDate>Wed, 02 Aug 2023 05:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F897e0a7b177db7a33b8ae31aa524c2cd25a9a04d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

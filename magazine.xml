@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/1boon</id>
-    <title>다음 영화 ─ 매거진</title>
-    <updated>2023-08-02T04:21:32.735Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음 영화 ─ 매거진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 02 Aug 2023 05:17:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송국이 취재까지 하러 온 톱스타의 고등학교 졸업식]]></title>
+            <link>https://v.daum.net/v/UyGooIBEeD</link>
+            <guid>https://v.daum.net/v/UyGooIBEeD</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Ffeelthemovie%2F20230802133025269bihr.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[어디서 많이 본 듯한 신예 '감독', 알고 보니...]]></title>
+            <link>https://v.daum.net/v/F48vvpLZ3U</link>
+            <guid>https://v.daum.net/v/F48vvpLZ3U</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Fmaxmovie%2F20230802132133232apqv.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑이 필요하지만, 사랑이 두려운 두 남자]]></title>
+            <link>https://v.daum.net/v/HhVRVLGMHX</link>
+            <guid>https://v.daum.net/v/HhVRVLGMHX</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Ffanzeel%2F20230802125012662fvdw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[과거, 살아있는 인형으로 불리던 배우의 깜짝 '근황']]></title>
+            <link>https://v.daum.net/v/4dQyT3iHKM</link>
+            <guid>https://v.daum.net/v/4dQyT3iHKM</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Fmaxmovie%2F20230802125004867ofze.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이렇게 사랑하는데.. 무대 뒤에서 따귀 날린 톱 여배우들]]></title>
+            <link>https://v.daum.net/v/tAn859EuuK</link>
+            <guid>https://v.daum.net/v/tAn859EuuK</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2FBoiledMovie%2F20230802123244632oqid.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[美오스카 파티도 참석한 배우가 시사회에 몰래 간 사연]]></title>
+            <link>https://v.daum.net/v/FqaJ8aZdzb</link>
+            <guid>https://v.daum.net/v/FqaJ8aZdzb</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Fmaxmovie%2F20230802120119629habh.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 연예계 전설로 남겨질 역대급 미모의 세자매 스타]]></title>
+            <link>https://v.daum.net/v/Zk0cuoHRnA</link>
+            <guid>https://v.daum.net/v/Zk0cuoHRnA</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Ffeelthemovie%2F20230802113417954fvuj.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 10살 딸 학부모인 싱글맘 '배우'가 전한 깜짝 '근황']]></title>
+            <link>https://v.daum.net/v/7lfGcl9r1P</link>
+            <guid>https://v.daum.net/v/7lfGcl9r1P</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Fmaxmovie%2F20230802111024798cqql.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[술 너무 좋아해서 촬영하면서 진짜 음주한 남녀 톱스타]]></title>
+            <link>https://v.daum.net/v/XIjcs7atJc</link>
+            <guid>https://v.daum.net/v/XIjcs7atJc</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Ffeelthemovie%2F20230802093004779xdtt.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화사에 '1조 원'벌어줄 것이라고 호언장담했던 금발 미녀]]></title>
+            <link>https://v.daum.net/v/fr69arujuz</link>
+            <guid>https://v.daum.net/v/fr69arujuz</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2FBoiledMovie%2F20230802104048318fgqm.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[연인 연기만 하라 했는데, 너무 몰입한 남녀 배우 결국…]]></title>
+            <link>https://v.daum.net/v/3TAxtev8Hy</link>
+            <guid>https://v.daum.net/v/3TAxtev8Hy</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Ffeelthemovie%2F20230802081004907fgka.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[26년 전, 거짓말 못하는 변호사 나온 레전드 코미디]]></title>
+            <link>https://v.daum.net/v/8HsqcLGMO3</link>
+            <guid>https://v.daum.net/v/8HsqcLGMO3</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Ffanzeel%2F20230802080025016jodj.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑이 떠난 자리를 지키는 가슴 아픈 쓸쓸한 사랑의 성찰, ‘에고이스트’]]></title>
+            <link>https://v.daum.net/v/G3U4YUo5da</link>
+            <guid>https://v.daum.net/v/G3U4YUo5da</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[테일러콘텐츠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Ftailorcontents_cv%2F20230802075344344hbyt.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[연예계 대표 절친 배우2명이 손 잡은 특별한 이유]]></title>
+            <link>https://v.daum.net/v/KrxC7tdYz8</link>
+            <guid>https://v.daum.net/v/KrxC7tdYz8</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2Fmaxmovie%2F20230802091540128bhza.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 오늘 중고거래 사이트에서 죽은 사람의 물건을 샀다]]></title>
+            <link>https://v.daum.net/v/H99FicFL9F</link>
+            <guid>https://v.daum.net/v/H99FicFL9F</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F02%2FBoiledMovie%2F20230802094439590nhhb.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[8월 극장가엔 놀란 감독 신작만 있나?]]></title>
+            <link>https://v.daum.net/v/ZaLPe8sbBU</link>
+            <guid>https://v.daum.net/v/ZaLPe8sbBU</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F01%2Ffanzeel%2F20230801182012717thck.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[일반 직장인에서 연예인된…현재 청춘의 롤모델인 스타]]></title>
+            <link>https://v.daum.net/v/KNbRuqj3xl</link>
+            <guid>https://v.daum.net/v/KNbRuqj3xl</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F01%2Ffeelthemovie%2F20230801171004405vqkq.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[친형제보다 더 가깝다는 두 배우, 알고 보니...]]></title>
+            <link>https://v.daum.net/v/x0nggev8i6</link>
+            <guid>https://v.daum.net/v/x0nggev8i6</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F01%2Fmaxmovie%2F20230801165141394kjnt.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이 아름다운 여성이 교도소에 가게 된 충격적 '이유']]></title>
+            <link>https://v.daum.net/v/4G0YtY6hiG</link>
+            <guid>https://v.daum.net/v/4G0YtY6hiG</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F01%2Fmaxmovie%2F20230801164547346yafz.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[보기만 해도 안구정화되는 커플, 최근 '부부'된 사연]]></title>
+            <link>https://v.daum.net/v/2rkT9ug1MY</link>
+            <guid>https://v.daum.net/v/2rkT9ug1MY</guid>
+            <pubDate>Wed, 02 Aug 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F01%2Fmaxmovie%2F20230801163541667omvd.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+    </channel>
+</rss>

@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 04:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,6 +302,14 @@
             <pubDate>Mon, 31 Jul 2023 05:16:53 GMT</pubDate>
             <content:encoded><![CDATA[23.08.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11291D10FEC9222E01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[웨딩 데이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41051</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41051</guid>
+            <pubDate>Wed, 02 Aug 2023 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AC43725CE3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
