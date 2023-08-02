@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2023-08-02T03:19:16.903Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 02 Aug 2023 04:21:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이모티: 더 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=108956</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=108956</guid>
+            <pubDate>Wed, 02 Aug 2023 04:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cc36a018b0fcd28cca1488fd6d79d1c8580de43" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미드나잇 선]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109552</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109552</guid>
+            <pubDate>Wed, 02 Aug 2023 04:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4e05a94bc1df41d39b921d20cd74a0347800acc7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
