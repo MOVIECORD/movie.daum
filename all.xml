@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 01:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,23 +12,39 @@
             <link>https://movie.daum.net/moviedb/main?movieId=147080</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147080</guid>
             <pubDate>Fri, 07 Jul 2023 08:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,724,881명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,535,583명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F51a727081fdf0a5774f9e360f3ae3f15c85bc61d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비공식작전 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
+            <pubDate>Thu, 06 Jul 2023 04:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>700,145명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163777</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163777</guid>
             <pubDate>Wed, 14 Jun 2023 01:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,672,706명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>6,313,807명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 문 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145342</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145342</guid>
+            <pubDate>Fri, 14 Jul 2023 08:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>360,944명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbefb3ff392b22b07b93f8d4f2bbc0e8b30f5f2df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139236</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139236</guid>
             <pubDate>Sat, 01 Jul 2023 01:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,531,857명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>3,847,330명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb65c5c7161099ca353e93f1e48115c7ef05dcaa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
             <pubDate>Thu, 20 Jul 2023 01:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>580,212명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>678,937명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -44,88 +60,72 @@
             <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
             <pubDate>Mon, 10 Jul 2023 12:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>432,322명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>518,173명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 패밀리 2 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165296</guid>
+            <pubDate>Wed, 02 Aug 2023 08:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>67,043명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0252828108f6b9932577e2965925ff4250e0240b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인시디어스: 빨간 문 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169775</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169775</guid>
             <pubDate>Tue, 11 Jul 2023 23:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>358,466명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>393,323명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7586d7615ebeef8416602c14eceedb0e85c0011a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 슈퍼윙스: 맥시멈 스피드 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171122</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171122</guid>
-            <pubDate>Thu, 20 Jul 2023 01:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>95,297명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6900520a3d3be38e24ff04126c092a382d596b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름날 우리 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151333</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151333</guid>
             <pubDate>Sat, 17 Jun 2023 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>360,673명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>393,436명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 슈퍼윙스: 맥시멈 스피드 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171122</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171122</guid>
+            <pubDate>Thu, 20 Jul 2023 01:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>126,208명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6900520a3d3be38e24ff04126c092a382d596b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[핑크퐁 시네마 콘서트3 : 진저브레드맨을 잡아라 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171610</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171610</guid>
             <pubDate>Tue, 11 Jul 2023 23:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>24,222명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>47,039명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d7872baeac2673dad84fb624770449fe7da96a8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 문 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145342</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145342</guid>
-            <pubDate>Fri, 14 Jul 2023 08:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>20,926명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbefb3ff392b22b07b93f8d4f2bbc0e8b30f5f2df" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[더 퍼스트 슬램덩크 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164918</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164918</guid>
+            <pubDate>Fri, 23 Dec 2022 12:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,727,667명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0aaca4b87c541b11085139bd941da0996a78ec1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[콘크리트 유토피아 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143538</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143538</guid>
+            <pubDate>Fri, 21 Jul 2023 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>13,626명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6275f1acb9d73c1187caa36374e2d7a20f68fbb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[틴에이지 크라켄 루비 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168995</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168995</guid>
             <pubDate>Tue, 25 Jul 2023 01:44:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>25,390명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>35,536명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24e816e1b5915bb2eefed5a47936b6b999d2947d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[비공식작전 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
-            <pubDate>Thu, 06 Jul 2023 04:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>43,192명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨: 어크로스 더 유니버스 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
-            <pubDate>Fri, 09 Jun 2023 10:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>910,128명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[헌티드 맨션 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168527</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168527</guid>
-            <pubDate>Tue, 18 Jul 2023 05:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>10,193명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccf61a7de8cc23eb13d71fe667a18d08228fe86d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아 (다음 영화 ─ 박스오피스 ─ 주간)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
-            <pubDate>Wed, 28 Jun 2023 03:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>83,206명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈 (다음 영화 ─ 박스오피스 ─ 월간)]]></title>
@@ -855,14 +855,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
-            <pubDate>Wed, 28 Jun 2023 03:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[다섯 번째 흉추 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161325</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161325</guid>
@@ -887,20 +879,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6900520a3d3be38e24ff04126c092a382d596b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
+            <pubDate>Wed, 28 Jun 2023 03:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스파이더맨: 어크로스 더 유니버스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
             <pubDate>Fri, 09 Jun 2023 10:19:50 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼 키드 헤일리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167614</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167614</guid>
-            <pubDate>Thu, 20 Jul 2023 01:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F201e1b3721089fe7b80e949de0bb801d0fa0d855" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[틴에이지 크라켄 루비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -925,6 +917,14 @@
             <pubDate>Wed, 21 Jun 2023 01:38:49 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a768adbada87d8776772ebdbfa4b40a7113ee9d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비닐하우스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163756</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163756</guid>
+            <pubDate>Mon, 07 Aug 2023 01:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b47182d829074c2a8f8aa518280e38c60ffc8e1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오펜하이머 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -983,6 +983,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ff7eff5594b5609729a9302c84b5d41d253a6fa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[메가로돈 2 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170266</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170266</guid>
+            <pubDate>Wed, 02 Aug 2023 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84729a122c65027e810a85e01857b2cef81007b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[퀴어 마이 프렌즈 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160079</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160079</guid>
@@ -997,14 +1005,6 @@
             <pubDate>Wed, 02 Aug 2023 07:19:15 GMT</pubDate>
             <content:encoded><![CDATA[23.08.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18e3edf0573fd0b018c0159f8750f7f2f7f7b270" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[메가로돈 2 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170266</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170266</guid>
-            <pubDate>Wed, 02 Aug 2023 07:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84729a122c65027e810a85e01857b2cef81007b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이름 없는 춤 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1599,92 +1599,164 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9defa9441670670e27eabd17dccfa58d113fa0cc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[‘밀수’ 주말 93만명↑ 봤다‥곧 손익분기점 400만 돌파[박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807081237497</link>
-            <guid>https://v.daum.net/v/20230807081237497</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '밀수'가 개봉 2주차 주말 박스오피스 1위를 차지했다. 8월 7일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(4일~6일) 영화 '밀수'(감독 류승완)가 93만7,637명의 관객을 동원하며 전체 박스오피스 1위를 차지했다. 누적 관객은 353만5,583명으로, 금주 내 손익분기점인 400만 돌파도 확실시 된다. '밀수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fnewsen%2F20230807081238041vrua.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[한국서 죽 쑨 ‘바비’, 전세계 매출 1조원 돌파…마고 로비 예언 통했다![할리웃톡] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807101516484</link>
+            <guid>https://v.daum.net/v/20230807101516484</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 유다연인턴기자] 할리우드 영화 ‘바비’가 전 세계 총매출 10억 달러(약 1조 3천억 원)를 돌파했다. 블룸버그 통신은 6일(현지 시간), 영화 바비가 개봉 셋째 주 한 주간 북미에서 5,300만 달러, 그 외 세계 각지에서 7400만 달러를 추가로 벌어들이며 총매출 10억 달러를 넘겼다고 보도했다. 이 중 미국 매출액이 4억 5940]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FSPORTSSEOUL%2F20230807101521265vkpz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘콘유’ 박서준 “이병헌 보며 ‘나 잘하고 있었구나’ 위안받아” [DA:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807080010266</link>
-            <guid>https://v.daum.net/v/20230807080010266</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 영화 ‘콘크리트 유토피아’와 배우 박서준의 만남은 조금 남다르다. 으레 배우가 ‘제안받고’ 결정한 작품이 아니라 박서준이 제 발로 찾아간 작품이기 때문. 작품 자체도, 연출자 엄태화 감독도 충분히 매력적이었지만 박서준이 문을 두드린 진짜 이유는 따로 있었다. ‘연기의 신’ 이병헌이었다. “보통은 제안받은 작품 중에서 시나리오를 읽어보곤 하는데]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fsportsdonga%2F20230807080014042mdqq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[353만 '밀수’, 주말 흥행 경쟁 완승…손익분기점 돌파 코앞[박스S] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807095114392</link>
+            <guid>https://v.daum.net/v/20230807095114392</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] 한국 영화 왕좌를 지키고 있는 영화 ‘밀수’가 이번 주 중 손익분기점을 돌파할 것으로 보인다. 7일 영화진흥위원회 통합전산망에 따르면 ‘밀수’는 주말인 지난 4일부터 6일까지 사흘간 93만 7633명의 관객을 끌어모았다. 누적관객수는 353만 5579명으로 이번 주 중 손익분기점인 400만 관객을 돌파할 것으로 보인다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fspotvnews%2F20230807095117781nvfb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘콘유’ 박서준 “무대 무서워, 손하트 민망하지만 노력 中” [DA:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807080006258</link>
-            <guid>https://v.daum.net/v/20230807080006258</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴]  배우 박서준이 잠시 찾아왔던 슬럼프를 회상했다. 박서준은 최근 서울 종로구 소격동에서 진행된 영화 ‘콘크리트 유토피아’ 인터뷰에서 몇 달 전까지 체력 저하로 인한 컨디션 난조와 침체기를 겪었다고 고백했다. 그는 “‘머리가 맑으려면 체력이 좋아야 하구나’를 정말 많이 느꼈다. 컨디션에 따라 정신적으로 격차가 심하더라. 컨디션 유지가 중요하다는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fsportsdonga%2F20230807080008882qxxg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[윈윈 아닌 제로섬…동시 개봉 '더문'·'비공식작전', '더문식작전' 사실상 실패 [TEN초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807094701248</link>
+            <guid>https://v.daum.net/v/20230807094701248</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]같은 날 개봉한 영화 '더 문'과 '비공식작전'이 '윈윈'이 아닌 '제로섬' 게임의 양상을 보이고 있다. 영화진흥위원회 영화관입장권통합전산망 31주차 주말 박스오피스에 따르면 지난 4일부터 6일까지 '비공식작전'(감독 김성훈)은 44만357명의 관객이 관람했으며, 70만142명의 누적 관객수를 기록하고 있다. '더 문'(감독 김용]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2F10asia%2F20230807094703009kkhc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['범죄도시2'보다 9일 빠르다 '오펜하이머', 빅4 대격돌 여름 극장가 복병 예고 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807075515184</link>
-            <guid>https://v.daum.net/v/20230807075515184</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자] 영화 '오펜하이머'가 빅4의 대격돌을 앞둔 여름 극장가 복병이 될 전망이다.&nbsp; 영화 &lt;오펜하이머&gt;가 개봉을 9일 앞둔 오늘(6일) 사전 예매 12만 5천장을 돌파하는 기염을 토하며 전체 예매율 1위를 기록했다. 개봉을 9일 앞둔 6일 전체 예매율 1위에 등극했다. 영화진흥위원회 통합전산망에 따르면 '오펜하이머'는 '밀수', '더]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2F10asia%2F20230807075516841oazm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['밀수', 2주차 주말도 압도적 1위..손익분기점 돌파 목전 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807094527196</link>
+            <guid>https://v.daum.net/v/20230807094527196</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 밀수 / 사진=영화 포스터'밀수'가 적수 없는 행보를 보이며 손익분기점 돌파를 앞두고 있다. 7일 영화진흥위원회 통합전산망에 따르면 영화 '밀수'는 지난 주말(4일~6일) 93만 7637명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 353만 5583명. '밀수'는 바다를 배경으로 한 시원한 전개와 배우들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fstarnews%2F20230807094528710tyrw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[주말에만 93만↑ '밀수' 함박웃음, '비공식작전' 추격·'더 문' 울상 [TEN무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807073801947</link>
-            <guid>https://v.daum.net/v/20230807073801947</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자]영화 '밀수'가 여름 빅4 3파전에서 대승을 거두며 함박웃음을 지었다. '비공식작전'은 준수한 성적으로 추격하고 있고, '더 문'은 울상이다.&nbsp; 영화진흥위원회 영화관입장권통합전산망 31주차 주말 박스오피스에 따르면 지난 4일부터 6일까지 '밀수'(감독 류승완)는 93만7633명 관객을&nbsp;동원, 누적 관객수 353만5579명을 돌파했다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2F10asia%2F20230807073803036obzp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[영화 ‘바비’, 전세계 매출 10억달러...올해 개봉작 중 흥행 2위 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807094245106</link>
+            <guid>https://v.daum.net/v/20230807094245106</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(왼쪽부터) 배우 아메리카 페레라, 마고 로비, 그레타 거윅 감독이 3일 오전 서울 종로구 광화문 포시즌즈호텔에서 열린 영화 '바비'의 내한기념 기자간담회에 참석해 포즈를 취하고 있다. 세계일보 자료사진  &nbsp; 영화 ‘바비’가 북미를 중심으로 큰 인기를 얻으며 전 세계 총매출 10억 달러(약 1조3000억원)를 돌파했다. 지난 6일(현지시간) 블룸버그]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fsegye%2F20230807094245248kods.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['밀수', 12일째 1위…350만 돌파 '파죽지세' [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807073207883</link>
-            <guid>https://v.daum.net/v/20230807073207883</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 영화 '밀수'(감독 류승완)가 12일째 박스오피스 1위에 올랐다. 7일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '밀수'는 지난 6일 34만4066명의 관객을 동원, 7월26일 개봉 후 12일 연속 박스오피스 정상을 지켰다. 누적관객수는 353만5579명이다. '밀수' 보다 한 주 늦게 개봉한 영화 '비공식작전']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FNEWS1%2F20230807073209035qsmq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[“‘D.P.2’ 구교환 분량이 적어졌다고요?”[편파적인 디렉터스뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807092735536</link>
+            <guid>https://v.daum.net/v/20230807092735536</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[OTT플랫폼 넷플릭스 시리즈 ‘D.P.’ 시즌2의 반응이 엇갈리고 있다. 시즌1에 이어 군 문화에 대한 심도가 깊어졌다는 반면, 주인공인 ‘준호’(정해인)와 ‘호열’(구교환)의 분량이 적어져 상대적으로 아기자기한 재미가 덜해졌다는 평도 있었다. “시청자의 감상을 제가 가타부타할 순 없어요. 그건 제 부족함이니까요. 그럼에도 시즌2의 제작 의도를 말]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fsportskhan%2F20230807092736996lvwd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘콘유’ 박서준 “7kg 감량+폭염에 힘들었지만 즐거웠죠” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807070301560</link>
-            <guid>https://v.daum.net/v/20230807070301560</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박서준(35)이 올여름 현실적인 재난물 ‘콘크리트 유토피아’로 스크린을 찾았다. 박서준은 영화 ‘콘크리트 유토피아’(감독 엄태화)에서 가족을 지키고자 애쓰는 민성 역을 맡아 열연했다. 2014년 연재 이후 호평을 모았던 김숭늉 작가의 웹툰 ‘유쾌한 왕따’의 2부 ‘유쾌한 이웃’을 원작으로 새롭게 각색한 ‘콘크리트 유토피아’는 대지진으로 폐허가 되어 버]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fstartoday%2F20230807070306894bqcc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['밀수' 신작 공세에도 2주 연속 주말 1위, 353만 명 돌파 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807091211949</link>
+            <guid>https://v.daum.net/v/20230807091211949</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 ‘밀수’가 주말 박스오피스 1위를 기록했다. 7일 영화진흥위원회 통합전산망에 따르면 ‘밀수’(감독 류승완)가 지난 주말 93만7637명의 관객을 동원하며 주말 박스오피스 1위를 기록했다. 누적 관객수는 353만5583명이다. ‘밀수’는 해녀 조춘자(김혜수)와 엄진숙(염정아)이 전국구 밀수왕 권 상사(조인성)를 만나게 되면]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Ftvdaily%2F20230807091212615zihx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[영화 ‘밀수’ 힘…1970년대 가요까지 인기 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807063016130</link>
-            <guid>https://v.daum.net/v/20230807063016130</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김혜수·염정아 주연의 영화 ‘밀수’가 개봉 11일 만에 300만 관객을 돌파하면서 OST까지 화제를 모으고 있다. 영화는 1970년대 바닷가를 배경으로 그리면서 그때 그 감성이 물씬 풍기는 곡들이 주로 등장해 관객들의 추억을 자극한다. 덕분에 “당시의 분위기를 제대로 살렸다”는 평가가 잇따른다. 가수 최헌의 ‘앵두’를 시작으로 펄시스터즈의 ‘님아’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fsportsdonga%2F20230807063019562sges.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['더 문' 스크린에 펼친 하이퍼리얼리즘의 우주…129분 순삭 킬링 포인트 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807090704786</link>
+            <guid>https://v.daum.net/v/20230807090704786</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '더 문'(감독 김용화)이 실관람객들의 생생한 리뷰를 통해 짚어본 작품의 킬링 포인트를 전했다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장 재국(설경구)의 사투를 그린 영화다. '더 문'은 대한민국 최초 달을 향한 위대한 여정에 관객들을 초대한다. 신비롭]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fxportsnews%2F20230807090706663gyxm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[영화 '바비' 전세계 매출 10억 달러 돌파…매출절반은 美서 발생 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807032620838</link>
-            <guid>https://v.daum.net/v/20230807032620838</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(뉴욕=연합뉴스) 이지헌 특파원 = 영화 '바비'가 북미를 중심으로 흥행몰이에 성공하면서 전 세계 총매출 10억 달러(약 1조3천억원)를 돌파했다. 6일(현지시간) 블룸버그 통신 등에 따르면 워너브러더스는 영화 바비가 개봉 셋째 주 한 주간 북미에서 5천300만 달러, 그 외 세계 각지에서 7천400만 달러를 추가로 벌어들이며 총매출 10억 달러를 넘겼다고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fyonhap%2F20230807032620911znmw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[내한 무색해진 ‘톰과 바비’… 韓 관객은 냉정했다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807090615757</link>
+            <guid>https://v.daum.net/v/20230807090615757</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[톰 크루즈, 마고 로비의 공통점은? 할리우드를 대표하는 배우인 두 사람 모두 올해 여름 한국을 방문했다. 그리고 또 하나의 공통점. 이들은 적극적인 홍보 활동으로 대중의 큰 환호를 이끌어냈음에도, 정작 출연한 영화는 기대치를 크게 밑도는 성적표를 받아야 했다. 해외 유명 스타의 내한이 흥행을 담보한다는 건 옛말 중의 옛말. 힘 못 쓴 ‘톰 아저씨’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fmunhwa%2F20230807090616877pkyq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[내가 본 '도경수'] 12년 차의 여유, 기분 좋은 발견 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807000036117</link>
-            <guid>https://v.daum.net/v/20230807000036117</guid>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['더 문' 달에 홀로 고립된 우주 대원 황선우 役 겸손함·여유 장착한 '만능캐'..."노래·연기, 할 수 있을 때까지 하고파" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 내용도 비슷하]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FTHEFACT%2F20230807000037304twbd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[‘아이언맨’ 슈트 · ‘아바타’ 공중섬… 영화 속 ‘초전도체’ 현실이 될까 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807090613755</link>
+            <guid>https://v.daum.net/v/20230807090613755</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 연구진이 상온·상압 초전도체를 개발했다는 내용이 담긴 논문이 발표된 후 ‘꿈의 물질’로 불리는 초전도체에 대한 대중적 관심이 급증하고 있다. 전문 지식 없이는 이해하기 힘든 개념이지만 공상과학(SF) 영화에서는 초전도체가 이미 여러 차례 등장했다. 1, 2편 합쳐 한국에서 2400만 관객을 모은 영화 ‘아바타’는 초전도체가 미래 인류를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fmunhwa%2F20230807090614534qwgb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박서준, '콘크리트 유토피아'를 통해 얻은 자산 [TF인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230807000030110</link>
-            <guid>https://v.daum.net/v/20230807000030110</guid>
+            <title><![CDATA[설경구·도경수 브로맨스→최강 우주 시퀀스…'더 문' 순삭 킬링 포인트 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807090408706</link>
+            <guid>https://v.daum.net/v/20230807090408706</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 영화 ‘더 문’(감독 김용화)이 오직 극장에서만 가능한 압도적인 영화적 체험을 선보이며 전 세대 관객의 호평을 얻고 있다. 이에 ‘더 문’ 측이 실관람객들의 생생한 리뷰를 통해 짚어본 작품의 킬링 포인트를 전해왔다. 다채로운 스크린 체험의 진수 ‘더 문’은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FEdaily%2F20230807090411277flqx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[‘콘크리트 유토피아’ ③] 선악의 경계를 허물어 ‘악의 평범성’을 묻는 엄태화 감독의 야심작 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807090055585</link>
+            <guid>https://v.daum.net/v/20230807090055585</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자] 올해 여름시장 ‘빅4’ 가운데 엄태화 감독의 ‘콘크리트 유토피아’(9일 개봉)가 마지막 출격 채비를 마쳤다. 이 영화는 개봉 3일 전부터 한국영화 예매율 1위에 오르며 뜨거운 입소문을 증명했다. 극장의 티켓값 인상 이후 관객이 가장 중요하게 선택하는 기준은 ‘입소문’이다. 비싼 돈을 지불하는만큼 만족도 높은 영화를 보겠다는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fmydaily%2F20230807090055984guwb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[‘콘크리트 유토피아’ ②] 원작 웹툰과 무엇이 다른가 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807090054584</link>
+            <guid>https://v.daum.net/v/20230807090054584</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]엄태화 감독의 ‘콘크리트 유토피아’는 지난 2014년부터 레진코믹스를 통해 연재, 예기치 못한 재난 앞에 변해가는 적나라한 인간의 모습을 그려 호평과 인기를 모았던 김숭늉 작가의 웹툰 '유쾌한 왕따'의 2부 '유쾌한 이웃'을 원작으로 새롭게 각색한 작품이다. '유쾌한 이웃'은 ‘콘크리트 유니버스’라는 이름으로 드라마, 영화로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fmydaily%2F20230807090054961qzwg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[['콘크리트 유토피아' ①] 이병헌, 영혼 갈아넣은 '광기 열연'…대상은 떼놓은 당상 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807090045572</link>
+            <guid>https://v.daum.net/v/20230807090045572</guid>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 이병헌이 신들린 연기로 '콘크리트 유토피아'를 휩쓸었다. 영화 '잉투기'(2013), '가려진 시간'(2016) 엄태화 감독의 신작 '콘크리트 유토피아'는 대지진으로 폐허가 되어버린 한겨울의 서울, 유일하게 남은 '황궁 아파트'로 외부 생존자들이 모여들며 시작되는 이야기를 그린 재난 드라마다. 김숭늉 작가의 웹툰 '유쾌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fmydaily%2F20230807090045856jdzt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성 첫 연출작 '보호자', 비틀린 자격지심 가진 빌런 완성한 김준한 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807085700421</link>
+            <guid>https://v.daum.net/v/20230807085700421</guid>
             <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[존경하던 선배 이병헌과 호흡…박보영과는 부부 '케미' [더팩트ㅣ김샛별 기자] 존경하던 선배와 긴 호흡을 맞추고 싶었고 결국 인연을 맺게 됐다. 함께 작업을 한다는 것 자체만으로도 많은 배움을 얻었다. 그리고 그 안에서 자신의 새로운 얼굴까지 발견해 낸 배우 박서준이다. 박서준은 최근 서울 종로구 소격동 한 카페에서 &lt;더팩트&gt;와 만나 영화 '콘크리트 유]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FTHEFACT%2F20230807000031601rxvr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 영화 '보호자'(감독 정우성)가 성준 역을 맡은 배우 김준한이 연기한 비틀린 자격지심을 가진 빌런의 모습을 공개했다. '보호자'는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁(정우성)과 그를 노리는 이들 사이의 이야기를 그린 액션 영화다. 매번 전작의 이미지를 잊게 만드는 색다른 모습으로 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2F10asia%2F20230807085702970kvfz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] '콘크리트 유토피아' D-2, '밀수' 흥행 바통 잇는다..韓영화 예매율 1위 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807085330349</link>
+            <guid>https://v.daum.net/v/20230807085330349</guid>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 재난 영화 '콘크리트 유토피아'(엄태화 감독, 클라이맥스 스튜디오 제작)가 개봉을 이틀 앞두고 한국영화 예매율 1위를 기록하며 올여름 극장가 장악을 예고하고 있다. 높은 완성도와 배우들의 연기 앙상블로 극장가에 새로운 활력을 불어넣을 '콘크리트 유토피아'가 개봉 2일 전인 7일 오전 7시 기준 관객 수 8만1341명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FSpoChosun%2F20230807085330196geba.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘밀수’ 1위·손익분기점 목전…‘더문’ 사실상 흥행 참패[MK박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807085101279</link>
+            <guid>https://v.daum.net/v/20230807085101279</guid>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘밀수’(감독 류승완)가 여름대전 첫 주자이자 한국 영화 구원투수로 활약 중인 가운데 이번주 중 손익분기점인 400만 관객을 돌파할 것으로 보인다. 7일 영화진흥위원회 통합전산망에 따르면 ‘밀수’는 주말인 지난 4일부터 6일까지 사흘간 무려 93만 7633명의 관객을 끌어 모았다. 누적 관객수는 353만 5579명이다. 지난 달 26일 개봉 이후 박스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fstartoday%2F20230807085104120doln.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['잠' 정유미, 가장 유니크한 변신…"데뷔 후 처음 선보이는 장르" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807084328103</link>
+            <guid>https://v.daum.net/v/20230807084328103</guid>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 배우 정유미가 올해 가장 유니크한 공포를 선사할 영화 ‘잠’(감독 유재선)을 통해 지금껏 한 번도 선보인 적 없는 강렬한 연기 변신을 예고한다. 9월 6일 개봉을 확정한 ‘잠’은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰는 두]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FEdaily%2F20230807084331454wryu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[차트IS] ‘밀수’ 400만 돌파 코앞… 이번주 손익분기점 넘는다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807084303088</link>
+            <guid>https://v.daum.net/v/20230807084303088</guid>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘밀수’가 개봉 2주 차 주말 박스오피스도 1위에 등극했다. 12일 연속 박스오피스 1위를 이어가고 있는 ‘밀수’는 금주 내 손익분기점 돌파할 것으로 보인다. 7일 영화진흥위원회 통합전산망에 따르면 ‘밀수’는 전날 34만 4070명을 동원해 누적 관객수 353만 5579명을 기록했다. 지난 26일 개봉 이후 단 하루도 개봉 영화 및 상영 영화들에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Filgansports%2F20230807084309581xlth.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[스한:BOX] '밀수' 개봉 2주차 주말 350만 돌파…손익분기점 넘는다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230807084157059</link>
+            <guid>https://v.daum.net/v/20230807084157059</guid>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '밀수'가 개봉 2주차 주말 극장가도 점령했다. 7일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '밀수'는 지난 주말 3일간(4~6일)&nbsp;93만7637명의 관객을 동원, 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;353만5583명이다. 이로써 '밀수'는 지난달 26일 개봉 이후 12일째 흥행 정상을 지켰다. 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FSpoHankook%2F20230807084159230rweq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1847,12 +1919,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[70대인데 17세 소녀를 연기한 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/uFAfjZ4It4</link>
+            <guid>https://v.daum.net/v/uFAfjZ4It4</guid>
+            <pubDate>Mon, 07 Aug 2023 01:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[삶은영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2FBoiledMovie%2F20230807102011189gwgf.png" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[전철 놓칠까봐 급하게 승객 밀치고 뛰어간 스타 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/UQ1SHziH1p</link>
+            <guid>https://v.daum.net/v/UQ1SHziH1p</guid>
+            <pubDate>Mon, 07 Aug 2023 01:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Ffeelthemovie%2F20230807093011369ifsy.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 출신 명장이 된 '여성 최고' 감독, 1조3000억 찍고 블록버스터로 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/WnNeqayPtV</link>
+            <guid>https://v.daum.net/v/WnNeqayPtV</guid>
+            <pubDate>Mon, 07 Aug 2023 01:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fmaxmovie%2F20230807082011430ehll.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[10살 연하 유부녀와 결혼하기 위해 父와 절연한 유명인 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/BrIlFybDHO</link>
             <guid>https://v.daum.net/v/BrIlFybDHO</guid>
             <pubDate>Sun, 06 Aug 2023 23:17:29 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Ffeelthemovie%2F20230807081010209oasf.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Ffeelthemovie%2F20230807082349058nmhi.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[24년 전, 군대 내 성폭력 담은 레전드 스릴러 (다음 영화 ─ 매거진)]]></title>
@@ -1885,14 +1981,6 @@
             <pubDate>Sun, 06 Aug 2023 22:16:57 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F07%2Fmaxmovie%2F20230807065338728nggc.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[52살 중에 가장 섹시하다는 배우의 놀라운 과거 사진 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/QhP0FrtnGA</link>
-            <guid>https://v.daum.net/v/QhP0FrtnGA</guid>
-            <pubDate>Sun, 06 Aug 2023 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F06%2FBoiledMovie%2F20230806172011723lrvn.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[결혼했는데 사실은 남편이 2명인 이 스타 여배우의 사연 (다음 영화 ─ 매거진)]]></title>
@@ -1983,28 +2071,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F06%2Fmaxmovie%2F20230806000018606sble.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[초등학교 2학년때 문화대통령 '서태지' 포스터로 데뷔한 소녀 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/56hyaBA0ms</link>
-            <guid>https://v.daum.net/v/56hyaBA0ms</guid>
-            <pubDate>Sat, 05 Aug 2023 11:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F05%2FBoiledMovie%2F20230805193009710oknf.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[왕년의 꽃미남 스타가 8년동안 은둔 생활만 했더니… (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/4jHmKrujLW</link>
             <guid>https://v.daum.net/v/4jHmKrujLW</guid>
             <pubDate>Sat, 05 Aug 2023 08:21:17 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F05%2Ffeelthemovie%2F20230805171008790hcym.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['명동 멋쟁이'로 '밀수' 출연했는데 편집 당한 가수 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/WHuySl9rfh</link>
-            <guid>https://v.daum.net/v/WHuySl9rfh</guid>
-            <pubDate>Sat, 05 Aug 2023 08:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F05%2Ffanzeel%2F20230805165008331oxjt.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[왜 씨네캉스인가? 영화 <미션임파서블 7> 리뷰 (다음 영화 ─ 브런치)]]></title>
