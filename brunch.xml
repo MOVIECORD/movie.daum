@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 02:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 14 Aug 2023 02:23:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최영훈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fd9N4%2Fimage%2FpTa0aZsGfUsZx_PkJWdeJ1RV2Yg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<오펜하이머> 한국은 왜 '광복절'에 개봉할까?]]></title>
+            <link>https://brunch.co.kr/@@6dyt/1021</link>
+            <guid>https://brunch.co.kr/@@6dyt/1021</guid>
+            <pubDate>Mon, 14 Aug 2023 03:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FWazMQi4KEF0axb9MAFBf6uAdjko.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[사람이 사람을 구원할 수 있을까]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jul 2023 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FR-QkcOV-sjNCJpKNjPQ7BeJ_H6E.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<바비> 리뷰]]></title>
-            <link>https://brunch.co.kr/@@5uYQ/451</link>
-            <guid>https://brunch.co.kr/@@5uYQ/451</guid>
-            <pubDate>Thu, 20 Jul 2023 08:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>킴지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5uYQ%2Fimage%2FUWbZWOYoz-ShgQRLyfWlT12bYFc" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
