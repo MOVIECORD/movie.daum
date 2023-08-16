@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 22:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 23:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킬러의 레스토랑]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172320</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172320</guid>
+            <pubDate>Wed, 16 Aug 2023 23:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7053dcd9fe953640cba0d7f26a551b0aff9097c8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[핑크퐁 시네마 콘서트 3: 진저브레드맨을 잡아라]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171610</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171610</guid>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Jun 2023 23:19:37 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167361</guid>
-            <pubDate>Wed, 16 Aug 2023 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc140e8429c9462585a66da6794e4a03af083cd6a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
