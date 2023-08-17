@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 12:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 13:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb52206340a8facdb4bc0ee75b2e649d22a4b5f30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보호자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138866</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138866</guid>
-            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F766433284e4bd5dac7472a351b6b2e0f0827b62e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[밀수]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147080</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147080</guid>
             <pubDate>Wed, 26 Jul 2023 01:36:27 GMT</pubDate>
             <content:encoded><![CDATA[23.07.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F51a727081fdf0a5774f9e360f3ae3f15c85bc61d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보호자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138866</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138866</guid>
+            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F766433284e4bd5dac7472a351b6b2e0f0827b62e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈]]></title>
