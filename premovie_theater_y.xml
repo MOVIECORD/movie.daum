@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 03:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 04:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb65c5c7161099ca353e93f1e48115c7ef05dcaa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
-            <pubDate>Tue, 18 Jul 2023 23:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[지옥만세]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164401</guid>
@@ -96,20 +88,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F751114c33959f847176038a1b103e4eec9222146" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 문]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145342</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145342</guid>
-            <pubDate>Wed, 02 Aug 2023 08:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbefb3ff392b22b07b93f8d4f2bbc0e8b30f5f2df" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[비공식작전]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
             <pubDate>Wed, 02 Aug 2023 08:22:06 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
+            <pubDate>Tue, 18 Jul 2023 23:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145342</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145342</guid>
+            <pubDate>Wed, 02 Aug 2023 08:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbefb3ff392b22b07b93f8d4f2bbc0e8b30f5f2df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바다 탐험대 옥토넛 어보브 앤 비욘드 : 육지 넘어 하늘까지!]]></title>
