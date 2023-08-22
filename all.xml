@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 02:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 03:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
             <pubDate>Wed, 02 Aug 2023 07:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,592,563명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,592,561명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -887,22 +887,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f2a9a72ebc6f729c1a47458990f3e919e1a49b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[몬스터 패밀리 2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165296</guid>
-            <pubDate>Wed, 02 Aug 2023 08:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0252828108f6b9932577e2965925ff4250e0240b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지의 마음 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170447</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170447</guid>
-            <pubDate>Thu, 20 Jul 2023 01:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d1dbd7b67d0bd6ec66d5a2426a8a6375a5c901a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
@@ -911,12 +895,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[몬스터 패밀리 2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165296</guid>
+            <pubDate>Wed, 02 Aug 2023 08:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0252828108f6b9932577e2965925ff4250e0240b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165970</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165970</guid>
             <pubDate>Mon, 21 Aug 2023 08:22:35 GMT</pubDate>
             <content:encoded><![CDATA[23.08.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18e3edf0573fd0b018c0159f8750f7f2f7f7b270" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아버지의 마음 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170447</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170447</guid>
+            <pubDate>Thu, 20 Jul 2023 01:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d1dbd7b67d0bd6ec66d5a2426a8a6375a5c901a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1415,6 +1415,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AAF5711311" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[하루 반의 시간 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173130</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173130</guid>
+            <pubDate>Tue, 22 Aug 2023 03:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.01]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[50가지 그림자:심연 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=92681</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=92681</guid>
@@ -1719,6 +1726,150 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4c4e75190b9f015f9a77b4dec5d98b9a21635f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[랩하는 강동원 어떨까…코믹 퇴마로 추석 정조준 '천박사' [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822121653994</link>
+            <guid>https://v.daum.net/v/20230822121653994</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강동원의 퇴마 연기가 한 번 더 펼쳐진다. 코믹을 새롭게 장착한 강동원의 새 얼굴이 기대를 모으는 이유다. 22일 오전 서울 용산구 CGV 용산아이파크몰에서 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식, 이하 '천박사') 제작보고회가 진행됐다. 행사에는 배우 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이와 김성식 감독이 참석했다. '천박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FiMBC%2F20230822121655855jmgp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[가짜 퇴마사 강동원…'천박사' 올 추석 사로잡을 K-장르 총집합 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822121314904</link>
+            <guid>https://v.daum.net/v/20230822121314904</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) 올 추석 온가족을 겨냥한 종합 장르 영화 '천박사 퇴마 연구소'가 등장했다. 22일 오전 서울 용산구 CGV용산아이파크에서 영화 '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사 퇴마 연구소', 감독 김성식)의 제작보고회가 열렸다. 현장에는 배우 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이와 김성식 감독이 참석했다. '천]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fxportsnews%2F20230822121316384elsl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이동휘 "아름다운 자태 강동원·본 조비 스타일 김종수, 희한한 그림"('천박사') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822121102841</link>
+            <guid>https://v.daum.net/v/20230822121102841</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]배우 이동휘가 일명 '천박사 팀'의 강동원과 김종수와 함께한 소감을 전했다.&nbsp; 22일 오전 11시 서울 용산구 용산 CGV에서 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식, 이하 '천박사') 제작보고회가 열렸다. &nbsp; '천박사' 팀의 강동원, 김종수, 이동휘의 케미스트리가 기대를 모으는 가운데, 현장 호흡이 어땠냐는 질문에 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2F10asia%2F20230822121104022bfgt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[가짜 퇴마사 된 강동원···오싹하지만 유쾌한 '천박사'가 온다 (종합)[SE★현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822120307676</link>
+            <guid>https://v.daum.net/v/20230822120307676</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 배우 강동원의 퇴마사 연기가 담긴 '천박사 퇴마 연구소: 설경의 비밀'이 극장가를 찾아온다. 22일 오전 서울 용산구에 위치한 CGV 용산아이파크몰점에서 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)의 제작보고회가 열렸다. 이날 행사에는 배우 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이가 참석해 작품에 관한 다양한 이야기를 나눴다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fseouleconomy%2F20230822120345282oqia.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["코미디·오컬트·모험 활극 다 있어"…'천박사' 강동원, 추석 사로잡을 장르+캐릭터 선물세트[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822120223652</link>
+            <guid>https://v.daum.net/v/20230822120223652</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 올 추석 개봉하는 '천박사 퇴마 연구소'가 장르 종합선물세트로 관객들을 사로잡겠다는 포부를 전했다. 영화 '천박사 퇴마 연구소: 설경의 비밀' 제작보고회가 22일 오전 11시 서울 용산 아이파크몰CGV에서 열렸다. 이날 현장에는 김성식 감독, 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이가 참석했다. '천박사 퇴마 연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fspotvnews%2F20230822120224952pqpj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["강동원=랩 사기 퇴마꾼"..'천박사', 추석 겨냥한 코믹 미스터리 활극[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822115938430</link>
+            <guid>https://v.daum.net/v/20230822115938430</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 용산CGV=한해선 기자] /사진=김창현 기자 (chmt@mt.co.kr) 배우 강동원이 '사기꾼 퇴마사'로 변신, '검은사제들'과 또 다른 퇴마물로 웃음을 선사하며 추석에 관객들을 끌어들인다. 22일 오전 서울 CGV 용산아이파크몰에서 영화 '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사') 제작보고회가 열렸다. 김성식 감독, 강동원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fstarnews%2F20230822120329873fmte.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["'신빨'보다 '말빨'"…강동원, 가짜 퇴마사 '천박사'로 올추석 극장가 홀린다 [MD현장](종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822115542321</link>
+            <guid>https://v.daum.net/v/20230822115542321</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 올 '추'석엔 '천'박사, 추천! 22일 서울 용산구 CGV 용산아이파크몰에서 영화 '천박사 퇴마 연구소: 설경의 비밀' 제작보고회가 진행됐다. 행사에는 김성식 감독과 배우 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이가 자리했다. '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fmydaily%2F20230822115544088iqrk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[스한:현장] "경쾌하게 풀어낸 퇴마"…'천박사' 강동원, 추석 잡을까(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822115522309</link>
+            <guid>https://v.daum.net/v/20230822115522309</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '천박사 퇴마 연구소: 설경의 비밀'이 경쾌한 이야기로 올 추석 극장가를 정조준한다. 22일 오전 서울 CGV용산아이파크몰에서 영화 '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사')의 제작보고회가 개최됐다. 이 자리에는 배우 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이, 김성식 감독이 참석했다. '천박사'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FSpoHankook%2F20230822115523467dfhh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["투샷 자괴감"…이동휘 극찬한 강동원 비주얼, '천박사' 변신 어떨까(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822115255205</link>
+            <guid>https://v.daum.net/v/20230822115255205</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 배우 강동원이 이번엔 '퇴마사'로 극장가를 찾아온다. '천박사 퇴마연구소: 설경의 비밀'이 강동원의 독보적인 비주얼은 물론, 캐릭터 플레이 그리고 웃음과 액션, 풍성한 케미스트리까지, 빈틈없는 볼거리로 관객들을 사로잡을 수 있을지 주목된다. 22일 서울 용산구 한강로 CGV용산아이파크몰에서 영화 '천박사 퇴마연구소: 설경]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FNEWS1%2F20230822115255435mbfn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[올추석 아름다운 사기꾼 강동원이 온다‥퇴마 액션으로 흥행 도전(천박사)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822115225188</link>
+            <guid>https://v.daum.net/v/20230822115225188</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 강동원이 '검은 사제들'에 이어 또 한 번 퇴마 연기를 선보인다. 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식) 제작보고회가 8월 22일 서울 용산구 CGV용산아이파크몰에서 열렸다. 김성식 감독, 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이가 참석했다. 9월 개봉하는 영화 '천박사 퇴마 연구소]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fnewsen%2F20230822115226177fudy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“강동원 착붙”...가짜 ‘천박사’, 진짜 재밌을까[MK현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822115106130</link>
+            <guid>https://v.daum.net/v/20230822115106130</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가짜지만 아름다운, 퇴마사 ‘천박사’가 온다. 톱스타 강동원 주연 기대작이다. 강동원은 22일 오전 서울 용산 CGV에서 열린 ‘천박사 퇴마 연구소: 설경의 비밀’(감독 김성식, 이하 ‘천박사’) 제작보고회에서 “요즘 시대에 맞는 신선한 시나리오라고 생각했다. 호러 영화를 되게 경쾌하고 현대적이고 액션을 더해 풀었다고 생각했다”고 첫 인상에 대해 말했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fstartoday%2F20230822115109828uuvy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['천박사' 강동원 "퇴마사 연기 위해 무당 유튜브 봤다" [SE★현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822115057112</link>
+            <guid>https://v.daum.net/v/20230822115057112</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 배우 강동원이 가짜 퇴마사 역할에 도전하며 기울인 노력을 밝혔다. 22일 오전 서울 용산구에 위치한 CGV 용산아이파크몰점에서 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)의 제작보고회가 열렸다. 이날 행사에는 배우 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이가 참석해 작품에 관한 다양한 이야기를 나눴다. '천박사 퇴마 연구소: 설]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fseouleconomy%2F20230822115059955ycpz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['콘크리트 유토피아'를 대표하는 단 하나의 키워드 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822114501850</link>
+            <guid>https://v.daum.net/v/20230822114501850</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[고광일 기자] * 이 글은 영화의 스포일러를 포함하고 있습니다. &nbsp;▲ 영화 &lt;콘크리트 유토피아&gt; 스틸컷&nbsp;영화 &lt;콘크리트 유토피아&gt; 스틸컷ⓒ 영화 &lt;콘크리트 유토피아&gt; 스틸컷&nbsp; &lt;콘크리트 유토피아&gt;(이하 &lt;콘크리트&gt;)는 KBS 모던코리아 팀에서 제작한 '한국 아파트의 역사'가 요약된 짧은 다큐멘터리 영상으로 시작한다. 영상이 끝나면 방에서 잠이 깬 민성(박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fohmynews%2F20230822114504552eyhw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘천박사’ 강동원 “사기꾼의 검술 액션, 너무 잘해도 못해도 안돼” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822114116678</link>
+            <guid>https://v.daum.net/v/20230822114116678</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 강동원이 '천박사 퇴마 연구소'를 통해 오랜만에 칼을 잡는다. 강동원은 8월 22일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식) 제작보고회를 통해 검술 액션을 선보인 소감을 밝혔다. 이날 강동원은 "이번 작품에서는 '검의 달인'이라는 설정은 아니다"면서 "날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fnewsen%2F20230822114117392kfhk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['천박사' 허준호 "끝까지 해낼수 있을까…겁나고 도망가고 싶었다" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822113404302</link>
+            <guid>https://v.daum.net/v/20230822113404302</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '천박사 퇴마연구소: 설경의 비밀' 허준호가 촬영하며 느낀 고충에 대해 토로했다. 허준호는 22일 서울 용산구 한강로 CGV용산아이파크몰에서 진행된 영화 '천박사 퇴마연구소: 설경의 비밀'(감독 김성식/이하 '천박사') 제작보고회에서 배우들과의 호흡에 대해 "다 기대됐다"며 "기대되는 배우들하고 하니까 다 기대됐다"고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FNEWS1%2F20230822113405786nxyg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['천박사' 강동원 "무속인 유튜브로 공부...도움되더라" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822113400299</link>
+            <guid>https://v.daum.net/v/20230822113400299</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 배우 강동원이 올 추석 관객을 만난다.&nbsp; 22일 오전 서울 용산구 CGV 아이파크몰에서 영화 '천박사 퇴마 연구소: 설경의 비밀'의 제작보고회가 열렸다. 이날 행사에는 김성식 감독을 비롯해 배우 강동원, 허준호, 이솜, 이동휘, 김종수, 박소이가 참석했다. '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿지 않지만 귀신 같은 통찰]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Ftvreport%2F20230822113404564eqmn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이동휘 "박정민과 강동원 보며 '우리 다른일 해야 하지 않나' 얘기" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822113109145</link>
+            <guid>https://v.daum.net/v/20230822113109145</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '천박사 퇴마연구소: 설경의 비밀' 이동휘가 강동원의 미모를 극찬했다. 이동휘는 22일 서울 용산구 한강로 CGV용산아이파크몰에서 진행된 영화 '천박사 퇴마연구소: 설경의 비밀'(감독 김성식/이하 '천박사') 제작보고회에서 "강동원 선배님하고 촬영하는데 새벽 6가 됐다"고 촬영장 후일담을 전했다. 그는 이어 "새벽 6시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FNEWS1%2F20230822113110473rdqx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘천박사’ 강동원 “새벽에도 오후 비주얼? 나도 나이 들어 힘들다” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822112857025</link>
+            <guid>https://v.daum.net/v/20230822112857025</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 이동휘가 새벽에도 무너지지 않는 강동원의 완벽한 비주얼을 극찬했다. 이동휘는 8월 22일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식) 제작보고회를 통해 강동원의 비주얼에 감탄했던 에피소드를 전했다. 이날 이동휘는 "새벽 여섯시에 강동원 선배님, 박정민과 함께]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fnewsen%2F20230822112900327hsmm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['천박사' 이동휘 "강동원과 투샷, 자괴감 들어" (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230822111700427</link>
             <guid>https://v.daum.net/v/20230822111700427</guid>
@@ -1733,150 +1884,6 @@
             <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '천박사 퇴마연구소: 설경의 비밀' 이동휘가 강동원과 호흡을 맞춘 소감을 밝혔다. 이동휘는 22일 서울 용산구 한강로 CGV용산아이파크몰에서 진행된 영화 '천박사 퇴마연구소: 설경의 비밀'(감독 김성식/이하 '천박사') 제작보고회에서 "내 활약을 온 몸을 던져서 작품에 녹여낼 수 있다는 확신을 대본을 보고 느꼈다"고 운]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FNEWS1%2F20230822111540982matt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['천박사' 강동원 "이번엔 반사기꾼, 사기 치고 다닌다"[Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822111457311</link>
-            <guid>https://v.daum.net/v/20230822111457311</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 강동원이 “이번에는 반사기꾼 캐릭터”라고 밝혔다. 강동원은 22일 오전 서울 이촌동 용산 CGV 아이파크몰에서 진행된 새 영화 ‘천박사 퇴마 연구소: 설경의 비밀’의 제작보고회에서 “시나리오를 읽고 요즘 시대에 맞게 신선하다고 생각했다. 보통 퇴마라는 소재는 호러 장르로 푸는데, 액션 많고 경쾌하게 현대적으로 풀어내 신선했]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fpoctan%2F20230822111457839xgut.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['천박사' 강동원 "현대적 퇴마 소재…요즘 시대 맞는 신선한 시나리오" [N현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822111407273</link>
-            <guid>https://v.daum.net/v/20230822111407273</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '천박사 퇴마연구소: 설경의 비밀' 강동원이 출연 이유를 밝혔다. 강동원은 22일 서울 용산구 한강로 CGV용산아이파크몰에서 진행된 영화 '천박사 퇴마연구소: 설경의 비밀'(감독 김성식/이하 '천박사') 제작보고회에서 "시나리오를 처음 읽고 굉장히 요즘 시대에 맞는 신선한 시나리오라고 생각했다"고 말했다. 그는 이어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FNEWS1%2F20230822111407601vrba.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘천박사’ 이동휘 “아름다운 강동원과 투샷 자괴감” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822111201170</link>
-            <guid>https://v.daum.net/v/20230822111201170</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 이동휘가 강동원과의 투샷에 좌절한 에피소드를 전했다. 이동휘는 8월 22일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식) 제작보고회를 통해 강동원과 한 작품에서 호흡을 맞춘 소감을 밝혔다. 이날 이동휘는 "강동원 선배님과 함께 작품을 하고 싶었다"면서 "그러나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fnewsen%2F20230822111202069mriy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[용두사미로 끝난 '마스크걸'... 빛나는 연기력과 무너진 이야기 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822111201165</link>
-            <guid>https://v.daum.net/v/20230822111201165</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[원종빈 기자] ▲ &nbsp;넷플릭스 &lt;마스크걸&gt;의 한 장면.ⓒ 넷플릭스&nbsp; *이 기사에는 스포일러가 있습니다.&nbsp;&nbsp; 평범한 직장인 '김모미'(이한별/나나/고현정). 그녀에게는 비밀이 있다.&nbsp;밤마다 마스크로 얼굴을 가린 채 인터넷 성인 방송 BJ로 활동한다는 것. 그녀가 마스크를 쓰는 데는 다 이유가 있다. 외모 콤플렉스를 감추기 위함이다. 외모 때문에 연예인이라는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fohmynews%2F20230822111203226bvrg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘천박사’ 강동원 “‘검은 사제들’과 달리 반 사기꾼 퇴마사 역할” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822110841987</link>
-            <guid>https://v.daum.net/v/20230822110841987</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] 강동원이 '검은 사제들'에 이어 '천박사 퇴마 연구소'를 통해 다시 한 번 퇴마 연기에 도전한 소감을 밝혔다. 강동원은 8월 22일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식) 제작보고회를 통해 "요즘 시대에 맞는 신선한 시나리오"라고 소개했다. 이어 "퇴마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fnewsen%2F20230822110841398cvmk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 놀란 '오펜하이머', 글로벌 수입 9600억원 돌파…올해 4위 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822110637885</link>
-            <guid>https://v.daum.net/v/20230822110637885</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 크리스토퍼 놀란 감독의 영화 '오펜하이머'가 글로벌 박스오피스 수입 7억달러를 돌파했다. 이는 올해 개봉한 작품 중 4위에 해당하는 성적이다. 23일(한국시간) 미국 박스오피스 모조에 따르면 '오펜하이머'는 이날 월드와이드 흥행 수입 7억1859만4245달러(약 9622억6955만3479원)를 기록했다. '슈퍼 마리오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FNEWS1%2F20230822110637430yrdt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑과 온기, 두 여자가 깨닫게 된 집밥의 의미 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822105705417</link>
-            <guid>https://v.daum.net/v/20230822105705417</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[조영준 기자] &nbsp;▲ &nbsp;영화 &lt;국물은 공짜가 아니다&gt; 스틸컷ⓒ 인디그라운드* 주의! 이 글에는 영화의 스포일러가 포함돼 있습니다. 01. 언제부터 하루 세끼를 매일 챙겨 먹지 못하게 되었는지를 생각해 본다. 아마도 가족의 품을 떠나 혼자 나와 살기 시작하면서가 아닐까? 지금 떠올려 보면 아침마다 식탁 위에 차려져 있던 그 밥상이 보통의 수고와 노력으로 만들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fohmynews%2F20230822105707713gamu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['윰블리'의 앞치마 벗고 '잠'에 취한 정유미 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822104506984</link>
-            <guid>https://v.daum.net/v/20230822104506984</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 김나라 기자'윰블리'(정유미+러블리)의 변신은 무죄다. 배우 정유미가 신작 '잠'에서 특유의 러블리한 매력을 지우고 신들린 열연으로 초가을 극장가에 신선한 충격을 예고한다.정유미는 데뷔 후 탄탄한 연기력과 특유의 해맑고 사랑스러운 매력으로 '윰블리'로 불리며 사랑받아온&nbsp;배우. 특히 드라마 '케세라세라' '로맨스가 필요해 2012' '연애의 발]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FIZE%2F20230822104508973ntjv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['오펜하이머', 7일 연속 1위..글로벌 흥행 수익 7억 달러 돌파 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822101541813</link>
-            <guid>https://v.daum.net/v/20230822101541813</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 오펜하이머 / 사진=영화 포스터'오펜하이머'가 박스오피스 1위를 수성했다. 22일 영화진흥위원회 통합전산망에 따르면 전날 '오펜하이머'는 8만 7462명의 관객을 동원해 7일 연속 박스오피스 1위를 기록했다. 누적 관객 수는 168만 25명. '오펜하이머'는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야 하는 천재 과학]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fstarnews%2F20230822101544104odcs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["예스"라고 대답하게 된 남자의 달라진 인생 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822095402864</link>
-            <guid>https://v.daum.net/v/20230822095402864</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 심리학자이자 정신분석학자 고 조셉 머피는 생전 "좋은 일을 생각하면 좋은 일이 따르고, 나쁜 일을 생각하면 나쁜 일이 따른다"는 어록을 남겼다. 이는 그만큼 긍정적인 생각과 마음가짐의 중요성을 강조한 말로 사람들은 교육이나 매체를 통해 '긍정의 힘'이 얼마나 중요한지 끊임없이 배운다. 실제로 그 사람의 나이와 성별, 성격, 직업, 환경 등에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fohmynews%2F20230822095404472hjrw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["수신제국치국천하태평이라"…'콘크리트 유토피아', 이병헌 명대사 셋 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822095203789</link>
-            <guid>https://v.daum.net/v/20230822095203789</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '콘크리트 유토피아'(감독 엄태화)는 재난 이후의 이야기를 탄탄한 서사와 빈틈없는 배우들의 연기 시너지, 그리고 묵직한 메시지에 담아내 호평 받고 있다. 이에 '콘크리트 유토피아' 측은 관객들에게 깊은 인상을 남긴 이병헌의 카리스마 명대사 BEST 3를 공개했다. ◇ "저는 이 아파트가 선택받았다… 그렇게 생각합니다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FNEWS1%2F20230822095205390lrpy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[“‘그것이 알고 싶다’도 다룬 실화”…현실 밀착 스릴러 ‘타겟’ [SS현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822094611564</link>
-            <guid>https://v.daum.net/v/20230822094611564</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김현덕기자] “2020년 1월 SBS ‘그것이 알고 싶다’ 등에서 중고 거래 사기꾼을 다룬 것을 보고 시나리오를 썼다” 실화를 바탕으로 한 영화 ‘타겟’ 연출자  박희곤 감독은 21일 서울 강남구 메가박스 코엑스에서 열린 언론시사회에서 이같이 말했다. ‘타겟’은 중고 거래로 범죄의 표적이 된 수현(신혜선 분)의 일상에서 벌어지는 서스펜]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2FSPORTSSEOUL%2F20230822094613483gwpc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['콘크리트 유토피아' 이병헌, 듣는 순간 소름 쫙…긴장감 폭발 명대사 셋 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822093939326</link>
-            <guid>https://v.daum.net/v/20230822093939326</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 영화 '콘크리트 유토피아'가 관객들에게 깊은 인상을 남긴 이병헌의 카리스마 명대사 베스트 3를 공개했다. #1. "저는 이 아파트가 선택받았다… 그렇게 생각합니다." 황궁 아파트 주민 대표가 된 영탁의 인상적인 소감! '콘크리트 유토피아'는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fmydaily%2F20230822093940619epbi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['오펜하이머' 전세계 7억 달러 벌었다…'콘크리트 유토피아' 300만 눈앞 [Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822093417139</link>
-            <guid>https://v.daum.net/v/20230822093417139</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘오펜하이머’가 일주일 연속 1위 자리를 차지했다. 22일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 어제(21일) ‘오펜하이머’는 8만 7461명이 들어 일별 박스오피스 1위를 차지했다. 이달 15일 개봉해 7일째 1위를 지키고 있는 것이다. ‘오펜하이머’(감독 크리스토퍼 놀란, 수입배급 유니버설 픽처스)는 세상을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fpoctan%2F20230822093418508bmux.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['오펜하이머' 1위 수성, 누적 168만 돌파 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822092207681</link>
-            <guid>https://v.daum.net/v/20230822092207681</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 ‘오펜하이머’가 박스오피스 1위를 기록했다. 22일 영화진흥위원회 통합전산망에 따르면 ‘오펜하이머’(감독 크리스토퍼 놀란)가 지난 21일 8만7461명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 168만24명이다. ‘오펜하이머’는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야 하는 천재 과학자의 핵개]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Ftvdaily%2F20230822092210081omxu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[한재림 감독과 21세 차 부담스럽나…이열음도 꺼낸 '열애설 확인 불가' [TEN피플] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822092102628</link>
-            <guid>https://v.daum.net/v/20230822092102628</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자]"배우의 사생활이라 확인 어렵습니다." 이열음(28)도 꺼내들었다. '사생활 확인 불가' 카드. 21세 연상 한재림 감독(49)의 열애설에 아주 간단하고 뒤탈 없는 대응이다.&nbsp; 이열음의 소속사 나무엑터스 관계자는 21일 한재림 감독과 열애설에 대해 "감독님과 친한 것으로 알고 있는데, 배우의 사생활이라 확인은 어렵다"고 조심스럽게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2F10asia%2F20230822092104838wvnc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘잠’ 이선균 “지금까지 보지 못한 묘한 장르의 영화” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822091832539</link>
-            <guid>https://v.daum.net/v/20230822091832539</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 정유미와 이선균의 잠 못 드는 '잠' 제작기 영상이 공개됐다. 9월 6일 개봉을 앞둔 영화 '잠'(감독 유재선)은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰는 두 사람의 이야기를 그린 영화. 이번에 공개된 영상에서 정유미는 시나리오를 처음]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fnewsen%2F20230822091832935ldrr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[오펜하이머·콘유, 부동의 1·2위[MK박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822091501409</link>
-            <guid>https://v.daum.net/v/20230822091501409</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[크리스토퍼 놀란의 ‘오펜하이머’가 박스오피스에서 압도적 1위를 이어가고 있다. 22일 영화진흥위원회 영화관입장권통합전산망에 따르면 영화 ‘오펜하이머’는 전날 8만 7464명의 관객을 동원해 누적 관객수 168만 27명을 기록했다. 영화는 세상을 구하기 위해 세상을 파괴할 위험을 감수해야 하는 천재 과학자의 핵 개발 프로젝트를 다룬다. 전작 ‘테넷’(13만)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fstartoday%2F20230822091504770ddxf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2039,6 +2046,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[너무 예쁘고 가녀려서 스태프들이 보호하려한 여배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/VKKPwY1i57</link>
+            <guid>https://v.daum.net/v/VKKPwY1i57</guid>
+            <pubDate>Tue, 22 Aug 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Ffeelthemovie%2F20230822114141167ixcr.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[연기천재 배우 이겨울의 정체 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/8cWR4ocpMc</link>
             <guid>https://v.daum.net/v/8cWR4ocpMc</guid>
@@ -2189,14 +2204,6 @@
             <pubDate>Sun, 20 Aug 2023 23:17:32 GMT</pubDate>
             <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F21%2Ffanzeel%2F20230821075009643smmv.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[고등학생 시절 문과 전교1등하고, 서울대 갔던 배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/3JlbWeo5rk</link>
-            <guid>https://v.daum.net/v/3JlbWeo5rk</guid>
-            <pubDate>Sun, 20 Aug 2023 22:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F21%2Fmaxmovie%2F20230821070009911jdbk.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[히로시마 용의자에 바치는 애가 (다음 영화 ─ 브런치)]]></title>
