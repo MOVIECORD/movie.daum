@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 11:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 12:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -847,20 +847,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb65c5c7161099ca353e93f1e48115c7ef05dcaa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비공식작전 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
-            <pubDate>Thu, 06 Jul 2023 04:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[바비 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
             <pubDate>Mon, 10 Jul 2023 12:40:07 GMT</pubDate>
             <content:encoded><![CDATA[23.07.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[비공식작전 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127876</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
+            <pubDate>Thu, 06 Jul 2023 04:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 문 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1007,14 +1007,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed6bd948fb59bf53a374f9d29165fa57fc71b3ed" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[물꽃의 전설 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163830</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163830</guid>
-            <pubDate>Wed, 16 Aug 2023 01:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff12979b7216048ee513b5d4d37896b98ea53f3c0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[조이 라이드 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168980</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168980</guid>
@@ -1037,6 +1029,14 @@
             <pubDate>Tue, 08 Aug 2023 15:18:16 GMT</pubDate>
             <content:encoded><![CDATA[23.08.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5697cf504eadf35a69407118cb6af5bec1c26cf5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[물꽃의 전설 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163830</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163830</guid>
+            <pubDate>Wed, 16 Aug 2023 01:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff12979b7216048ee513b5d4d37896b98ea53f3c0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그녀의 취미생활 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1893,6 +1893,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4c4e75190b9f015f9a77b4dec5d98b9a21635f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["자기복제 않도록"…'타겟' 신혜선, 극한 속 살아남으려는 DNA(종합)[인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822210024254</link>
+            <guid>https://v.daum.net/v/20230822210024254</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“피해를 입은 것에 대해 목소리를 낸다는 것 자체가 용기 있다고 생각한다.” 배우 신혜선(34)은 22일 오후 서울 소격동의 한 카페에서 진행된 OSEN과의 인터뷰에서 “그녀의 용기는 정말 대단했다. 저라면 그냥 넘어갈 거 같다. 예를 들어 저는 식당에서 주문한 음식이 잘못 나와도 말은 못한다. 배우라서 얘기가 나올까 봐 걱정돼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fpoctan%2F20230822210024829thyf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["윰블리 애칭 못 잃어" 정유미, 인터뷰 중 은퇴 선언도 사랑스러워[인터뷰 종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230822202206685</link>
+            <guid>https://v.daum.net/v/20230822202206685</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]어깨까지 내려오는 똑단발머리의 배우 정유미(40)는 솔직하고 사랑스러운 매력으로, 그렇지만 가볍지 않은 대답으로 유쾌하게 소통했다. '윰블리'란 애칭을 못 듣는 날도 생각하고 있냐는 질문에 "일 그만 둘거다"라는 은퇴 선언도 사랑스러웠다.&nbsp; 정유미는 22일 오후 서울 종로구 소격동 한 카페에서 영화 '잠'(감독 유재선) 관련 텐아시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2F10asia%2F20230822202208705mzem.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[신혜선, 첫 스릴러 도전했지만 "난 겁쟁이…'타겟' 실화 바탕이라고 생각 못 해" [MD인터뷰](종합) (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230822193008824</link>
             <guid>https://v.daum.net/v/20230822193008824</guid>
@@ -2035,22 +2051,6 @@
             <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[진정 경이로운 뒷심, 꺾이지 않는 흥행세다. 디즈니 픽사 애니메이션 ‘엘리멜탈’이 역주행의 역주행을 반복하며 마침내 700만 고지를 목전에 뒀다. 22일 영진위 통합전산망에 따르면, ‘엘리멘탈’은 전날까지 누적 관객수 691만 8161명을 기록했다. ‘범죄도시3’ 이후 올해 두 번째로 600만 고지를 넘은 영화는 지난 6월 14일 개봉해 8월 극장가에서도]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fstartoday%2F20230822172712525zenl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[엄태화 감독 "'콘크리트 유토피아' 재밌을 거란 믿음 있었다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822172206574</link>
-            <guid>https://v.daum.net/v/20230822172206574</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '콘크리트 유토피아' 팀과 '벌새'의 김보라 감독이 함께한 개봉 3주 차 GV가 관객들의 뜨거운 호응 속에 마무리됐다. '콘크리트 유토피아'(감독 엄태화, 배급 롯데엔터테인먼트, 제작 클라이맥스 스튜디오, 공동제작 BH엔터테인먼트)는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Fpoctan%2F20230822172206277xzlp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['첫 3D' 짱구 극장판, 얼마나 슬프길래...어른들도 눈물 흘렸다 [룩@재팬] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230822171700409</link>
-            <guid>https://v.daum.net/v/20230822171700409</guid>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=강성훈 기자] 짱구 시리즈 최초 3D 애니메이션 '신차원! 짱구는 못말려 THE MOVIE: 초능력 대결전 ~날아라 수제 김밥~'. 22일 소셜네트워크서비스 '도호 무비 채널'(東宝MOVIEチャンネル)에는 짱구 3D 애니메이션 극장판의 주제가 'Future is Yours'의 뮤직비디오 영상이 공개됐다.&nbsp; 일본 유명 밴드 삼보마스터(サンボマスタ]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F22%2Ftvreport%2F20230822171705764fwvc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
