@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 22:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 23:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마야 3: 숲속 왕국의 위기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160098</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160098</guid>
+            <pubDate>Wed, 23 Aug 2023 23:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88e1e1b9ba061ea77c0373e489c636307e7850eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[강변의 무코리타]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154051</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154051</guid>
@@ -70,6 +78,14 @@
             <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
             <content:encoded><![CDATA[23.08.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F766433284e4bd5dac7472a351b6b2e0f0827b62e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[치치치 치킨의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172205</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172205</guid>
+            <pubDate>Wed, 23 Aug 2023 23:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed6bd948fb59bf53a374f9d29165fa57fc71b3ed" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[지옥만세]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 04 Jul 2023 23:20:44 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지의 마음]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170447</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170447</guid>
-            <pubDate>Sat, 19 Aug 2023 12:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d1dbd7b67d0bd6ec66d5a2426a8a6375a5c901a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아만다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162927</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162927</guid>
-            <pubDate>Wed, 23 Aug 2023 11:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae352e810cc6fbda09ecebb3b76802ddf8424190" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
