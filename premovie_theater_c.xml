@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 23:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 01:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47fc137e1f58428187c9a4d85e351342d5183455" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[서태지 25주년 라이브 타임: 트래블러]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173097</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173097</guid>
+            <pubDate>Wed, 23 Aug 2023 01:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어파이어]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167467</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167467</guid>
@@ -158,14 +165,6 @@
             <pubDate>Tue, 22 Aug 2023 23:16:17 GMT</pubDate>
             <content:encoded><![CDATA[23.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fmovie-private%2F75e5accdb3b86e3b04a4f90c85cb4e1f80981e9b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[내 성인식에 절대 오지 마!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172971</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172971</guid>
-            <pubDate>Tue, 22 Aug 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01badcd458600eb4104ffa995891ce6121762a8d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
