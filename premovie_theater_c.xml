@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 02:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 03:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=173097</guid>
             <pubDate>Wed, 23 Aug 2023 01:09:39 GMT</pubDate>
             <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2384a634aae54177956e5fa39a25218e18fb1ded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[치악산]]></title>
@@ -143,20 +144,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92e07efb324c919b61c48b8da2ac933f3f4d98f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[내 성인식에 절대 오지 마!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172971</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172971</guid>
-            <pubDate>Wed, 23 Aug 2023 19:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01badcd458600eb4104ffa995891ce6121762a8d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[호러메이트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172037</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172037</guid>
             <pubDate>Wed, 23 Aug 2023 23:16:26 GMT</pubDate>
             <content:encoded><![CDATA[23.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fmovie-private%2F75e5accdb3b86e3b04a4f90c85cb4e1f80981e9b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[내 성인식에 절대 오지 마!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172971</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172971</guid>
+            <pubDate>Wed, 23 Aug 2023 19:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01badcd458600eb4104ffa995891ce6121762a8d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 데몬]]></title>
