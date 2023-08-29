@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 23:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 01:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F32cc44d6397df8fe91535231c2ef8c2d8999695d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[로리타]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=18785</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=18785</guid>
+            <pubDate>Tue, 29 Aug 2023 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8dc12179fe7dd77ac6e59e0c71fa7359fa79ec33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파이브 패신저스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=128214</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128214</guid>
@@ -358,6 +366,14 @@
             <pubDate>Mon, 28 Aug 2023 09:18:10 GMT</pubDate>
             <content:encoded><![CDATA[23.09.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa907327c638b7a22b8da29be47c06967bb3c40e2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 시선이 머무는 곳에]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142537</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142537</guid>
+            <pubDate>Tue, 29 Aug 2023 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe562c2885b138dba405da113757c3fb79416d423" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
