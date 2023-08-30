@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 03:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 04:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[치치치 치킨의 비밀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172205</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172205</guid>
-            <pubDate>Wed, 23 Aug 2023 23:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed6bd948fb59bf53a374f9d29165fa57fc71b3ed" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[볼코노고프 대위 탈출하다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153241</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153241</guid>
@@ -160,12 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe163e8e9f279ce40317b807c0d51c7449505573b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[물꽃의 전설]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163830</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163830</guid>
-            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
+            <title><![CDATA[그녀의 취미생활]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171278</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171278</guid>
+            <pubDate>Wed, 30 Aug 2023 04:20:42 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff12979b7216048ee513b5d4d37896b98ea53f3c0" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3427b56499860f888373bb49eda29c20fa8d0de5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[치치치 치킨의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172205</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172205</guid>
+            <pubDate>Wed, 23 Aug 2023 23:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed6bd948fb59bf53a374f9d29165fa57fc71b3ed" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
