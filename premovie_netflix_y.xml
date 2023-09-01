@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 04:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,30 @@
             <pubDate>Fri, 01 Sep 2023 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[23.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F191E083C4E8570290F" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리플리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1820</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1820</guid>
+            <pubDate>Fri, 01 Sep 2023 04:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1566BB1049E81057EE" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[시카고]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=4242</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=4242</guid>
+            <pubDate>Fri, 01 Sep 2023 04:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F640d568ed10fc4cd26cc72c18ac3079de901d1a8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[첫눈에 반할 통계적 확률]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172143</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172143</guid>
+            <pubDate>Fri, 01 Sep 2023 04:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F22f506d329ddaabdf07142ec31c87ec73037d53b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
