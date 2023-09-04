@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 05:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 06:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcdaa401eb4a9c8717b7a20aead43c11627be8e19" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마야 3: 숲속 왕국의 위기]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160098</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160098</guid>
+            <pubDate>Mon, 04 Sep 2023 06:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88e1e1b9ba061ea77c0373e489c636307e7850eb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엘리멘탈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163777</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163777</guid>
@@ -80,14 +88,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afaaa75a091a816c6471a1e016766f41ca39e1b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[강다니엘: 마이 퍼레이드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172641</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172641</guid>
-            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecf21de494d4ec0b754c69deab6c7005d7c72fa3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[한 남자]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162849</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162849</guid>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 31 Aug 2023 01:11:37 GMT</pubDate>
             <content:encoded><![CDATA[23.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12f968c33271a1e5ee5eb067fee52493af0f8ffd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[강다니엘: 마이 퍼레이드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172641</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172641</guid>
+            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecf21de494d4ec0b754c69deab6c7005d7c72fa3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[명탐정 코난: 흑철의 어영]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 03 Sep 2023 04:20:03 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3427b56499860f888373bb49eda29c20fa8d0de5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[수라]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
-            <pubDate>Mon, 04 Sep 2023 04:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
