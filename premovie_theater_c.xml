@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 03:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 05:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff11f62b886cdd3870899570dd2ff44c381dcfd3f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[어느 멋진 아침]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160551</guid>
+            <pubDate>Tue, 29 Aug 2023 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47fc137e1f58428187c9a4d85e351342d5183455" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 사사키와 미야노 - 졸업편]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167999</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167999</guid>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 22 Aug 2023 23:16:17 GMT</pubDate>
             <content:encoded><![CDATA[23.09.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92e07efb324c919b61c48b8da2ac933f3f4d98f9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 멋진 아침]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160551</guid>
-            <pubDate>Tue, 29 Aug 2023 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47fc137e1f58428187c9a4d85e351342d5183455" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[베니스 유령 살인사건]]></title>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47f295a79d323b178832f456491ccf63581f41da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[돈 룩 디퍼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173242</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173242</guid>
+            <pubDate>Tue, 05 Sep 2023 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8966abe85ca81e6beffd9754db01495b4014d53c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[너의 시선이 머무는 곳에]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142537</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142537</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 03 Sep 2023 06:20:45 GMT</pubDate>
             <content:encoded><![CDATA[23.09.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F105c3bbadb1f39eaeb953b5b9c845680102b58df" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프리 철수 리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156784</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156784</guid>
-            <pubDate>Mon, 04 Sep 2023 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b698095ef4d16bb0932fb24ee4a3352c64186cc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
