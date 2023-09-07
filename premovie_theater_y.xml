@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 02:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 03:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecf21de494d4ec0b754c69deab6c7005d7c72fa3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 사사키와 미야노 - 졸업편]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167999</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167999</guid>
+            <pubDate>Thu, 07 Sep 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39a18c491a94aef0951710f15a8b02664796bec0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 멋진 아침]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160551</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160551</guid>
+            <pubDate>Thu, 07 Sep 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ec69b5e1407030f24d20ed51947fc56321fed16" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스파이 코드명 포춘]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156377</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156377</guid>
@@ -144,28 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F88e1e1b9ba061ea77c0373e489c636307e7850eb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[청춘 돼지는 외출하는 여동생의 꿈을 꾸지 않는다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171949</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171949</guid>
-            <pubDate>Thu, 31 Aug 2023 01:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12f968c33271a1e5ee5eb067fee52493af0f8ffd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이노센트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152078</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152078</guid>
             <pubDate>Thu, 07 Sep 2023 02:22:28 GMT</pubDate>
             <content:encoded><![CDATA[23.09.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff11f62b886cdd3870899570dd2ff44c381dcfd3f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[생츄어리: 마법의 소원나무]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169531</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169531</guid>
-            <pubDate>Thu, 07 Sep 2023 02:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F589c97b1634569ab15f31de02d4a4d5fd9c4d1b6" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
