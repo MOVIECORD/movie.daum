@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 05 Sep 2023 05:16:40 GMT</pubDate>
             <content:encoded><![CDATA[23.09.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01eb232516f06ffcd9f56578629ab7690f40ff40" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[팩 오브 십]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155994</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155994</guid>
+            <pubDate>Fri, 08 Sep 2023 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4cce30a97c8753b5ebbc9a539344b3a41162682b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
