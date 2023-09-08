@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 03:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 04:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,30 @@
             <pubDate>Thu, 07 Sep 2023 04:20:39 GMT</pubDate>
             <content:encoded><![CDATA[23.09.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffaf164ee456ef236f643d22750546119c9e8420b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[좀비랜드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=51999</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=51999</guid>
+            <pubDate>Fri, 08 Sep 2023 04:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F207640024B61483008" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155463</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155463</guid>
+            <pubDate>Fri, 08 Sep 2023 04:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd677e5f08ef2de067fce76feedbe5616f1ed1283" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오토나리~사랑의 전주곡]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=52079</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=52079</guid>
+            <pubDate>Fri, 08 Sep 2023 04:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F165110104A3F125113" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
