@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 07:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 08:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce3dda655bc0eb73ffd6e82ba32e1bc6322b173a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[타겟]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
-            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[달짝지근해: 7510]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162610</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162610</guid>
             <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
             <content:encoded><![CDATA[23.08.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb52206340a8facdb4bc0ee75b2e649d22a4b5f30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[타겟]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
+            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈]]></title>
@@ -109,7 +109,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=162686</guid>
             <pubDate>Tue, 05 Sep 2023 23:16:49 GMT</pubDate>
             <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6a96248849cfe84c3e3d4544cc30c8c2f817966" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F932bb3eaac8e656b7c37721a38c9b1968836c8c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[생츄어리: 마법의 소원나무]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2ec69b5e1407030f24d20ed51947fc56321fed16" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 사사키와 미야노 - 졸업편]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167999</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167999</guid>
-            <pubDate>Thu, 07 Sep 2023 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39a18c491a94aef0951710f15a8b02664796bec0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[강다니엘: 마이 퍼레이드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172641</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172641</guid>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 08 Sep 2023 03:17:30 GMT</pubDate>
             <content:encoded><![CDATA[23.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12f968c33271a1e5ee5eb067fee52493af0f8ffd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 사사키와 미야노 - 졸업편]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167999</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167999</guid>
+            <pubDate>Thu, 07 Sep 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F39a18c491a94aef0951710f15a8b02664796bec0" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
