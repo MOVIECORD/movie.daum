@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 19:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 20:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2384a634aae54177956e5fa39a25218e18fb1ded" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[한 남자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162849</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162849</guid>
-            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7724271c6d444df3ce3066770395bf314a0492e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어느 멋진 아침]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160551</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160551</guid>
@@ -142,6 +134,14 @@
             <pubDate>Tue, 05 Sep 2023 23:16:49 GMT</pubDate>
             <content:encoded><![CDATA[23.09.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fba0a9d83e4f7d30516a6ed12b74aebe5d9af3a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[한 남자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162849</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162849</guid>
+            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7724271c6d444df3ce3066770395bf314a0492e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[청춘 돼지는 외출하는 여동생의 꿈을 꾸지 않는다]]></title>
