@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 19:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 20:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Thu, 07 Sep 2023 20:18:46 GMT</pubDate>
             <content:encoded><![CDATA[23.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2731044F52F0ADCC03" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[게이샤의 추억]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40486</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40486</guid>
+            <pubDate>Sun, 10 Sep 2023 20:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F17283A4F4DEBE42E1D" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
