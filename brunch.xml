@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 03:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 04:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화는 내가 사는 멀티버스다]]></title>
+            <link>https://brunch.co.kr/@@dIfq/194</link>
+            <guid>https://brunch.co.kr/@@dIfq/194</guid>
+            <pubDate>Mon, 11 Sep 2023 04:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤병옥]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdIfq%2Fimage%2FJm4vcbORheTqeUeGb36wCgwLYmQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[흑백의 세상에서도 우리는 컬러를 보아야만 한다는 것]]></title>
             <link>https://brunch.co.kr/@@mW7/1512</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Aug 2023 05:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마텔]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff02C%2Fimage%2Fjef2l-uH8Rgnz42eEmw2I37gd18.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['달짝지근해' 유해진이란 스펙트럼]]></title>
-            <link>https://brunch.co.kr/@@1n7K/794</link>
-            <guid>https://brunch.co.kr/@@1n7K/794</guid>
-            <pubDate>Fri, 18 Aug 2023 02:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>하성태의 시네마틱]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1n7K%2Fimage%2FeD4aZqS42Cfa1gI7ig5s1_YtKK4.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
