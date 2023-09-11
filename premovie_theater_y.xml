@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 04:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F127492114A25CDD543" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[타겟]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
-            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[콘크리트 유토피아]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143538</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143538</guid>
@@ -56,12 +48,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce3dda655bc0eb73ffd6e82ba32e1bc6322b173a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[듣보인간의 생존신고]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156186</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156186</guid>
-            <pubDate>Tue, 05 Sep 2023 23:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F689eddb8d070604cc8616d9ee5c5abea25b407b6" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[타겟]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
+            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신체모음.zip]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14accdfd01c533d02d496ae8bdd95029ac66d7a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듣보인간의 생존신고]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156186</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156186</guid>
+            <pubDate>Tue, 05 Sep 2023 23:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F689eddb8d070604cc8616d9ee5c5abea25b407b6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈]]></title>

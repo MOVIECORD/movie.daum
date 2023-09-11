@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 04:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
             <pubDate>Wed, 02 Aug 2023 07:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,992,136명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,992,134명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=147080</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147080</guid>
             <pubDate>Fri, 07 Jul 2023 08:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,113,129명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,113,125명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F51a727081fdf0a5774f9e360f3ae3f15c85bc61d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -800,14 +800,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F127492114A25CDD543" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[타겟 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
-            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[콘크리트 유토피아 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143538</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143538</guid>
@@ -816,12 +808,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce3dda655bc0eb73ffd6e82ba32e1bc6322b173a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[듣보인간의 생존신고 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156186</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156186</guid>
-            <pubDate>Thu, 24 Aug 2023 10:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F689eddb8d070604cc8616d9ee5c5abea25b407b6" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[타겟 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
+            <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신체모음.zip (다음영화 영화관 ─ 현재상영)]]></title>
@@ -830,6 +822,14 @@
             <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14accdfd01c533d02d496ae8bdd95029ac66d7a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듣보인간의 생존신고 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156186</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156186</guid>
+            <pubDate>Thu, 24 Aug 2023 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F689eddb8d070604cc8616d9ee5c5abea25b407b6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1960,6 +1960,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80e9f1ee30ff741d0652c2c0d330835ff22aa858" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA["최초 국가대표→응답하라 1947"…'1947 보스톤'에만 있는 것들 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230911140543284</link>
+            <guid>https://v.daum.net/v/20230911140543284</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 휴먼 영화 '1947 보스톤'(강제규 감독, 비에이엔터테인먼트·빅픽쳐 제작)이 추석 극장가를 사로잡을 세 가지 관람 포인트를 공개했다. ▶ 대한민국 최초의 국가대표 마라토너들의 실화 '1947 보스톤'은 1936년 베를린 올림픽에서 2시간 29분 19초의 세계 신기록을 세우며 금메달을 거머쥔 한국 마라톤의 전설 손기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2FSpoChosun%2F20230911140544076icky.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[매일 죽어가는 아버지를 지켜봐야 하는 딸 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230911140000053</link>
+            <guid>https://v.daum.net/v/20230911140000053</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김성호 기자] 상실은 언제나 버겁다. 어떤 상실은 한 순간에 닥쳐오고, 또 다른 상실은 서서히 다가온다. 그중 무엇이 더 괴로운가를 따지는 건 무용한 일이다. 빠르든 늦든 모든 상실이 닥쳐오리란 것을 알 뿐이다. 어렸을 적엔 삶이 무엇을 얻어가는 과정이라 믿었다. 정신을 차리고 보니 삶은 끊임없이 무언가를 잃어가는 과정이다. 삶은 모든 것을 허락한 것처럼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2Fohmynews%2F20230911140004312isqy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 크리스토퍼 놀란 '오펜하이머', 28일 만에 300만 돌파..'테넷' '덩케르크' 기록 넘었다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230911135809010</link>
+            <guid>https://v.daum.net/v/20230911135809010</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 영화 '오펜하이머'(크리스토퍼 놀란 감독)가 300만 관객을 돌파했다. 영화진흥위원회 통합전산망에 따르면 '오펜하이머'는 11일 누적 관객수 300만20명을 기록하며 크리스토퍼 놀란 감독의 역작인 '테넷'(200만), '덩케르크'(281만)의 관객수를 모두 넘어서며 최근 9년간 크리스토퍼 놀란 감독 최고 흥행작이자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2FSpoChosun%2F20230911135809979lnip.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['캡틴 아메리카' 크리스 에반스, 16세 연하 여배우와 극비리 결혼 [TEN할리우드] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230911124903308</link>
             <guid>https://v.daum.net/v/20230911124903308</guid>
@@ -2094,30 +2118,6 @@
             <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=이하늘 기자] 장건재 감독의 5번째 장편영화 '5시부터 7시까지의 주희'(Juhee from 5 to 7)가 오는 11월 개봉을 확정하며 1차 포스터를 공개했다. '5시부터 7시까지의 주희'는 인생의 마지막 경로에서 비극도 희극도 아닌 삶의 이면을 되돌아보는 시간을 담은 다정다감(多情多感) 시네&nbsp;에세이. 웃음과 눈물, 애증으로 가득 찬 인생의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2F10asia%2F20230911101505141tofd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘30일’ 강하늘 정소민 은퇴작되나? 흑역사 대방출 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230911101232515</link>
-            <guid>https://v.daum.net/v/20230911101232515</guid>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 강하늘과 정소민이 '30일'로 흑역사를 생성한다. 10월 3일 개봉하는 영화 '30일'(감독 남대중)은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽하게 남남이 되기 직전 동반기억상실증에 걸려버린 '정열'(강하늘)과 '나라'(정소민)의 코미디. 강하늘은 ‘정열’을 연기하며 미담 제조기라는 수식어를 벗어 던지고 참]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2Fnewsen%2F20230911101232946tvtc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[유재선 감독 '잠' 새 바람 불어온다, 주말 박스오피스 1위→포브스 TIFF2023 선정 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230911100007852</link>
-            <guid>https://v.daum.net/v/20230911100007852</guid>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=최지예 기자]영화 '잠'(감독 유재선)이 개봉&nbsp;첫 주 전체 박스오피스에서 1위에 등극한데 이어 외신의 주목을 받고 있다.&nbsp; 지난 주말(9월8일~9월11일) 36주차 영진위 영화관입장권통합전산망 박스오피스에 따르면&nbsp;'잠'(감독 유재선)은&nbsp;39만5329명의 관객을 동원해&nbsp;누적 관객수 53만9028명을 기록했다. 개봉 첫날부터 압도적 차이로 박스오]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2F10asia%2F20230911100009405ltkn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정유미x이선균 '잠', 개봉 첫 주말 40만 동원…압도적 1위[박스S] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230911095606678</link>
-            <guid>https://v.daum.net/v/20230911095606678</guid>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] 정유미, 이선균 주연의 영화 '잠'이 개봉 첫 주말 40만 명에 가까운 관객을 동원하며 압도적인 박스오피스 1위를 차지했다. 11일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '잠'은 지난 8일~10일 개봉 첫 주말 사흘간 39만 5334명을 불러 모아 압도적인 차이로 개봉 첫 주말 박스오피스 1위를 기록했다. 누]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2Fspotvnews%2F20230911095608868xjky.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2280,6 +2280,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[한효주가 너무 잘생겨서 눈을 못마주쳤다는 남자배우 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/XpBzwzv8Ia</link>
+            <guid>https://v.daum.net/v/XpBzwzv8Ia</guid>
+            <pubDate>Mon, 11 Sep 2023 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F11%2Ffeelthemovie%2F20230911133208555dchv.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[알고 보니 내가 인간이 아니고, 로봇이었다고? (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/6kqmed7AIX</link>
             <guid>https://v.daum.net/v/6kqmed7AIX</guid>
@@ -2432,20 +2440,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F09%2Ffanzeel%2F20230909110019395qrel.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[일반인들 처럼 댓글달고 중고 구매 한다는 톱스타 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/40DC9d7Ai2</link>
-            <guid>https://v.daum.net/v/40DC9d7Ai2</guid>
-            <pubDate>Sat, 09 Sep 2023 01:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F09%2Ffeelthemovie%2F20230909093010602szca.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[영화는 내가 사는 멀티버스다 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@dIfq/194</link>
             <guid>https://brunch.co.kr/@@dIfq/194</guid>
             <pubDate>Mon, 11 Sep 2023 04:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>윤병옥]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdIfq%2Fimage%2FJm4vcbORheTqeUeGb36wCgwLYmQ.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[〈화차〉를 떠올리게 하지만 결코 그에 뒤지지 않는 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@9lOS/317</link>
+            <guid>https://brunch.co.kr/@@9lOS/317</guid>
+            <pubDate>Mon, 11 Sep 2023 05:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2F39Uf_0XjNpcJSxNg-kHAhZ0V7O0.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[흑백의 세상에서도 우리는 컬러를 보아야만 한다는 것 (다음 영화 ─ 브런치)]]></title>
@@ -2590,14 +2598,6 @@
             <pubDate>Fri, 25 Aug 2023 02:24:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kino DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2F_LEhGo5j-xfgsOwkKrvWfTbLHus.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[히로시마 용의자에 바치는 애가 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@f02C/21</link>
-            <guid>https://brunch.co.kr/@@f02C/21</guid>
-            <pubDate>Mon, 21 Aug 2023 05:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>마텔]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Ff02C%2Fimage%2Fjef2l-uH8Rgnz42eEmw2I37gd18.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
