@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 04:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤결 볼 결심]]></title>
+            <link>https://brunch.co.kr/@@e0zm/52</link>
+            <guid>https://brunch.co.kr/@@e0zm/52</guid>
+            <pubDate>Tue, 12 Sep 2023 04:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>관객 S]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe0zm%2Fimage%2Fy0F-brZl_H0eKG4Xa0D_Jvg64Sw.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[평일 오후 5시, 혼자 영화를 보러 갔습니다.]]></title>
             <link>https://brunch.co.kr/@@9WA0/57</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Sep 2023 02:22:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2FhVtnXv_KiCMbpYBxrRymIxg_zfY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국영화 'BIG4', 놀자판 아니면 엄근진]]></title>
-            <link>https://brunch.co.kr/@@e5Rv/31</link>
-            <guid>https://brunch.co.kr/@@e5Rv/31</guid>
-            <pubDate>Tue, 05 Sep 2023 02:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>cks공칠공삼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe5Rv%2Fimage%2FXsDs8UpIrgmMSOOPI7ZRpELUSdU.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
