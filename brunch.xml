@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 13 Sep 2023 02:24:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정미숙]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfJvK%2Fimage%2FOW6YK9PtgVGt3Dd9DwY2SBKa8oE.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[로버트는 얼마나 좋았을까]]></title>
+            <link>https://brunch.co.kr/@@b9Yf/30</link>
+            <guid>https://brunch.co.kr/@@b9Yf/30</guid>
+            <pubDate>Wed, 13 Sep 2023 08:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>박단]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fb9Yf%2Fimage%2F36Jwj58oc1XEqGX5cEQ0dZ-YzmI.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[때로는 순수함이 우리를 가둘 수도 있음을, <이노센트>]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Sep 2023 10:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>벤선생]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfbST%2Fimage%2FX4mUOpeTLZ_Sx6jJ4b1FhrpzaG0.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[158분 동안 불안했던 이야기]]></title>
-            <link>https://brunch.co.kr/@@qB4/457</link>
-            <guid>https://brunch.co.kr/@@qB4/457</guid>
-            <pubDate>Tue, 12 Sep 2023 11:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>석대건]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FqB4%2Fimage%2F8dLy5DeeMGYp1BJB-RJKg_iaJ-4.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
