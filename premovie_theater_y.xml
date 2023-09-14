@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 23:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 01:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
             <content:encoded><![CDATA[23.09.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd8441c0eeb21cb4f1484a08fd9385ab555b65b03" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[닌자터틀: 뮤턴트 대소동]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168565</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168565</guid>
+            <pubDate>Thu, 14 Sep 2023 01:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47f295a79d323b178832f456491ccf63581f41da" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여름을 향한 터널, 이별의 출구]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163869</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163869</guid>
+            <pubDate>Thu, 14 Sep 2023 01:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66f2b5907a7417f0e6130439f41eff94283eed7e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오펜하이머]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 13 Sep 2023 10:18:14 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbefb3ff392b22b07b93f8d4f2bbc0e8b30f5f2df" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[서태지 25주년 라이브 타임: 트래블러]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173097</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173097</guid>
-            <pubDate>Wed, 13 Sep 2023 21:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2384a634aae54177956e5fa39a25218e18fb1ded" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘 돼지는 외출하는 여동생의 꿈을 꾸지 않는다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171949</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171949</guid>
-            <pubDate>Wed, 13 Sep 2023 17:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12f968c33271a1e5ee5eb067fee52493af0f8ffd" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
