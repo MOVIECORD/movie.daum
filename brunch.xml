@@ -4,9 +4,17 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 01:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 02:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고단한 삶을 달래주는 영화]]></title>
+            <link>https://brunch.co.kr/@@dNCs/106</link>
+            <guid>https://brunch.co.kr/@@dNCs/106</guid>
+            <pubDate>Thu, 14 Sep 2023 02:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>분홍소금]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdNCs%2Fimage%2F9rllS9OX2RwHYFLtpO_RMtG9AUM.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
         <item>
             <title><![CDATA[영화를 보면서 딴생각을 하는 이유]]></title>
             <link>https://brunch.co.kr/@@124u/117</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Sep 2023 06:24:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>주제모름]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6X51%2Fimage%2FBVmlNua6IaYPpohSsYpFgEiy2VU.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[오펜하이머와 과학 수행평가]]></title>
-            <link>https://brunch.co.kr/@@8zcL/89</link>
-            <guid>https://brunch.co.kr/@@8zcL/89</guid>
-            <pubDate>Tue, 12 Sep 2023 06:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김대호]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8zcL%2Fimage%2FSP7gJ3K9mxWVlC1U1Hexwa3ydaE.WEBP" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
