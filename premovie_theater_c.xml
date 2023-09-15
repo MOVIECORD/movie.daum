@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 20:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 21:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,14 +143,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e8a99ae845115e58c41ed6be3269b9b880f1ce0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[경미의 세계]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135082</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135082</guid>
-            <pubDate>Fri, 15 Sep 2023 16:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F955373f80ee3e4e101ec05d785ef38a28f182664" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[힙노틱]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169686</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169686</guid>
@@ -159,12 +151,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f32e7410ccb0a204f27189750c7408be054fb2f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노크: 더 하우스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171654</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171654</guid>
+            <title><![CDATA[경미의 세계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135082</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135082</guid>
             <pubDate>Fri, 15 Sep 2023 16:22:37 GMT</pubDate>
             <content:encoded><![CDATA[23.09.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb30bc6801b38839e9b4d05c056fb3bad35fc234b" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F955373f80ee3e4e101ec05d785ef38a28f182664" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[칸다하]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169860</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169860</guid>
+            <pubDate>Fri, 15 Sep 2023 21:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c6a2e2c59879d8698822e70bdbec5fa37435a5c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
