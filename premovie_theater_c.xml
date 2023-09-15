@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 06:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 07:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,12 +119,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ee62e4e7b9a5fbd321224461c888ec2f65c1f2f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[플로라 앤 썬]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167386</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167386</guid>
+            <pubDate>Thu, 14 Sep 2023 09:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15122b24371e4cd783471a62ced5103eca4d02c1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[료마! 테니스의 왕자: 디사이드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153858</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153858</guid>
             <pubDate>Tue, 12 Sep 2023 23:17:12 GMT</pubDate>
             <content:encoded><![CDATA[23.09.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e8a99ae845115e58c41ed6be3269b9b880f1ce0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[힙노틱]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169686</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169686</guid>
+            <pubDate>Fri, 15 Sep 2023 07:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f32e7410ccb0a204f27189750c7408be054fb2f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[번개맨: 더 비기닝]]></title>
@@ -143,28 +159,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45ff561693a595edf7d629b6c3ccd95c02ad7356" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[플로라 앤 썬]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167386</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167386</guid>
-            <pubDate>Thu, 14 Sep 2023 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15122b24371e4cd783471a62ced5103eca4d02c1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스크래퍼]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166803</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166803</guid>
             <pubDate>Tue, 12 Sep 2023 23:17:12 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28fd74137fb1c99f8ba4a61b5b2971a9c3e64f53" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171273</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171273</guid>
-            <pubDate>Fri, 15 Sep 2023 02:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b956b1493cceed7532d528d3cd4a2536b3e25c5" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
