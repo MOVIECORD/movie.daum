@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 08:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 09:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[달짝지근해: 7510]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162610</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162610</guid>
+            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb52206340a8facdb4bc0ee75b2e649d22a4b5f30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[여름을 향한 터널, 이별의 출구]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163869</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163869</guid>
@@ -54,14 +62,6 @@
             <pubDate>Thu, 14 Sep 2023 01:11:09 GMT</pubDate>
             <content:encoded><![CDATA[23.09.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52e6fffcc6447a51cf05927cbf4166135912d10f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[달짝지근해: 7510]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162610</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162610</guid>
-            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb52206340a8facdb4bc0ee75b2e649d22a4b5f30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[콘크리트 유토피아]]></title>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc1c15973a9068bb70a3f4eedec1d22f07faa390" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해리포터와 혼혈왕자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=43729</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=43729</guid>
-            <pubDate>Tue, 05 Sep 2023 23:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F127492114A25CDD543" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[신체모음.zip]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161323</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161323</guid>
             <pubDate>Wed, 30 Aug 2023 01:11:34 GMT</pubDate>
             <content:encoded><![CDATA[23.08.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14accdfd01c533d02d496ae8bdd95029ac66d7a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해리포터와 혼혈왕자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43729</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43729</guid>
+            <pubDate>Tue, 05 Sep 2023 23:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F127492114A25CDD543" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[밀수]]></title>
