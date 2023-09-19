@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 02:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 03:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,22 @@
             <pubDate>Tue, 19 Sep 2023 01:13:22 GMT</pubDate>
             <content:encoded><![CDATA[23.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6da454dc8185474db84a13a26f6012c51539416575690" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[닉과 노라의 인피니트 플레이리스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=47687</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=47687</guid>
+            <pubDate>Tue, 19 Sep 2023 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F201AAD174AC2C62108" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[하트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135081</guid>
+            <pubDate>Tue, 19 Sep 2023 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fmovie-private%2F83487950b809324be61d44608973af1a287ceb4f" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
