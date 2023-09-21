@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 09:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 10:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,13 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce3dda655bc0eb73ffd6e82ba32e1bc6322b173a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
-            <pubDate>Thu, 21 Sep 2023 01:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.21]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[폭로]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159317</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159317</guid>
@@ -133,6 +126,13 @@
             <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
             <content:encoded><![CDATA[23.09.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92e07efb324c919b61c48b8da2ac933f3f4d98f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
+            <pubDate>Thu, 21 Sep 2023 01:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엘리멘탈]]></title>
