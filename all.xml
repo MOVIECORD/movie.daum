@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 03:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 04:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -887,14 +887,6 @@
             <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[폭로 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159317</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159317</guid>
-            <pubDate>Tue, 19 Sep 2023 06:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56888fcda4dcb9d8033c5727e87bf89ff057cd47" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엘리멘탈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163777</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163777</guid>
@@ -909,6 +901,14 @@
             <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
             <content:encoded><![CDATA[23.09.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92e07efb324c919b61c48b8da2ac933f3f4d98f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[폭로 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159317</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159317</guid>
+            <pubDate>Tue, 19 Sep 2023 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56888fcda4dcb9d8033c5727e87bf89ff057cd47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여덟 개의 산 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1383,6 +1383,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffaf164ee456ef236f643d22750546119c9e8420b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[더 블랙 북 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173951</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173951</guid>
+            <pubDate>Fri, 22 Sep 2023 04:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12c1e9b086a4550497b276fb3585e4cde8ac9ece" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[좀비랜드 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=51999</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=51999</guid>
@@ -1581,6 +1589,22 @@
             <pubDate>Fri, 08 Sep 2023 06:22:35 GMT</pubDate>
             <content:encoded><![CDATA[23.10.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8806eeada2757d163f53a9519f9952c24dc335f7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[탈피 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173203</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173203</guid>
+            <pubDate>Fri, 22 Sep 2023 04:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3fb8db9c765a35ff29146c5eb370fd6ac486681" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[펄 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162408</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162408</guid>
+            <pubDate>Fri, 22 Sep 2023 04:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faf2282d5a817b118b0742f9f3e0e49d16e89b405" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블링 링 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -1823,6 +1847,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A90DA9F2AA" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['거미집' 전여빈, "김지운 감독, 집요하고 치열한 방식 지닌 연출자 같다" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230922125602658</link>
+            <guid>https://v.daum.net/v/20230922125602658</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 영화 '거미집'의 배우 전여빈은 촬영장에서 겪은 김지운 감독에 대해 언급했다.&nbsp; 전여빈은 22일 서울 종로구 삼청동에 위치한 한 카페에서 영화 '거미집'(감독 김지운) 관련 인터뷰에 나섰다. '거미집'은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 바꾸면 걸작이 될 거라 믿는 김열 감독(송강호)이 검열, 바뀐 내용을 이해하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2F10asia%2F20230922125604583ipps.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[올 추석에는 이 가문을 조심하세요 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230922124502457</link>
+            <guid>https://v.daum.net/v/20230922124502457</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[전용준 기자] &nbsp;▲ &nbsp;영화 &lt;가문의 영광: 리턴즈&gt; 포스터.ⓒ ㈜넥스트엔터테인먼트월드&nbsp; &lt;범죄도시 시리즈&gt;의 성공 이후로 '한국 영화 부활의 신호탄'이라는 표현이 왕왕 보이고는 한다. 1년 간격으로 개봉한 시리즈의 2편과 3편이 모두 천만 관객을 돌파했으니, 이 시리즈가 관객들을 다시금 극장으로 이끌었음에 이견을 갖는 이는 많지 않으리라. 하지만 아무리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fohmynews%2F20230922124504928etwt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘거미집’ 전여빈 “스타일링 위해 조끼만 몇십 번 갈아입어..더벅머리 귀엽더라” [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230922124018396</link>
+            <guid>https://v.daum.net/v/20230922124018396</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김채연 기자] (인터뷰①에 이어)배우 전여빈이 ‘거미집’에서 70년대 스타일을 구현하기 위해 통가발을 썼다고 말했다. 전여빈은 22일 오전 서울시 종로구 소격동 한 카페에서 영화 ’거미집’ 개봉을 앞두고 인터뷰를 진행했다. ‘거미집’(배급 바른손이앤에이, 제작 앤솔로지 스튜디오, 공동제작 바른손 스튜디오·루스이소니도스)은 1970년대 다 찍은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fpoctan%2F20230922124020021lkom.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘올빼미’, 제43회 한국영화평론가협회상 3관왕 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230922123306324</link>
+            <guid>https://v.daum.net/v/20230922123306324</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[씨제스 스튜디오가 제작한 영화 ‘올빼미’가 제43회 한국영화평론가협회상에서 3관왕을 차지했다. ‘올빼미’는 지난 21일, 서울 중국 한국프레스센터에서 열린 한국영화평론가협회상(이하 영평상) 시상식에서 남우주연상, 신인감독상, 촬영상을 거머쥐었다. 신인 감독상 시상에 앞서 황영미 평론가는 "영화 ‘올빼미’는 주맹증에 걸린 맹인 침술사 경수(류준열]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fmunhwa%2F20230922123308219cfdp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['거미집' 정수정, "'한유림'의 매력? 70년대 떠오르는 스타가 되고 싶었다" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230922123101294</link>
+            <guid>https://v.daum.net/v/20230922123101294</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 영화 '거미집'의 배우 정수정은 한유림 역을 맡으며 좋았던 점을 이야기했다.&nbsp; 정수정은 22일 서울 종로구 삼청동에 위치한 한 카페에서 영화 '거미집'(감독 김지운) 관련 인터뷰에 나섰다. '거미집'은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 바꾸면 걸작이 될 거라 믿는 김열 감독(송강호)이 검열, 바뀐 내용을 이해하지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2F10asia%2F20230922123104650vmwz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['거미집' 전여빈 "송강호와 연기 호흡, 배우대 배우로 부끄럽고 싶지 않은 마음"[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230922122336158</link>
+            <guid>https://v.daum.net/v/20230922122336158</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] '거미집'의 전여빈이 송강호와 연기 호흡을 맞추며 "부끄럽고 싶지 않았다"고 밝혔다. 영화 '거미집'의 전여빈이 개봉을 앞둔 22일 오전 삼청동의 한 카페에서 스포티비뉴스와 만나 영화에 대한 다양한 이야기를 전했다. 이날 전여빈은 "강호 선배님과 지운 감독님과 인연이 되게 깊지 않나. 지금까지로 치면 25년인데 몇 해 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fspotvnews%2F20230922122340062zxso.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[‘거미집’ 정수정 “언니 제시카, 서로 평가 안 해..그래서 사이 좋은듯” [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230922121723014</link>
             <guid>https://v.daum.net/v/20230922121723014</guid>
@@ -1933,54 +2005,6 @@
             <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '거미집' 정수정이 언니 제시카와의 우애를 드러냈다. 22일 오전 서울 종로구 소격동의 한 카페에서 영화 '거미집'(감독 김지운)에 출연한 배우 정수정의 인터뷰가 진행됐다. '거미집'은 1970년대, 다 찍은 영화 '거미집'의 결말만 바꾸면 걸작이 될 거라 믿는 김열 감독(송강호 분)이 검열, 바뀐 내용을 이해하지 못하는 배우와]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fxportsnews%2F20230922115028441ybbo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[정수정 “언니 제시카와 각자 길 가는 사이, 그래서 우애 좋아”(거미집)[EN:인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230922110638580</link>
-            <guid>https://v.daum.net/v/20230922110638580</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 정수정이 언니 제시카와의 우애를 밝혔다. 영화 '거미집'(감독 김지운)에 출연한 정수정은 9월 22일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품과 관련된 여러 이야기를 전했다. 오는 27일 개봉하는 영화 '거미집'은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 다시 찍으면 걸작이 될 거라 믿는 '김감독'(송강호)이 검열,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fnewsen%2F20230922110638717iqxx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['거미집' 정수정, "말로만 듣던 칸 영화제 갈 줄은 꿈에도 몰랐다" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230922105901287</link>
-            <guid>https://v.daum.net/v/20230922105901287</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 영화 '거미집'의 배우 정수정은 칸 영화제를 처음으로 방문한 소감을 밝혔다.&nbsp; 정수정은 22일 서울 종로구 삼청동에 위치한 한 카페에서 영화 '거미집'(감독 김지운) 관련 인터뷰에 나섰다. '거미집'은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 바꾸면 걸작이 될 거라 믿는 김열 감독(송강호)이 검열, 바뀐 내용을 이해하지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2F10asia%2F20230922105903796tdif.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘거미집’ 정수정 “송강호와 함께 연기하고픈 사람 얼마나 많을까‥난 럭키”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230922105816257</link>
-            <guid>https://v.daum.net/v/20230922105816257</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 정수정이 송강호와 연기 호흡을 맞춘 것에 대해 "'럭키'했다"는 소감을 밝혔다. 영화 '거미집'(감독 김지운)에 출연한 정수정은 9월 22일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품과 관련된 여러 이야기를 전했다. 오는 27일 개봉하는 영화 '거미집'은 1970년대, 다 찍은 영화 ‘거미집’의 결말만 다시 찍으면 걸작이 될]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fnewsen%2F20230922105816804nkrs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰①] '거미집' 정수정 "'칸=송강호 집', 괜히 나온 말 아냐…손 키스 리드까지" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230922105801242</link>
-            <guid>https://v.daum.net/v/20230922105801242</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] '거미집' 정수정이 선배 송강호를 향한 존경심을 드러냈다. 정수정은 22일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "송강호 선배와 함께 호흡을 맞출 수 있다는 자체만으로 큰 영광이었다"라고 했다. '거미집'은 지난 5월에 열린 제76회 칸 국제영화제 비경쟁 부문에 초청돼 일찍이 주목을 받았다. 첫 칸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2FSpoChosun%2F20230922105801594mbni.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰①] ‘거미집’ 정수정 “오정세, 스윗한 선배… 러브신 어려움 없어” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230922105439067</link>
-            <guid>https://v.daum.net/v/20230922105439067</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정수정이 칸영화제에서 재확인한 송강호의 위상에 대해 이야기했다. 정수정은 영화 ‘거미집’ 개봉을 앞두고 22일 오전 서울 종로구의 한 카페에서 진행된 인터뷰에서 오정세와 베드신에 대해 “영화 속 영화에 삽입된 장면이고 필요했던 장면이라고 생각했다. 무리 없이 잘 촬영했다”고 말했다. 또 오정세와 연기합에 대해 “오빠의 도움을 많이 받았던 것 같다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Filgansports%2F20230922105441083pwah.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰③] 정수정 “언니 제시카 美서 돌아오자마자 ‘거미집’ 시사 참석” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230922105424058</link>
-            <guid>https://v.daum.net/v/20230922105424058</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정수정이 언니인 제시카에 대한 고마운 마음을 표현했다. 정수정은 영화 ‘거미집’ 개봉을 앞두고 22일 오전 서울 종로구의 한 카페에서 진행된 인터뷰에서 제시카의 ‘거미집’ VIP 시사회 방문에 대해 “사실 우리 자매는 서로에게 되게 관심 없는 스타일이다. 그런데 ‘거미집’은 내가 너무 하고 싶었다는 걸 언니가 알고 내가 이 작품을 하게 됐다고 했을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Filgansports%2F20230922105425773rftw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2143,6 +2167,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[매일 밤, 벽 너머로 노크 소리가 들려온다면? (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/Vnk0ZvcpEo</link>
+            <guid>https://v.daum.net/v/Vnk0ZvcpEo</guid>
+            <pubDate>Fri, 22 Sep 2023 04:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Ffanzeel%2F20230922125006306zdmf.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[체지방률 6% 성공한 배우가 공개한 다이어트 비법 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/Hwu3lxzcFy</link>
+            <guid>https://v.daum.net/v/Hwu3lxzcFy</guid>
+            <pubDate>Fri, 22 Sep 2023 04:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F22%2Fmaxmovie%2F20230922123004713zpyn.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[40대 실화? "잘생겼다"는 말에 강동원이 보인 '반응' (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/BnAGxHmBqK</link>
             <guid>https://v.daum.net/v/BnAGxHmBqK</guid>
@@ -2285,22 +2325,6 @@
             <pubDate>Thu, 21 Sep 2023 05:18:19 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F21%2Ffeelthemovie%2F20230921133006627qwpp.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[아프가니스탄에서 신원 발각된 CIA 비밀 요원의 탈출기 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/fVRODthVuB</link>
-            <guid>https://v.daum.net/v/fVRODthVuB</guid>
-            <pubDate>Thu, 21 Sep 2023 04:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F21%2Ffanzeel%2F20230921125007954pcdz.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기도 무서워서 제대로 못쳐다 본다는 공포의 신인 여배우 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/Pkg4RQ7AVd</link>
-            <guid>https://v.daum.net/v/Pkg4RQ7AVd</guid>
-            <pubDate>Thu, 21 Sep 2023 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F21%2Ffeelthemovie%2F20230921113753024cwbo.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA['한국형' 수식어를 재정의하다 (다음 영화 ─ 브런치)]]></title>

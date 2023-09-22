@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 03:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 04:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Sep 2023 04:20:39 GMT</pubDate>
             <content:encoded><![CDATA[23.09.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffaf164ee456ef236f643d22750546119c9e8420b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 블랙 북]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173951</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173951</guid>
+            <pubDate>Fri, 22 Sep 2023 04:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12c1e9b086a4550497b276fb3585e4cde8ac9ece" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[좀비랜드]]></title>
@@ -214,6 +222,22 @@
             <pubDate>Fri, 08 Sep 2023 06:22:35 GMT</pubDate>
             <content:encoded><![CDATA[23.10.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8806eeada2757d163f53a9519f9952c24dc335f7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[탈피]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173203</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173203</guid>
+            <pubDate>Fri, 22 Sep 2023 04:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3fb8db9c765a35ff29146c5eb370fd6ac486681" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[펄]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162408</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162408</guid>
+            <pubDate>Fri, 22 Sep 2023 04:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faf2282d5a817b118b0742f9f3e0e49d16e89b405" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
