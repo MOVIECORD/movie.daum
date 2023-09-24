@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 11:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 12:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,20 +768,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[잠 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159622</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159622</guid>
-            <pubDate>Wed, 16 Aug 2023 02:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[가문의 영광: 리턴즈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173212</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173212</guid>
             <pubDate>Thu, 14 Sep 2023 07:17:02 GMT</pubDate>
             <content:encoded><![CDATA[23.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9baa7b29c962e1ea5dadb1efe56c32bc0d1604dd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159622</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159622</guid>
+            <pubDate>Wed, 16 Aug 2023 02:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그란 투리스모 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -808,6 +808,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[힙노틱 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169686</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169686</guid>
+            <pubDate>Sat, 16 Sep 2023 04:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f32e7410ccb0a204f27189750c7408be054fb2f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[베니스 유령 살인사건 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169936</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169936</guid>
@@ -822,14 +830,6 @@
             <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
             <content:encoded><![CDATA[23.09.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61f6579353d5b2f7204bb0b8bd56e7632adf38c3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[힙노틱 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169686</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169686</guid>
-            <pubDate>Sat, 16 Sep 2023 04:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f32e7410ccb0a204f27189750c7408be054fb2f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[달짝지근해: 7510 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1743,6 +1743,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30324cc2ecbbe3b392ed35699d04dba7c7ade595" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['30일' 강하늘, 코믹 눈깔로 갈아끼웠다 [Oh!쎈 초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230924203523171</link>
+            <guid>https://v.daum.net/v/20230924203523171</guid>
+            <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;장르를 불문하고 다양한 작품을 통해 사랑받아 온 배우 강하늘의 코믹력을 새 영화 ‘30일’에서 재확인했다. ‘스물’(2015)과 ‘청년경찰’(2017)에 이어 ‘30일’까지 코믹 장르에 자신만의 매력을 오롯이 심어넣은 결과다. 이 정도면 코미디 연기에 진심이 아닐까 싶다. 그래서 강하늘의 필모그래피 중에서도 그가 유달리 두각을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F24%2Fpoctan%2F20230924203524178vzys.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[제대로 날아오른 조인성…'밀수'→'무빙', 거침없는 매력 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20230924182005930</link>
             <guid>https://v.daum.net/v/20230924182005930</guid>
@@ -1893,14 +1901,6 @@
             <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[김성호 기자] ▲ &nbsp;영화 &lt;이터널 메모리&gt; 포스터ⓒ DMZ국제다큐멘터리영화제&nbsp; 20년을 연애하고 결혼에 이른 연인이 있다. 기자이자 작가로 칠레의 민주화에 공헌한 아우구스토 공고라, 배우이고 활동가이며 민주화된 칠레에서 문화부 장관을 한 파울리나 우루티아 부부다. 25년 동안 만남을 이어온 이들의 일상을 보고 있자면 '이들이야말로 세상에서 가장 이상적인]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F24%2Fohmynews%2F20230924101803708xwbt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[18일째 적수 없는 '잠', 126만 돌파..'가문의 영광' 2위[★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20230924101409303</link>
-            <guid>https://v.daum.net/v/20230924101409303</guid>
-            <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 잠 / 사진=영화 포스터영화 '잠'이 18일 연속 흥행 독주를 이어가고 있다. 24일 영화진흥위원회 통합전산망에 따르면 전날 '잠'은 7만 3580명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 126만 866명. '잠'은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F24%2Fstarnews%2F20230924101410825zixk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
