@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 06:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,28 +104,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7861b7f7752fd433c8f3a54d13ade8d52e5049fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[닌자터틀: 뮤턴트 대소동]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168565</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168565</guid>
-            <pubDate>Thu, 14 Sep 2023 01:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52e6fffcc6447a51cf05927cbf4166135912d10f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어파이어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167467</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167467</guid>
-            <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92e07efb324c919b61c48b8da2ac933f3f4d98f9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[치악산]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161324</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161324</guid>
             <pubDate>Fri, 22 Sep 2023 07:16:25 GMT</pubDate>
             <content:encoded><![CDATA[23.09.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffa283698ddca63f03c302d11b1ead49b9d983912" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[닌자터틀: 뮤턴트 대소동]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168565</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168565</guid>
+            <pubDate>Thu, 14 Sep 2023 01:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52e6fffcc6447a51cf05927cbf4166135912d10f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈]]></title>
@@ -144,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4c6a2e2c59879d8698822e70bdbec5fa37435a5c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[밀수]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147080</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147080</guid>
-            <pubDate>Sun, 24 Sep 2023 03:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F51a727081fdf0a5774f9e360f3ae3f15c85bc61d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[폭로]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159317</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159317</guid>
@@ -165,6 +149,22 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
             <pubDate>Sun, 24 Sep 2023 05:15:54 GMT</pubDate>
             <content:encoded><![CDATA[23.09.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여덟 개의 산]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160390</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160390</guid>
+            <pubDate>Sun, 24 Sep 2023 07:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f08627b9ea770d8d668b001c8b83b8caaeb06ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어파이어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167467</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167467</guid>
+            <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F92e07efb324c919b61c48b8da2ac933f3f4d98f9" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
