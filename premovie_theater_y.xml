@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 10:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 11:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F52e6fffcc6447a51cf05927cbf4166135912d10f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엘리멘탈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163777</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163777</guid>
+            <pubDate>Mon, 25 Sep 2023 11:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[타겟]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172401</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172401</guid>
@@ -157,14 +165,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
             <pubDate>Sun, 24 Sep 2023 05:15:54 GMT</pubDate>
             <content:encoded><![CDATA[23.09.21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이터널 메모리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166818</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166818</guid>
-            <pubDate>Mon, 25 Sep 2023 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d28a9690b26aefed854d2bc9c81e2859710c648" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
