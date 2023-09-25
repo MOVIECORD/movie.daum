@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 11:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 12:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61f6579353d5b2f7204bb0b8bd56e7632adf38c3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아르고 원정대: 꼬마 영웅 패티의 대모험]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166675</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166675</guid>
+            <pubDate>Thu, 21 Sep 2023 01:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7861b7f7752fd433c8f3a54d13ade8d52e5049fc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[베니스 유령 살인사건]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169936</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169936</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Sep 2023 01:12:37 GMT</pubDate>
             <content:encoded><![CDATA[23.09.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f32e7410ccb0a204f27189750c7408be054fb2f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아르고 원정대: 꼬마 영웅 패티의 대모험]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166675</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166675</guid>
-            <pubDate>Thu, 21 Sep 2023 01:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7861b7f7752fd433c8f3a54d13ade8d52e5049fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[달짝지근해: 7510]]></title>
@@ -152,19 +152,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F56888fcda4dcb9d8033c5727e87bf89ff057cd47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[치악산]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161324</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161324</guid>
-            <pubDate>Fri, 22 Sep 2023 07:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffa283698ddca63f03c302d11b1ead49b9d983912" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
             <pubDate>Sun, 24 Sep 2023 05:15:54 GMT</pubDate>
             <content:encoded><![CDATA[23.09.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이터널 메모리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166818</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166818</guid>
+            <pubDate>Mon, 25 Sep 2023 12:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d28a9690b26aefed854d2bc9c81e2859710c648" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
