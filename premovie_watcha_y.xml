@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>[다음영화] 왓챠 ─ 공개예정</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 14:18:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[23 아이덴티티]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=105218</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=105218</guid>
-            <pubDate>Mon, 25 Sep 2023 04:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a6b38773e351ce815eec343a30b35336fbd9f67" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[50가지 그림자: 해방]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=92682</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=92682</guid>
-            <pubDate>Mon, 25 Sep 2023 04:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd039243198c40ca4e0f236f7bdb19c4545e423f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑할 땐 누구나 최악이 된다]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152038</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152038</guid>
-            <pubDate>Mon, 25 Sep 2023 04:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F111352a647a357d14be27a7f01b353c3b6007f45" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼스트맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110902</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110902</guid>
-            <pubDate>Wed, 27 Sep 2023 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc4f5e0526bc044e18a2b0aea558172861537435406892" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[언프렌디드: 친구삭제]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=91354</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=91354</guid>
-            <pubDate>Wed, 27 Sep 2023 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1936c9f68fe99403a9a485748d78918594be7eba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
+    <title>[다음영화] 왓챠 ─ 공개예정</title>
+    <updated>2023-09-27T15:20:56.667Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
+</feed>
