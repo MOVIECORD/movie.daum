@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 04:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 05:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4ce2c6ae33edb0ef32d5614b367f85c10a7316c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[베니스 유령 살인사건]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169936</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169936</guid>
+            <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd8441c0eeb21cb4f1484a08fd9385ab555b65b03" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[달짝지근해: 7510]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162610</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162610</guid>
+            <pubDate>Fri, 29 Sep 2023 05:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb52206340a8facdb4bc0ee75b2e649d22a4b5f30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[여덟 개의 산]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160390</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160390</guid>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 28 Sep 2023 04:20:36 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54da6661885c2a002073c49da5e9f527cad165e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[베니스 유령 살인사건]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169936</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169936</guid>
-            <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd8441c0eeb21cb4f1484a08fd9385ab555b65b03" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[플로라 앤 썬]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167386</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167386</guid>
-            <pubDate>Thu, 21 Sep 2023 23:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15122b24371e4cd783471a62ced5103eca4d02c1" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
