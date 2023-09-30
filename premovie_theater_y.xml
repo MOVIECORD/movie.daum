@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 01:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 02:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd8441c0eeb21cb4f1484a08fd9385ab555b65b03" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여덟 개의 산]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160390</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160390</guid>
-            <pubDate>Sun, 24 Sep 2023 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f08627b9ea770d8d668b001c8b83b8caaeb06ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스크래퍼]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166803</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166803</guid>
@@ -166,6 +158,13 @@
             <pubDate>Fri, 29 Sep 2023 06:22:55 GMT</pubDate>
             <content:encoded><![CDATA[23.09.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15122b24371e4cd783471a62ced5103eca4d02c1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
+            <pubDate>Sat, 30 Sep 2023 02:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
     </channel>
 </rss>
