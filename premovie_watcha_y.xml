@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2023-10-06T04:22:03.110Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 06 Oct 2023 05:18:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스카이스크래퍼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118878</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118878</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F837412dd1a4c62c2bdd6673cebc9d6425c5c9fa8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 데스데이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113277</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113277</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc531165532ab82c965220a1a6d489eac8f8c0293" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼시픽 림: 업라이징]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=86946</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=86946</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb544759817bb3aecf921c2d7ecec283e95776a96" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수퍼배드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=44052</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=44052</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1701CC1D4C36EED356" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[게이샤의 추억]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40486</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40486</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F17283A4F4DEBE42E1D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 도어 : 다섯 개의 문]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170493</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170493</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc84e388ed77cbc1b84ef8f17f412edf20e60b1e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[SAS:레니게이드 인 런던]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166427</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166427</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff33c742c3b40e37e8b4d3e41f938d75b4d055e6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼걸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=2444</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=2444</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8c58add6a9211acb695a2684deb45567b8c1f806" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 와처스: 잭 팟]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111309</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111309</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81285a06661069fd5b860a8a328df5eb3d3ed6aa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 와처스: 라스트 히어로]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111311</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111311</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc947371ad231efd24f48921b5d8eaa6e06ff2c2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 와처스: 방콕]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111310</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111310</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33092b302de749c4299aa9500c23f9f50ba435bc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 피스메이커]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169383</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169383</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6274abda54ce88fdf6366a4a4dd189b3132adefb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스나이퍼: 인비저블 고스트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171034</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171034</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7f406b24e87a811efac60737d30d51f3d0a312a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[끝과 시작]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=53514</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=53514</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1169B149513D39E70C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
