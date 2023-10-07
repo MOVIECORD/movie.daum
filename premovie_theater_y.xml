@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 12:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 13:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54da6661885c2a002073c49da5e9f527cad165e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오펜하이머]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
+            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[플로라 앤 썬]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167386</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 05 Sep 2023 23:16:49 GMT</pubDate>
             <content:encoded><![CDATA[23.09.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[오펜하이머]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
-            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드림쏭2]]></title>
