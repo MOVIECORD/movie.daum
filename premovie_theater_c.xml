@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 11:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 12:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F571c6f7a9eb9161717903e53f45ccb0fb108fda6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[블루 자이언트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167998</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167998</guid>
-            <pubDate>Thu, 28 Sep 2023 16:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[에브리씽 에브리웨어 올 앳 원스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156439</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156439</guid>
             <pubDate>Wed, 27 Sep 2023 01:13:22 GMT</pubDate>
             <content:encoded><![CDATA[23.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6c80c085ffb44a22429823230b4d60235780aba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블루 자이언트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167998</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167998</guid>
+            <pubDate>Thu, 28 Sep 2023 16:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 아이돌리쉬 세븐: 라이브 4비트 비욘드 더 피리어드 - 데이 1]]></title>
@@ -152,19 +152,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd6518fc0403d263aaf7061b9e4476a4c963fa67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[페이오프]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163534</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163534</guid>
+            <pubDate>Sun, 08 Oct 2023 12:31:16 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba94eb560e88039321d221b67770838544aa3586" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[BBC 프롬스: NYO 재즈 위드 디 디 브릿지워터]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174278</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174278</guid>
             <pubDate>Thu, 05 Oct 2023 01:13:54 GMT</pubDate>
             <content:encoded><![CDATA[23.10.12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엑소시스트: 믿는 자]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172494</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172494</guid>
-            <pubDate>Sun, 08 Oct 2023 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F112895c1bfe295a5dffa5a3d575c84dac79ed13c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
