@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 04:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 05:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78debdcd850bee5863ab08a014e5ccddc85566f7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173972</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173972</guid>
+            <pubDate>Wed, 27 Sep 2023 01:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd6518fc0403d263aaf7061b9e4476a4c963fa67" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[21세기 피아노의 거장: 이고르 레빗]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173968</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173968</guid>
@@ -144,28 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21ee3184ae6f1c8c4da386efbf72001473feb767" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[봉태리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141630</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141630</guid>
-            <pubDate>Fri, 06 Oct 2023 18:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e23462a4de07a6680da68d2f2963c6c6bd5bb03" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173972</guid>
-            <pubDate>Wed, 27 Sep 2023 01:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd6518fc0403d263aaf7061b9e4476a4c963fa67" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[페이오프]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163534</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163534</guid>
             <pubDate>Sun, 08 Oct 2023 12:31:16 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba94eb560e88039321d221b67770838544aa3586" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[봉태리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141630</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141630</guid>
+            <pubDate>Fri, 06 Oct 2023 18:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e23462a4de07a6680da68d2f2963c6c6bd5bb03" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
