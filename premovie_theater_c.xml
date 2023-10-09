@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 07:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 08:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,20 +104,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb16a790b0a0cc659c52b87e036249d3492bd9c1f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[시수]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163563</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163563</guid>
-            <pubDate>Fri, 06 Oct 2023 12:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe41712b9e5bc4d4cd6318e7036403bb6c925b0f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[익스펜더블 4]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=124309</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=124309</guid>
             <pubDate>Mon, 09 Oct 2023 06:24:01 GMT</pubDate>
             <content:encoded><![CDATA[23.10.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd39ccfba83ac118d93ce4d07ce89895c11474a3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[시수]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163563</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163563</guid>
+            <pubDate>Fri, 06 Oct 2023 12:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe41712b9e5bc4d4cd6318e7036403bb6c925b0f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[킹 오브 킬러스]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ff467ef1a7b13c747d8748d0a0b84921d1320b6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[페이오프]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163534</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163534</guid>
-            <pubDate>Sun, 08 Oct 2023 12:31:16 GMT</pubDate>
+            <title><![CDATA[봉태리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141630</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141630</guid>
+            <pubDate>Mon, 09 Oct 2023 08:23:47 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba94eb560e88039321d221b67770838544aa3586" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e23462a4de07a6680da68d2f2963c6c6bd5bb03" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
