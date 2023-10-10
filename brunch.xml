@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 10 Oct 2023 02:25:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>전영식]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeyUN%2Fimage%2FFVHlh-WgNl__deV86jrsz36XPZY.jfif" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[나츠코와 아야의 '구멍']]></title>
+            <link>https://brunch.co.kr/@@m7d/428</link>
+            <guid>https://brunch.co.kr/@@m7d/428</guid>
+            <pubDate>Tue, 10 Oct 2023 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>수첩이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fm7d%2Fimage%2Fm1XuOIKPZWtlAGS9bk-wJw31SB8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[[BIFF 데일리] 개들의 왕이 행한 어떤 기적]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Sep 2023 06:24:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>정수]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5c1Q%2Fimage%2Fft8lAaf8o7jklTq0Dnsg2RsTphU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 뒤로 드리운 베니스 유령의 그림자]]></title>
-            <link>https://brunch.co.kr/@@fF6Z/85</link>
-            <guid>https://brunch.co.kr/@@fF6Z/85</guid>
-            <pubDate>Fri, 15 Sep 2023 06:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>힙합스텝]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FfF6Z%2Fimage%2FcbszDGSunGaa6PdsCNpNB7B0FQU.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
