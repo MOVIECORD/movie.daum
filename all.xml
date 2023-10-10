@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 06:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -848,6 +848,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2306f51a0ab45e0c9bdad94f066e370abc8d4615" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[잠 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159622</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159622</guid>
+            <pubDate>Wed, 16 Aug 2023 02:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[킴스 비디오 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166834</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166834</guid>
@@ -864,14 +872,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15122b24371e4cd783471a62ced5103eca4d02c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[잠 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159622</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159622</guid>
-            <pubDate>Wed, 16 Aug 2023 02:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오펜하이머 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
@@ -880,20 +880,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여름을 향한 터널, 이별의 출구 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163869</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163869</guid>
-            <pubDate>Thu, 14 Sep 2023 01:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F393994f72ded6d452b540a837875c6a24764e0d2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[절해고도 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154153</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154153</guid>
             <pubDate>Mon, 09 Oct 2023 06:23:53 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ee62e4e7b9a5fbd321224461c888ec2f65c1f2f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여름을 향한 터널, 이별의 출구 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163869</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163869</guid>
+            <pubDate>Thu, 14 Sep 2023 01:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F393994f72ded6d452b540a837875c6a24764e0d2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여덟 개의 산 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -999,6 +999,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faef751f0ceffd32bae19d74cd18d028a93006b4d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[익스펜더블 4 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124309</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124309</guid>
+            <pubDate>Mon, 09 Oct 2023 06:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd39ccfba83ac118d93ce4d07ce89895c11474a3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[너와 나 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163754</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163754</guid>
@@ -1023,20 +1031,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb16a790b0a0cc659c52b87e036249d3492bd9c1f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[익스펜더블 4 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124309</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124309</guid>
-            <pubDate>Mon, 09 Oct 2023 06:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd39ccfba83ac118d93ce4d07ce89895c11474a3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[시수 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163563</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163563</guid>
             <pubDate>Fri, 06 Oct 2023 12:34:56 GMT</pubDate>
             <content:encoded><![CDATA[23.10.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe41712b9e5bc4d4cd6318e7036403bb6c925b0f0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹 오브 킬러스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173760</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173760</guid>
+            <pubDate>Sun, 08 Oct 2023 08:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21ee3184ae6f1c8c4da386efbf72001473feb767" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[람빅, 시간과 열정의 맥주 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1053,14 +1061,6 @@
             <pubDate>Fri, 29 Sep 2023 11:15:19 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78debdcd850bee5863ab08a014e5ccddc85566f7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킹 오브 킬러스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173760</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173760</guid>
-            <pubDate>Sun, 08 Oct 2023 08:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21ee3184ae6f1c8c4da386efbf72001473feb767" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[21세기 피아노의 거장: 이고르 레빗 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1463,6 +1463,150 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0f25434a7ee5e3732be91320002e9a2a082bba3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[마라 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124303</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124303</guid>
+            <pubDate>Tue, 10 Oct 2023 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbcb067b5b5b4434c84bf730b5def8bb21538713541512" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[60일의 썸머 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124808</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124808</guid>
+            <pubDate>Tue, 10 Oct 2023 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8592066acd7f4d59ad86febc59b1dc4f1540367990529" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[혼노지 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109454</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109454</guid>
+            <pubDate>Tue, 10 Oct 2023 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1704483c86954fb08144fe048ae2e0721538369536943" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA['너와 나' 박혜수, 학폭 의혹 먼저 밝했다 "제 입장엔 변화 없다" [Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010161603038</link>
+            <guid>https://v.daum.net/v/20231010161603038</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 박혜수가 학폭 의혹과 관련, “그동안 많이 궁금해하셨을 거라고 생각한다”고 말문을 열었다. 박혜수는 10일 오후 서울 이촌동 용산 CGV 아이파크몰에서 열린 영화 ‘너와 나’의 언론배급시사회에서 “지난 시간 동안 거짓을 밝히기 위해 최선을 다해왔다”라며 이 같이 밝혔다. 전날(9일) 오후 박혜수의 소속사 측은 보도자료를 통]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fpoctan%2F20231010161603616rtgg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜수 “학폭 의혹 수사 중…거짓 바로잡겠다” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010161404969</link>
+            <guid>https://v.daum.net/v/20231010161404969</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박혜수가 학폭 의혹과 관련해 입을 열었다. 10일 서울 한강로 CGV 용산아이파크몰점에서 영화 ‘너와 나’(감독 조현철) 언론배급시사회가 열렸다. 행사에는 조현철 감독과 배우 박혜수, 김시은이 참석했다. ‘너와 나’는 서로에게 전하고 싶은 말을 마음속에 담은 두 고등학생 세미(박혜수)와 하은(김시은)의 이야기를 그린 영화다. 배우로 활동하던 조현철]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fkukinews%2F20231010161405760peeq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜수 “학폭 논란, 거짓 바로잡으려 노력…입장 변함 없을 것”(너와 나) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010161234908</link>
+            <guid>https://v.daum.net/v/20231010161234908</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 글 김명미 기자/사진 표명중 기자] 박혜수가 학폭 논란에 대해 입장을 밝혔다. 박혜수는 10월 10일 오후 서울 용산구 CGV 용산아이파크몰에서 진행된 영화 '너와 나'(감독 조현철) 언론배급 시사회 및 기자간담회에서 "어제 저의 소속사에서 그동안 진행된 저의 상황에 대해 기자님들께 전달드린 것으로 알고 있다"고 입을 열었다. 박혜수는 지난 20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fnewsen%2F20231010161234800jmtq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜수, 학폭 의혹에 입 열었다…"거짓 바로잡고자 끝까지 최선" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010161217887</link>
+            <guid>https://v.daum.net/v/20231010161217887</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김시은과 박혜수(오른쪽)가 10일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 ‘너와 나’ 언론시사회에 참석하고 있다. (사진=뉴스1)[이데일리 스타in 김보영 기자] 배우 박혜수가 영화 ‘너와 나’(감독 조현철) 기자간담회를 통해 학폭 의혹과 관련된 논란에 대한 입장을 밝혔다. 10일 오후 2시 서울 용산구 CGV아이파크몰점에서 영화 ‘너]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2FEdaily%2F20231010161220962jrjp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['너와 나' 박혜수 "학폭 의혹 바로잡기 위해 노력, 입장 변화 無" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010161208869</link>
+            <guid>https://v.daum.net/v/20231010161208869</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] ‘너와 나’의 배우 박혜수가 학폭 의혹에 대해 언급했다. 10일 오후 서울시 용산구 CGV 용산아이파크몰에서 진행된 영화 ‘너와 나’(감독 조현철) 언론시사회에서는 조현철 감독을 비롯해 출연 배우 박혜수 김시은 등이 참석해 다양한 이야기를 나눴다. 박혜수는 이날 “어제 저희 소속사에서 그동안 진행된 상황에 대해서 전달 드린 걸]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Ftvdaily%2F20231010161210279hmsv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜수, 학폭 논란 재차 부인 "거짓 바로잡기 위해 최선..수사 중" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010161148834</link>
+            <guid>https://v.daum.net/v/20231010161148834</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 용산CGV=김나연 기자] 박혜수 / 사진=영화 스틸컷배우 박혜수가 자신을 둘러싼 학폭(학교폭력) 의혹에 대한 진행 상황을 밝혔다. 10일 서울시 용산구 CGV 용산아이파크몰에서 영화 '너와 나'(감독 조현철)의 언론배급시사회가 개최됐다. 이 자리에는 조현철 감독을 비롯해 배우 박혜수, 김시은이 참석해 다양한 이야기를 나눴다. '너와 나]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fstarnews%2F20231010161151981erza.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜수, 학폭 논란에 “거짓 바로잡기 위해 최선 다해 노력했다”(너와나) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010161123812</link>
+            <guid>https://v.daum.net/v/20231010161123812</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박혜수가 공식석상에서 자신을 둘러싼 학폭 논란에 대해 입을 열었다. 박혜수는 10일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 ‘너와 나’ 언론 시사회에서 학교 폭력 의혹과 관련해 진실을 밝히겠다고 이야기했다. 박혜수는 본격적인 질의응답 시작에 앞서 “그동안 많이 궁금하셨을 거라 생각하는데. 지난 시간 동안 거짓을 바로잡기 위해 최선을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Filgansports%2F20231010161125704vacp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['너와 나' 박혜수, 학폭 논란에 "거짓 바로 잡기 위해 최선 다할 것" [ST현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010160806537</link>
+            <guid>https://v.daum.net/v/20231010160806537</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 서지현 기자] '너와 나' 박혜수가 자신의 학폭 논란에 대한 입장을 밝혔다. 10일 오후 서울시 용산구 CGV아이파크몰에서 영화 '너와 나'(연출 조현철·제작 필름영) 언론배급시사회가 진행됐다. 현장에는 조현철 감독과 주연 배우 박혜수, 김시은이 함께했다. 이날 박혜수는 지난 2021년 불거진 자신의 학폭 의혹에 대해 "어제 저희 소속사에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fsportstoday%2F20231010160807893vcsc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜수 "학폭 의혹, 입장 변화 없을 것"…'너와 나' 간담회 전 고백 (엑's 현장) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010160728481</link>
+            <guid>https://v.daum.net/v/20231010160728481</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 기자) 배우 박혜수가 간담회에 앞서 학폭 논란에 대한 이야기를 전했다. 10일 오후 서울 용산구 CGV아이파크몰에서는 영화 '너와 나'(감독 조현철) 언론 시사회가 진행됐다. 이 자리에는 조현철 감독을 비롯해 배우 박혜수, 김시은이 참석했다. '너와 나'는 서로에게 전하고 싶은 말을 마음속에 담은 채 꿈결 같은 하루를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fxportsnews%2F20231010160729313ozml.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[울산울주세계산악영화제, 프로그래머 추천작 11편 공개 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010160213297</link>
+            <guid>https://v.daum.net/v/20231010160213297</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(울산=연합뉴스) 허광무 기자 = 울산울주세계산악영화제는 20일 제8회 영화제 개막을 앞두고 프로그래머 추천작 11편을 선정해 10일 공개했다. 올해 영화제는 국제경쟁과 아시아경쟁 부문을 비롯해 올해 신설된 산·자연·인간 섹션, 코리안웨이브 섹션 등을 통해 총 36개국 151편 작품을 관객들에게 선보인다. 2022년 울산국제영화제 지원작도 이번 영화제에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fyonhap%2F20231010160213215euvf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘더 마블스’ 메인 포스터에 박서준 깨알 등장‥11월8일 개봉 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010155601056</link>
+            <guid>https://v.daum.net/v/20231010155601056</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '더 마블스'가 11월 8일 개봉한다. 영화 '더 마블스'(감독 니아 다코스타)는 우주를 지키는 히어로 캡틴 마블 ‘캐럴 댄버스’가 능력을 사용할 때마다 ‘모니카 램보’, 미즈 마블 ‘카말라 칸’과 위치가 바뀌는 위기에 빠지면서 뜻하지 않게 새로운 팀 플레이를 하게 되는 히어로 액션 블록버스터다. 10월 10일 공개된 메인 포스터]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fnewsen%2F20231010155602806visx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서 "♥이충현 감독 작품…연인 아니더라도 메리트 있어" [엑's 인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010155002841</link>
+            <guid>https://v.daum.net/v/20231010155002841</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '발레리나' 전종서가 이충현 감독 작품 출연 소감을 전했다. 10일 오후 서울 삼청동의 한 카페에서 넷플릭스 영화 '발레리나'(감독 이충현)에 출연한 배우 전종서의 인터뷰가 진행됐다. '발레리나'는 경호원 출신 옥주(전종서 분)가 소중한 친구 민희(박유림)를 죽음으로 몰아간 최프로(김지훈)를 쫓으며 펼치는 아름답고 무자비한 감성]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fxportsnews%2F20231010155004209lvsy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김형서 “번아웃 오열, 다이어트 때문에‥지금은 괜찮아요”(종합)[EN:인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010154846789</link>
+            <guid>https://v.daum.net/v/20231010154846789</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 눈 밑의 점을 지우면 가수 비비 아닌 배우 김형서가 된다. 정식으로 연기를 배워본 적도 없다는 그가 '화란'으로 칸 레드카펫을 밟은 소감을 밝혔다. 영화 '화란'(감독 김창훈)에 출연한 김형서(비비)는 10월 10일 서울 강남구 모처에서 진행된 인터뷰를 통해 작품에 대한 다채로운 이야기를 전했다. 11일 개봉하는 영화 '화란'은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fnewsen%2F20231010154847103jkln.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서 “마른 몸 싫었지만 근육 키우기 위해 53kg→40kg대로”[인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010154732741</link>
+            <guid>https://v.daum.net/v/20231010154732741</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 전종서가 OTT플랫폼 넷플릭스 새 영화 ‘발레리나’로 체중을 감량했다고 밝혔다. 전종서는 10일 스포츠경향과 진행된 인터뷰에서 영화를 위해 체중을 조절했다며 “일부러 살을 찌워 53kg으로 만들었는데, 촬영하면서 쭉 빼 40kg대로 만들었다. 지금은 그 체중을 유지하고 있다”고 밝혔다. 그는 “평소 내 몸이 마른 게 싫었다. 그래서 언제부턴가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fsportskhan%2F20231010154733230yfrh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서 “♥이충현 감독, 여배우로서도 경험해볼만한 연출가”[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231010153909409</link>
+            <guid>https://v.daum.net/v/20231010153909409</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 전종서가 연인이자 OTT플랫폼 넷플릭스 새 영화 ‘발레리나’ 이충현 감독에 대한 존경심을 표현했다. 전종서는 10일 스포츠경향과 진행된 인터뷰에서 이충현 감독과 두번째 작업한 소감을 묻자 “내가 꼭 여자친구로서가 아니더라도, 이충현 감독 영화에 여배우로 출연한다는 건 장르적인 이점이 있다고 생각한다”고 밝혔다. 그는 “이충현 감독은 배우가 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fsportskhan%2F20231010153911057oivf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[뺑뺑이 안경 쓴 졸리.."7년전부터 영화 줄여" 의미있는 컴백작 베일 벗다 [Oh!llywood] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231010151920609</link>
             <guid>https://v.daum.net/v/20231010151920609</guid>
@@ -1501,126 +1645,6 @@
             <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=이하늘 기자] 넷플릭스 영화 '발레리나'의 전종서는 '버닝' 데뷔 이후, 대중들과 소통하는 모습으로 점차 변화하고 있다고 언급했다.&nbsp; 배우 전종서는 10일 서울 종로구 삼청동에 위치한 한 카페에서 넷플릭스 영화 '발레리나'(감독 이충현) 관련 인터뷰에 나섰다. '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구 '민희'(박유림)를 죽]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2F10asia%2F20231010150105711yign.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서 "♥이충현 감독과 호흡, 스태프들이 우려..사적인 감정 無" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010145013487</link>
-            <guid>https://v.daum.net/v/20231010145013487</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 최혜진 기자] '발레리나' 전종서/사진=앤드마크영화 '발레리나'의 이충현 감독과 공개 연애 중인 배우 전종서가 작품에서 사적인 감정은 배제했다고 강조했다. 10일 전종서는 서울시 종로구에 위치한 한 카페에서 스타뉴스와 만나 지난 6일 공개된 '발레리나'에 대한 이야기를 나눴다. '발레리나'는 경호원 출신 옥주(전종서 분)가 소중한 친구]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fstarnews%2F20231010145014906xhie.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서 "김지훈과 맨몸 액션, 보호 장치 없이 몸 섞여 조심" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010144644335</link>
-            <guid>https://v.daum.net/v/20231010144644335</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 최혜진 기자] '발레리나' 전종서/사진=앤드마크넷플릭스 영화 '발레리나'의 배우 전종서가 김지훈과 액션 연기를 펼친 소감을 전했다. 10일 전종서는 서울시 종로구에 위치한 한 카페에서 스타뉴스와 만나 지난 6일 공개된 '발레리나'에 대한 이야기를 나눴다. '발레리나'는 경호원 출신 옥주(전종서 분)가 소중한 친구 민희(박유림 분)를 죽음]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fstarnews%2F20231010144645302cexg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서 "박유림과 동성애라 생각 NO, 미묘한 지점 두려 해" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010144301207</link>
-            <guid>https://v.daum.net/v/20231010144301207</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 최혜진 기자] '발레리나' 전종서/사진=앤드마크넷플릭스 영화 '발레리나'(감독 이충현)의 배우 전종서가 작품 속 동성애 코드에 대한 생각을 밝혔다. 10일 전종서는 서울시 종로구에 위치한 한 카페에서 스타뉴스와 만나 지난 6일 공개된 '발레리나'에 대한 이야기를 나눴다. '발레리나'는 경호원 출신 옥주(전종서 분)가 소중한 친구 민희(박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fstarnews%2F20231010144303771aaco.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서, "진흙탕서 무방비로 싸우는 느낌 주고 싶었다" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010144103136</link>
-            <guid>https://v.daum.net/v/20231010144103136</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 넷플릭스 영화 '발레리나'의 전종서는 맨몸 액션을 한 소감을 밝혔다.&nbsp; 배우 전종서는 10일 서울 종로구 삼청동에 위치한 한 카페에서 넷플릭스 영화 '발레리나'(감독 이충현) 관련 인터뷰에 나섰다. '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구 '민희'(박유림)를 죽음으로 몰아간 '최프로'(김지훈)를 쫓으며 펼치는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2F10asia%2F20231010144106163fdcn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서 "장윤주, 내향형 성격변화에 가장 큰 영향"[인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010143247817</link>
-            <guid>https://v.daum.net/v/20231010143247817</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] 배우 전종서가 '발레리나' 특별 출연 배우들과 함께 연기한 소감을 밝혔다. 배우 전종서는 10일 오후 서울 삼청동의 한 카페에서 인터뷰를 갖고 넷플릭스 영화 '발레리나'에 대한 다양한 이야기를 전했다. '발레리나'에는 김영옥, 주현부터 신세휘, 장윤주 등 화려한 특별출연 라인업을 자랑한다. 전종서는 "김영옥 선생님과 '연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fspotvnews%2F20231010143249688kjwf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['화사한 그녀' 엄정화 "그동안 쌓아온 시간에 대해 상받는 느낌" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010142746627</link>
-            <guid>https://v.daum.net/v/20231010142746627</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 올해로 31년 차 배우 엄정화(53)는 중견 여배우 가운데 코미디 연기에 독보적인 위치를 자랑한다. 영화 'Mr.로빈 꼬시기'(2006)에서 다니엘 헤니와 전형적인 로맨스 코미디를 선보였던 엄정화는 '댄싱퀸'(2012), '미쓰 와이프'(2015), '오케이 마담'(2020)을 통해 자신만의 코미디 연기를 구축해왔다. 푼수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fyonhap%2F20231010142746702vpqy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘발레리나’ 전종서 “마른 몸 싫어 많이 먹었지만‥액션 준비로 살 빠져”[EN:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010142610565</link>
-            <guid>https://v.daum.net/v/20231010142610565</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 전종서가 "앞으로 대중과 소통하려 한다"는 포부를 밝혔다. 넷플릭스 영화 '발레리나'(감독 이충현)에 출연한 전종서는 10월 10일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 대한 다채로운 이야기를 전했다. 지난 6일 공개된 넷플릭스 영화 '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구 ‘민희’(박유림)를 죽음으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fnewsen%2F20231010142612168rutw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이사 간 두 아이가 예전 집을 찾은 이유 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010142102301</link>
-            <guid>https://v.daum.net/v/20231010142102301</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[조영준 기자] &nbsp;▲ &nbsp;제28회 부산국제영화제 상영작 &lt;초면에 발생한 분쟁을 조정하는 세 가지 질문&gt; 스틸컷ⓒ 부산국제영화제01. &lt;초면에 발생한 분쟁을 조정하는 세 가지 질문&gt; 한국 / 2023 / 15분 감독 : 은고 출연 : 김소월, 이천은 이른 아침 운동장에서 초면인 두 사람이 언쟁을 벌인다. 멀리서 두 사람을 바라보는 이들은 두 남녀의 모습이 헤어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fohmynews%2F20231010142104524bqto.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서, "♥이충현 감독 영화 출연, 여배우로서 장르적 메리트 있었다"[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010141601045</link>
-            <guid>https://v.daum.net/v/20231010141601045</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 전종서는 공개 연애 중인 이충현 감독과&nbsp;넷플릭스 영화 '발레리나'를 통해 호흡을 맞춘 소감을 밝혔다.&nbsp; 배우 전종서는 10일 서울 종로구 삼청동에 위치한 한 카페에서 넷플릭스 영화 '발레리나'(감독 이충현) 관련 인터뷰에 나섰다. '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구 '민희'(박유림)를 죽음으로 몰아간 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2F10asia%2F20231010141604723ecvl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서 "버닝썬에 분노…영화적으로 통쾌하게 풀었다"[인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010141407960</link>
-            <guid>https://v.daum.net/v/20231010141407960</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] 배우 전종서가 '버닝썬 게이트'를 연상하게 하는 '발레리나'의 줄거리에 대한 생각을 밝혔다. 배우 전종서는 10일 오후 서울 삼청동의 한 카페에서 인터뷰를 갖고 넷플릭스 영화 '발레리나'에대한 다양한 이야기를 전했다. '발레리나' 속 성착취를 저지르는 최프로(김지훈)의 행위는 2019년 불거진 버닝썬 게이트 사건을 생각나]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fspotvnews%2F20231010141409774wprb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[전종서 "♥이충현 감독과 진짜 딱 영화만 찍어…우려하는 부분 없다"[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010141343943</link>
-            <guid>https://v.daum.net/v/20231010141343943</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=유은비 기자] 배우 전종서가 연인 이충현 감독과 함께 작업한 소감을 밝혔다. 배우 전종서는 10일 오후 서울 삼청동의 한 카페에서 인터뷰를 갖고 넷플릭스 영화 '발레리나'에 대한 다양한 이야기를 전했다. 연인 이충현 감독과 함께 작업한 전종서는 "다른 여자 배우분들이 공감할 수도 있는 지점인데 이충현 감독님이 연기를 통해 꼭 한번 해보]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fspotvnews%2F20231010141345552swjq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘화란’ 송중기, 동네 건달됐다 [Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010141018808</link>
-            <guid>https://v.daum.net/v/20231010141018808</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;미소년의&nbsp;해사한&nbsp;얼굴로&nbsp;여성&nbsp;팬들의&nbsp;마음을&nbsp;사로잡아&nbsp;온&nbsp;배우&nbsp;송중기가&nbsp;새&nbsp;영화&nbsp;‘&nbsp;화란’을&nbsp;통해,&nbsp;시기상&nbsp;아빠가&nbsp;된&nbsp;이후,&nbsp;과감한&nbsp;변신을&nbsp;보여줬다.&nbsp;배우로서&nbsp;변곡점이&nbsp;될&nbsp;작품만은&nbsp;확실하다. ‘화란’(감독&nbsp;김창훈,&nbsp;제공배급&nbsp;플러스엠&nbsp;엔터테인먼트,&nbsp;제작&nbsp;㈜사나이픽처스,&nbsp;공동제작&nbsp;㈜하이스토리·플러스엠&nbsp;엔터테인먼트)은&nbsp;지옥&nbsp;같은&nbsp;현실에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fpoctan%2F20231010141019020ejnd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['발레리나' 전종서 "버닝썬 사건 연상, 영화서 통쾌하게 처벌" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010140927773</link>
-            <guid>https://v.daum.net/v/20231010140927773</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] '발레리나' 전종서가 영화 속 내용이 버닝썬 사건을 떠오르게 한다는 것에 대해 "영화에서나마 통쾌하게 해보고 싶었다"고 했다. 10일 오후 서울 종로구 소격동의 한 카페에서는 넷플릭스 영화 '발레리나' 주연 배우 전종서의 인터뷰가 진행됐다. '발레리나'는 경호원 출신 옥주(전종서 분)가 소중한 친구 민희(박유림 분)를 죽음으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fpoctan%2F20231010140928606zvlc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘발레리나’ 전종서 “♥이충현 감독과 작업 행운‥사적인 감정은 배제”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010140927772</link>
-            <guid>https://v.daum.net/v/20231010140927772</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 전종서가 '남친' 이충현 감독과 작업한 것에 대해 "행운"이라는 소감을 밝혔다. 넷플릭스 영화 '발레리나'(감독 이충현)에 출연한 전종서는 10월 10일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 대한 다채로운 이야기를 전했다. 지난 6일 공개된 넷플릭스 영화 '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구 ‘민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fnewsen%2F20231010140927343jxco.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰②] ‘발레리나’ 전종서 “박유림과 동성애 코드? 여성의 우정 형용하기 힘들어” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231010140855746</link>
-            <guid>https://v.daum.net/v/20231010140855746</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 전종서가 민희(박유림)와의 관계에 대해 “동성애라 생각하고 연기하진 않았다”고 말했다. 넷플릭스 영화 ‘발리레나’는 경호원 출신 옥주(전종서)가 소중한 친구 민희(박유림)를 죽음으로 몰아간 최프로(김지훈)를 쫓으며 펼치는 아름답고 무자비한 감성 액션 복수극.&nbsp; 전종서는 10일 오후 서울 종로구의 한 카페에서 진행된 넷플릭스 영화 ‘발레리나’ 인터]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Filgansports%2F20231010140857240suzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
