@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 22:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 23:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6c1f95fef76b7fe79ae4860b8ae2815cf2ce0581" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오펜하이머]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
-            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173972</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173972</guid>
@@ -142,6 +134,14 @@
             <pubDate>Thu, 28 Sep 2023 04:20:36 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54da6661885c2a002073c49da5e9f527cad165e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오펜하이머]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
+            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름을 향한 터널, 이별의 출구]]></title>
