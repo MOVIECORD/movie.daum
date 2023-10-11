@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 02:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 03:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=172058</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172058</guid>
             <pubDate>Tue, 12 Sep 2023 23:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>310,598명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>310,591명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff505fa8f6cf94b66b79fa8039b96e728fa3f0990" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -768,6 +768,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc40ad380f429b74bc6559c555e43392706bf9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[30일 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
+            <pubDate>Thu, 14 Sep 2023 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[화사한 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156397</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156397</guid>
@@ -782,14 +790,6 @@
             <pubDate>Wed, 20 Sep 2023 08:22:37 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F273ad8d64e5a9211188d2a6502cbe4f062f38817" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[30일 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
-            <pubDate>Thu, 14 Sep 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[천박사 퇴마 연구소: 설경의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -888,20 +888,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd6518fc0403d263aaf7061b9e4476a4c963fa67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[잠 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159622</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159622</guid>
-            <pubDate>Wed, 16 Aug 2023 02:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그란 투리스모 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167095</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167095</guid>
             <pubDate>Wed, 06 Sep 2023 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[23.09.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2306f51a0ab45e0c9bdad94f066e370abc8d4615" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킴스 비디오 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166834</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166834</guid>
+            <pubDate>Thu, 28 Sep 2023 04:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54da6661885c2a002073c49da5e9f527cad165e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오펜하이머 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -920,12 +920,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F393994f72ded6d452b540a837875c6a24764e0d2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[킴스 비디오 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166834</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166834</guid>
-            <pubDate>Thu, 28 Sep 2023 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd54da6661885c2a002073c49da5e9f527cad165e" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[아이돌 마스터 밀리언 라이브! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
+            <pubDate>Wed, 11 Oct 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바람 따라 만나리 : 김호중의 계절 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1375,6 +1374,134 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1704483c86954fb08144fe048ae2e0721538369536943" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['흑인 바비' 나온다...넷플릭스 다큐 공개 [할리웃통신] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011121100557</link>
+            <guid>https://v.daum.net/v/20231011121100557</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=유비취 기자] '바비'의 열풍에 '흑인 바비'도 나온다. 넷플릭스를 통해 흑인 바비를 볼 수 있게 됐다. 10일(현지 시간) 연예 매체 버라이어티에 따르면 흑인 바비의 탄생과 이를 둘러싼 흑인 여성 3명의 역사를 다룬 다큐멘터리 'Black Barbie(블랙 바비)'의 권리가 넷플릭스와 제작사 숀다랜드에게 돌아갔다. 흑인 바비는 바비의 회사 마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Ftvreport%2F20231011121106485jadq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['발레리나' 감독 "승리 버닝썬 차용 아니지만..성착취 복수 원했다"[인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011120720483</link>
+            <guid>https://v.daum.net/v/20231011120720483</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 안윤지 기자] 이충현 감독 /사진제공=넷플릭스이충현 감독이 영화에서 연상시키는 그룹 빅뱅 출신 승리의 버닝썬 게이트, N번방, 박사방 등을 차용했냐는 질문에는 반대했지만 여성 성착취 복수를 원했다는 의도를 밝혔다. 이충현 감독은 11일 오전 서울시 종로구 삼청동 한 카페에서 넷플릭스 영화 '발레리나' 관련 인터뷰를 진행했다. '발레리나'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fstarnews%2F20231011120722118ysic.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['발레리나' 이충현 "♥전종서 캐스팅, 조심스러웠지만 대체 불가" [엑's 인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011120702476</link>
+            <guid>https://v.daum.net/v/20231011120702476</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이슬 기자) '발레리나' 이충현 감독이 배우 전종서를 캐스팅한 이유를 밝혔다. 11일 오전 서울 삼청동의 한 카페에서 넷플릭스 영화 '발레리나' 이충현 감독의 인터뷰가 진행됐다. '발레리나'는 경호원 출신 옥주(전종서 분)가 소중한 친구 민희(박유림)를 죽음으로 몰아간 최프로(김지훈)를 쫓으며 펼치는 아름답고 무자비한 감성 액션 복수극으로,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fxportsnews%2F20231011120703929kxma.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①] 이충현 감독 "女동생 둘 둔 오빠..女서사 관심多"('발레리나') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011120403414</link>
+            <guid>https://v.daum.net/v/20231011120403414</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 이충현(33) 감독이 "여성 서사에 늘 관심이 많았다"고 말했다. 2020년 공개된 넷플릭스 오리지널 영화 '콜'에 이어 '발레리나'(클라이맥스 스튜디오 제작)를 통해 3년 만에 컴백한 이충현 감독. 그가 11일 오전 서울 종로구 삼청동에서 스포츠조선과 만나 '발레리나'를 연출한 과정을 밝혔다. 이충현 감독은 "기존]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FSpoChosun%2F20231011120403298gkzn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰④] 이충현 감독 "'발레리나' 뮤비 같다는 호불호, 생각보다 더 커서 놀라"('발레리나') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011120355410</link>
+            <guid>https://v.daum.net/v/20231011120355410</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 이충현(33) 감독이 "'발레리나' 생각보다 호불호 더 커 놀랐다"고 말했다. 넷플릭스 오리지널 영화 '발레리나'(클라이맥스 스튜디오 제작)를 연출한 이충현 감독이 11일 오전 서울 종로구 삼청동에서 스포츠조선과 만나 작품에 담은 메시지와 연출 의도를 고백했다. 이충현 감독은 국내에서 이어진 호불호 평가에 대해 "평]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FSpoChosun%2F20231011120355445wwcw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰③] 이충현 감독 "♥전종서 공개열애 후회 안해, 불 같은 여친 매력적"('발레리나') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011120326396</link>
+            <guid>https://v.daum.net/v/20231011120326396</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 이충현(33) 감독이 연인이자 뮤즈 전종서(29)에 대해 "순수하면서 불 같은 여자친구다"고 말했다. 이충현 감독이 11일 오전 넷플릭스 오리지널 영화 '발레리나'(클라이맥스 스튜디오 제작) 인터뷰에서 복수를 부탁한 친구 민희(박유림)를 위해 끝까지 간 옥주 역의 전종서와 재회한 소감을 전했다. 두 사람은 2021년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FSpoChosun%2F20231011120326954epks.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②] 이충현 감독 "그레이 음악감독으로 참여, 운명적 만남"('발레리나') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011120313394</link>
+            <guid>https://v.daum.net/v/20231011120313394</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 이충현(33) 감독이 "시각적, 청각적으로 자극 원해 그레이와 협업했다"고 말했다. 이충현 감독이 11일 오전 스포츠조선과 인터뷰에서 넷플릭스 오리지널 영화 '발레리나'(클라이맥스 스튜디오 제작)의 비하인드 에피소드를 전했다. '발레리나'는 경호원 출신 여자가 가장 소중했던 친구를 죽음으로 몰아간 남자를 쫓으며 펼쳐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FSpoChosun%2F20231011120313496dhun.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘발레리나’ 이충현 감독 “전종서와 열애 공개 후회 NO, 순수하고 불같은 연인”[EN:인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011115610008</link>
+            <guid>https://v.daum.net/v/20231011115610008</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이충현 감독이 연인 전종서에 대해 "불 같은 모습이 매력적인 배우이자 여자친구"라면서 애정과 신뢰를 드러냈다. 넷플릭스 영화 '발레리나'를 연출한 이충현 감독은 10월 11일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 대한 다채로운 이야기를 전했다. 지난 6일 공개된 '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fnewsen%2F20231011115610775nnno.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘발레리나’ 이충현 감독 “여성 서사 관심‥‘버닝썬’ 사건 사용한 것 아냐”[EN:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011115532984</link>
+            <guid>https://v.daum.net/v/20231011115532984</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이충현 감독이 단편영화 '몸 값'과 '콜'에 이어, '발레리나'로 또 한 번 여성 서사 작품을 선보인 이유를 밝혔다. 넷플릭스 영화 '발레리나'를 연출한 이충현 감독은 10월 11일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 대한 다채로운 이야기를 전했다. 지난 6일 공개된 '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fnewsen%2F20231011115532911nrmf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘발레리나’ 이충현 감독 “연인 전종서, 폭풍 속으로 뛰어들 수 있는 사람”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011115412924</link>
+            <guid>https://v.daum.net/v/20231011115412924</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이충현 감독이 공개 열애 중인 전종서와 '콜'에 이어 '발레리나'로 다시 한 번 호흡을 맞춘 이유를 밝혔다. 넷플릭스 영화 '발레리나'를 연출한 이충현 감독은 10월 11일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 대한 다채로운 이야기를 전했다. 지난 6일 공개된 '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fnewsen%2F20231011115412186sapz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①] ‘발레리나’ 이충현 감독 “SM 코드, 여성을 물건취급하는 男 그리고 싶었다” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011115355907</link>
+            <guid>https://v.daum.net/v/20231011115355907</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 영화 ‘발레리나’의 이충현 감독이 작품 속에 SM 코드를 넣은 이유를 공개했다. 이충현 감독은 11일 오전 서울 종로구의 한 카페에서 진행된 라운드 인터뷰에서 “여성을 하나의 인격체로 생각하는 게 아니라 물건 취급하는 남성들을 영화에 넣고자 했다”고 말했다. 그는 영화에 등장하는 명식 역의 박형수와 SM 코드 등에 대해 “명식이 여성을 물건 취]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Filgansports%2F20231011115357030dhuc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②] ‘발레리나’ 이충현 감독 “♥전종서 캐스팅, 조심스러웠지만 대체 없었다” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011115340902</link>
+            <guid>https://v.daum.net/v/20231011115340902</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 영화 ‘발레리나’의 이충현 감독이 연인인 배우 전종서를 캐스팅한 이유를 공개했다. 이충현 감독은 11일 오전 서울 종로구의 한 카페에서 진행된 라운드 인터뷰에서 “‘콜’을 같이 하고 나서 전종서 배우와 한 작품을 더 해보고 싶다는 생각을 했다”고 운을 뗐다. 이 감독은 “‘콜’을 촬영할 때 전종서 배우가 비닐하우스에서 의자 삐걱거리면서 담배를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Filgansports%2F20231011115341591kkca.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰③] ‘발레리나’ 이충현 감독 “람보르기니 불에 안 태워… 제작비 문제” 웃음 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011115324898</link>
+            <guid>https://v.daum.net/v/20231011115324898</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 영화 ‘발레리나’의 이충현 감독이 작품 말미 람보르기니를 태운 장면에 대해 이야기했다. 이충현 감독은 11일 오전 서울 종로구의 한 카페에서 진행된 라운드 인터뷰에서 빌런을 화염방사기로 처리한 장면에 대해 “일종의 화형식처럼 처단을 했으면 좋겠다고 생가했던 것 같다”고 말했다. 또 빌런을 처단한 후 그가 타던 람보르기니를 태우는 장면에 대해선]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Filgansports%2F20231011115324281whty.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰④] ‘발레리나’ 이충현 감독 “♥전종서는 순수한 사람… 열애 인정 후회 X, 결혼은 아직” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011115313895</link>
+            <guid>https://v.daum.net/v/20231011115313895</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이충현 감독이 넷플릭스 영화 ‘발레리나’에서 연출과 배우로 호흡을 맞춘 전종서에 대해 언급했다. 이충현 감독은 11일 오전 서울 종로구의 한 카페에서 진행된 라운드 인터뷰에서 “공식석상에서 계속 연인인 전종서가 언급되는데, 사진도 없었던 열애설을 인정한 데 대해 후회하지는 않느냐”는 취재진의 질문을 받고 “후회한 적 한 번도 없다”고 말했다. 이 감독은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Filgansports%2F20231011115314915pgvk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[거장 하마구치 류스케 "관객과 좀 다른 방식으로 소통해보고 싶었다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011114802682</link>
+            <guid>https://v.daum.net/v/20231011114802682</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[조영준 기자] 제28회 부산국제영화제(BIFF) '스페셜 토크 &lt;악은 존재하지 않는다&gt;, 하마구치 류스케, 남다은' 행사가 10일 저녁 부산 해운대구 영화의 전당 중극장에서 열렸다. 이번 행사는 일본을 대표하는 감독으로 부상 중인 하마구치 류스케 감독의 신작 &lt;악은 존재하지 않는다&gt;를 상영한 직후 이루어졌다. 행사에 참석하기 위해 중극장을 가득 채운 관객]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fohmynews%2F20231011114803965odxp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '30일' 강하늘 "나의 최고 전성기는 지금 이 순간" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231011112644736</link>
+            <guid>https://v.daum.net/v/20231011112644736</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;배우 강하늘이 코미디와 로맨스가 결합된 신작 '30일'로 가을 관객을 찾았다. '30일'은 지적인 매력과 얼굴마저 잘 생긴 변호사 정열(강하늘)과 미모와 재력을 겸비한 영화 PD 나라(정소민)이 서로에게 반해 결혼에 골인하지만 결국 서로의 찌질함과 광기에 못견뎌 이혼을 결심하고 이혼 법정에까지 선 찰나 함께 교통사고를 당해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FSpoHankook%2F20231011112646051vkjy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['송나라 장군' 소환한 중국 거장, 이래선 안됐다 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231011104800747</link>
             <guid>https://v.daum.net/v/20231011104800747</guid>
@@ -1405,134 +1532,6 @@
             <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4년 만에 열리는 마블 테마 러닝 이벤트 ‘2023 마블런’이 풍성한 체험 이벤트로 러너들을 맞이한다. ‘2023 마블런’은 오는 15일 서울 여의도 공원에서 개최된다. 제스파, 대원미디어, 벨킨, 해시스냅 등 다양한 브랜드에서 체험형 부스를 운영하고 마블 브랜드를 보다 가깝게 경험할 수 있는 풍성한 즐길 거리도 마련된다. ‘마블런’은 영화, 스트리밍,]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Filgansports%2F20231011100204224ktox.png" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[유치함을 넘어선 '리즈시절' 배두나의 풋풋한 멜로 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011094801962</link>
-            <guid>https://v.daum.net/v/20231011094801962</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 지난 2016년 영국방송공사 BBC에서 선정한 '21세기 최고의 영화' 30위 올라 있는 박찬욱 감독의 &lt;올드보이&gt;에는 박찬욱 감독과 인연 및 친분이 있는 배우와 영화인들이 크고 작은 역할로 특별 출연했다. 오프닝 장면 건물 옥상에서 자살하는 남자 역의 오광록과 오대수(최민식 분)가 횟집 앞에서 멍하니 수족관을 보고 있을 때 오대수에게 많은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fohmynews%2F20231011094804309xmtn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[집행위 흔들렸지만, 스타는 빛나고, 관객은 끝까지 즐긴다[부산영화제 현장에서] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011092710177</link>
-            <guid>https://v.daum.net/v/20231011092710177</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[톨스토이의 ‘사람은 무엇으로 사는가’란 작품이 있습니다. 그렇다면 영화제는 무엇으로 살까요. 영화를 좋아했던 대학원생에서 영화 담당 기자로 10년 만에 부산국제영화제(BIFF)를 방문하며 맴돌았던 한 가지 질문입니다. 영화제엔 당연히 영화가 필요하겠죠. 영화를 만든 영화인들, 소위 스타들은 축제를 빛냅니다. 다른 한 축인 관객은 영화를 보며 그 영화를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fmunhwa%2F20231011092711416izrp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['화사한 그녀' 엄정화의 만개 [최혜진의 혜안] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011092330053</link>
-            <guid>https://v.daum.net/v/20231011092330053</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[편집자주] [편집자주] 최혜진 기자의 눈(眼)으로 바라본 방송, 영화, 연예계 이슈. [스타뉴스 | 최혜진 기자] 화사한 그녀 포스터/사진=제이앤씨미디어그룹 엄정화가 제대로 만개했다. 그간의 필모그래피는 좋은 밑거름이 됐다. 영화 '화사한 그녀'를 통해 화사한 비주얼과 연기력을 뽐낸 꽃 같은 엄정화다. 11일 개봉한 '화사한 그녀'는 화사한 기술이 주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fstarnews%2F20231011092333047uqns.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['천박사 퇴마 연구소' 이솜 눈빨→이동휘 기술빨→김종수 북빨…적재적소 팀플레이 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011091021571</link>
-            <guid>https://v.daum.net/v/20231011091021571</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] 영화 '천박사 퇴마 연구소: 설경의 비밀'의 주역 이솜, 이동휘, 김종수가 팀워크를 한층 업그레이드시키는 찰떡 캐릭터 플레이로 관객들을 매료시키고 있다. '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 천박사(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받으며 시작되는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fmydaily%2F20231011091023167knlp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[81만 돌파 ‘30일’ 입소문 부른 관객 웃참 실패 모먼트 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011090712458</link>
-            <guid>https://v.daum.net/v/20231011090712458</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 영화 '30일'이 누적 관객 81만 명을 돌파했다. 10월 11일 영화진흥위원회 통합전산망 집계에 따르면 10일 기준 영화 '30일'(감독 남대중)이 전체 박스오피스 1위, 누적 관객 81만4,628명을 기록했다. 곧 100만 돌파를 바라보고 있는 가운데, 실관람객들이 선정한 '웃참 모먼트'가 공개돼 이목을 끈다. '30일'은 드디]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fnewsen%2F20231011090712900umsb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[하정우X임시완 '1947 보스톤', 14일 연속 한국영화 실관람객 평점 1위 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011090704451</link>
-            <guid>https://v.daum.net/v/20231011090704451</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 영화 ‘1947 보스톤’이 미공개 스틸을 공개했다. 1947년 광복 후 처음으로 태극마크를 달고 국제 대회에 출전하기 위한 마라토너들의 도전과 가슴 벅찬 여정을 그린 이야기를 담은 영화 ‘1947 보스톤’이 미공개 스틸 9종을 전격 공개했다. 먼저 대한민국 최초의 국가대표팀 ‘손기정’, ‘서윤복’, ‘남승룡’과 이들이 194]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fmydaily%2F20231011090705535xzfa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이솜·이동휘·김종수, '천박사' 빛낸 특급 적재적소 팀플레이 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011090204270</link>
-            <guid>https://v.daum.net/v/20231011090204270</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)의 이솜, 이동휘, 김종수가 팀워크를 한층 업그레이드시키는 찰떡 캐릭터 플레이로 관객들을 사로잡고 있다. '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 천박사(강동원)가 지금껏 경험해본 적 없는 강력한 사건을 의뢰받]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FNEWS1%2F20231011090205799xyeb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘30일’ 1위...송중기·엄정화 등판[MK박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011084500708</link>
-            <guid>https://v.daum.net/v/20231011084500708</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘30일’(감독 남대중)이 6일 연속 박스오피스 정상을 지킨 가운데 송중기·엄정화의 등판으로 다시금 새 판이 짜여질 전망이다. 10일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘30일’은 전날 4만 337명의 관객을 동원해 누적 관객수 81만 4631명을 기록했다. 지난 3일 개봉한 작품은 첫날 17만명 이상의 관객을 동원하며 ‘천박사’를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fstartoday%2F20231011084502046vxpr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 송중기 스크린 컴백 '화란' 오늘(11일) 개봉, 예매율 1위 쾌조의 출발 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011083732482</link>
-            <guid>https://v.daum.net/v/20231011083732482</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 액션 누아르 영화 '화란'(김창훈 감독, 사나이픽처스·하이스토리 제작)이 개봉일인 11일 전체 예매율 1위에 등극하며 올가을 극장가 최고의 화제작임을 입증했다. 올가을 극장가 화제작 '화란'이 개봉 당일인 11일 전체 예매율 1위에 등극했다. 이는 추석에 개봉해 극장가 흥행을 이어가고 있는 영화들은 물론, 동시기 개]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FSpoChosun%2F20231011083732906goid.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[스한:BOX] '30일' 8일째 흥행 1위…누적 81만 관객 동원 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011083522418</link>
-            <guid>https://v.daum.net/v/20231011083522418</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '30일'이 8일째 흥행 1위를 달리고 있다. 11일 영진위 통합전산망 집계에 따르면 '30일'은 전날&nbsp;4만336명의 관객을 동원해 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;81만4628명이다. 이로써 '30일'은 지난 3일 개봉 이후 8일 연속 박스오피스 정상에 올랐다. 누적 100만 관객 돌파를 앞둔 '30일'이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FSpoHankook%2F20231011083524563xnlk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기, 'Btv 이동진의 파이아키아'→홍사빈·김형서 '정희' 출연[공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011083020301</link>
-            <guid>https://v.daum.net/v/20231011083020301</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '화란'의 주역들이 개봉일을 맞아 라디오부터 유튜브까지 열띤 홍보 릴레이를 펼친다. '화란'(감독 김창훈, 제공배급 플러스엠 엔터테인먼트, 제작 ㈜사나이픽처스, 공동제작 ㈜하이스토리플러스엠 엔터테인먼트)은 지옥 같은 현실에서 벗어나고 싶은 소년 연규(홍사빈 분)가 조직의 중간 보스 치건(송중기 분)을 만나 위태로운 세계에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fpoctan%2F20231011083020346hhta.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[강하늘 “결혼에 관한 로망? 당연히 있죠”[인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011082815234</link>
-            <guid>https://v.daum.net/v/20231011082815234</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강하늘이 코믹하게 변신했다. 결혼 앞에서는 구차해지고 이혼 법원 앞에선 아이 같아지더니, 기억을 잃고 다시 사랑을 얻는다. 영화 ‘30일’(감독 남대중)에서다. 실제로도 결혼에 관한 로망이 있을까. 영화를 찍으면서 결혼관이 달라졌냐고 묻자 고개를 흔들었다. “조금만 더 어렸다면 ‘결혼이 이럴려나’ 생각했을텐데, 이젠 주변에 결혼한 친구들이 많아]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fsportskhan%2F20231011082816770olsx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 피투성이 연인', 계획에 없던 임신과 연인의 일그러져가는 과정 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011082701210</link>
-            <guid>https://v.daum.net/v/20231011082701210</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 영화 '나의 피투성이 연인'(감독 유지영)이 11월 15일 개봉을 확정했다. '나의 피투성이 연인'은 계획에 없던 임신으로 서로 다른 삶을 지향하게 된 연인이 일그러져가는 과정을 그린 하이퍼&nbsp;리얼리즘 드라마. 카를로비 바리 국제영화제에 초청돼 프록시마 그랑프리상를 수상하기도 했다. 포스터는 예상치 못한 임신 소식을 들은 재이(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2F10asia%2F20231011082703570vhzf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['더 마블스' 닉 퓨리와 구스···캡틴 마블 돕는 신 스틸러 등장 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011082622199</link>
-            <guid>https://v.daum.net/v/20231011082622199</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 영화 '더 마블스'가 캡틴 마블의 든든한 조력자인 닉 퓨리와 구스의 활약을 예고했다. 11일 월트디즈니컴퍼니 코리아는 '더 마블스'(감독 니아 다코스타)에서 신 스틸러로 활약하는 닉 퓨리와 구스의 모습을 공개했다. '더 마블스'는 우주를 지키는 히어로 캡틴 마블(브리 라슨)이 뜻하지 않게 새로운 인물들과 팀 플레이를 하게 되는 히어로 액션 블]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fseouleconomy%2F20231011082624759afki.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['더 마블스' 닉 퓨리, 또 한 번 조력자 등판 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011081958064</link>
-            <guid>https://v.daum.net/v/20231011081958064</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] '캡틴 마블'의 두 번째 이야기 '더 마블스'가 캡틴 마블의 든든한 조력자인 닉 퓨리와 구스의 활약을 예고한다. '더 마블스'(감독 니아 다코스타, 수입배급 월트디즈니 컴퍼니 코리아)는 우주를 지키는 히어로 캡틴 마블 캐럴 댄버스가 능력을 사용할 때마다 모니카 램보, 미즈 마블 카말라 칸과 위치가 바뀌는 위기에 빠지면서 뜻하지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fpoctan%2F20231011082000007dsdy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['30일' 8일 연속 1위 지켰다…81만 동원 [美친 box] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231011081425959</link>
-            <guid>https://v.daum.net/v/20231011081425959</guid>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘30일’이 8일 연속 박스오피스 1위를 지켰다. 11일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(10일) ‘30일’은 4만 336명이 들어 일별 박스오피스 1위를 차지했다. 지난 3일 극장 개봉해 어제까지 8일 연속이다. 현재까지 ‘30일’의 누적 관객수는 81만 4628명이다. ‘30일’(감독 남대중, 제]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fpoctan%2F20231011081425892rqac.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1695,6 +1694,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[현재 전 세계 뒤흔들고 있는 마성의 한국여성2人 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FwmCNwtnFO</link>
+            <guid>https://v.daum.net/v/FwmCNwtnFO</guid>
+            <pubDate>Wed, 11 Oct 2023 03:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Fmaxmovie%2F20231011115006698eiur.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[조인성이 사람들에게 자기 여동생이라며 소개한 여고생 정체 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/GfzvOuJGrL</link>
+            <guid>https://v.daum.net/v/GfzvOuJGrL</guid>
+            <pubDate>Wed, 11 Oct 2023 03:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2Ffeelthemovie%2F20231011114552439tgdl.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[드디어 공개된 마블신작 속 박서준, 美배우와 찐한 스킨십까지? (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/BXU7hY2mfo</link>
             <guid>https://v.daum.net/v/BXU7hY2mfo</guid>
@@ -1812,7 +1827,7 @@
             <guid>https://v.daum.net/v/HBNZ9IUNw7</guid>
             <pubDate>Tue, 10 Oct 2023 08:24:10 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2FBoiledMovie%2F20231010152305817njqi.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F11%2FBoiledMovie%2F20231011113021268feqs.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[해외 사람들이 세상에서 가장 무섭다고 난리친 韓 영화 (다음 영화 ─ 매거진)]]></title>
@@ -1839,28 +1854,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Ffanzeel%2F20231010133455172wrhh.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[대륙의 여신까지 너무 아름답다고 좋아한 이 韓 여배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/6JMBw0RyQZ</link>
-            <guid>https://v.daum.net/v/6JMBw0RyQZ</guid>
-            <pubDate>Tue, 10 Oct 2023 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Ffeelthemovie%2F20231010133005294slxb.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[자폐증 아들과 살아가는 中 톱스타의 놀라운 이야기 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/xBUkkfcpPr</link>
-            <guid>https://v.daum.net/v/xBUkkfcpPr</guid>
-            <pubDate>Tue, 10 Oct 2023 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F10%2Fmaxmovie%2F20231010141646344lcgd.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
             <title><![CDATA[오랜 시간 내가 봤다고 착각한 영화 (다음 영화 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@@eS0a/54</link>
             <guid>https://brunch.co.kr/@@eS0a/54</guid>
             <pubDate>Wed, 11 Oct 2023 02:25:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>주유소가맥]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FeS0a%2Fimage%2FeFTUtfDUC_wLk5cvqmnMv-fhlXE.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[멋짐만 폭발한 복수의 세계 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@8kr3/71</link>
+            <guid>https://brunch.co.kr/@@8kr3/71</guid>
+            <pubDate>Wed, 11 Oct 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2FcvVb1e7357e7yu1b8oWsEL3o46Q.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] 켄 로치는 끝끝내 희망을 길어냈지만… (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@9lOS/331</link>
+            <guid>https://brunch.co.kr/@@9lOS/331</guid>
+            <pubDate>Wed, 11 Oct 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>rewr]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9lOS%2Fimage%2FgbtMc2r4AHFnBYpUCStcUSewBMY.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF 데일리] 파라다이스를 만드는 것은 누구일까? (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@1VCK/28</link>
+            <guid>https://brunch.co.kr/@@1VCK/28</guid>
+            <pubDate>Wed, 11 Oct 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>사슴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1VCK%2Fimage%2FJa45fa_eJVm2F6r2fNcKFKe_oR4.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이미 지구는 종말하고 있는 걸 알고 있는 너희들을 위해 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@5fpi/555</link>
+            <guid>https://brunch.co.kr/@@5fpi/555</guid>
+            <pubDate>Wed, 11 Oct 2023 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FzBiGspmkVNQMbwSoZ2pWMvOdqtA.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[웃픈 영화, 싱크홀(2021) (다음 영화 ─ 브런치)]]></title>
@@ -1981,38 +2012,6 @@
             <pubDate>Wed, 27 Sep 2023 07:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맑은구름]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FoNv%2Fimage%2F2-ZZGkVGAbLA0yNjc3JXYLL6PAg.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['한국형' 수식어를 재정의하다 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@5jTv/251</link>
-            <guid>https://brunch.co.kr/@@5jTv/251</guid>
-            <pubDate>Thu, 21 Sep 2023 09:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2F1y4sV1hXb7CZFmARXdDefPdIf2U.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 리뷰 닌자터틀 뮤턴트 대소동 힙하고 산만한.. (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@8EUf/926</link>
-            <guid>https://brunch.co.kr/@@8EUf/926</guid>
-            <pubDate>Fri, 15 Sep 2023 03:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>청우]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8EUf%2Fimage%2Fj0fPhSqFUY9r1QgdcMp5cGJqopo.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[어파이어 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@8IgK/43</link>
-            <guid>https://brunch.co.kr/@@8IgK/43</guid>
-            <pubDate>Fri, 15 Sep 2023 06:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>나가레보시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8IgK%2Fimage%2FAoQRFvHAVskmM6IPINh_c4S4KUE.WEBP" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 순간들 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@1ibV/1136</link>
-            <guid>https://brunch.co.kr/@@1ibV/1136</guid>
-            <pubDate>Fri, 15 Sep 2023 06:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>영화평론가 박동수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1ibV%2Fimage%2FkwvPmqxCSjBqMJtS4mA-sif2EPY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
