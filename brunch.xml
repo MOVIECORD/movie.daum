@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 04:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 05:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 11 Oct 2023 03:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FzBiGspmkVNQMbwSoZ2pWMvOdqtA.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF 데일리] 대학살은 왜 기억되어야 하는가?]]></title>
+            <link>https://brunch.co.kr/@@aWRP/92</link>
+            <guid>https://brunch.co.kr/@@aWRP/92</guid>
+            <pubDate>Wed, 11 Oct 2023 05:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>토리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaWRP%2Fimage%2Fwx7eLIG-4nr44cgKAmGqP44WXaY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[웃픈 영화, 싱크홀(2021)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Sep 2023 02:25:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>Kino DAY]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5XLU%2Fimage%2FK-zURFM-fRUuWeXT9d9ufG-keYY.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[대도, 최동훈]]></title>
-            <link>https://brunch.co.kr/@@oNv/430</link>
-            <guid>https://brunch.co.kr/@@oNv/430</guid>
-            <pubDate>Wed, 27 Sep 2023 07:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>맑은구름]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FoNv%2Fimage%2F2-ZZGkVGAbLA0yNjc3JXYLL6PAg.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
