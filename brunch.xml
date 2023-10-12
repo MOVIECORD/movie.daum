@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 03:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 04:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 12 Oct 2023 03:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>사슴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1VCK%2Fimage%2FzjiF6b6W1heXkDX6EqXleU3vod8.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[28회 부산국제영화제 단상]]></title>
+            <link>https://brunch.co.kr/@@7hzM/55</link>
+            <guid>https://brunch.co.kr/@@7hzM/55</guid>
+            <pubDate>Thu, 12 Oct 2023 04:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>범수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7hzM%2Fimage%2FIe4OV1aYphCuXoCkxQP9yU0RuvA.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[오랜 시간 내가 봤다고 착각한 영화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Oct 2023 03:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김영혁]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fdaaq%2Fimage%2FSsOGUk6JhlNu9vMtHt0n6C1qafA.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 잡은 줄 알았건만 거미줄에 갇힌 건 나였다.]]></title>
-            <link>https://brunch.co.kr/@@bNwG/324</link>
-            <guid>https://brunch.co.kr/@@bNwG/324</guid>
-            <pubDate>Thu, 05 Oct 2023 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>민드레]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FbNwG%2Fimage%2FRGe10TagXyit1qSgqbjxxQyijwM.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
