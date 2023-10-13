@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 13 Oct 2023 04:22:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>coron A]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F3sBk%2Fimage%2F4C1kfHZjOrBSWmyaKZMeK0Wh6Vs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[호우, 시절]]></title>
+            <link>https://brunch.co.kr/@@36ys/56</link>
+            <guid>https://brunch.co.kr/@@36ys/56</guid>
+            <pubDate>Fri, 13 Oct 2023 05:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>솔삼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F36ys%2Fimage%2FwZuygy2hThQYpsvOp94m7qJlpOg.JPG" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[아임 러너, 아임 해피]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Oct 2023 03:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FzBiGspmkVNQMbwSoZ2pWMvOdqtA.jpeg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF 데일리] 대학살은 왜 기억되어야 하는가?]]></title>
-            <link>https://brunch.co.kr/@@aWRP/92</link>
-            <guid>https://brunch.co.kr/@@aWRP/92</guid>
-            <pubDate>Wed, 11 Oct 2023 05:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>토리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FaWRP%2Fimage%2Fwx7eLIG-4nr44cgKAmGqP44WXaY.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
