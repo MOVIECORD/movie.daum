@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 21:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 22:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb605f71df91774a3d643548b830eaa637f7efd67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[믿을 수 있는 사람]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169102</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169102</guid>
-            <pubDate>Wed, 11 Oct 2023 05:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ff467ef1a7b13c747d8748d0a0b84921d1320b6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[달리랜드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163595</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163595</guid>
@@ -136,12 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18197dc684b9bfad024035fcff3c219a0c08cf6d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[시수]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163563</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163563</guid>
-            <pubDate>Fri, 13 Oct 2023 06:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe41712b9e5bc4d4cd6318e7036403bb6c925b0f0" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[믿을 수 있는 사람]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169102</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169102</guid>
+            <pubDate>Wed, 11 Oct 2023 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ff467ef1a7b13c747d8748d0a0b84921d1320b6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유앤미앤미]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 04 Oct 2023 07:16:28 GMT</pubDate>
             <content:encoded><![CDATA[23.10.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24f492fb9509257fe2b1fdde199df8b2755abaaf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[시수]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163563</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163563</guid>
+            <pubDate>Fri, 13 Oct 2023 06:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe41712b9e5bc4d4cd6318e7036403bb6c925b0f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[시뮬런트]]></title>
