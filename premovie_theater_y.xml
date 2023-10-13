@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 09:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff505fa8f6cf94b66b79fa8039b96e728fa3f0990" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이유 콘서트 : 더 골든 아워]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173031</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173031</guid>
-            <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61f6579353d5b2f7204bb0b8bd56e7632adf38c3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[만강홍: 사라진 밀서]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167388</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167388</guid>
             <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffa20fe4e4fad03936467e589d2be0dfe74ba2a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 콘서트 : 더 골든 아워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173031</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173031</guid>
+            <pubDate>Wed, 13 Sep 2023 01:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61f6579353d5b2f7204bb0b8bd56e7632adf38c3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[거미집]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173972</guid>
-            <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd6518fc0403d263aaf7061b9e4476a4c963fa67" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 엉덩이 탐정: 미스터리 가면 ~최강의 대결]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158929</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158929</guid>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 12 Oct 2023 16:22:45 GMT</pubDate>
             <content:encoded><![CDATA[23.09.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F588b2a11f538717f36f8b785ae7584801c86b6ad" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173972</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173972</guid>
+            <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd6518fc0403d263aaf7061b9e4476a4c963fa67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[잠]]></title>
