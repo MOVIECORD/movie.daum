@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 09:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 10:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F765e5c2d68e213449f1018a6197053343ff030b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[천박사 퇴마 연구소: 설경의 비밀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163887</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163887</guid>
-            <pubDate>Tue, 26 Sep 2023 23:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4669118763a478e4a885e7e3046ad811af0f68b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[1947 보스톤]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
             <pubDate>Tue, 26 Sep 2023 23:16:45 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[천박사 퇴마 연구소: 설경의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163887</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163887</guid>
+            <pubDate>Tue, 26 Sep 2023 23:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4669118763a478e4a885e7e3046ad811af0f68b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff505fa8f6cf94b66b79fa8039b96e728fa3f0990" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[에브리씽 에브리웨어 올 앳 원스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156439</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156439</guid>
-            <pubDate>Thu, 12 Oct 2023 01:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6c80c085ffb44a22429823230b4d60235780aba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[기억해, 우리가 사랑한 시간]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168247</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168247</guid>
             <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff58fa9377dddea129f5e35eab51e2c02bdcadee" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에브리씽 에브리웨어 올 앳 원스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156439</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156439</guid>
+            <pubDate>Thu, 12 Oct 2023 01:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6c80c085ffb44a22429823230b4d60235780aba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[거미집]]></title>
@@ -128,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F571c6f7a9eb9161717903e53f45ccb0fb108fda6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오펜하이머]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
+            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173972</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173972</guid>
@@ -144,28 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e25b5f45fb6a43b1a279462188ae8978d8d813b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[오펜하이머]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
-            <pubDate>Mon, 14 Aug 2023 23:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[잠]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159622</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159622</guid>
-            <pubDate>Sat, 14 Oct 2023 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc694103ee59d83bf8a606613159af6b26958a5d6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[5등분의 신부 스페셜]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172350</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172350</guid>
             <pubDate>Fri, 13 Oct 2023 10:19:23 GMT</pubDate>
             <content:encoded><![CDATA[23.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb16a790b0a0cc659c52b87e036249d3492bd9c1f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아르고 원정대: 꼬마 영웅 패티의 대모험]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166675</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166675</guid>
+            <pubDate>Sat, 14 Oct 2023 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F588b2a11f538717f36f8b785ae7584801c86b6ad" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
