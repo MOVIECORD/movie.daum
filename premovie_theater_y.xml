@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 15:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,6 +95,14 @@
             <content:encoded><![CDATA[23.09.21]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171625</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171625</guid>
+            <pubDate>Fri, 06 Oct 2023 01:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78c39629c6e80eee5fead6c3d8d12e124a15e32d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[만강홍: 사라진 밀서]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167388</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167388</guid>
@@ -109,14 +117,6 @@
             <pubDate>Fri, 13 Oct 2023 10:19:23 GMT</pubDate>
             <content:encoded><![CDATA[23.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb16a790b0a0cc659c52b87e036249d3492bd9c1f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171625</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171625</guid>
-            <pubDate>Fri, 06 Oct 2023 01:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78c39629c6e80eee5fead6c3d8d12e124a15e32d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 넌 2]]></title>
