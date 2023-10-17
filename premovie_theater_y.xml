@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F27c29998d10ba744f8898f99541b93405bef27ec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[화사한 그녀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156397</guid>
-            <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F765e5c2d68e213449f1018a6197053343ff030b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[1947 보스톤]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
             <pubDate>Tue, 26 Sep 2023 23:16:45 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[화사한 그녀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156397</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156397</guid>
+            <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F765e5c2d68e213449f1018a6197053343ff030b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사나: 저주의 아이]]></title>
@@ -70,14 +70,6 @@
             <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
             <content:encoded><![CDATA[23.10.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff58fa9377dddea129f5e35eab51e2c02bdcadee" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[5등분의 신부 스페셜]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172350</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172350</guid>
-            <pubDate>Fri, 13 Oct 2023 10:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb16a790b0a0cc659c52b87e036249d3492bd9c1f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이돌 마스터 밀리언 라이브!]]></title>
@@ -117,6 +109,14 @@
             <pubDate>Fri, 06 Oct 2023 01:12:58 GMT</pubDate>
             <content:encoded><![CDATA[23.10.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78c39629c6e80eee5fead6c3d8d12e124a15e32d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[5등분의 신부 스페셜]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172350</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172350</guid>
+            <pubDate>Fri, 13 Oct 2023 10:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb16a790b0a0cc659c52b87e036249d3492bd9c1f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[만강홍: 사라진 밀서]]></title>
