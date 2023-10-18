@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 06:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Tue, 17 Oct 2023 20:18:59 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a6b38773e351ce815eec343a30b35336fbd9f67" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[커스 오브 처키]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=80379</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=80379</guid>
+            <pubDate>Wed, 18 Oct 2023 06:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2265923F51DE67721C" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
