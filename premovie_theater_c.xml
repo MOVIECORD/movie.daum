@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 06:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 07:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfbeb6b29241bf8f3b167841d8c2b7ad731bd249" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[걸스 인 원더랜드 : 벤타엑스 브이알 뮤직시네마 02]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174575</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174575</guid>
+            <pubDate>Fri, 20 Oct 2023 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.03]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시수]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163563</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163563</guid>
@@ -136,14 +143,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa16c71798e7a94ce7d6e0d11f958aa9d05a1a0a4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 피투성이 연인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
-            <pubDate>Fri, 20 Oct 2023 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어른 김장하]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174131</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174131</guid>
@@ -152,20 +151,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80d1f8b9712ac675dd190d9409f85b2b308c260c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나의 피투성이 연인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
+            <pubDate>Fri, 20 Oct 2023 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[크레이븐 더 헌터]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171545</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171545</guid>
             <pubDate>Fri, 20 Oct 2023 02:23:50 GMT</pubDate>
             <content:encoded><![CDATA[23.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc10bf49272789d923f21589e46127671440f6f0f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[컨피덴셜 인포먼트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173761</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173761</guid>
-            <pubDate>Fri, 20 Oct 2023 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21f6045321fe23f57a7187b3c16d1b43f1daeb83" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
