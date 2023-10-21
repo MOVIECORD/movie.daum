@@ -4,17 +4,9 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 15:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스파이더맨: 어크로스 더 유니버스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
-            <pubDate>Thu, 19 Oct 2023 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[뉴문]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=48951</link>
@@ -182,6 +174,14 @@
             <pubDate>Tue, 03 Oct 2023 20:17:40 GMT</pubDate>
             <content:encoded><![CDATA[23.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb3224335b5237109b757df8e617a435d01d41a2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[Rebel Moon(레벨 문)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167241</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167241</guid>
+            <pubDate>Sat, 21 Oct 2023 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdacc1b75d27b3dc4d106960153d756906dd3e465" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
