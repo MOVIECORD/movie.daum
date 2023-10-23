@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 09:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 10:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf4cd7e072f23eb59b9240e2283150f60b5357d6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[소년들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142054</guid>
-            <pubDate>Tue, 17 Oct 2023 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd4c29f7ca7d107dd1c84841e999aba7952e1922d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오픈 더 도어]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163851</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163851</guid>
             <pubDate>Thu, 12 Oct 2023 06:24:04 GMT</pubDate>
             <content:encoded><![CDATA[23.10.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1b4da55a56da0929a424f844307acbeda8bad4a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[소년들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142054</guid>
+            <pubDate>Tue, 17 Oct 2023 03:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd4c29f7ca7d107dd1c84841e999aba7952e1922d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[톡 투 미]]></title>
@@ -70,14 +70,6 @@
             <pubDate>Thu, 19 Oct 2023 01:12:57 GMT</pubDate>
             <content:encoded><![CDATA[23.10.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad9c89a6ef315814101ab46c3d2bd330da6e9919" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[유앤미앤미]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168552</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168552</guid>
-            <pubDate>Tue, 17 Oct 2023 23:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24f492fb9509257fe2b1fdde199df8b2755abaaf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[너와 나]]></title>
@@ -125,6 +117,14 @@
             <pubDate>Fri, 20 Oct 2023 14:16:58 GMT</pubDate>
             <content:encoded><![CDATA[23.11.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f181b1aa652e060a4483168b043d475b24a071c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유앤미앤미]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168552</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168552</guid>
+            <pubDate>Tue, 17 Oct 2023 23:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24f492fb9509257fe2b1fdde199df8b2755abaaf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해바라기]]></title>
