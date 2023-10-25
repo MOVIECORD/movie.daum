@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2023-10-25T03:19:45.677Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 25 Oct 2023 04:22:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월 스트리트: 분노의 복수]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=78819</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=78819</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2103484653707D7032" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[백컨트리 - 야생곰의 습격]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=88414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=88414</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd43536a99eef6f07a0c213e5b4b7b56c3694e8c8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쥬라기헌터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95252</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95252</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1452018742d647feed3c26d6e5636a20c308eb39" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[님프, 피의 요정]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=85108</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=85108</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1d29652fa954d60be93e16a7696eb52b3648e67" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무송혈전 : 수호지의 전설]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169613</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169613</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff603a25d4ff907ae4e0091a32400a924a6729c0f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[법의탐정 송자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169219</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169219</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61f3aff302d1a778aa822a835e79d83bc249cb8a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보스의 여자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169217</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169217</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcade46b233efea6265af03cb95a2fb0481c29d56" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[서부 전선 이상 없다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=14229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=14229</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa9746fd81964b98809e7bbf9272d92bf17566ce0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[죽음과의 계약]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173702</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173702</guid>
+            <pubDate>Wed, 25 Oct 2023 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F649ef6e7b931457e280220b8985b0dcae5e9e525" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
