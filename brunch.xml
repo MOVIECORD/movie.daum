@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 04:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 05:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 30 Oct 2023 02:27:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>왕고래]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FYGm%2Fimage%2FACgpxfHaMv9LDC_n3IrGqJlzyVg.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이렇게 한국영화의 르네상스가 열렸다]]></title>
+            <link>https://brunch.co.kr/@@5jTv/273</link>
+            <guid>https://brunch.co.kr/@@5jTv/273</guid>
+            <pubDate>Mon, 30 Oct 2023 05:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>J Hyun]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jTv%2Fimage%2Frg5BBhJobZ2HZMzv0FEjOZe7e9o.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[혼자 영화 보는 습관]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Oct 2023 05:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>꿈꾸는 노마드]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F53nN%2Fimage%2F5Uhqb-LtLRHsXDlhEOy6Sk4Rzow.JPG" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 이야기 <거미집>]]></title>
-            <link>https://brunch.co.kr/@@e1mr/79</link>
-            <guid>https://brunch.co.kr/@@e1mr/79</guid>
-            <pubDate>Thu, 12 Oct 2023 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>다시]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2Fe1mr%2Fimage%2FNlgNskpIdAQaE_Ijd_HQSz_Vuzg.jfif" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
