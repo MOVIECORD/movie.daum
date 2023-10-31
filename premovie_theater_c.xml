@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 01:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 02:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe6e4aa9fa401a9b50a740e2d663cd3680f404cd8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뉴 노멀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161233</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161233</guid>
+            <pubDate>Tue, 24 Oct 2023 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1c637d374c7f62cde230dcaa8121822f76a3c75" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[바비]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 29 Oct 2023 04:20:01 GMT</pubDate>
             <content:encoded><![CDATA[23.11.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbed3c28cdc72f6c3cd138174cfab160450652cc6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 노멀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161233</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161233</guid>
-            <pubDate>Tue, 24 Oct 2023 07:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1c637d374c7f62cde230dcaa8121822f76a3c75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[약속]]></title>
