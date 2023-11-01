@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 07:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 08:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[너를 부르는 시간]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162697</guid>
+            <pubDate>Wed, 01 Nov 2023 08:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcd6480efbcdef4257d684b408b702fc59e558fa8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅슬립]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163757</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163757</guid>
+            <pubDate>Wed, 01 Nov 2023 08:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b5f031504e22d2304c03f32991833882260c561" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[붉은 장미의 추억]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161560</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161560</guid>
@@ -149,21 +165,6 @@
             <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
             <content:encoded><![CDATA[23.11.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F673127a556f4029dcde64f97a4ac4d8c16ddeea8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[플라시도 도밍고 인 베로나]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174120</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174120</guid>
-            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[너를 찾아서]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158259</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158259</guid>
-            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8dba86b16f0663d2ee08d0af07dfacf2cf068843" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
