@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 01:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 02:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=144068</guid>
             <pubDate>Tue, 31 Oct 2023 04:20:51 GMT</pubDate>
             <content:encoded><![CDATA[23.11.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc4126e4c5ce334a8773f82144856527b7ae40b64" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc96eeca7ae58927348a05c4104ba3fc64ff1b03d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[테일러 스위프트 에라스 투어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174406</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174406</guid>
+            <pubDate>Wed, 01 Nov 2023 02:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[23.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[시뮬런트]]></title>
@@ -95,20 +103,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcb0d8a3591b4cc3458b30fc5fc7b2ef3f063ba02" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[5시부터 7시까지의 주희]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163848</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163848</guid>
-            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5e63138a2dd8bb7355b7caddb29889c9b29890b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[만추 리마스터링]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=51326</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=51326</guid>
             <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
             <content:encoded><![CDATA[23.11.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7859f072a0aab0a15f5ea5b1572d16ec4114c42e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[5시부터 7시까지의 주희]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163848</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163848</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5e63138a2dd8bb7355b7caddb29889c9b29890b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[물귀신]]></title>
@@ -156,14 +164,6 @@
             <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
             <content:encoded><![CDATA[23.11.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1dbf066975ef8185959888fe64f8152905ae905" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[백지영 콘서트 인 시네마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174792</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174792</guid>
-            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c34a67744c2c11175688d5a9619480ac62e689a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
