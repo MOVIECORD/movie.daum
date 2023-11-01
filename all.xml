@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 01:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
             <pubDate>Tue, 05 Sep 2023 17:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>987,215명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>987,214명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=163887</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163887</guid>
             <pubDate>Wed, 06 Sep 2023 07:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,912,837명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>1,912,836명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4669118763a478e4a885e7e3046ad811af0f68b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -775,6 +775,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[소년들 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142054</guid>
+            <pubDate>Tue, 17 Oct 2023 03:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd4c29f7ca7d107dd1c84841e999aba7952e1922d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[톡 투 미 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166851</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166851</guid>
+            <pubDate>Wed, 18 Oct 2023 06:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3024cd158a242c789367a861db53c9f4470a14d9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[30일 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
@@ -783,12 +799,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[키리에의 노래 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173603</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173603</guid>
+            <pubDate>Wed, 25 Oct 2023 01:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74b598df4a67af2add11f2bb6cc62b12de45a0ac" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[용감한 시민 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159263</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159263</guid>
             <pubDate>Wed, 11 Oct 2023 04:20:31 GMT</pubDate>
             <content:encoded><![CDATA[23.10.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a41fde7f5dda3d369818fa80baf3b2472c789b7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[조커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125080</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125080</guid>
+            <pubDate>Sun, 22 Oct 2023 18:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0357a82b7226464b87072c0b8d2246b71567986846719" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[원 모어 찬스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171083</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171083</guid>
+            <pubDate>Wed, 25 Oct 2023 01:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98309d0adcd5c39ac18da8d4aba211a100110517" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[녹야 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167552</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167552</guid>
+            <pubDate>Wed, 25 Oct 2023 01:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8bdd6c13267c4334f270b7752941ae185d8d9ac7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블루 자이언트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -823,14 +871,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[두 사람을 위한 식탁 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163791</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163791</guid>
-            <pubDate>Tue, 17 Oct 2023 23:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfbeb6b29241bf8f3b167841d8c2b7ad731bd249" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 킬러 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172629</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172629</guid>
@@ -847,6 +887,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6505ab8e4828b7fa98d019f9c4de58f8cbc87204" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[두 사람을 위한 식탁 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163791</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163791</guid>
+            <pubDate>Tue, 17 Oct 2023 23:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfbeb6b29241bf8f3b167841d8c2b7ad731bd249" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 아이돌리쉬 세븐; 라이브 4비트 비욘드 더 피리어드 - 데이 1 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170937</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=170937</guid>
@@ -855,92 +903,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9e47768be3f856b1200bfeb3845a51929e4a53d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바비 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
+            <pubDate>Thu, 26 Oct 2023 03:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[약속 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173434</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173434</guid>
+            <pubDate>Thu, 19 Oct 2023 08:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9124305567f87f8e8ade4cb4a4773645d438f7b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[너와 나 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163754</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163754</guid>
             <pubDate>Wed, 04 Oct 2023 07:16:28 GMT</pubDate>
             <content:encoded><![CDATA[23.10.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cd15f11eae9b493b1b22436ea3677f3cdbf3bf7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[1947 보스톤 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
-            <pubDate>Tue, 05 Sep 2023 17:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리와 용감한 녀석들: 황금 달걀 구조대 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168329</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168329</guid>
-            <pubDate>Thu, 19 Oct 2023 01:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad9c89a6ef315814101ab46c3d2bd330da6e9919" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[화란 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164114</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164114</guid>
-            <pubDate>Wed, 20 Sep 2023 08:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F27c29998d10ba744f8898f99541b93405bef27ec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마브카 : 숲의 노래 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168960</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168960</guid>
-            <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbfd81429b257304e4ff64e9fa919c5b2e8dd20c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소시스트: 믿는 자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172494</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172494</guid>
-            <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb2490ff8bebbd9a50cb45ce3547382c518265727" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[시수 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163563</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163563</guid>
-            <pubDate>Thu, 19 Oct 2023 01:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe41712b9e5bc4d4cd6318e7036403bb6c925b0f0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[화사한 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156397</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156397</guid>
-            <pubDate>Wed, 11 Oct 2023 01:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F765e5c2d68e213449f1018a6197053343ff030b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[천박사 퇴마 연구소: 설경의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163887</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163887</guid>
-            <pubDate>Wed, 06 Sep 2023 07:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4669118763a478e4a885e7e3046ad811af0f68b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[소년들 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142054</guid>
-            <pubDate>Tue, 17 Oct 2023 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd4c29f7ca7d107dd1c84841e999aba7952e1922d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[톡 투 미 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166851</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166851</guid>
-            <pubDate>Wed, 18 Oct 2023 06:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3024cd158a242c789367a861db53c9f4470a14d9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 마블스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -959,22 +943,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe6e4aa9fa401a9b50a740e2d663cd3680f404cd8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[키리에의 노래 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173603</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173603</guid>
-            <pubDate>Wed, 25 Oct 2023 01:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74b598df4a67af2add11f2bb6cc62b12de45a0ac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[조커 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125080</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125080</guid>
-            <pubDate>Sun, 22 Oct 2023 18:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0357a82b7226464b87072c0b8d2246b71567986846719" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[마이 샤이니 월드 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174119</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174119</guid>
@@ -989,38 +957,6 @@
             <pubDate>Tue, 24 Oct 2023 07:16:12 GMT</pubDate>
             <content:encoded><![CDATA[23.11.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1c637d374c7f62cde230dcaa8121822f76a3c75" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[원 모어 찬스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171083</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171083</guid>
-            <pubDate>Wed, 25 Oct 2023 01:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98309d0adcd5c39ac18da8d4aba211a100110517" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[녹야 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167552</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167552</guid>
-            <pubDate>Wed, 25 Oct 2023 01:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8bdd6c13267c4334f270b7752941ae185d8d9ac7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114335</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
-            <pubDate>Thu, 26 Oct 2023 03:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[약속 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173434</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173434</guid>
-            <pubDate>Thu, 19 Oct 2023 08:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9124305567f87f8e8ade4cb4a4773645d438f7b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[괴인 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1062,28 +998,91 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F184baf37348960862ea15e1ac11416813668a3f1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[컨피덴셜 인포먼트 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173761</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173761</guid>
-            <pubDate>Fri, 27 Oct 2023 04:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21f6045321fe23f57a7187b3c16d1b43f1daeb83" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[너를 줍다 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169436</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169436</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8508e558d4744addca3e28f81a6a85905967dfe3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[버텨내고 존재하기 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162267</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162267</guid>
-            <pubDate>Tue, 31 Oct 2023 05:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc067ba50c97ce6ba26f3a7a05185595c236c00d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[붉은 장미의 추억 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161560</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161560</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcb0d8a3591b4cc3458b30fc5fc7b2ef3f063ba02" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[앵그리 애니 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162215</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162215</guid>
-            <pubDate>Tue, 31 Oct 2023 22:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb46b35b6f29155b661d8db5a742d58b351f208fd" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[5시부터 7시까지의 주희 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163848</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163848</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5e63138a2dd8bb7355b7caddb29889c9b29890b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[만추 리마스터링 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=51326</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=51326</guid>
+            <pubDate>Mon, 23 Oct 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7859f072a0aab0a15f5ea5b1572d16ec4114c42e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[물귀신 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172242</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172242</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F479b0c52ad9f742e8449fb3e001e0d876c150420" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 피투성이 연인 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 회춘기 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174532</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174532</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F673127a556f4029dcde64f97a4ac4d8c16ddeea8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[플라시도 도밍고 인 베로나 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174120</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174120</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[너를 찾아서 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158259</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158259</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8dba86b16f0663d2ee08d0af07dfacf2cf068843" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[콘돌스 네스트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161674</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161674</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1dbf066975ef8185959888fe64f8152905ae905" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[백지영 콘서트 인 시네마 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174792</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174792</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c34a67744c2c11175688d5a9619480ac62e689a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 소원이 사라졌어요! ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1702,140 +1701,164 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e0c497b7f4454460294306d626546e41ef5f240" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA['싱글 인 서울' 이동욱x임수정, 메인 포스터 공개…연애 세포 자극 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101081025513</link>
-            <guid>https://v.daum.net/v/20231101081025513</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '싱글 인 서울' 측이 메인 포스터와 예고편을 공개했다.&nbsp; '싱글 인 서울'(감독 박범수, 제공배급 롯데엔터테인먼트, 제작 디씨지플러스・명필름)은&nbsp;혼자가 좋은 파워 인플루언서 영호(이동욱 분)와 혼자는 싫은 출판사 편집장 현진(임수정 분)이 싱글 라이프에 관한 책을 만들면서 벌어지는 이야기를 그린 웰메이드 현실 공감 로맨스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fpoctan%2F20231101081026311tyyl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['싱글 인 서울' 메인 포스터 공개…이동욱·임수정 설렘 지수 최고치 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101101223730</link>
+            <guid>https://v.daum.net/v/20231101101223730</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 로맨스 장인 이동욱, 임수정이 설렘을 전하는 영화 ‘싱글 인 서울’(감독 박범수)이 1일 메인 포스터와 메인 예고편을 공개했다. ‘싱글 인 서울’은 혼자가 좋은 파워 인플루언서 ‘영호’와 혼자는 싫은 출판사 편집장 ‘현진’이 싱글 라이프에 관한 책을 만들면서 벌어지는 이야기를 그린 웰메이드 현실 공감 로맨스다. ‘싱글 인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FEdaily%2F20231101101225554vznt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박서준 '더 마블스' 韓 홍보 못 나서나…할리우드 파업 여파[무:비하인드] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101080602424</link>
-            <guid>https://v.daum.net/v/20231101080602424</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 박서준의 할리우드 데뷔작인 '더 마블스'가 다음달 8일 개봉을 앞둔 가운데, 박서준이 국내 홍보 활동에 나서지 못할 가능성이 높아졌다. '더 마블스' 는 우주를 지키는 히어로 캡틴 마블 ‘캐럴 댄버스’가 능력을 사용할 때마다 ‘모니카 램보’, 미즈 마블 ‘카말라 칸’과 위치가 바뀌는 위기에 빠지면서 뜻하지 않게 새로운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fspotvnews%2F20231101080604486wjsc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이순걸 이사장 "대체 불가한 울산울주세계산악영화제 만들 것" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101101055642</link>
+            <guid>https://v.daum.net/v/20231101101055642</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(울산=연합뉴스) 허광무 기자 = "울산울주세계산악영화제는 이제 아시아 최고 산악영화제로 자리매김했다. 앞으로는 전 세계적으로도 대체 불가한 한국형 영화제로 만들어 나가겠다." 이순걸 울산울주세계산악영화제 이사장(울산 울주군수)은 이사장으로서 처음 치러낸 올해 영화제의 성과를 되돌아보며 고무된 감정과 자신감을 감추지 않았다. 그는 1일 연합뉴스 인터뷰에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fyonhap%2F20231101101055183urpv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[스한초점] '소년들''서울의 봄''싱글 인 서울'…11월 관객 부른다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101080013300</link>
-            <guid>https://v.daum.net/v/20231101080013300</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 추석 극장가가 이렇다할 흥행작 없이 싱겁게 마무리된 가운데 11월 첫날부터 쏟아지는 국내외 신작들이 가을 스크린을 채운다. 실화의 힘을 쥔 '소년들',&nbsp;12.12.사태를 다룬 '서울의 봄', 로맨스물&nbsp;'싱글 인 서울'부터 외화 기대작들까지 모처럼 다양한 선택지가 관객들을 기다린다. 정지영 감독의 사건 실화극 '소년들]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FSpoHankook%2F20231101080016348uugd.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[왕자 박서준 서울 카페 떴다 ‘더 마블스’ 프로모션 화제 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101100802536</link>
+            <guid>https://v.daum.net/v/20231101100802536</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '더 마블스'가 서울 곳곳 다양한 카페 및 유기묘 카페와 프로모션을 진행한다. 11월 8일 개봉하는 영화 '더 마블스'(감독 니아 다코스타)는 우주를 지키는 히어로 캡틴 마블 ‘캐럴 댄버스’가 능력을 사용할 때마다 ‘모니카 램보’, 미즈 마블 ‘카말라 칸’과 위치가 바뀌는 위기에 빠지면서 뜻하지 않게 새로운 팀플레이를 하게 되는 히]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fnewsen%2F20231101100803696htiu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['그대들은 어떻게 살 것인가' 일주일 연속 1위…106만 동원 [美친 box] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101075928262</link>
-            <guid>https://v.daum.net/v/20231101075928262</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘그대들은 어떻게 살 것인가’가 일주일 연속 1위를 유지했다. 1일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘그대들은 어떻게 살 것인가’는 어제(31일) 5만 6021명이 관람해 일별 박스오피스 1위를 차지했다. 일본 애니메이션 ‘그대들은 어떻게 살 것인가’(감독 미야자키 하야오, 배급 메가박스중앙, 제작 스튜디]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fpoctan%2F20231101075928969uhec.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['그대들은', 106만 관객 돌파..'소년들' 오늘(1일) 개봉[★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101095824067</link>
+            <guid>https://v.daum.net/v/20231101095824067</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 그대들은 어떻게 살 것인가 / 사진=영화 포스터미야자키 하야오 감독의 신작 '그대들은 어떻게 살 것인가'가 11위를 수성했다. 1일 영화진흥위원회 통합전산망에 따르면 전날 '그대들은 어떻게 살 것인가'는 5만 6021명의 관객을 동원해 박스오피스 1위를 유지했다. 누적 관객 수는 106만 3666명. 개봉 이후 7일째 박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fstarnews%2F20231101095826409pcyi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[“해외에서 처음 받는 상”…박보영, 런던아이사영화제서 베스트 액터상 수상 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101073600939</link>
-            <guid>https://v.daum.net/v/20231101073600939</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박보영이 런던아시아영화제에서 베스트 액터상을 수상했다. 제8회 런던아시아영화제(집행위원장 전혜정)가 12일간의 영화 축제를 성황리에 마쳤다. 영화제의 피날레를 장식한 폐막작 ‘콘크리트 유토피아’의 주연배우 박보영은 ‘베스트 액터상’을 수상했고, 경쟁부문 초청작인 ‘화란’의 주연 홍사빈은 ‘라이징 스타상’에 선정됐다. 지난 10월18일 개막한 제8회 런]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fmksports%2F20231101073601862dhcp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[방학엔 뽀로로! 탄생 20주년 슈퍼스타 뽀로로, 12월 극장가 상륙 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101095054754</link>
+            <guid>https://v.daum.net/v/20231101095054754</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뽀로로와 친구들의 특별한 모험이 또 시작된다. 겨울방학 흥행 절대강자 ‘뽀로로 극장판’ 신작 ‘뽀로로 극장판 슈퍼스타 대모험’이 다음 달 13일 개봉을 확정했다. ‘뽀로로 극장판 슈퍼스타 대모험’은 뽀로로와 친구들이 결성한 ‘뽀로로 밴드’가 최고의 슈퍼스타를 뽑는 전 우주 공개 오디션 ‘파랑돌 슈퍼스타 선발대회’에 도전하면서 펼쳐지는 특별한 모험을 그린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Filgansports%2F20231101095056947mhtt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[SC인터뷰] "설경구 믿었다"…'소년들' 정지영 감독이 보여준 실화의 힘 (종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101073045880</link>
-            <guid>https://v.daum.net/v/20231101073045880</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 올해로 연출 데뷔 40주년을 맞이한 정지영 감독이 영화 '소년들'을 통해 관객들에 묵직한 메시지를 전한다. 11월 1일 개봉한 '소년들'은 지방 소읍의 한 슈퍼에서 발생한 강도치사사건의 범인으로 지목된 소년들과 사건의 재수사에 나선 형사, 그리고 그들을 둘러싼 사람들의 이야기를 담은 사건 실화극이다. 영화 '남부군]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FSpoChosun%2F20231101073046030wthb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[강하늘·정소민 '30일', 5주 차에도 흥행 질주…전 세대 사로잡은 킬링 포인트 셋 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101092138565</link>
+            <guid>https://v.daum.net/v/20231101092138565</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '30일'(감독 남대중)이 전 세대 관객들의 공감과 웃음을 부르는 다채로운 킬링 포인트로 극장가를 사로잡고 있다. '30일'은 서로의 지질함과 똘기를 견디다 못해 마침내 완벽하게 남남이 되기 직전 동반기억상실증에 걸려버린 정열(강하늘 분)과 나라(정소민)의 이야기를 담은 코미디 영화다. '30일'만의 첫 번째 킬링 포인트는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fxportsnews%2F20231101092139824olzv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[박보영, 런던아시아영화제 ‘베스트 액터상’ 수상 “해외서 처음 받는 상..영광이다” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101071917755</link>
-            <guid>https://v.daum.net/v/20231101071917755</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=강서정 기자] 한국영화의 저력을 영국을 중심으로 유럽에 꾸준히 소개해온 제8회 런던아시아영화제(집행위원장 전혜정)가 12일간의 영화 축제를 성황리에 마쳤다. 영화제의 피날레를 장식한 폐막작 ‘콘크리트 유토피아’의 주연배우 박보영은 ‘베스트 액터상’을 수상했고, 경쟁부문 초청작인 ‘화란’의 주연 홍사빈은 ‘라이징 스타상’에 선정됐다.&nbsp; 지난 1]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fpoctan%2F20231101071918007ltpp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[미야자키 하야오가 부끄러움 드러내며 하고 싶었던 말 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101092102536</link>
+            <guid>https://v.daum.net/v/20231101092102536</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김정현 기자] ▲ &nbsp;영화 &lt;그대들은 어떻게 살 것인가&gt; 포스터ⓒ 지브리 스튜디오&nbsp; 스튜디오 지브리의 애니메이션을 생각했을 때 관객들이 가진 공통의 기대감이 있다. 유려한 작화와 음악에서 나오는 환상적인 분위기, 거대한 세계관 속 독특하고 개성 있는 캐릭터. 미야자키 하야오 감독이 은퇴를 번복하고 복귀를 선언했을 때 많은 팬은 다시 지브리의 매력이 빠질 준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fohmynews%2F20231101092104390iryu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['그대들은 어떻게 살 것인가', 5만↑ 동원하며 7일 연속 1위 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101071200691</link>
-            <guid>https://v.daum.net/v/20231101071200691</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 일본 애니메이션 '그대들은 어떻게 살 것인가'(감독 미야자키 하야오)가 일주일 내내 정상을 유지 중이다. 1일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '그대들은 어떻게 살 것인가'는 10월31일 5만6019명의 관객을 동원하며 박스오피스 1위 자리에 올랐다. 누적 관객수는 106만3664명이다. 지난달 25일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FNEWS1%2F20231101071201360lvky.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['그대들은 어떻게 살 것인가' 1위 수성, 누적 106만 돌파 [박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101091407278</link>
+            <guid>https://v.daum.net/v/20231101091407278</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 ‘그대들은 어떻게 살 것인가’가 박스오피스 1위를 기록했다. 1일 영화진흥위원회 통합전산망에 따르면 ‘그대들은 어떻게 살 것인가’(감독 미야자키 하야오)가 지난 31일 5만6021명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 106만3666명이다. ‘그대들은 어떻게 살 것인가’는 시간과 공간을 초월한 신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Ftvdaily%2F20231101091409622yijw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] ‘오픈 더 도어’ 장항준 “제작자 송은이 솔직해서 편했죠” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101070301600</link>
-            <guid>https://v.daum.net/v/20231101070301600</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘리바운드’의 장항준(54) 감독이 이번엔 스릴러로 돌아왔다. 영화 ‘오픈 더 도어’는 미국 뉴저지 한인 세탁소 살인 사건 이후 7년, 비밀의 문을 열어버린 한 가족의 숨겨진 진실을 그린 미스터리 심리 스릴러다. 장항준 감독의 절친이자 미디어랩 시소 대표 송은이가 영화 제작에 참여했다. 장항준 감독은 개봉 소감을 묻자 “요즘 한국 영화가 좋지도 않고 극장이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fstartoday%2F20231101070305054jpic.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[‘스위트홈’ 시즌2, 12월 1일 공개 확정[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101091334263</link>
+            <guid>https://v.daum.net/v/20231101091334263</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 ‘스위트홈’ 시즌2가 12월 1일 공개를 확정했다. 넷플릭스는 ‘스위트홈’ 시즌2 공개 날짜를 알림과 동시에 런칭 포스터와 런칭 예고편을 함께 공개했다. 런칭 포스터는 시즌1의 배경이었던 그린홈을 벗어나 파괴된 야구 스타디움을 보여준다. 시즌1에서 괴물과 사투를 벌어야 했던 주민들은 더 이상 그린홈에서 버티지 못하고 세상 밖으로 나온다. 도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fsportskhan%2F20231101091336231ntxi.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이선균·유아인·곽도원에 묶인 제작비 1000억…韓 영화의 위기 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101063008153</link>
-            <guid>https://v.daum.net/v/20231101063008153</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화계가 관객 감소와 더불어 주연 배우들의 잇단 마약 논란에 직격탄을 맞으며 위기감이 고조되고 있다. 사진은 최근 마약 투약 혐의로 재판에 넘겨진 배우 유아인이 주연한 영화 ‘승부’의 한 장면. 사진제공｜넷플릭스한국영화계가 벼랑 끝에 서있다. 긴 침체기를 겪고 있는 한국영화가 톱 배우들의 잇단 논란으로 사상 최악의 위기를 겪고 있다. 개봉 일을 잡지 못]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fsportsdonga%2F20231101063010474qhhr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[“무능력하면 도태되는 사회… ‘이게 맞느냐’ 묻고 싶었다” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101090016695</link>
+            <guid>https://v.daum.net/v/20231101090016695</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“지금은 각자도생 시기예요. 누명을 쓴 세 소년처럼 능력 없는 사람들은 도태되는 게 당연하다고 생각하죠. 그런데 이게 맞아요? 안 맞죠. ‘당신들은 이게 불편하지 않아?’ 이게 영화로 말하고 싶은 거예요.” 영화감독 정지영(76·사진)의 영화는 늘 화가 나 있다. 베트남전의 실상을 드러낸 ‘하얀 전쟁’(1992)부터 법정 부조리를 꼬집은 ‘부러]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fmunhwa%2F20231101090017603akdw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[IS인터뷰] ‘소년들’ 정지영 감독 “낡은 감독이라는 선입관” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101061028970</link>
-            <guid>https://v.daum.net/v/20231101061028970</guid>
+            <title><![CDATA[‘개콘’ 3년5개월 만에 돌아온다…박보영, 김영대, 위클리, 로아도 돌아온다[오늘 뭐함?] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101085930642</link>
+            <guid>https://v.daum.net/v/20231101085930642</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“투자자가 만나 줘야 작품을 하죠. 어른이라고 생각하니까요. 어른은 대우해줘야 될 것 같은 그런 인식이 있잖아요. 저는 운이 좋았죠.” 데뷔 40주년이 되는 해에 뜻 깊은 영화를 들고 나왔다. 실화를 바탕으로 한 영화 ‘소년들’의 정지영 감독. 그는 최근 서울 종로구의 한 카페에서 가진 인터뷰에서 40년 동안 현역으로 활동할 수 있었던 비결에 대해 ‘운’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Filgansports%2F20231101061030022rbjm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[1일 박보영, 연우진 주연의 넷플릭스 드라마 ‘정신병동에도 아침이 와요’ 제작발표회가 오전 11시 서울 JW 메리어트 동대문 스퀘어 그랜드볼룸에서 열린다. 이 자리에는 주연배우 박보영, 연우진, 장동윤, 이정은 등과 이재규 감독이 참석할 예정이다. 드라마는 정신건강의학과 근무를 처음 하게 된 간호사 다은이 정신병동 안에서 만나는 세상과 마음이 시린 사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fsportskhan%2F20231101085931590vurh.png" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[IS인터뷰] ‘독친’ 장서희 “한류 1세대, 후배 활약 자랑스러워” (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101061023969</link>
-            <guid>https://v.daum.net/v/20231101061023969</guid>
+            <title><![CDATA[전종서, '발레리나'로 꺼낸 새 얼굴..액션→감정 다 되는 '만능' 배우 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101085140438</link>
+            <guid>https://v.daum.net/v/20231101085140438</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“어떻게 보면 저는 한류 1세대죠. 일찍 중국으로 진출해 현지에서 드라마도 찍었으니까요. 무명이 길었기 때문에 당시 그렇게 해외에서까지 주목받았던 것에 대한 감사함을 잊지 않고 있어요.” 배우 장서희는 최근 서울 종로구의 한 카페에서 가진 인터뷰에서 이 같이 말했다. 영화 ‘독친’으로 약 6년 만에 스크린 복귀한 그는 여전히 드라마 ‘인어아가씨’로 크게]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Filgansports%2F20231101061024690ziry.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스타뉴스 | 최혜진 기자] 발레리나 전종서 /사진=넷플릭스발레리나 전종서 /사진=넷플릭스발레리나 전종서 /사진=넷플릭스배우 전종서가 '발레리나'를 통해 새로운 얼굴을 꺼내 보였다. 최근 공개된 넷플릭스 영화 '발레리나'는 경호원 출신 옥주(전종서 분)가 소중한 친구 민희(박유림 분)를 죽음으로 몰아간 최프로(김지훈 분)를 쫓으며 펼치는 아름답고 무자비한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fstarnews%2F20231101085141628fhag.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['소년들', 투박하지만 단단한 실화의 힘 [시네마 프리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101060033749</link>
-            <guid>https://v.daum.net/v/20231101060033749</guid>
+            <title><![CDATA['삼례 나라슈퍼 사건' 다룬 '소년들' 개봉···한국영화 예매율 1위 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101084644296</link>
+            <guid>https://v.daum.net/v/20231101084644296</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 실화극을 통해 단단한 힘을 보여준 정지영 감독이 다시 한번 실화 소재 영화로 돌아왔다. 삼례나라슈퍼사건을 스크린에 옮겨 담아 세련되진 않지만 묵직한 메시지로 감동을 전하겠다는 포부가 돋보인다. 1일 개봉하는 영화 '소년들'은 1999년 전북 완주군 삼례읍의 한 슈]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FNEWS1%2F20231101060034205niib.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[서울경제] 한국영화 예매율 1위를 달성한 영화 ‘소년들’이 개봉했다. 1일 CJ ENM은 '소년들'(감독 정지영)의 개봉을 맞아 작품에 담긴 관전 포인트를 소개했다. '소년들'은 1999년 전북 완주군 삼례에서 발생한 강도치사 사건인 이른바 ‘삼례 나라슈퍼 사건’을 모티브로 한 작품이다. 첫 번째 관전 포인트는 실화라는 점이다. 하루아침에 무고한 소년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fseouleconomy%2F20231101084647270ovlz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[생선 알레르기도 모르는 엄마…‘독친’ 그릇된 조건적 사랑이 향한 파국 [SS무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101060027727</link>
-            <guid>https://v.daum.net/v/20231101060027727</guid>
+            <title><![CDATA[하정우x임시완 '1947 보스톤', 오늘(1일) IPTV·VOD 서비스 시작[공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101084032135</link>
+            <guid>https://v.daum.net/v/20231101084032135</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 함상범 기자]고등학교 3학년 유리(강안나 분)가 귀가할 시간, 보글보글 찌개 끓는 소리가 들린다. 먹음직스러운 꽁치찌개다. 분위기만 보면 여느 화목한 집안과 다름없다. 유리는 인상을 찡그린다. 생선 알레르기가 있다는 말을 수도 없이 했는데, 또 생선 반찬이다. 혜영(장서희 분)은 ‘그래도 한 번 먹어봐’라며 달랜다. 엄마의 마음을 거스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FSPORTSSEOUL%2F20231101060027553nocr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;뜨거운 입소문 열풍을 일으키며 관객들의 많은 사랑을 받았던 영화 '1947 보스톤'이 오늘(1일)부터 IPTV 및 극장 동시 VOD 서비스를 시작한다. '1947 보스톤'(감독 강제규,&nbsp;제공 롯데엔터테인먼트・미시간벤쳐캐피탈㈜・㈜콘텐츠지오, 배급 롯데엔터테인먼트・㈜콘텐츠지오, 제작 ㈜비에이엔터테인먼트・㈜빅픽처)은 1947년 광복]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fpoctan%2F20231101084033270aqox.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘그대들은 어떻게 살 것인가’ 아름다움에 감춰진 유체이탈 화법 [정진영의 독설] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101054803585</link>
-            <guid>https://v.daum.net/v/20231101054803585</guid>
+            <title><![CDATA[현빈X탕웨이 '만추', 11월 8일 리마스터링 버전으로 재개봉 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101083632027</link>
+            <guid>https://v.daum.net/v/20231101083632027</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인류 역사상 가장 많은 사망자를 낸 전쟁에 대해 ‘어쩔 수 없었다’고 한다면 지나치게 관조적인 자세다. 특히 그 말이 전범국의 입에서 나온다면 차원이 달라진다. 미야자키 하야오 감독의 신작이자 세계적인 애니메이션 스튜디오인 지브리에서 나온 ‘그대들은 어떻게 살 것인가’가 도무지 곱게 보이지 않는 이유다. 오해를 피하기 위해 이것부터 확실히 한다면 ‘그대]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Filgansports%2F20231101054804667ekmb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 현빈, 탕웨이의 호연과 김태용 감독의 섬세한 연출로 극찬받았던 영화 '만추'가 재개봉한다. CGV가 가을에 어울리는 로맨스 명작으로 손꼽히는 '만추'를 리마스터링 버전으로 오는 11월 8일, 전국 40여개 극장에서 단독 개봉한다고 1일 밝혔다. '만추'는 감옥에서 7년 만에 특별 휴가를 얻은 여자 '애나'(탕웨이)와 누군]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FSBSfunE%2F20231101083634605tsce.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[리뷰] '소년들', 함께 울고 분노한다..실화의 강렬한 울림 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101050002018</link>
-            <guid>https://v.daum.net/v/20231101050002018</guid>
+            <title><![CDATA['더 마블스' 성수 홍대 곳곳에 박서준 '얀 왕자' 등장 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101083121919</link>
+            <guid>https://v.daum.net/v/20231101083121919</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 소년들 / 사진=CJ ENM/아우라픽처스시간은 우리를 기다려주지 않고, 빠르게 흘러가지만 그 시간 속에 갇혀버린 사람들이 있다. 강력한 실화의 힘을 바탕으로 한 '소년들'이 관객들의 현실 공감과 공분을 자아내며 묵직한 메시지를 전달한다. 정지영 감독의 '뚝심'이 통한 '소년들'이다. '소년들'(감독 정지영)은 지방 소읍의 한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fstarnews%2F20231101050005330xnxk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;MCU(마블 시네마틱 유니버스) 슈퍼히어로 캡틴 마블의 두 번째 이야기이자 2023년 최고의 블록버스터 중 한 편인 '더 마블스'(수입/배급: 월트디즈니 컴퍼니 코리아 | 감독: 니아 다코스타)가 서울 곳곳 다양한 카페 및 유기묘 카페와 프로모션을 진행한다. 성수, 홍대 등 서울 곳곳에 '더 마블스'의 ‘캐럴 댄버스’(브리 라슨]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fpoctan%2F20231101083121680emok.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["이거 진짜 실화냐?"…실제 사건 다룬 영화 개봉[TF프리즘] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231101000055750</link>
-            <guid>https://v.daum.net/v/20231101000055750</guid>
+            <title><![CDATA[[스한:BOX] '그대들은 어떻게 살 것인가' 일주일째 1위…누적 106만 관객 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101082639806</link>
+            <guid>https://v.daum.net/v/20231101082639806</guid>
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '오픈 더 도어' '소년들' '서울의 봄' 개봉 [더팩트ㅣ최수빈 인턴기자] 영화보다 더 영화 같은 이야기. 실제 사건을 바탕으로 제작된 영화가 스크린에 옮겨졌을 때 특별한 영향력을 발휘한다. 대중에게 잘 알려져 있는 사건들은 영화에 몰입할 때 도움을 주기도 하며, 잘 알려지지 않은 사건의 경우 영화를 통해 수면 위로 다시 떠오르기도 한다. 올가을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FTHEFACT%2F20231101000056719jswn.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '그대들은 어떻게 살 것인가'가 일주일째 박스오피스 정상을 달리고 있다. 1일 영화진흥위원회 통합전산망 집계에 따르면 '그대들은 어떻게 살 것인가'는 전날&nbsp;5만6021명의 관객을 동원하며 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;106만3666명이다. '그대들은 어떻게 살 것인가'는 미야자키 하야오 감독의 자전적인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FSpoHankook%2F20231101082641134miim.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['그대들은', 혹평에도 7일째 1위→'소년들' 등판…실화의 힘 증명할까 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101082627803</link>
+            <guid>https://v.daum.net/v/20231101082627803</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 미야자키 하야오 신작 ‘그대들은 어떻게 살 것인가’가 7일 연속 박스오피스 1위를 달리고 있는 가운데 정지영 감독, 설경구 주연의 사건 실화극 ‘소년들’이 마침내 오늘(1일) 개봉해 등판한다. 1일 오전 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘그대들은 어떻게 살 것인가’(이하 ‘그대들은’, 감독 미야자키]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2FEdaily%2F20231101082629364ewiu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄' 김성수 감독 "김성균, 캐릭터 내면부터 외면까지 잘소화했다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101081921664</link>
+            <guid>https://v.daum.net/v/20231101081921664</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '서울의 봄' 측이 육군본부 헌병감을 연기한 배우 김성균의 캐릭터 스틸을 공개했다. '서울의 봄'(감독 김성수, 제공배급 플러스엠 엔터테인먼트, 제작 하이브미디어코프)은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화.&nbsp;매 작품 캐릭터 그 자체에 녹아든 연기로 깊]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fpoctan%2F20231101081922571pwru.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘그대들은’ 1위...설경구 ‘소년들’ 출격[MK박스오피스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231101081810644</link>
+            <guid>https://v.daum.net/v/20231101081810644</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘그대들은 어떻게 살 것인가’가 일주일 연속 박스오피스 왕좌를 지켰다. 1일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면, ‘그대들은 어떻게 살 것인가’는 전날 5만 6021명을 동원해 누적 관객수는 106만 3666명. 극명하게 나뉜 호불호에도 100만 돌파에 성공하며 흥행 질주 중이다. 2위는 강하늘 정소민 주연의 ‘30일’이다. 같은 날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fstartoday%2F20231101081811894dooj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1998,6 +2021,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[얼마나 사랑하길래... 두 남녀가 전한 깜짝 소식 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FwOb28FLIu</link>
+            <guid>https://v.daum.net/v/FwOb28FLIu</guid>
+            <pubDate>Wed, 01 Nov 2023 01:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F01%2Fmaxmovie%2F20231101100503574eieg.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[작품 촬영중 급격하게 몸이 안좋아진 남자 배우, 결국… (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/Y5Vt0mdYk3</link>
             <guid>https://v.daum.net/v/Y5Vt0mdYk3</guid>
@@ -2148,14 +2179,6 @@
             <pubDate>Tue, 31 Oct 2023 03:19:23 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F31%2Fmaxmovie%2F20231031115012237soei.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[현재 할리우드에서 가장 뜨거운 인물들, 놀랍게도 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/8ShOs1sbo5</link>
-            <guid>https://v.daum.net/v/8ShOs1sbo5</guid>
-            <pubDate>Tue, 31 Oct 2023 02:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F31%2Fmaxmovie%2F20231031105012122bskr.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[영원히 완벽할 수 없는 인간의 발자취를 따라가다 보면. (다음 영화 ─ 브런치)]]></title>
