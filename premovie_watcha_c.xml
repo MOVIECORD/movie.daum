@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 20:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 21:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,30 @@
             <pubDate>Thu, 02 Nov 2023 05:17:22 GMT</pubDate>
             <content:encoded><![CDATA[23.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8985c611b0d5d94d08842491d1ba6033b602db49" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여곡성]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117791</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117791</guid>
+            <pubDate>Sun, 05 Nov 2023 21:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0928c78b784a4978aaed4649252994ac1539778551845" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[논스톱]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=75441</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=75441</guid>
+            <pubDate>Sun, 05 Nov 2023 21:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F277E41505302F6161F" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듀크]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=88186</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=88186</guid>
+            <pubDate>Sun, 05 Nov 2023 21:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2766884953F1A5950C" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
