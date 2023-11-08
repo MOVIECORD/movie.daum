@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 20:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 21:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2766884953F1A5950C" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[데드맨 1부: 복수의 서막]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130195</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130195</guid>
+            <pubDate>Wed, 08 Nov 2023 21:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0a3c9a038ec048e893da8b90ff6dd9361553703214240" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데드맨 2부: 악마의 희생자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130198</guid>
+            <pubDate>Wed, 08 Nov 2023 21:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69756f6583e74de89619fd589e2e253e1553703540398" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[로빈슨의 언더워터 어드벤처]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=125370</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=125370</guid>
@@ -142,6 +158,14 @@
             <pubDate>Wed, 08 Nov 2023 05:16:56 GMT</pubDate>
             <content:encoded><![CDATA[23.11.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6195da8f5e824cbd86b707518bcb69aa1537233662914" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 워터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=119967</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=119967</guid>
+            <pubDate>Wed, 08 Nov 2023 21:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25f2b86b796344729fe066c27a70a6a11546918650021" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
