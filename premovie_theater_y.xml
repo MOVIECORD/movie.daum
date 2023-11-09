@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 13:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 14:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb51274ce05d5b9a3072f4c88fd6ad3b03d89e941" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[괴인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164398</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164398</guid>
-            <pubDate>Wed, 08 Nov 2023 01:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbed3c28cdc72f6c3cd138174cfab160450652cc6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[마이 샤이니 월드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174119</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174119</guid>
             <pubDate>Fri, 03 Nov 2023 01:13:54 GMT</pubDate>
             <content:encoded><![CDATA[23.11.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4196e4cdc819ef9c288b040035a366cb0729fbad" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[괴인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164398</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164398</guid>
+            <pubDate>Wed, 08 Nov 2023 01:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbed3c28cdc72f6c3cd138174cfab160450652cc6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블루 자이언트]]></title>
