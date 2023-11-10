@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 11:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 12:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbed3c28cdc72f6c3cd138174cfab160450652cc6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 샤이니 월드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174119</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174119</guid>
-            <pubDate>Fri, 03 Nov 2023 01:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4196e4cdc819ef9c288b040035a366cb0729fbad" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[1947 보스톤]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
             <content:encoded><![CDATA[23.10.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6505ab8e4828b7fa98d019f9c4de58f8cbc87204" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 샤이니 월드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174119</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174119</guid>
+            <pubDate>Fri, 03 Nov 2023 01:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4196e4cdc819ef9c288b040035a366cb0729fbad" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[만추 리마스터링]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98309d0adcd5c39ac18da8d4aba211a100110517" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[백지영 콘서트 인 시네마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174792</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174792</guid>
-            <pubDate>Fri, 10 Nov 2023 05:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0c34a67744c2c11175688d5a9619480ac62e689a" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171625</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171625</guid>
+            <pubDate>Fri, 10 Nov 2023 12:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78c39629c6e80eee5fead6c3d8d12e124a15e32d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
