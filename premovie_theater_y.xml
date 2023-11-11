@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 03:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 04:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[톡 투 미]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166851</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166851</guid>
-            <pubDate>Wed, 01 Nov 2023 01:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb51274ce05d5b9a3072f4c88fd6ad3b03d89e941" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[테일러 스위프트 에라스 투어]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174406</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174406</guid>
             <pubDate>Fri, 03 Nov 2023 01:13:54 GMT</pubDate>
             <content:encoded><![CDATA[23.11.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[톡 투 미]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166851</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166851</guid>
+            <pubDate>Wed, 01 Nov 2023 01:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb51274ce05d5b9a3072f4c88fd6ad3b03d89e941" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블루 자이언트]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7859f072a0aab0a15f5ea5b1572d16ec4114c42e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바람 따라 만나리 : 김호중의 계절]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174043</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174043</guid>
-            <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6505ab8e4828b7fa98d019f9c4de58f8cbc87204" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[다이브:100 피트 추락]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171776</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171776</guid>
@@ -136,12 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171625</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171625</guid>
-            <pubDate>Fri, 10 Nov 2023 12:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78c39629c6e80eee5fead6c3d8d12e124a15e32d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[바람 따라 만나리 : 김호중의 계절]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174043</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174043</guid>
+            <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6505ab8e4828b7fa98d019f9c4de58f8cbc87204" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[너와 나]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Wed, 01 Nov 2023 01:17:47 GMT</pubDate>
             <content:encoded><![CDATA[23.11.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98309d0adcd5c39ac18da8d4aba211a100110517" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171625</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171625</guid>
+            <pubDate>Fri, 10 Nov 2023 12:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78c39629c6e80eee5fead6c3d8d12e124a15e32d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[용감한 시민]]></title>
