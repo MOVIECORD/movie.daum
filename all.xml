@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 08:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
             <pubDate>Thu, 14 Sep 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,088,279명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,088,278명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -783,6 +783,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[테일러 스위프트 에라스 투어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174406</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174406</guid>
+            <pubDate>Wed, 01 Nov 2023 02:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뉴 노멀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161233</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161233</guid>
@@ -813,14 +821,6 @@
             <pubDate>Tue, 17 Oct 2023 03:18:41 GMT</pubDate>
             <content:encoded><![CDATA[23.11.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe48f9ed4b76de90583360711e39725b67dd3049c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[테일러 스위프트 에라스 투어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174406</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174406</guid>
-            <pubDate>Wed, 01 Nov 2023 02:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[30일 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -887,20 +887,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4196e4cdc819ef9c288b040035a366cb0729fbad" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[다이브:100 피트 추락 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171776</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171776</guid>
-            <pubDate>Wed, 08 Nov 2023 01:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f181b1aa652e060a4483168b043d475b24a071c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 더 도어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163851</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163851</guid>
-            <pubDate>Sun, 12 Nov 2023 05:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1b4da55a56da0929a424f844307acbeda8bad4a0" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[바람 따라 만나리 : 김호중의 계절 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174043</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174043</guid>
+            <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6505ab8e4828b7fa98d019f9c4de58f8cbc87204" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오펜하이머 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -925,6 +917,14 @@
             <pubDate>Tue, 10 Oct 2023 14:17:34 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54d73561dce387c9a482cee6a47beacb6318d18e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[용감한 시민 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159263</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159263</guid>
+            <pubDate>Wed, 11 Oct 2023 04:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a41fde7f5dda3d369818fa80baf3b2472c789b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서울의 봄 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1015,20 +1015,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ed2d8ce25f2d1f4c68d059934141464be56f563" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 피투성이 연인 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
-            <pubDate>Tue, 07 Nov 2023 23:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어른 김장하 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174131</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174131</guid>
             <pubDate>Thu, 02 Nov 2023 05:16:55 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80d1f8b9712ac675dd190d9409f85b2b308c260c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 피투성이 연인 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
+            <pubDate>Tue, 07 Nov 2023 23:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[금의 나라 물의 나라 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1687,11 +1687,67 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f60445233695c6a94c41723966189d151bf5dc7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[[종합] 싱글 男女 이동욱·임수정, 현실 착붙 스며드는 플러팅 어떨까 ('싱글 인 서울') (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114181102984</link>
+            <guid>https://v.daum.net/v/20231114181102984</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]진짜 싱글 남녀인 배우 이동욱과 임수정이 현실에 발붙인 플러팅 연기로 스크린에 나선다. 14일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '싱글 인 서울'(감독 박범수) 언론배급시사회 및 기자간담회가 열린 가운데 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수 등이 자리했다. '싱글 인 서울'은 혼자가 좋은 파워]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2F10asia%2F20231114181104154vsjl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["힘 많이 뺐다"…'싱글 인 서울' 이동욱♥︎임수정, 이 썸남썸녀 열애 기원 (종합)[Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114180729878</link>
+            <guid>https://v.daum.net/v/20231114180729878</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“밖에서 일 하고 집에 들어가서 쉬는 삶의 패턴이 닮았다.” 이동욱은 14일 오후 서울 자양동 롯데시네마 건대입구에서 열린 새 한국영화 ‘싱글 인 서울’의 언론배급시사회에서 “영호와 닮은 건 있다. 혼자 살면서 먹고 싶을 때 먹고, TV 보고 싶을 때 보는 게 비슷하다. 그러나 ‘혼자 살지 않는 자 모두 유죄’라고 외칠 정도는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fpoctan%2F20231114180730388skal.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[방은희x강두, 정형석 감독 '영화로 만들려고' 캐스팅…2024년 개봉 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114174650271</link>
+            <guid>https://v.daum.net/v/20231114174650271</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;배우 방은희와 강두가 호흡을 맞추는 영화 ‘영화로 만들려고’(제작 닷팩토리)의 촬영이 지난 9일 시작됐다. 이 작품은 지난 2018년 전주 국제영화제에서 ‘성혜의 나라’로 한국경쟁 대상을 받았던 정형석 감독의 다섯 번째 장편영화다. 정 감독은 직접 각본 및 연출, 주연을 맡았던 데뷔작 ‘여수 밤바다’(2019)의 세계관을 이어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fpoctan%2F20231114174650142gbsl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[애프터스크리닝] '싱글 인 서울' 공해없는 진짜 로맨스, 거기에 공감터지는 코미디까지... #두마리토끼 #야무지게잡았다. ★★★ (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114174154100</link>
+            <guid>https://v.daum.net/v/20231114174154100</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[▶ 줄거리 “나한테 딱 맞는 사람은 나밖에 없어, 싱글이 답이다!” 혼자 걷기, 혼자 쉬기, 혼자 먹기, 혼자 살기… 혼자가 좋은 파워 인플루언서 ‘영호'(이동욱) “사실 혼자인 사람은 없잖아요” 혼자 썸타기, 나 홀로 그린 라이트… 유능한 출판사 편집장이지만 혼자는 싫은 ‘현진’(임수정) 싱글 라이프를 담은 에세이 '싱글 인 더 시티' 시리즈의 작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2FiMBC%2F20231114174156017ersi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['싱글 인 서울', 이동욱·임수정의 더할 나위 없이 좋은 '케미'(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114174102075</link>
+            <guid>https://v.daum.net/v/20231114174102075</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['달짝지근해: 7510'·'30일' 이어 로맨스 흥행 열풍이을까 [더팩트｜박지윤 기자] '싱글 인 서울' 이동욱과 임수정이 현실에 착 붙어있는 로맨스를 펼치며 가을 극장가를 설렘으로 물들일 전망이다. 영화 '싱글 인 서울'(감독 박범수) 언론·배급 시사회 및 기자간담회가 14일 오후 롯데시네마 건대입구점에서 열렸다. 현장에는 박범수 감독을 비롯해 배우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2FTHEFACT%2F20231114174103981hamx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["기회 잡았다"..'싱글 인 서울' 이동욱X임수정, 사랑할 수밖에 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114174002038</link>
+            <guid>https://v.daum.net/v/20231114174002038</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 건대입구=김나연 기자] 배우 이동욱, 임수정이 3일 오전 서울 광진구 롯데시네마 건대입구점에서 진행된 영화 '싱글 인 서울' 제작보고회에 참석해 포즈를 취하고 있다.  '싱글 인 서울'은 혼자가 좋은 파워 인플루언서 '영호'와 혼자는 싫은 출판사 편집장 '현진'이 싱글 라이프에 관한 책을 만들면서 벌어지는 이야기를 그린 웰메이드 로맨스다. 오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fstarnews%2F20231114174003336gddy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["밤낮으로 운동"…'독전2', 조진웅·차승원·한효주의 진한 땀방울 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114173852990</link>
+            <guid>https://v.daum.net/v/20231114173852990</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['독전2'가 대중과의 만남을 앞두고 있다. 배우들은 작품의 깊은 매력을 위해 흘린 땀방울에 대해 이야기하며 자신감을 내비쳤다. 넷플릭스 영화 '독전2'가 14일 제작보고회를 성황리에 개최했다. 이날 제작보고회에는 배우 조진웅 차승원 한효주 오승훈, 그리고 백감독이 참석했다. '독전2'는 용산역에서 벌인 지독한 혈투 이후 여전히 이선생을 쫓는 형사 원호(조진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fhankooki%2F20231114173854840jbaa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["더할 나위 없는 호흡" 이동욱X임수정 '싱글 인 서울', '검블유' 이후 4년 만…이번엔 썸탄다 [MD현장](종합) (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231114172205338</link>
             <guid>https://v.daum.net/v/20231114172205338</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] 영화 '싱글 인 서울'이 올 겨울 설렘 자극하는 로맨스로 찾아온다. 14일 서울 광진구 롯데시네마 건대입구에서 '싱글 인 서울' 언론·배급 시사회가 열렸다. 상영 후 진행된 기자 간담회에는 박범수 감독과 배우 이동욱, 임수정, 장현성, 김지영, 이미도, 지이수가 자리했다. '싱글 인 서울'은 혼자가 좋은 파워 인플루언서 영]]></content:encoded>
+            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] 영화 '싱글 인 서울'이 올겨울 따스한 설렘 안기는 로맨스의 탄생을 알렸다. 14일 서울 광진구 롯데시네마 건대입구에서 '싱글 인 서울' 언론·배급 시사회가 열렸다. 상영 후 진행된 기자 간담회에는 박범수 감독과 배우 이동욱, 임수정, 장현성, 김지영, 이미도, 지이수가 자리했다. '싱글 인 서울'은 혼자가 좋은 파워 인플]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fmydaily%2F20231114172206545rzda.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
@@ -1789,62 +1845,6 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=김연주 기자] 배우 이동욱이 로맨스 영화 '싱글 인 서울'로 관객과 만난다.&nbsp; 14일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '싱글 인 서울' 기자간담회가 진행됐다. 이날 행사에는 박범수 감독을 비롯해 배우 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수가 참석했다.&nbsp; 영화 '싱글 인 서울'은 혼자가 좋은 파워 인플루언서 ']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Ftvreport%2F20231114165535849ayfd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[“더할 나위 없어” 이동욱·임수정 극찬 주고받은 사연 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114165002776</link>
-            <guid>https://v.daum.net/v/20231114165002776</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이동욱과 임수정이 함께 호흡한 소감을 전했다. 14일 서울 자양동 롯데시네마 건대입구점에서 영화 ’싱글 인 서울’(감독 박범수) 언론배급시사회가 열렸다. 시사 후 간담회에는 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수와 박범수 감독이 참석했다. ‘싱글 인 서울’은 혼자가 좋은 남성과 혼자가 싫은 여성이 혼자 사는 삶에 관한 책을 만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fkukinews%2F20231114165003416rmzs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['싱글 인 서울' 이동욱 "임수정‧이솜이 전여친이라니 복 받았다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114164923753</link>
-            <guid>https://v.daum.net/v/20231114164923753</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 이동욱이 '국민 전남친' 타이틀에 머쓱한 미소를 지었다. 영화 '싱글 인 서울'(감독 박범수) 언론배급시사회가 14일 오후 2시 서울 광진구 롯데시네마 건대입구점에서 열렸다. 이날 현장에는 박범수 감독, 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수가 참석했다. 이날 이동욱은 '국민 전남친'이라는 타이틀에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fspotvnews%2F20231114164925731yizu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘싱글 인 서울’ 이동욱X임수정, 전 연인 아닌 현 썸남썸녀로 몽글몽글 재회[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114164649674</link>
-            <guid>https://v.daum.net/v/20231114164649674</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 글 배효주 기자/사진 이재하 기자] '검블유' 전 남친 전 여친, 이동욱과 임수정이 '싱글 인 서울'로 제대로 만났다. 영화 '싱글 인 서울'(감독 박범수) 제작보고회가 11월 14일 서울 광진구 롯데시네마 건대입구에서 열렸다. 박범수 감독, 이동욱, 임수정, 장현성, 이미도, 지이수가 참석했다. 오는 29일 개봉하는 영화 '싱글 인 서울'은 혼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fnewsen%2F20231114164649995cdlo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['싱글 인 서울' 이동욱 "임수정, 이솜의 전남친 역할 복 받았다 생각" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114164553641</link>
-            <guid>https://v.daum.net/v/20231114164553641</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[14일 오후 서울 롯데시네마 건대입구에서는 영화 '싱글 인 서울'의 언론배급시사회 및 기자간담회가 열렸다. 이날 행사에는 박범수 감독, 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수가 참석해 영화에 대해 이야기했다. 혼자가 좋은 파워 인플루언서 논술 강사 ‘영호’를 연기한 이동욱은 "임수정, 이솜이 전 여친이라니 복받았다 생각된다. 국민전]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2FiMBC%2F20231114164555116wvaq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['싱글 인 서울' 임수정 "이동욱과의 호흡, 배우로서 이룰 걸 다 이뤘다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114164254537</link>
-            <guid>https://v.daum.net/v/20231114164254537</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[14일 오후 서울 롯데시네마 건대입구에서는 영화 '싱글 인 서울'의 언론배급시사회 및 기자간담회가 열렸다. 이날 행사에는 박범수 감독, 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수가 참석해 영화에 대해 이야기했다. 혼자는 싫은 출판사 편집장 ‘현진’을 연기한 임수정은 "영화를 재미있게 봐주셔서 감사하다. 저도 로맨스 장르를 많이 출연한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2FiMBC%2F20231114164255523tgqc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이동욱 "전작서 임수정과 호흡 느낌 좋아…재회 기회 잡았다"  [N현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114164237534</link>
-            <guid>https://v.daum.net/v/20231114164237534</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 이동욱이 임수정과 호흡을 맞출 기회가 생각보다 빨리 와 잡게 됐다며 영화 '싱글 인 서울'에 출연하게 된 계기를 밝혔다. 이동욱은 14일 오후 서울 광진구 롯데시네마 건대입구에서 진행된 영화 '싱글 인 서울'(감독 박범수)의 언론배급시사회 및 기자간담회에서 임수정과의 호흡에 대해 "더할 나위 없었다고 줄여서 말씀드]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2FNEWS1%2F20231114164238298igpb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[무해한 플러팅...이동욱♡임수정의 ‘싱글 인 서울’[MK현장] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114164203513</link>
-            <guid>https://v.daum.net/v/20231114164203513</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘멜로 고수’ 이동욱 임수정의 만남 ,‘싱글 인 서울’이다. 임수정은 14일 오후 서울 건대입구 롯데시네마에서 열린 영화 ‘싱글 인 서울’ 언론시사회 및 기자간담회에서 “로맨스가 보기에는 편하고 쉬워보여도 배우로서 (연기하기에는) 현실의 리얼함을 표현해야 해서 어렵다”고 말했다. 그는 “극 중 인물들의 관계에서 오는 심리적인 부분도 잘표현해야 한다. 이번엔]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fstartoday%2F20231114164205972wjft.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2007,6 +2007,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[사채업에 조건만남까지, 막장 치닫는 최근 10대들 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/tAVIbC9rrj</link>
+            <guid>https://v.daum.net/v/tAVIbC9rrj</guid>
+            <pubDate>Tue, 14 Nov 2023 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fmaxmovie%2F20231114172611910yjxk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[이 영화의 제목은 '괴인'이다 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/2Gl7wbEu4G</link>
             <guid>https://v.daum.net/v/2Gl7wbEu4G</guid>
@@ -2159,12 +2167,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F13%2Fmaxmovie%2F20231113155009601wrfm.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[20년전 韓 문화계 위협하다가…이제는 BTS 팬되어 한국온 이 일본인 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/uGO2Vg5JWJ</link>
-            <guid>https://v.daum.net/v/uGO2Vg5JWJ</guid>
-            <pubDate>Mon, 13 Nov 2023 06:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F13%2Ffeelthemovie%2F20231113160412848ymym.jpg" length="0" type="image//thumb/S510x290/"/>
+            <title><![CDATA[<플라워 킬링 문> 살인의 일상화 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@52g1/211</link>
+            <guid>https://brunch.co.kr/@@52g1/211</guid>
+            <pubDate>Tue, 14 Nov 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>카시모프]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F52g1%2Fimage%2FF1WEWEgNLpCmmbTveDwtv1MWbQs.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[#12. 막막한 청춘이 한 편의 영화로 (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@6vQI/31</link>
+            <guid>https://brunch.co.kr/@@6vQI/31</guid>
+            <pubDate>Tue, 14 Nov 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>김사슴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6vQI%2Fimage%2FHXOR-PfCDPGoRdtkBs_8t-T-w14.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[<괴인> 이상한 사람이네.. 그게 나인 걸 모르고.. (다음 영화 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@@6dyt/1058</link>
+            <guid>https://brunch.co.kr/@@6dyt/1058</guid>
+            <pubDate>Tue, 14 Nov 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2F70kD38-UzDLAgBhQwcGLsuFRSR8.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[그렇게 살아가는 것 (다음 영화 ─ 브런치)]]></title>
@@ -2301,30 +2325,6 @@
             <pubDate>Wed, 08 Nov 2023 03:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2F4Rgb7qWaoJjRRA0yc4vdNBKvxnU.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[<플라워 킬링 문>스콜세지의 천성으로 그려낸 미국 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@HI6/179</link>
-            <guid>https://brunch.co.kr/@@HI6/179</guid>
-            <pubDate>Tue, 07 Nov 2023 02:28:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>고요한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FHI6%2Fimage%2FRauJdBxbw1muekYpOCfk8GU6ys8.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[어느날, 갑자기 꼬리가 자라나기 시작했다 (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@dV0G/274</link>
-            <guid>https://brunch.co.kr/@@dV0G/274</guid>
-            <pubDate>Fri, 03 Nov 2023 04:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>하늘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdV0G%2Fimage%2FZviI9Dvn7EjEnZA9Cc2Ghs84QgE.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[이제야 닦아주는 소년들의 눈물! (다음 영화 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@@8kr3/81</link>
-            <guid>https://brunch.co.kr/@@8kr3/81</guid>
-            <pubDate>Fri, 03 Nov 2023 05:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>또또비됴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F8kr3%2Fimage%2FuBMb25wQZGpbG5Fp4qQ32yAaBPg.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
