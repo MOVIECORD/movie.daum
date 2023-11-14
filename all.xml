@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
             <pubDate>Thu, 14 Sep 2023 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,082,534명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>2,082,533명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a87a8c7a462e24cb77b63b10d1497966f7c6210" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -791,14 +791,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뉴 노멀 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161233</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161233</guid>
-            <pubDate>Wed, 08 Nov 2023 01:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1c637d374c7f62cde230dcaa8121822f76a3c75" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 아이돌리쉬 세븐; 라이브 4비트 비욘드 더 피리어드 - 데이 1 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170937</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=170937</guid>
@@ -813,6 +805,14 @@
             <pubDate>Sun, 05 Nov 2023 04:20:41 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 노멀 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161233</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161233</guid>
+            <pubDate>Wed, 08 Nov 2023 01:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1c637d374c7f62cde230dcaa8121822f76a3c75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[소년들 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -895,6 +895,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6505ab8e4828b7fa98d019f9c4de58f8cbc87204" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오픈 더 도어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163851</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163851</guid>
+            <pubDate>Tue, 14 Nov 2023 10:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1b4da55a56da0929a424f844307acbeda8bad4a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[오펜하이머 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158260</guid>
@@ -917,14 +925,6 @@
             <pubDate>Tue, 10 Oct 2023 14:17:34 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54d73561dce387c9a482cee6a47beacb6318d18e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[용감한 시민 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159263</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159263</guid>
-            <pubDate>Wed, 11 Oct 2023 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a41fde7f5dda3d369818fa80baf3b2472c789b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[서울의 봄 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -983,20 +983,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87c5332acad3aef928c7a05ad26bdc63948f15b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[이빨요정 비올레타: 요정나라로 돌아갈래! (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163684</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163684</guid>
-            <pubDate>Thu, 09 Nov 2023 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c9cd465f255dffc7031e70ae16d451a2ca8cbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[여귀교-저주를 부르는 게임 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174462</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174462</guid>
             <pubDate>Tue, 07 Nov 2023 04:21:23 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff98d55a36624b6edad44ec42e9ba4a3e321c2054" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이빨요정 비올레타: 요정나라로 돌아갈래! (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163684</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163684</guid>
+            <pubDate>Thu, 09 Nov 2023 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c9cd465f255dffc7031e70ae16d451a2ca8cbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 와일드: 야수들의 전쟁 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1031,14 +1031,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[금의 나라 물의 나라 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167554</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167554</guid>
-            <pubDate>Wed, 08 Nov 2023 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96f3ce10252b569f0a0dbed91da8bb6e629d7c77" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[세계를 뒤흔든 43일 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174770</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174770</guid>
@@ -1047,20 +1039,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdcdb461950bec47f046750beb1f07fa6bb5b8274" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[금의 나라 물의 나라 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167554</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167554</guid>
+            <pubDate>Wed, 08 Nov 2023 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96f3ce10252b569f0a0dbed91da8bb6e629d7c77" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[브루스 윌리스의 라스트 미션: 데이 투 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160599</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160599</guid>
             <pubDate>Fri, 10 Nov 2023 13:21:09 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5c910761e83f02f1da90803d31052b274eeda137" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빅슬립 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163757</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163757</guid>
-            <pubDate>Thu, 09 Nov 2023 08:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b5f031504e22d2304c03f32991833882260c561" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레슬리에게 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1079,12 +1071,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff2e62ee6c22cdcba575776aa7784bfbb8699cde5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[세일즈 걸 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158406</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158406</guid>
-            <pubDate>Fri, 10 Nov 2023 12:32:59 GMT</pubDate>
+            <title><![CDATA[사형에 이르는 병 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160263</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160263</guid>
+            <pubDate>Tue, 14 Nov 2023 10:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4bfa1cf87b572e474a11bb1e14744455e29d0e60" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[느티나무 아래 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163544</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163544</guid>
+            <pubDate>Tue, 14 Nov 2023 10:19:26 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faba9634b954da87eab1b438d45d9dc7415d1f7a7" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2cdb22858cdf2d34c15e4ea6a45347aed2c33089" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파이어스타터 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1687,6 +1687,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f60445233695c6a94c41723966189d151bf5dc7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이 시대에 딱 맞는 듯한 설렘과 웃음…영화 '싱글 인 서울' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114185158889</link>
+            <guid>https://v.daum.net/v/20231114185158889</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이영재 기자 = "나랑 딱 맞는 사람은 나밖에 없다. 싱글이 답이다." "혼자인 인간이야말로 가장 진화한 인간이다." "인간은 혼자가 돼야 비로소 자신이 보인다." 싱글의 삶을 즐기는 영호(이동욱 분)의 말이다. 혼자 살겠다는 생각이 거의 철학 수준이다. 이 정도면 답이 없다고 할 만하다. 박범수 감독의 신작 '싱글 인 서울'은 싱글의 삶]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fyonhap%2F20231114185158885ivvh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["이 느낌 좋아 만났었지" 이동욱·임수정의 현실 연애는? (싱글인서울)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231114183006451</link>
+            <guid>https://v.daum.net/v/20231114183006451</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 기자) '싱글 인 서울' 이동욱과 임수정이 각자 '현실 연애'와 작품의 공감 포인트를 밝혔다. 14일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '싱글 인 서울'(감독 박범수) 언론 시사회가 진행됐다. 이 자리에는 박범수 감독을 비롯해 배우 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수가 참석했다. '싱글 인 서울'은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fxportsnews%2F20231114183008108agmu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[종합] 싱글 男女 이동욱·임수정, 현실 착붙 스며드는 플러팅 어떨까 ('싱글 인 서울') (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231114181102984</link>
             <guid>https://v.daum.net/v/20231114181102984</guid>
@@ -1829,22 +1845,6 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[서울경제] 배우 이동욱과 임수정의 썸이 담긴 가슴 설레는 영화 '싱글 인 서울'이 극장가를 찾아온다. 14일 오후 서울 광진구에 위치한 롯데시네마 건대입구점에서 '싱글 인 서울'(감독 박범수)의 언론배급시사회 및 기자간담회가 열렸다. 이날 행사에는 연출을 맡은 박범수 감독, 출연한 배우 이동욱, 임수정, 이상이, 이미도, 장현성, 김지영, 지이수가 참석]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Fseouleconomy%2F20231114165838498duqc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["싱글에게 썸은 불륜"…이동욱·임수정 썸·사랑 사이 싱글 예찬 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114165711060</link>
-            <guid>https://v.daum.net/v/20231114165711060</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 김지현 기자] 배우 이동욱(42)과 임수정(44)이 싱글 라이프에 대한 만족감을 드러냈따. 영화 '싱글 인 서울'(감독 박범수, 배급 롯데엔터테인먼트)가 14일 오후 서울 광진구 롯데시네마 건대입구에서 배우 이동욱, 임수정, 장현성, 이미도, 지이수, 박범수 감독이 참석한 가운데 열렸다. '싱글 인 서울'은 혼자가 좋은 파워 인플루언서 영호(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Ftvdaily%2F20231114165711865lbqu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이동욱 "전 여자친구가 이솜? 나는 복받은 사람" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231114165534987</link>
-            <guid>https://v.daum.net/v/20231114165534987</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김연주 기자] 배우 이동욱이 로맨스 영화 '싱글 인 서울'로 관객과 만난다.&nbsp; 14일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '싱글 인 서울' 기자간담회가 진행됐다. 이날 행사에는 박범수 감독을 비롯해 배우 이동욱, 임수정, 장현성, 김지영, 이미도, 이상이, 지이수가 참석했다.&nbsp; 영화 '싱글 인 서울'은 혼자가 좋은 파워 인플루언서 ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F14%2Ftvreport%2F20231114165535849ayfd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
