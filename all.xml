@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -839,22 +839,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe48f9ed4b76de90583360711e39725b67dd3049c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[다크 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=43569</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=43569</guid>
-            <pubDate>Fri, 10 Nov 2023 06:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f9ba4dded5c5e742bbab89140b99858d1708faf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[블루 자이언트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167998</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167998</guid>
-            <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이빨요정 비올레타: 요정나라로 돌아갈래! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163684</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163684</guid>
@@ -863,12 +847,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c9cd465f255dffc7031e70ae16d451a2ca8cbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[다크 나이트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=43569</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=43569</guid>
+            <pubDate>Fri, 10 Nov 2023 06:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f9ba4dded5c5e742bbab89140b99858d1708faf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[여귀교-저주를 부르는 게임 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174462</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174462</guid>
             <pubDate>Tue, 07 Nov 2023 04:21:23 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0a86fe1069ac3bd9d266e259be66d789ce26f807" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블루 자이언트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167998</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167998</guid>
+            <pubDate>Wed, 18 Oct 2023 01:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[만분의 일초 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1324,7 +1324,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=173254</guid>
             <pubDate>Wed, 08 Nov 2023 04:20:49 GMT</pubDate>
             <content:encoded><![CDATA[23.11.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08e4b8d3b1a73666b787a8a2629c4f2fd6a916dc" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4657d968d5c234f81e4a3c1e0ec35460b701ae91" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[도이 보이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1575,6 +1575,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F156F1B10AD20851FF1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA['30일' 강하늘→조민수·윤경호, 관객 ♥보답…감사 쇼케이스 연다 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231120184028140</link>
+            <guid>https://v.daum.net/v/20231120184028140</guid>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올해 박스오피스에서 한국영화 톱4를 달성하고 장기 흥행세를 이어가고 있는 영화 '30일' 측이 관객들의 사랑에 보답하고자 특별한 시간을 마련한다. 지난달 3일 극장 개봉한 '30일'(감독 남대중, 제공배급 ㈜마인드마크, 제작 영화사울림, 공동제작 티에이치스토리)은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Fpoctan%2F20231120184029629alka.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[‘트롤: 밴드 투게더’ 레드벨벳 웬디-라이즈 은석 한국어 더빙 [공식] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231120175343637</link>
             <guid>https://v.daum.net/v/20231120175343637</guid>
@@ -1725,14 +1733,6 @@
             <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=강성훈 기자] 마블 시리즈 '더 마블스'가 굴욕적인 타이틀을 얻게 될 전망이다.&nbsp; 19일(현지 시간) 외신 'IndieWire'의 보도에 따르면 '더 마블스'가 북미 박스오피스 1억 달러(한화 약 1288억 7천만 원)에 도달할 가능성은 매우 낮다. 해당 매체는 '더 마블스'가 가 개봉 두 번째 주말에 박스오피스 3위를 기록했다고 전하며 마블]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Ftvreport%2F20231120134033938pomu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['소년들' 설경구·진경·허성태, 시너지 뒤 특별한 인연 있었다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231120133004984</link>
-            <guid>https://v.daum.net/v/20231120133004984</guid>
-            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 영화 '소년들' 팀의&nbsp;특별한 인연이 주목받고 있다. 설경구와 진경은 '소년들'에서 우리슈퍼 사건의 재수사에 나선 수사반장 황준철과 우리슈퍼 사건의 유일한 목격자이자 피해자의 딸 윤미숙&nbsp;역을 각각 맡아 완벽한 연기 앙상블을 펼쳤다. 특히 '소년들'은 두 사람이&nbsp;네 번째로 함께한 작품이다. 영화 '나도 아내가 있었으면 좋겠]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2FSpoHankook%2F20231120133005723jwpt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
