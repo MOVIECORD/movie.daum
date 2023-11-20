@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 13:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 14:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81a0d5d5ff0319f97d54f00bacee03a9fed2ae4b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[3일의 휴가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138187</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138187</guid>
-            <pubDate>Sun, 19 Nov 2023 04:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8687da0616f03c884cbd5a0ddcb2fa6901d5e717" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아워 프렌드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129983</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129983</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 20 Nov 2023 07:17:49 GMT</pubDate>
             <content:encoded><![CDATA[23.11.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2188fcf0cfca4651354f9021b0a72fb2cccefd5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데블스 맨: 제1특전단]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174586</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174586</guid>
+            <pubDate>Mon, 20 Nov 2023 14:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[23.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1c51319fbe7a8de6a3363018ff974cc7d4e908c" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
