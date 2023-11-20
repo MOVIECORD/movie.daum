@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 05:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=142054</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142054</guid>
             <pubDate>Tue, 17 Oct 2023 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>452,315명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>452,312명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe48f9ed4b76de90583360711e39725b67dd3049c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -815,6 +815,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80d1f8b9712ac675dd190d9409f85b2b308c260c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나의 피투성이 연인 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
+            <pubDate>Tue, 07 Nov 2023 23:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[30일 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165591</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165591</guid>
@@ -887,14 +895,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1c637d374c7f62cde230dcaa8121822f76a3c75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 아이돌리쉬 세븐: 라이브 4비트 비욘드 더 피리어드 - 데이 2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174414</guid>
-            <pubDate>Sun, 19 Nov 2023 07:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[만추 리마스터링 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=51326</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=51326</guid>
@@ -903,20 +903,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7859f072a0aab0a15f5ea5b1572d16ec4114c42e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 피투성이 연인 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
-            <pubDate>Tue, 07 Nov 2023 23:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너와 나 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163754</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163754</guid>
             <pubDate>Sun, 19 Nov 2023 10:17:48 GMT</pubDate>
             <content:encoded><![CDATA[23.10.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cd15f11eae9b493b1b22436ea3677f3cdbf3bf7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 아이돌리쉬 세븐: 라이브 4비트 비욘드 더 피리어드 - 데이 2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174414</guid>
+            <pubDate>Sun, 19 Nov 2023 07:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 아이돌리쉬 세븐; 라이브 4비트 비욘드 더 피리어드 - 데이 1 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1023,14 +1023,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33620bc673ad2f85555c7b6ec38b1824bd9f7db5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[3일의 휴가 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138187</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138187</guid>
-            <pubDate>Sun, 19 Nov 2023 04:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8687da0616f03c884cbd5a0ddcb2fa6901d5e717" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[교토에서 온 편지 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163849</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163849</guid>
@@ -1047,6 +1039,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F558bb9cd78670e68aafbddb630567f2a1e0e6a0c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[3일의 휴가 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138187</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138187</guid>
+            <pubDate>Sun, 19 Nov 2023 04:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8687da0616f03c884cbd5a0ddcb2fa6901d5e717" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 날 그녀가 우주에서 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169365</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169365</guid>
+            <pubDate>Fri, 17 Nov 2023 03:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70f69ee82eaca9416e97d4ec237ad4abe278c4a7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[타임코드 57 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172979</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172979</guid>
@@ -1061,14 +1069,6 @@
             <pubDate>Thu, 16 Nov 2023 22:17:00 GMT</pubDate>
             <content:encoded><![CDATA[23.11.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F670edfe4a58e7086f7ccbf5cd344b3a24e14da4b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 날 그녀가 우주에서 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169365</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169365</guid>
-            <pubDate>Fri, 17 Nov 2023 03:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70f69ee82eaca9416e97d4ec237ad4abe278c4a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[샤인 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1575,6 +1575,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F156F1B10AD20851FF1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[‘서울의 봄’ 김성수 감독, 514만 동원한 ‘밀수’ 류승완 감독 만난다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231120144534566</link>
+            <guid>https://v.daum.net/v/20231120144534566</guid>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '서울의 봄' 김성수 감독과 '밀수' 류승완 감독이 만난다. 11월 22일 개봉하는 영화 '서울의 봄'(감독 김성수)은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 작품이다. 영화 '서울의 봄'이 개봉 하루 뒤인 23일 오후 7시 메가박스 코엑스에서 김성수 감독과 류승완]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Fnewsen%2F20231120144534982jsjx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄' 김성수 감독, '밀수' 류승완 감독 만난다 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231120142359663</link>
+            <guid>https://v.daum.net/v/20231120142359663</guid>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;압도적인 전체 예매율 1위를 기록하며 극장가의 흥행 강자로 떠오르고 있는 영화 '서울의 봄' 측이 김성수 감독과 류승완 감독의 특별한 만남을 예고했다. '서울의 봄'(감독 김성수, 제공배급 플러스엠 엔터테인먼트, 제작 ㈜하이브미디어코프)은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Fpoctan%2F20231120142359553jxxl.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['독전 2' 비추천 폭발, 돌아오지 말았어야 했다 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231120140409986</link>
             <guid>https://v.daum.net/v/20231120140409986</guid>
@@ -1717,22 +1733,6 @@
             <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] '노량: 죽음의 바다' 백윤식이 왜장 시마즈를 맡아 서슬퍼런 카리스마를 보여준다. 12월 20일 개봉하는 영화 '노량: 죽음의 바다'(감독 김한민)는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 대작. 백윤식이 역사상 가장 치열했던 전투인 노량해전에서 살마군]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Fnewsen%2F20231120083017209fqfi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[스한:BOX] '프레디의 피자가게' 개봉 첫 주말 1위…누적 34만 관객 동원 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231120082920271</link>
-            <guid>https://v.daum.net/v/20231120082920271</guid>
-            <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '프레디의 피자가게' 개봉 첫 주말 박스오피스 정상에 등극했다. 20일 영진위 통합전산망 집계에 따르면 '프레디의 피자가게'는 지난 주말 3일(17~19일)&nbsp;23만2843명의 관객을 동원하며 5일 연속 박스오피스 1위 자리를 지켰다.&nbsp;누적 관객 수는&nbsp;34만630명이다. 특히 이는 경쟁작인 '더 마블스', '헝거게임: 노]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2FSpoHankook%2F20231120082921933wthi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["내 인생작 될 것"…'노량' 백윤식, 53년 공력으로 빚어낸 서슬퍼런 카리스마 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231120082639223</link>
-            <guid>https://v.daum.net/v/20231120082639223</guid>
-            <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 영화 '노량: 죽음의 바다'에서 이순신에 대항해 전력을 다해 전투를 펼칠 장수 시마즈 역의 배우 백윤식이 예비 관객 사이 화제를 모으고 있다. 영화 '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 대작. 백윤식이 역사상 가장 치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Fmydaily%2F20231120082640477ttqj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1895,6 +1895,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[5년전 영화제온 무명 배우들을 우연히 찍었는데…전원 톱스타 되다! (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/XuLGj6cp4v</link>
+            <guid>https://v.daum.net/v/XuLGj6cp4v</guid>
+            <pubDate>Mon, 20 Nov 2023 06:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Ffeelthemovie%2F20231120150025383tgcb.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[2부에서 가장 중요인물됐다는 배우, 감독이 밝힌 그 까닭 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FgR3QUMTIF</link>
+            <guid>https://v.daum.net/v/FgR3QUMTIF</guid>
+            <pubDate>Mon, 20 Nov 2023 06:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F20%2Fmaxmovie%2F20231120143741758qngi.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[임신했는데 7개월간 44사이즈 옷입고 작품 촬영한 스타 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/zeSdixD7wY</link>
             <guid>https://v.daum.net/v/zeSdixD7wY</guid>
@@ -2037,22 +2053,6 @@
             <pubDate>Sat, 18 Nov 2023 09:16:57 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F18%2Ffeelthemovie%2F20231118173007241bduv.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[치매 진단받은 왕년의 액션 스타, 신작 개봉했다 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/FeR1PuNFIU</link>
-            <guid>https://v.daum.net/v/FeR1PuNFIU</guid>
-            <pubDate>Sat, 18 Nov 2023 08:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F18%2Ffanzeel%2F20231118165005825nutj.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[작품 때문에 15kg 빼고 48시간 잠 안잔 배우의 모습 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/3nkQjFnXC9</link>
-            <guid>https://v.daum.net/v/3nkQjFnXC9</guid>
-            <pubDate>Sat, 18 Nov 2023 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F18%2Ffeelthemovie%2F20231118150025585ifqs.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[추악해도 영원히 사랑받을 세계 (다음 영화 ─ 브런치)]]></title>
