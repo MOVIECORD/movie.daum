@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 12:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 13:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa92b521216c7cf6d9d714d798d47bfbb46e5d806" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 피투성이 연인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
-            <pubDate>Tue, 14 Nov 2023 23:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블루 자이언트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167998</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167998</guid>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 01 Nov 2023 01:17:47 GMT</pubDate>
             <content:encoded><![CDATA[23.11.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb51274ce05d5b9a3072f4c88fd6ad3b03d89e941" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 피투성이 연인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163762</guid>
+            <pubDate>Tue, 14 Nov 2023 23:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[너와 나]]></title>
