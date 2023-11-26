@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 02:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 03:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,6 +103,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2188fcf0cfca4651354f9021b0a72fb2cccefd5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[앙드레 류: 화이트 크리스마스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175026</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175026</guid>
+            <pubDate>Sun, 26 Nov 2023 03:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.02]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[교토에서 온 편지]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163849</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163849</guid>
@@ -143,14 +150,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faef585cc9e110f47472f822a09bde98578a6e350" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[무경계]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173917</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173917</guid>
-            <pubDate>Fri, 24 Nov 2023 16:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F197fb248bb59ca7f41ddf8f3778ae66210ab4c3b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[컨트리 카바레]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166615</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166615</guid>
@@ -159,12 +158,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73e451aea75557692325aa915913c03bd3ee25bd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[세이퍼 앳 홈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148085</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148085</guid>
-            <pubDate>Fri, 24 Nov 2023 23:16:56 GMT</pubDate>
+            <title><![CDATA[무경계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173917</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173917</guid>
+            <pubDate>Fri, 24 Nov 2023 16:22:40 GMT</pubDate>
             <content:encoded><![CDATA[23.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fefb7efbd7d148c85c5bad1c88df9193068812592" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F197fb248bb59ca7f41ddf8f3778ae66210ab4c3b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
