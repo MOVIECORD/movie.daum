@@ -4,7 +4,7 @@
         <title>다음 영화 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 06:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 04 Dec 2023 02:32:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>장혜령]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F6dyt%2Fimage%2FYdEGfqxiDvRpuyBXHEAix5z-KTs.jpeg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[이 바쁜 서울에서 사랑스러운 인연 찾기란?]]></title>
+            <link>https://brunch.co.kr/@@5fpi/586</link>
+            <guid>https://brunch.co.kr/@@5fpi/586</guid>
+            <pubDate>Mon, 04 Dec 2023 06:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5fpi%2Fimage%2FK2WaPHXBtWZqetkxSLDC61UXKIQ.jpeg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[내 메일함에는 둘만의 이야기가 없다]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 19:15:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>유해]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F68xP%2Fimage%2FLU_0cmjRRG5wSHHvDKZ1ulmFuQs.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <괴인> 리뷰, 우연과 만남에 대한 현실 드라마]]></title>
-            <link>https://brunch.co.kr/@@1lcG/2276</link>
-            <guid>https://brunch.co.kr/@@1lcG/2276</guid>
-            <pubDate>Mon, 13 Nov 2023 19:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ico_movie ico_by">by</span>최다함 문화소믈리에]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1lcG%2Fimage%2FWz0rv3ozK1JJ0uTurWv_2oQ25R8.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
     </channel>
 </rss>
