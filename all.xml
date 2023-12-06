@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 01:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 02:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -853,7 +853,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=3694</guid>
             <pubDate>Thu, 30 Nov 2023 05:16:58 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F481789bba59821b9442ff749df23b02bf0eb5003" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9563b298f634d206e303a7a106c305349d21a780" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[냉정과 열정 사이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -888,14 +888,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0388052993e52d4f58e9f7b378e040f5f87ecc56" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 파워 디지몬 더 비기닝 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172495</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172495</guid>
-            <pubDate>Wed, 29 Nov 2023 01:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F794b07bbc856612e44a4f7b9ec793231b6e76b7b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[겨울왕국 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=76384</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=76384</guid>
@@ -928,12 +920,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00eab088a4aa180c98d4e098a4b06716d860a40b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스노우 폭스 : 썰매개가 될 거야! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117351</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117351</guid>
+            <pubDate>Thu, 23 Nov 2023 01:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffc05e2a461eae9b02595bce0ef499637e4d8cde3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[노량: 죽음의 바다 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146751</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146751</guid>
             <pubDate>Fri, 01 Dec 2023 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[23.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6862dc873f2be7f7340d9f8d882a8de3f28fb00f" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb7bdf21bbcfa8c12533347e2bcd27d651a8d909" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뽀로로 극장판 슈퍼스타 대모험 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1454,6 +1454,54 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9938123879c92b21a895688e9a9b0e5529143406" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[박보영-이민호-문채원이 한 영화에? 15년 전 '놀라운 조합' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231206112703922</link>
+            <guid>https://v.daum.net/v/20231206112703922</guid>
+            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 지난 1997년에 개봉한 송능한 감독의 &lt;넘버3&gt;는 개봉 당시 영화계에서 최고의 배우로 주가를 올리던 한석규에게 크게 의존한 영화였다. 하지만 그로부터 5년 정도의 시간이 흐른 후 &lt;넘버3&gt;는 한국영화 역사상 최고의 캐스팅을 자랑하는 영화 중 하나가 됐다. 송강호와 최민식이 나란히 한국영화 최고의 흥행배우로 자리잡은 가운데 한석규의 입지도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fohmynews%2F20231206112706093luyb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[논란 연예인의 무대 된 영화‧케이블→OTT [연예계, 기준 없는 복귀②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231206110138650</link>
+            <guid>https://v.daum.net/v/20231206110138650</guid>
+            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[물의를 빚은 연예인들은 형법상의 처벌을 받지 않더라도, ‘본업 복귀 장벽’이란 사회적 대가를 받고는 한다. 그러나 매체별로 출연 규제 가이드라인이 달라 연예인 역시 자숙의 시간도 제각각이다. 지상파인 KBS, MBC, SBS는 범법 행위를 지저른 연예인들을 대상으로 출연 금지 리스트를 만들지만, 케이블, 종편, 영화, OTT 등은 이와 관련한 특별한 규칙이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fdailian%2F20231206110141299rdaz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC줌人] "'쓰앵님' 넘어선 평단의 극찬"..김서형, 칸으로 시작해 6관왕까지 "올해도 빛났다" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231206104535922</link>
+            <guid>https://v.daum.net/v/20231206104535922</guid>
+            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 고재완 기자] 배우 김서형이 올 한 해 평단의 극찬을 받으며 진가를 발휘했다. 김서형은 2023년 국내외 시상식을 오가며 바쁜 한 해를 보냈다. 먼저 그는 4월 프랑스 칸에서 열린 제6회 칸 국제 시리즈 페스티벌에 참석해 기분 좋은 한 해의 시작을 알렸다. 지니 TV 오리지널 드라마 '종이달' 비경쟁부문 랑데부 섹션으로 초청된 것]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2FSpoChosun%2F20231206104535416bggw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이를 키워야 풀어준다고? 이 영화가 말하는 것 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231206103902652</link>
+            <guid>https://v.daum.net/v/20231206103902652</guid>
+            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김성호 기자] 알레고리라는 말이 있다. 격언 수준으로 쓰이는 풍유법을 보다 구조적으로 발전시킨 문학용어로, 이야기 전체가 현실세계의 무엇을 가리키고 있는 경우를 이른다. 예를 들자면 &lt;이솝우화&gt;와 같은 작품을 꼽을 수 있겠다. 겉으로는 동물세계의 이야기이지만, 어디 그러한가. 인간세계를 풍자하기 위하여 동물을 가져다 그린 것을 읽는 이는 눈치챌 수 있는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fohmynews%2F20231206103904550ewel.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’ 숏폼 시대 속 흥행의 의미 [무비노트] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231206103709580</link>
+            <guid>https://v.daum.net/v/20231206103709580</guid>
+            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 러닝타임만 141분인 '서울의 봄'이 숏폼의 시대 속에서 보란듯이 흥행에 성공했다. 결국 잘 만든 작품이면 러닝타임은 문제가 아니라는 걸 또 다시 증명했다. 지난달 22일 개봉된 영화 '서울의 봄'(감독 김성수)는 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Ftvdaily%2F20231206103711672pdvo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 개봉 ‘3일의 휴가’ 엄마·고향·집밥으로 겨울 추위 녹인다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231206102544118</link>
+            <guid>https://v.daum.net/v/20231206102544118</guid>
+            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '3일의 휴가'가 올겨울 추위를 녹인다. 12월 6일 개봉한 영화 '3일의 휴가'(감독 육상효)는 하늘에서 휴가 온 엄마 ‘복자’(김해숙)와 엄마의 레시피로 백반집을 운영하는 딸 ‘진주’(신민아)의 힐링 판타지다. '3일의 휴가' 첫 번째 키워드는 휴가를 받아 그리운 딸을 만나러 지상으로 내려온 ‘엄마’다. 특별한 휴가의 주인공인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fnewsen%2F20231206102544114rywl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[라미란에 안은진까지‥보이스피싱 추적극 ‘시민덕희’ 1월 개봉 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231206100004983</link>
             <guid>https://v.daum.net/v/20231206100004983</guid>
@@ -1564,54 +1612,6 @@
             <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '싱글 인 서울' 측이 훈훈했던 촬영 현장을 엿볼 수 있는 비하인드 스틸을 공개했다. '싱글 인 서울'(감독 박범수, 제공배급 롯데엔터테인먼트, 제작 디씨지플러스·명필름)은 혼자가 좋은 파워 인플루언서 영호(이동욱 분)와 혼자는 싫은 출판사 편집장 현진(임수정 분)이 싱글 라이프에 관한 책을 만들면서 벌어지는 이야기를 그린]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fpoctan%2F20231206082104171zfzt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[죽어가는 시리즈에 산소 호흡기, ‘쏘우 X’[MK무비] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231206081801774</link>
-            <guid>https://v.daum.net/v/20231206081801774</guid>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[죽어가는 시리즈에 겨우 숨결을 불어 넣는다. 시리즈 사상 가장 볼만한 속편이다. 초심으로 돌아간, 추억 찾고 가능성까지 다시 보여준, ‘쏘우 X’(감독 케빈 그루터트, 제작 제임스 완)다. ‘쏘우 X’는 쏘우 1편과 2편 사이의 인터퀄. 1편의 게임을 마친 존 크레이머 일명 ‘직쏘’는 암을 치료하러 멕시코로 떠난다. 그러나 그곳에서 모든 희망은 절망이 되고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fstartoday%2F20231206081803027ivqz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘듄’ 재개봉…‘듄: 파트2’ 보기 전에 복습하자 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231206081653754</link>
-            <guid>https://v.daum.net/v/20231206081653754</guid>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] ‘듄’ 재개봉…‘듄: 파트2’ 보기 전에 복습하자 [공식] ‘듄: 파트2’(수입/배급: 워너브러더스 코리아㈜)가 드니 빌뇌브 감독 내한을 앞두고 ‘듄’ 재개봉을 확정했다. 영화 ‘듄: 파트2’와 ‘듄’의 드니 빌뇌브 감독이 개봉을 두 달 여 앞두고 내한 행사를 확정한 가운데, 이를 기념해 ‘듄’ 재개봉도 확정됐다. CGV, 롯데시네마, 메가박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fsportsdonga%2F20231206081655477jpic.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울을 견디는 ‘집밥’ 한 상을 건네는, 신민아 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231206080608591</link>
-            <guid>https://v.daum.net/v/20231206080608591</guid>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[겨울을 견디는 ‘집밥’ 한 상을 건네는, 신민아 장독대에서 잘 익은 김치 한 포기를 꺼내 능숙하게 썩썩 썬다. 스팸을 듬성듬성 덜어 넣고 보글보글 끓이자 스팸 김치찌개가 뚝딱 완성된다. 고명을 맛깔스럽게 배치한 후 잘 우려낸 국물을 부어 국수를 낸다. 이를 물끄러미 바라보던 동네 어른들이 어느새 둘러앉아 깨끗이 비운다. 영화 ‘3일의 휴가’(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fmunhwa%2F20231206080609415qpoi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 14일 만에 초고속 500만 관객 돌파 [Nbox] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231206080515577</link>
-            <guid>https://v.daum.net/v/20231206080515577</guid>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = '서울의 봄'이 500만 관객을 돌파했다. 6일 영화진흥위원회 통합전산망에 따르면 '서울의 봄'(감독 김성수)은 지난 5일 전국 2219개 스크린에서 19만8719명을 불러 모으며 박스 오피스 1위를 지켰다. 지난 11월22일 개봉 후 14일 연속 정상을 유지했다. 누적 관객수는 506만8152명이다. 황정민 정우성]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2FNEWS1%2F20231206080516023xiis.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 파죽지세 500만…'싱글 인 서울' 2위 [美친 box] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231206080331542</link>
-            <guid>https://v.daum.net/v/20231206080331542</guid>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘서울의 봄’이 500만을 달성했다. 6일 영화진흥위원회 영화관입장권 통합전산망 집계 결과 ‘서울의 봄’은 어제(5일) 19만 8719명이 관람해 일별 박스오피스 1위에 올랐다. 지난달 22일 개봉해 14일 연속 1위 자리를 유지했으며, 이날까지 누적 관객수는 506만 8152명이다. ‘서울의 봄’(감독 김성수, 제공배급]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fpoctan%2F20231206080331354omev.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['3일의 휴가' 영리한 연출, 신파지만 괜찮아 [씨네뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231206080207505</link>
-            <guid>https://v.daum.net/v/20231206080207505</guid>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영리한 연출과 이를 뒷받침하는 배우들의 연기가 반짝반짝 빛나는 ‘3일의 휴가’다. 5일 개봉된 영화 ‘3일의 휴가’(감독 육상효)는 하늘에서 휴가 온 엄마 복자(김해숙)와 엄마의 레시피로 백반집을 운영하는 딸 진주(신민아)의 힐링 판타지다. 이번 작품은 세상 가까우면서도 먼 모녀 관계에 대한 이야기로, 이야기 구조 자체는 단순]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Ftvdaily%2F20231206080209453ckzg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1774,6 +1774,30 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[아이언맨 부활 요청에 직접 응답한 마블, 결국... (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/FqjpjlhVBk</link>
+            <guid>https://v.daum.net/v/FqjpjlhVBk</guid>
+            <pubDate>Wed, 06 Dec 2023 02:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fmaxmovie%2F20231206113002754lycd.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[넘치는 한국사랑에 이렇게까지? 깜짝소식 전했다 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/5ZhJqMxvzv</link>
+            <guid>https://v.daum.net/v/5ZhJqMxvzv</guid>
+            <pubDate>Wed, 06 Dec 2023 02:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Fmaxmovie%2F20231206104852708stxy.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
+            <title><![CDATA[알고보니 최근 보이스피싱 당해 많은 돈 잃었다는 이분들 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/GAlnv03oLs</link>
+            <guid>https://v.daum.net/v/GAlnv03oLs</guid>
+            <pubDate>Wed, 06 Dec 2023 02:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F06%2Ffeelthemovie%2F20231206103002737gezn.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[현재 연예계에서 '보석'이라 불리며 대발견이라는 괴물 신인 여배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/54MPKhC2MZ</link>
             <guid>https://v.daum.net/v/54MPKhC2MZ</guid>
@@ -1908,30 +1932,6 @@
             <pubDate>Tue, 05 Dec 2023 02:32:47 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F05%2Ffeelthemovie%2F20231205103001968fbor.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[언니닮아 진짜 예쁘기로 소문난 하지원 여동생 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/7osVbYWQLd</link>
-            <guid>https://v.daum.net/v/7osVbYWQLd</guid>
-            <pubDate>Mon, 04 Dec 2023 23:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F05%2Ffeelthemovie%2F20231205081001861knzt.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA['그래비티' 감독이 제작한 미스테리 비행기 이야기 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/KZdgN15JVm</link>
-            <guid>https://v.daum.net/v/KZdgN15JVm</guid>
-            <pubDate>Mon, 04 Dec 2023 23:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F05%2Ffanzeel%2F20231205080002275irja.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[한동안 잠잠하더니.. 대박소식으로 돌아온 한국배우 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/pHBgl29rNu</link>
-            <guid>https://v.daum.net/v/pHBgl29rNu</guid>
-            <pubDate>Mon, 04 Dec 2023 23:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F05%2Fmaxmovie%2F20231205080001850ecah.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[괴물을 만드는 건 누구일까? (다음 영화 ─ 브런치)]]></title>
