@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2023-12-07T23:19:27.677Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 08 Dec 2023 01:18:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플리케이션]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167765</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167765</guid>
+            <pubDate>Fri, 08 Dec 2023 01:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[관]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145493</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145493</guid>
+            <pubDate>Fri, 08 Dec 2023 01:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eb19fc9c6d3b6dff9644a31b3c9d7aed1c5e626" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[목소리 도둑 - 장산범]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167624</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167624</guid>
+            <pubDate>Fri, 08 Dec 2023 01:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나로살다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175222</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175222</guid>
+            <pubDate>Fri, 08 Dec 2023 01:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.08]]></content:encoded>
+        </item>
+    </channel>
+</rss>
