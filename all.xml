@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 08:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=156628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156628</guid>
             <pubDate>Thu, 02 Nov 2023 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,655,065명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>4,655,064명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff47bdb7c3174e8bcf43fb6ab27283fc2f4d34555" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=156628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156628</guid>
             <pubDate>Thu, 02 Nov 2023 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,471,675명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>5,471,674명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff47bdb7c3174e8bcf43fb6ab27283fc2f4d34555" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -204,7 +204,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=146084</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146084</guid>
             <pubDate>Thu, 09 Nov 2023 08:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>287,428명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>287,427명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb2461972d446c5982fd10e2c2e2c789b289c8e61" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -808,6 +808,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff765aca67dc9e1d66d75a09fef20fe60cee95d32" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[그대들은 어떻게 살 것인가 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
+            <pubDate>Wed, 11 Oct 2023 10:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엔시티 네이션 : 투 더 월드 인 시네마 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=175027</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=175027</guid>
@@ -822,14 +830,6 @@
             <pubDate>Thu, 02 Nov 2023 06:22:58 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0388052993e52d4f58e9f7b378e040f5f87ecc56" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그대들은 어떻게 살 것인가 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
-            <pubDate>Wed, 11 Oct 2023 10:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[매직 프린세스: 얼음 괴물과 사라진 열쇠의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -983,21 +983,6 @@
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Thu, 07 Dec 2023 06:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59b5ac10a09eb75346112033b37665e66772ab77" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[무빙 포 워드 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=175846</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=175846</guid>
-            <pubDate>Wed, 06 Dec 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[비밀 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174112</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174112</guid>
@@ -1006,12 +991,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9be44c620b45e12aef226942c429b8bd25b556d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Thu, 07 Dec 2023 06:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59b5ac10a09eb75346112033b37665e66772ab77" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[리빙: 어떤 인생 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156778</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156778</guid>
             <pubDate>Tue, 05 Dec 2023 10:19:51 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a755ee21b802cfbe82263f9be1dcd5b55c7eff5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[배트맨 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=10253</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=10253</guid>
+            <pubDate>Thu, 07 Dec 2023 10:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑은 낙엽을 타고 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1030,28 +1031,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6bcb3d0ac5f171c0a1dbd665d511d3a81f092cdf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 올드 오크 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170312</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170312</guid>
-            <pubDate>Wed, 06 Dec 2023 06:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[24.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe617559750071dde3c5c71dca0ff6173dc115c57" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[조이랜드 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160417</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160417</guid>
             <pubDate>Tue, 05 Dec 2023 23:18:07 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d035f67f81f729f93ee64a66a6ade96d95b81df" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[언더 유어 베드 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174576</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174576</guid>
-            <pubDate>Sun, 03 Dec 2023 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노 엑시트 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1062,20 +1047,35 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F125122feae866f03083c69a02636654ed16acd2a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배트맨 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=10253</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=10253</guid>
-            <pubDate>Thu, 07 Dec 2023 10:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엘리자벳과 나 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167579</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167579</guid>
             <pubDate>Tue, 05 Dec 2023 23:18:07 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6febdfc6bbc9a432ba0087b1d917efe21b8fee3d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[무빙 포 워드 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175846</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175846</guid>
+            <pubDate>Wed, 06 Dec 2023 07:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[언더 유어 베드 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174576</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174576</guid>
+            <pubDate>Sun, 03 Dec 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 서바이버 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156966</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156966</guid>
+            <pubDate>Fri, 08 Dec 2023 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4beb21616e18b1b1177d28f28d338f87c2f7c78" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[렛 미 고 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1689,6 +1689,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba439af5b010d24007a09e783b6b030b6fb11216" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[“박찬욱·봉준호 제일 좋아” 드니 빌뇌브→아리 에스터 감독의 韓영화 사랑 “원더풀”[MD픽] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231208180456670</link>
+            <guid>https://v.daum.net/v/20231208180456670</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]박찬욱, 봉준호 감독은 명실공히 세계적 거장이다. 박찬욱은 ‘올드보이’로 칸 영화제 심사위원 대상, ‘헤어질 결심’으로 감독상을 수상했다. 봉준호는 ‘기생충’으로 칸 영화제 황금종려상에 이어 미국 아카데미 작품상, 감독상을 거머쥐었다. 전 세계 영화학도들을 두 감독의 작품을 공부하면서 감독의 꿈을 키우고 있다. 세계 유명 감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Fmydaily%2F20231208180457585ussy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘듄2’로 돌아온 드니 빌뇌브 “파트1보다 만족” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231208175302409</link>
+            <guid>https://v.daum.net/v/20231208175302409</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘듄’ 시리즈를 만든 명장 드니 빌뇌브 감독이 13년 만에 한국을 찾았다. 8일 서울 한강로 CGV 용산아이파크몰점에서 영화 ‘듄: 파트 2’(감독 드니 빌뇌브) 미리 보기(풋티지) 상영회 및 드니 빌뇌브 감독 내한 기자간담회가 열렸다. ‘듄: 파트 2’에서는 전편에서 능력을 깨닫고 각성한 주인공 폴(티모시 샬라메)이 전사로 성장하는 이야기가 담긴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Fkukinews%2F20231208175303379szwj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[드니 빌뇌브 감독 "'듄', 가장 어려운 영화…파트3는" (엑's 현장)[종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231208175003313</link>
+            <guid>https://v.daum.net/v/20231208175003313</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) '듄' 시리즈의 감독 드니 빌뇌브가 파트1과 파트2의 차이점과 파트3에 대한 예고를 덧붙였다. 8일 오후 서울 용산구 CGV 용산 아이파크몰에서 영화 '듄: 파트2'(감독 드니 빌뇌브)의 푸티지 상영회와 드니 빌뇌브 감독의 내한 기자회견이 열렸다. '듄: 파트2'는 자신의 능력을 깨닫고 각성한 폴(티모시 샬라메 분)이 복수를 위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Fxportsnews%2F20231208175005139buwm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 이순신 3부작을 한 번에…'명량'→'한산'→'노량', 상영회 개최 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231208173928012</link>
+            <guid>https://v.daum.net/v/20231208173928012</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 영화 '노량: 죽음의 바다'와 더불어 '명량', '한산: 용의 출현'까지 이순신 3부작을 모두 한 번에 즐길 수 있는 이순신 3부작 상영회가 진행된다. 8일 배급사 롯데엔터테인먼트에 따르면, 영화 '노량: 죽음의 바다'가 10년 여정의 이순신 3부작 프로젝트의 대미를 장식하는 기념으로 '명량'(2014), '한산:]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FSpoChosun%2F20231208173929105vich.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[감독이 자부한 '듄: 파트2'...'듄친자' 마음 사로잡을까 [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231208173031737</link>
+            <guid>https://v.daum.net/v/20231208173031737</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 드니 빌뇌브 감독이 '듄: 파트2'로 돌아온다. 8일 오후 서울 용산구 CGV아이파크몰에서 영화 '듄: 파트2'를 연출한 드니 빌뇌브 감독의 내한 기자회견이 열렸다.&nbsp;영화 '듄: 파트2'는 자신의 능력을 깨닫고 각성한 폴(티모시 샬라메)이 복수를 위한 여정에서 전사의 운명을 찾아가게 되는 액션 블록버스터다. 이날 기자회견에서 드]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Ftvreport%2F20231208173035377bplv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['듄2' 드니 빌뇌브 감독 "한국과 인연 영화로부터...봉준호 박찬욱 팬" (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231208170504013</link>
             <guid>https://v.daum.net/v/20231208170504013</guid>
@@ -1697,11 +1737,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FHockeyNewsKorea%2F20231208170507514kqlo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["티모시 샬라메♥젠데이아"…'듄: 파트2' 드니 빌뇌브, 개봉 2달 전 내한한 이유 (종합)[Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
+            <title><![CDATA["티모시 샬라메♥젠데이아"…'듄: 파트2' 드니 빌뇌브, 개봉 두 달 전 내한 이유 (종합)[Oh!쎈 현장] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231208170128921</link>
             <guid>https://v.daum.net/v/20231208170128921</guid>
             <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“제가 영화를 만들 때는 모든 것을, 100% 쏟아붓는다.” 드니 빌뇌브 감독은 8일 오후 서울 이촌동 CGV 용산 아이파크몰에서 열린 새 영화 ‘듄: 파트2’의 내한 기자회견에서 “제가 각본, 연출을 맡았는데 파트2는 파트1에 비해 살아있는 생생한 부분이 있다. 기술적으로 구현하기 쉽지 않았는데, 제 커리어상 가장 어려운 작업]]></content:encoded>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“제가 영화를 만들 때는 모든 것을 100% 쏟아붓는다.” 드니 빌뇌브 감독은 8일 오후 서울 이촌동 CGV 용산 아이파크몰에서 열린 새 영화 ‘듄: 파트2’의 내한 기자회견에서 “제가 각본, 연출을 맡았는데 파트2는 파트1에 비해 살아있는 생생한 부분이 있다. 기술적으로 구현하기 쉽지 않았는데, 제 커리어상 가장 어려운 작업이]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Fpoctan%2F20231208170128357hbjm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
@@ -1750,7 +1790,7 @@
             <guid>https://v.daum.net/v/20231208161938788</guid>
             <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 15년 만에 한국을 찾은 드니 빌뇌브 감독이 영화 '듄:파트2' 개봉을 앞두고 강한 자신감을 내비쳤다. 8일 오후 서울 용산구 이촌동 CGV용산아이파크몰에서 영화 '듄:파트2' 드니 빌뇌브 감독의 내한 기자간담회가 진행됐다. 오는 2024년 2월 개봉하는 '듄: 파트2'는 자신의 능력을 깨닫고 각성한 폴이 복수를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FSpoChosun%2F20231208170519386wyjm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FSpoChosun%2F20231208172838572sfrz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[드니 빌뇌브 감독 “듄친자 감동...파트2 몰입감↑”[MK현장] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1807,46 +1847,6 @@
             <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] “이 영화에 자부심을 갖고 있다. 파트1에서 보여드리지 못한 걸 파트2에서 보여드릴 것이다. 어떻게 보면 파트1보다 2편에 더 만족감을 갖고 있다.” ‘듄: 파트2’ 개봉을 앞두고 한국을 찾은 드니 빌뇌브 감독이 2편에 대한 자신감과 함께 영화를 기다리고 있는 한국 영화팬들을 향한 남다른 애정을 전햇다. 드니 빌뇌브]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FEdaily%2F20231208161720497bbzs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄: 파트2', 드니 빌뇌브 감독의 자신감 그 자체(종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231208155812153</link>
-            <guid>https://v.daum.net/v/20231208155812153</guid>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["파트1이 사색적이었다면 파트2는 깊고 강렬해" 2024년 2월 개봉 예정 [더팩트｜박지윤 기자] 드니 빌뇌브 감독이 더욱 생생하고 깊어진 '듄: 파트2'로 국내 '듄친자'('듄'에 미친자)들과 만날 준비를 끝냈다. 영화 '듄: 파트2'(감독 드니 빌뇌브)의 푸티지 시사회 및 내한 기자회견이 8일 오후 서울 CGV용산아이파크몰에서 열렸다. 현장에는 작]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FTHEFACT%2F20231208155814382npvj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄: 파트2' 드니 빌뇌브 감독, "파트3는 각본 진행 중, 촬영은 미정" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231208155603091</link>
-            <guid>https://v.daum.net/v/20231208155603091</guid>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 영화 '듄: 파트2'의 감독 드니 빌뇌브는 파트 3의 제작 가능성에 대해 언급했다.&nbsp; 8일 서울 용산구 CGV 용산아이파크몰에서 영화 '듄: 파트2' 푸티지 시사 및 기자 간담회가 열렸다. 행사에는 드니 빌뇌브 감독이 참석했다. '듄: 파트2'는 자신의&nbsp;능력을 깨닫고 각성한 폴(티모시&nbsp;샬라메)이 복수를 위한 여정에서 전사의 운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2F10asia%2F20231208155604647iouj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["듄친자 얘기 들었다"…'듄2' 감독, 개봉 두 달 전 한국 찾아 표현한 감동 [종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231208155335995</link>
-            <guid>https://v.daum.net/v/20231208155335995</guid>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['듄'은 '듄친자'라는 말을 탄생시켰던 작품이다. '듄'에 미친자라는 뜻인데 이 표현만 들어도 작품을 향한 팬들의 애정이 얼마나 뜨거웠는지 짐작할 수 있다. 개봉을 두 달 앞두고 한국을 찾은 드니 빌뇌브 감독은 진한 감동을 표현했다. 8일 서울 용산구 CGV 용산아이파크몰에서는 '듄: 파트2' 드니 빌뇌브 감독의 내한 기자회견이 진행됐다. 드니 빌뇌브 감독]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Fhankooki%2F20231208155337888ldnc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[드니 빌뇌브 "'듄친자'라는 말 감동적…빨리 2편 보여주고파" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231208155329993</link>
-            <guid>https://v.daum.net/v/20231208155329993</guid>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = "한국의 관객들은 극장에서 영화 보는 것을 즐기는 것으로 알고 있어요. 저처럼 큰 스크린에서 상영되는 영화를 만드는 사람에게는 의미 있는 현상이지요." 할리우드 판타지 영화 '듄: 파트 2' 개봉을 기념해 서울을 찾은 드니 빌뇌브 감독은 8일 CGV 용산아이파크몰에서 열린 기자간담회에서 이렇게 말했다. 이 영화는 2021년]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Fyonhap%2F20231208155329986didd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['듄:파트2' 드니 빌뇌브 감독 "'듄친자'들에 감사…작품 세계관 나누고파" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231208155250972</link>
-            <guid>https://v.daum.net/v/20231208155250972</guid>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] '듄:파트2' 드니 빌뇌브 감독이 작품에 대한 기대를 당부했다. 드니 빌뇌브 감독은 8일 오후 서울 용산구 이촌동 CGV용산아이파크몰에서 열린 영화 '듄:파트2' 기자간담회에서 "관객 분들과 빨리 이 세계관을 공유하고 싶다"라고 했다. 드니 빌뇌브 감독은 '듄:파트2'의 더 확장된 세계관을 예고하며 예비 관객들의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FSpoChosun%2F20231208155250553xcpt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2009,12 +2009,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[대세 여배우의 '여신'으로 불리었던 고교시절 모습 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/Q5PNlYWQfI</link>
+            <guid>https://v.daum.net/v/Q5PNlYWQfI</guid>
+            <pubDate>Fri, 08 Dec 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[필더무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2Ffeelthemovie%2F20231208174009623xpok.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[부부 아닌데 남들이 다 부부로 알고있는 두 남녀 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/FoeS6t1id6</link>
             <guid>https://v.daum.net/v/FoeS6t1id6</guid>
             <pubDate>Fri, 08 Dec 2023 08:24:19 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FBoiledMovie%2F20231208163009683tcct.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F08%2FBoiledMovie%2F20231208174659782czhy.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[부산의 세 자매가 엄마를 데리고 일본에 간 이유 (다음 영화 ─ 매거진)]]></title>
@@ -2159,14 +2167,6 @@
             <pubDate>Thu, 07 Dec 2023 04:23:04 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F07%2FBoiledMovie%2F20231207174706917pxwu.png" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[현재 전세계를 열광시키는 중인 한국인 커플 정체 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/4m84U5Zdf5</link>
-            <guid>https://v.daum.net/v/4m84U5Zdf5</guid>
-            <pubDate>Thu, 07 Dec 2023 03:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[필더무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F07%2Ffeelthemovie%2F20231207122101138wmcp.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[괴물을 만드는 건 누구일까? (다음 영화 ─ 브런치)]]></title>
