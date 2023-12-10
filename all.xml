@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 11:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 12:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,14 +824,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F558bb9cd78670e68aafbddb630567f2a1e0e6a0c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마에스트로 번스타인 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139550</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139550</guid>
-            <pubDate>Wed, 29 Nov 2023 22:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7f7c1cc736a029f6973bae1faaac00ac4938f57" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[교토에서 온 편지 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163849</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163849</guid>
@@ -846,6 +838,14 @@
             <pubDate>Thu, 07 Dec 2023 01:16:54 GMT</pubDate>
             <content:encoded><![CDATA[23.12.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe5d0f32ba385f294dc86b5aa04988c7bb5ef758c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마에스트로 번스타인 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139550</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139550</guid>
+            <pubDate>Wed, 29 Nov 2023 22:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7f7c1cc736a029f6973bae1faaac00ac4938f57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[냉정과 열정 사이 (다음영화 영화관 ─ 현재상영)]]></title>
