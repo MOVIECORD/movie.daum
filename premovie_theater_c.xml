@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 23:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 01:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6bcb3d0ac5f171c0a1dbd665d511d3a81f092cdf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[배트맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=10253</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=10253</guid>
+            <pubDate>Thu, 07 Dec 2023 10:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[드라이브 마이 카]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
@@ -77,14 +85,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=175640</guid>
             <pubDate>Mon, 04 Dec 2023 01:17:03 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배트맨]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=10253</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=10253</guid>
-            <pubDate>Thu, 07 Dec 2023 10:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비밀]]></title>
@@ -101,6 +101,14 @@
             <pubDate>Tue, 05 Dec 2023 23:18:07 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d035f67f81f729f93ee64a66a6ade96d95b81df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노 엑시트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175005</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175005</guid>
+            <pubDate>Fri, 08 Dec 2023 08:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F125122feae866f03083c69a02636654ed16acd2a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[무빙 포 워드]]></title>
@@ -156,14 +164,6 @@
             <pubDate>Sat, 09 Dec 2023 04:21:17 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3a5704769a5de59518279be882e6edb21529bf4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[노 엑시트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=175005</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=175005</guid>
-            <pubDate>Fri, 08 Dec 2023 08:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F125122feae866f03083c69a02636654ed16acd2a" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
