@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 12:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6012c7878068d89e301f65b8a4895d5106060f15" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마에스트로 번스타인]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139550</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139550</guid>
-            <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7f7c1cc736a029f6973bae1faaac00ac4938f57" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[홈그라운드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163660</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163660</guid>
@@ -118,6 +110,14 @@
             <pubDate>Wed, 06 Dec 2023 02:30:18 GMT</pubDate>
             <content:encoded><![CDATA[23.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffc05e2a461eae9b02595bce0ef499637e4d8cde3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마에스트로 번스타인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139550</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139550</guid>
+            <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc7f7c1cc736a029f6973bae1faaac00ac4938f57" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 파워 디지몬 더 비기닝]]></title>
