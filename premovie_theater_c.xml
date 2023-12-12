@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 03:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 04:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59b5ac10a09eb75346112033b37665e66772ab77" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174112</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174112</guid>
+            <pubDate>Fri, 01 Dec 2023 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9be44c620b45e12aef226942c429b8bd25b556d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[조이랜드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160417</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160417</guid>
@@ -134,14 +142,6 @@
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비밀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174112</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174112</guid>
-            <pubDate>Fri, 01 Dec 2023 09:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9be44c620b45e12aef226942c429b8bd25b556d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[제시는 그때 스무살이었다]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114736</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114736</guid>
@@ -150,20 +150,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fabfa9a358b558b7383ae39b3fa2de0d32b28323c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[트롤: 밴드 투게더]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169281</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169281</guid>
-            <pubDate>Mon, 11 Dec 2023 09:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74cb9e08c6eda4f11322523173ff178afcf8bf63" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[힐마 아프 클린트 - 미래를 위한 그림]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=128262</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128262</guid>
             <pubDate>Tue, 12 Dec 2023 02:31:35 GMT</pubDate>
             <content:encoded><![CDATA[23.12.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33be6ffd8c2516cc5dc7d2b1facf256f1ba6dd6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트롤: 밴드 투게더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169281</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169281</guid>
+            <pubDate>Mon, 11 Dec 2023 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74cb9e08c6eda4f11322523173ff178afcf8bf63" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
