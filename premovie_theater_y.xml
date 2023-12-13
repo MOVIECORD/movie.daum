@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 02:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc27756b10f45291a8265578058188aa443469d9c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대들은 어떻게 살 것인가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
-            <pubDate>Wed, 25 Oct 2023 01:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나폴레옹]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
             <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그대들은 어떻게 살 것인가]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
+            <pubDate>Wed, 25 Oct 2023 01:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노 엑시트]]></title>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[리빙: 어떤 인생]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156778</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156778</guid>
-            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a755ee21b802cfbe82263f9be1dcd5b55c7eff5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[인디펜던스 나이트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=165933</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=165933</guid>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face94cf99e22e2067cb9825c4ab4ecb183683f1e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[리빙: 어떤 인생]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156778</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156778</guid>
+            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a755ee21b802cfbe82263f9be1dcd5b55c7eff5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[러브 액츄얼리]]></title>
@@ -136,13 +136,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나 혼자만 레벨업 프리뷰]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=175640</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=175640</guid>
-            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[프레디의 피자가게]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170512</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=170512</guid>
@@ -159,12 +152,19 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6012c7878068d89e301f65b8a4895d5106060f15" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 파워 디지몬 더 비기닝]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172495</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172495</guid>
-            <pubDate>Sat, 09 Dec 2023 06:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F794b07bbc856612e44a4f7b9ec793231b6e76b7b" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[나 혼자만 레벨업 프리뷰]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175640</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175640</guid>
+            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스노우 폭스 : 썰매개가 될 거야!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117351</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117351</guid>
+            <pubDate>Wed, 13 Dec 2023 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffc05e2a461eae9b02595bce0ef499637e4d8cde3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
