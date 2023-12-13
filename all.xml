@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 11:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 12:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -816,20 +816,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대들은 어떻게 살 것인가 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
-            <pubDate>Wed, 11 Oct 2023 10:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노 엑시트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=175005</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=175005</guid>
             <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F125122feae866f03083c69a02636654ed16acd2a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그대들은 어떻게 살 것인가 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
+            <pubDate>Wed, 11 Oct 2023 10:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱글 인 서울 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -880,14 +880,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face94cf99e22e2067cb9825c4ab4ecb183683f1e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[러브 액츄얼리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=38754</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=38754</guid>
-            <pubDate>Mon, 11 Dec 2023 03:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00eab088a4aa180c98d4e098a4b06716d860a40b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스노우 폭스 : 썰매개가 될 거야! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117351</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117351</guid>
@@ -910,6 +902,14 @@
             <pubDate>Wed, 29 Nov 2023 06:23:43 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6012c7878068d89e301f65b8a4895d5106060f15" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[러브 액츄얼리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38754</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38754</guid>
+            <pubDate>Mon, 11 Dec 2023 03:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00eab088a4aa180c98d4e098a4b06716d860a40b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[배트맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -992,12 +992,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad465e75b4de55bca00cb7da21df7488e9216ee9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[부활 그 소망 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174463</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174463</guid>
+            <title><![CDATA[미끼 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174287</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174287</guid>
             <pubDate>Tue, 12 Dec 2023 23:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[24.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8923740f99d184087b5a73d632d238325c79bc96" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[23.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf2aa2385b6c7d386457f6f07ca9b1c3e3d37897" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라스트 서바이버 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1014,14 +1014,6 @@
             <pubDate>Tue, 12 Dec 2023 23:17:39 GMT</pubDate>
             <content:encoded><![CDATA[23.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F888cc9acfb3feaf8d27bd2d64bddff9cac7a07a8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미끼 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174287</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174287</guid>
-            <pubDate>Tue, 12 Dec 2023 23:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf2aa2385b6c7d386457f6f07ca9b1c3e3d37897" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[디셈버 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1064,12 +1056,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29a5b579c9003b003529ef87109a113175157f47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[분노의 질주 인 이스탄불 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172225</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172225</guid>
+            <title><![CDATA[부활 그 소망 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174463</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174463</guid>
             <pubDate>Tue, 12 Dec 2023 23:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fadea002b560a5ea9ebcbfe8e26ce038179c5f165" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[24.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8923740f99d184087b5a73d632d238325c79bc96" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑엔 정의가 없다 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1078,6 +1070,14 @@
             <pubDate>Tue, 12 Dec 2023 23:17:39 GMT</pubDate>
             <content:encoded><![CDATA[23.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa064b6345b3022ff6207d231c4d38c3dd1f899df" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[분노의 질주 인 이스탄불 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172225</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172225</guid>
+            <pubDate>Tue, 12 Dec 2023 23:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fadea002b560a5ea9ebcbfe8e26ce038179c5f165" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[치킨 런: 너겟의 탄생 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1360,6 +1360,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F752f93a0576545dab3a47d38961fdd061543800371533" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[여성이란 이유로 잊힐 뻔한 추상화가…다큐 '힐마 아프 클린트' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231213205133419</link>
+            <guid>https://v.daum.net/v/20231213205133419</guid>
+            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이영재 기자 = 추상화의 시조로는 러시아 화가 바실리 칸딘스키(1866∼1944)가 꼽힌다. 동시대에 활동한 스웨덴 화가 힐마 아프 클린트(1862∼1944)를 아는 사람은 많지 않다. 자신이 죽고 나서 20년이 지날 때까지 작품을 공개하지 말라고 한 그의 유언 탓이 컸다. 그러나 남성 중심의 미술계가 여성인 아프 클린트를 무시한 것도 중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fyonhap%2F20231213205133544wxwc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’ 천만 보인다…누적 736만→올해 2위 우뚝 [DA:박스] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231213204357266</link>
+            <guid>https://v.daum.net/v/20231213204357266</guid>
+            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] ‘서울의 봄’ 천만 보인다…누적 736만→올해 2위 우뚝 [DA:박스] 영화 ‘서울의 봄’이 개봉 21일째인 12일(화) 누적스코어 736만을 기록했다. ‘서울의 봄’은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화. 영화관입장권 통합전산망 12월 13일(수) 오전 7시 기준, ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fsportsdonga%2F20231213204358226ayih.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["아저씨 파워 기대"…반가운 극장 풍경 연출해낸 '서울의 봄' [엑's 초점] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231213195010271</link>
             <guid>https://v.daum.net/v/20231213195010271</guid>
@@ -1502,22 +1518,6 @@
             <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[영화 ‘해야 할 일’(감독 박홍준)이 제49회 서울독립영화제도 접수했다. 제작사 명필름랩은 13일 “‘해야 할 일’이 제49회 서울독립영화제서 ‘장편경쟁 최우수작품상’과 ‘독립 스타상(김도영)’까지 2관왕의 영예를 안았다”고 밝혔다. ‘해야 할 일’은 제28회 부산국제영화제 ‘한국영화의 오늘-비전’ 부문에 초청되어 ‘올해의 배우상’과 ‘한국영화감독조]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fsportskhan%2F20231213144952010dsej.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘외계+인’ 2부, 류준열→김우빈 더 강렬해진 8인8색 캐릭터 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231213144356867</link>
-            <guid>https://v.daum.net/v/20231213144356867</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '외계+인' 2부의 8인 8색 캐릭터 스틸이 공개돼 기대를 높인다. 1월 10일 개봉하는 영화 '외계+인'(감독 최동훈) 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 작품이다. 공개된 스틸은 더욱 치열해지는 신검 쟁탈전 속에서 고려와 현대를 오가는 오리지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fnewsen%2F20231213144357237myya.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[736만 돌파 ‘서울의 봄’ 올해 TOP2 등극‥‘범죄도시3’만 남았다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231213141617832</link>
-            <guid>https://v.daum.net/v/20231213141617832</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '서울의 봄'이 개봉 21째에 누적 관객 736만 명을 기록하며 올해 전체 박스오피스 TOP2에 올랐다. 12월 13일 영화진흥위원회 통합전산망 집계에 따르면, 영화 '서울의 봄'(감독 김성수)이 개봉 21일 만에 누적 관객 수 736만2,641명을 돌파했다. 이는 '한산: 용의 출현'(726만)을 제치고 2020년 팬데믹 이후]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fnewsen%2F20231213141617556ehtl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
