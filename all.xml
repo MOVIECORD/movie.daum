@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 05:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 06:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=156628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156628</guid>
             <pubDate>Thu, 02 Nov 2023 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,551,275명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>7,551,274명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff47bdb7c3174e8bcf43fb6ab27283fc2f4d34555" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -784,20 +784,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc27756b10f45291a8265578058188aa443469d9c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[괴물 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169329</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169329</guid>
-            <pubDate>Wed, 15 Nov 2023 01:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff765aca67dc9e1d66d75a09fef20fe60cee95d32" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[3일의 휴가 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138187</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138187</guid>
             <pubDate>Tue, 21 Nov 2023 03:18:58 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8687da0616f03c884cbd5a0ddcb2fa6901d5e717" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[괴물 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169329</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169329</guid>
+            <pubDate>Wed, 15 Nov 2023 01:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff765aca67dc9e1d66d75a09fef20fe60cee95d32" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말하고 싶은 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -952,6 +952,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6bcb3d0ac5f171c0a1dbd665d511d3a81f092cdf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[길위에 김대중 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174676</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174676</guid>
+            <pubDate>Thu, 14 Dec 2023 05:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[24.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99178e6b1da1f474e2d70f1bdbc5381d0bfa596c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[크레센도 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172520</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172520</guid>
@@ -974,14 +982,6 @@
             <pubDate>Tue, 12 Dec 2023 14:17:28 GMT</pubDate>
             <content:encoded><![CDATA[23.12.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74cb9e08c6eda4f11322523173ff178afcf8bf63" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[길위에 김대중 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174676</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174676</guid>
-            <pubDate>Thu, 14 Dec 2023 05:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[24.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99178e6b1da1f474e2d70f1bdbc5381d0bfa596c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑은 낙엽을 타고 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1328,6 +1328,78 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F752f93a0576545dab3a47d38961fdd061543800371533" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[이무생 "M자 변발 분장에 못 알아봤단 말 기분 좋다, 3시간 걸려 완성" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214151702220</link>
+            <guid>https://v.daum.net/v/20231214151702220</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]배우 이무생(43)이 M자 변발 분장에 자신을 알아보지 못했다는 말을 듣고 "기분 좋았다"며 미소 지었다.&nbsp; 이무생은 14일 오전 서울 종로구 삼청동 한 카페에서 영화 '노량: 죽음의 바다'(감독 김한민, 이하 '노량') 관련 인터뷰했다. 이날 이무생은 M자 변발을 언급하며 "못 알아봤다"는 말에 "저만 그렇게 느낀게 아니었다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2F10asia%2F20231214151705294tsmm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['노량: 죽음의 바다' 이규형 "분장만 2시간, 삭발하는 것보다 나았다" [인터뷰 맛보기] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214151606162</link>
+            <guid>https://v.daum.net/v/20231214151606162</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] ‘노량: 죽음의 바다’의 배우 이규형이 분장에 대해 이야기했다. 이규형은 14일 오후 서울 종로구 삼청동 카페에서 진행된 영화 ‘노량: 죽음의 바다’(감독 김한민) 인터뷰에서 분장에 대해 언급했다. ‘노량: 죽음의 바다’는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Ftvdaily%2F20231214151608459mcki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['보통의 가족' 팜스프링스 초청, '버닝'·'기생충'·'헤어질 결심' 이어 4번째 [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214150717719</link>
+            <guid>https://v.daum.net/v/20231214150717719</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] 영화 '보통의 가족'이 팜스프링스 국제영화제 초청을 받았다.&nbsp; 14일 '보통의 가족'(감독 허진호, 제공/배급 하이브미디어코프·마인드마크) 측은 제 35회 팜스프링스 국제영화제의 'Country Focus' 부문&nbsp;공식 초청작으로 선정됐다고 밝혔다.&nbsp; '보통의 가족'은&nbsp;서로 다른 신념의&nbsp;두 형제 부부가 우연히 끔찍한 비밀을 마주하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fpoctan%2F20231214150718209tavu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰③] '노량' 이규형 "이무생, '파격 M자' 변발 분장? 패셔너블하게 잘 어울려" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214145659213</link>
+            <guid>https://v.daum.net/v/20231214145659213</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] '노량:죽음의 바다' 이규형이 일본식 변발 분장을 소화한 소감을 밝혔다. 이규형은 14일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "무생이 형보다 비교적 평범한 변발 분장이었다"면서 "서로 얼굴을 보고 한참 웃었던 기억이 난다"라고 했다. 이규형은 극 중 캐릭터를 완벽히 소화하기 위해 약 체중 10㎏를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2FSpoChosun%2F20231214150035662gssr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['노량' 이무생 '김윤석, 이순신 장군에 빙의한 느낌…내려놓음의 미학" [엑's 인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214145011935</link>
+            <guid>https://v.daum.net/v/20231214145011935</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이무생이 '노량: 죽음의 바다'에서 이순신 장군을 연기한 김윤석의 모습을 보고 감동 받았던 마음을 꺼냈다. 이무생은 14일 오후 서울 종로구 삼청동의 한 카페에서 열린 영화 '노량: 죽음의 바다'(감독 김한민) 인터뷰에서 다양한 이야기를 전했다. '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fxportsnews%2F20231214145012988dubg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이무생 “‘노량’→‘마에스트라’ 열일, 경거망동 않겠다”[EN:인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214144010472</link>
+            <guid>https://v.daum.net/v/20231214144010472</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이무생이 자신은 "일만 하는 남편"이라며, 쉬지 않고 활동을 이어가는 근황을 전했다. 영화 '노량: 죽음의 바다'(감독 김한민)에 출연한 이무생은 12월 14일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 관련한 여러 이야기를 전했다. 오는 20일 개봉하는 영화 '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fnewsen%2F20231214144010835rzic.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘노량’ 이무생 “이순신 빙의한 김윤석, 욕심 없는 성인 같아”[EN:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214142524874</link>
+            <guid>https://v.daum.net/v/20231214142524874</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '노량' 이무생이 이순신으로 분한 김윤석을 보고 "빙의한 것 같았다"며 존경하는 마음을 전했다. 영화 '노량: 죽음의 바다'(감독 김한민)에 출연한 이무생은 12월 14일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 관련한 여러 이야기를 전했다. 오는 20일 개봉하는 영화 '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fnewsen%2F20231214142525407qxyl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['노량' 이규형 "'서울의 봄' 흥행 활로 열어줘서 감사, 천만 돌파했으면" [인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214142220754</link>
+            <guid>https://v.daum.net/v/20231214142220754</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰②에 이어) 배우 이규형(40)이 ‘노량’의 흥행 성공을 기원하며 “‘노량’이 천만 관객을 돌파하면 좋을 거 같다”고 말했다. 이규형은 14일 오후 서울 삼청동의 한 카페에서 진행된 ‘노량: 죽음의 바다’ 인터뷰에서 “‘서울의 봄’이 (흥행) 활로를 열어줘서 너무 감사하다. 어떻게 보면 저희 작품이 후발주자로 나오는 건데]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fpoctan%2F20231214142221960nwum.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘노량’ 이무생 “왜군 변발 분장, 거울 속 나 자신도 못 알아봐”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231214142208743</link>
+            <guid>https://v.daum.net/v/20231214142208743</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이무생이 '노량'에서 왜군 선봉장 역할을 맡은 가운데, "분장의 힘을 느꼈다"고 밝혔다. 영화 '노량: 죽음의 바다'(감독 김한민)에 출연한 이무생은 12월 14일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 관련한 여러 이야기를 전했다. 오는 20일 개봉하는 영화 '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fnewsen%2F20231214142208566cnjt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['노량' 이무생 "흠모했던 이순신, 두려움 있었지만…저질러 버렸다" [엑's 인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231214141245405</link>
             <guid>https://v.daum.net/v/20231214141245405</guid>
@@ -1414,78 +1486,6 @@
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 배우 이무생이 영화 '노량:죽음의 바다' 촬영 현장을 떠올렸다. 이무생은 14일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "'노량:죽음의 바다'는 '한산:용의 출현'보다 진화된 군대 느낌"라고 했다. 이무생은 극 중 왜군 선봉장 고니시 역을 맡아 자연스러운 일본어 연기를 선보였다. 그는 작품 준비 과정에]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2FSpoChosun%2F20231214125958630raan.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이규형 “‘백사장2’ 김밥 1천인분 너무 힘들어‥백종원 책임감 배웠다”[EN:인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214122348372</link>
-            <guid>https://v.daum.net/v/20231214122348372</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이규형이 '장사천재 백사장2'를 두고 "체력이 좋음에도 불구하고 너무 힘들었던 촬영"이라는 소회를 밝혔다. 영화 '노량: 죽음의 바다'(감독 김한민)에 출연한 이규형은 12월 14일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 관련한 여러 이야기를 전했다. 오는 20일 개봉하는 영화 '노량: 죽음의 바다'는 임진왜란 발발 후]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fnewsen%2F20231214122348902fjjw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이규형 “‘노량’ 김윤석의 아우라, 내가 그렸던 이순신 그 자체”[EN:인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214121340257</link>
-            <guid>https://v.daum.net/v/20231214121340257</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '노량'에 출연한 이규형이 연기 인생 처음으로 '100% 일본어 대사'를 소화한 소감을 밝혔다. 이어, 이순신으로 분한 선배 배우 김윤석에 대한 존경도 드러냈다. 영화 '노량: 죽음의 바다'(감독 김한민)에 출연한 이규형은 12월 14일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 관련한 여러 이야기를 전했다. 오는 20일 개]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fnewsen%2F20231214121341564dkte.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰①] '노량' 이무생 "'이순신 3부작' 대미 장식…가슴 웅장해지는 기분" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214120552120</link>
-            <guid>https://v.daum.net/v/20231214120552120</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 배우 이무생이 영화 '노량:죽음의 바다'에 대한 각별한 애정을 드러냈다. 이무생은 14일 서울 종로구 삼청동 한 카페에서 스포츠조선과 만나 "'노량:죽음의 바다'를 처음 본 순간부터 가슴이 웅장해지는 느낌이었다"며 "작품에 참여했다는 자체만으로 의미가 깊은 것 같다"라고 했다. 오는 12월 20일 개봉하는 '노량]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2FSpoChosun%2F20231214120552428nsqe.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['노량' 이규형 "왜군役 일본어 공부, 더 이상 할 수 없다 싶을 정도로 연습" [엑's 인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214120309061</link>
-            <guid>https://v.daum.net/v/20231214120309061</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 이규형이 '노량: 죽음의 바다' 속 왜군 캐릭터를 위해 일본어 공부에 매진했던 일화를 밝혔다. 이규형은 14일 오전 서울 종로구 삼청동의 한 카페에서 열린 영화 '노량: 죽음의 바다'(감독 김한민) 인터뷰에서 다양한 이야기를 전했다. '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fxportsnews%2F20231214120311152ycla.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘노량’ 이규형 “日 변발 분장, 머리 감는데만 한시간‥살 10kg 빠져”[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214120138000</link>
-            <guid>https://v.daum.net/v/20231214120138000</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '노량'에 출연한 이규형이 왜군 비주얼을 소화하기 위해 기울인 노력을 밝혔다. 영화 '노량: 죽음의 바다'(감독 김한민)에 출연한 이규형은 12월 14일 서울 종로구 모처에서 진행된 인터뷰를 통해 작품에 관련한 여러 이야기를 전했다. 오는 20일 개봉하는 영화 '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fnewsen%2F20231214120139145uhlr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서부터 잘못된 걸까... 바다로 가던 길에 만난 여자 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214111800071</link>
-            <guid>https://v.daum.net/v/20231214111800071</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[조영준 기자] ▲ &nbsp;영화 &lt;돛대&gt; 스틸컷ⓒ 인디그라운드&nbsp; 01. 돛대 한국 / 2021 / 23분 감독: 이주승 삶의 막다른 곳에 내몰린 사람들이 죽음을 떠올리는 모습을 보면 그 죽음이라는 것이 정말로 우리 생의 마지막에 놓인 것이구나 하고 생각하게 된다. 지금과는 반대로 죽음에서 시작해 생을 향해 나아가는 것이 인생이었다면, 우리는 어렵고 힘든 시간 속]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fohmynews%2F20231214111805242lmim.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨겁고 벅찬 피날레, '노량: 죽음의 바다' [마데핫리뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214105828940</link>
-            <guid>https://v.daum.net/v/20231214105828940</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] "절대 이렇게 전쟁을 끝내서는 안 된다." 10년 대장정이 피날레를 맞았다. 이순신 3부작 대미를 장식한 '노량: 죽음의 바다'가 '명량(2014)', '한산: 용의 출현'(2022)을 이어 완벽한 결실을 맺었다. 1598년 12월 왜군의 수장인 도요토미 히데요시는 갑작스럽게 사망하기 직전, 수세에 몰린 왜군들을 조선에서]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmydaily%2F20231214105829624wbha.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[보험금 노리고 딸 유괴 공모... 잔인한 아빠의 최후 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214105101617</link>
-            <guid>https://v.daum.net/v/20231214105101617</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 지난 2007년 김한민 감독의 &lt;극락도 살인사건&gt;을 통해 단독주연 신고식을 치른 박해일은 2011년 &lt;최종병기 활&gt;에서 김한민 감독과 4년 만에 재회하며 전국 747만 관객을 동원했다(영화관입장권 통합전산망 기준). 이처럼 호흡이 잘 맞았던 박해일과 김한민 감독은 &lt;최종병기 활&gt; 이후 10년 넘게 작품에서 호흡을 맞추지 않았다(그 사이 김한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fohmynews%2F20231214105104188dxbu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['노량: 죽음의 바다' 예매 10만장↑ 돌파…흥행 예고 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231214104307288</link>
-            <guid>https://v.daum.net/v/20231214104307288</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '노량: 죽음의 바다'가 개봉 일주일 전 사전 예매량 10만 장을 뛰어넘는 진기록을 보여주고 있다. '노량: 죽음의 바다'(감독 김한민, 제공 ㈜에이스메이커무비웍스・롯데엔터테인먼트, 배급 롯데엔터테인먼트・㈜에이스메이커무비웍스, 제작 ㈜빅스톤픽쳐스)는 임진왜란 발발 후 7년 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fpoctan%2F20231214104307574cpjc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1653,15 +1653,15 @@
             <guid>https://v.daum.net/v/ZSG14iXeJp</guid>
             <pubDate>Thu, 14 Dec 2023 05:18:54 GMT</pubDate>
             <content:encoded><![CDATA[삶은영화]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2FBoiledMovie%2F20231214135008929fryo.png" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2FBoiledMovie%2F20231214143329497ldlj.png" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[역대급 만남! 개성가득 두 여성이 은밀히 만난 사연 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[보이스피싱 때문에 화난 한국여성들이 벌인 놀라운 일 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/XDbyW0atWT</link>
             <guid>https://v.daum.net/v/XDbyW0atWT</guid>
             <pubDate>Thu, 14 Dec 2023 05:18:54 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214134008849akcw.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214151742953hjbr.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[송강호,공유의 바텐더였던 단역 여배우의 6년후 반전 근황 (다음 영화 ─ 매거진)]]></title>
@@ -1672,12 +1672,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Ffeelthemovie%2F20231214133009124faqw.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[현재 해외서 가장 주목받고 있는 한국가족의 사정 (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[현재 해외서 가장 주목받는 두 남녀, 가족되더니... (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/2lJIRj0gB1</link>
             <guid>https://v.daum.net/v/2lJIRj0gB1</guid>
             <pubDate>Thu, 14 Dec 2023 04:22:50 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214125008539rwmi.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214151541784mndf.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[연예계 떠나려다 스타 남친 응원으로 다시 연기해 대박친 여배우 (다음 영화 ─ 매거진)]]></title>
@@ -1744,12 +1744,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214080008395biag.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[성실한 공무원이 무미건조한 삶에서 벗어난 이유, 결국.. (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[성실한 공무원 윌리엄스가 180도 바뀐 이유, 결국... (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/XuOxT9mBne</link>
             <guid>https://v.daum.net/v/XuOxT9mBne</guid>
             <pubDate>Wed, 13 Dec 2023 22:18:23 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214070008484ieiv.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214151417696twsh.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA["엄마가 73년생, 결혼하자" 난리났던 무대인사 현장 (다음 영화 ─ 매거진)]]></title>
@@ -1784,12 +1784,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fmaxmovie%2F20231213165008902opdu.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
-            <title><![CDATA[이순신作 10년 대장정의 피날레, 미리 열어 봤더니... (다음 영화 ─ 매거진)]]></title>
+            <title><![CDATA[이순신 3부작의 마지막 작품, 미리 열어 봤더니... (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/ZXShWVOKk4</link>
             <guid>https://v.daum.net/v/ZXShWVOKk4</guid>
             <pubDate>Wed, 13 Dec 2023 08:23:44 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F13%2Fmaxmovie%2F20231213162917277lsei.jpg" length="0" type="image//thumb/S510x290/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F14%2Fmaxmovie%2F20231214151246258cvcq.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[난데없이 일본 영화로 오해 받았던 유명 한국 영화 (다음 영화 ─ 매거진)]]></title>
