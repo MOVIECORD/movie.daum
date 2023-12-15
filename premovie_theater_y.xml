@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 08:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 09:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff765aca67dc9e1d66d75a09fef20fe60cee95d32" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나폴레옹]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
-            <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[말하고 싶은 비밀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172186</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172186</guid>
             <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b2697bbbbbc941033f1e8da7a355246b1907787" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나폴레옹]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
+            <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쏘우 X]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3a5704769a5de59518279be882e6edb21529bf4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔시티 네이션 : 투 더 월드 인 시네마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=175027</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=175027</guid>
-            <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6012c7878068d89e301f65b8a4895d5106060f15" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스노우 폭스 : 썰매개가 될 거야!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117351</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117351</guid>
@@ -166,6 +158,13 @@
             <pubDate>Thu, 14 Dec 2023 03:18:54 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F37f1542ec27e101a79d9e933810dc8731b52ad25" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나 혼자만 레벨업 프리뷰]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175640</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175640</guid>
+            <pubDate>Fri, 15 Dec 2023 09:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
         </item>
     </channel>
 </rss>
