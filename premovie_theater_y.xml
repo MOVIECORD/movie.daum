@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 02:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 03:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Face94cf99e22e2067cb9825c4ab4ecb183683f1e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔시티 네이션 : 투 더 월드 인 시네마]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175027</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175027</guid>
+            <pubDate>Fri, 15 Dec 2023 12:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6012c7878068d89e301f65b8a4895d5106060f15" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[배트맨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=10253</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=10253</guid>
@@ -152,20 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00eab088a4aa180c98d4e098a4b06716d860a40b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[엔시티 네이션 : 투 더 월드 인 시네마]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=175027</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=175027</guid>
-            <pubDate>Fri, 15 Dec 2023 12:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6012c7878068d89e301f65b8a4895d5106060f15" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 파워 디지몬 더 비기닝]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172495</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172495</guid>
-            <pubDate>Fri, 15 Dec 2023 14:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F794b07bbc856612e44a4f7b9ec793231b6e76b7b" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[조이랜드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160417</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160417</guid>
+            <pubDate>Sat, 16 Dec 2023 03:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d035f67f81f729f93ee64a66a6ade96d95b81df" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
