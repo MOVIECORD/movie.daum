@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 06:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 07:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=156628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156628</guid>
             <pubDate>Thu, 02 Nov 2023 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,941,101명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,941,097명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff47bdb7c3174e8bcf43fb6ab27283fc2f4d34555" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=173962</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173962</guid>
             <pubDate>Thu, 30 Nov 2023 01:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>159,734명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>159,730명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc27756b10f45291a8265578058188aa443469d9c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://movie.daum.net/moviedb/main?movieId=156628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156628</guid>
             <pubDate>Thu, 02 Nov 2023 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,941,101명]]></content:encoded>
+            <content:encoded><![CDATA[<span class="screen_out">관객수</span>8,941,087명]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff47bdb7c3174e8bcf43fb6ab27283fc2f4d34555" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
@@ -807,14 +807,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc27756b10f45291a8265578058188aa443469d9c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노 엑시트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=175005</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=175005</guid>
-            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F125122feae866f03083c69a02636654ed16acd2a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[쏘우 X (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172630</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172630</guid>
@@ -829,6 +821,14 @@
             <pubDate>Wed, 22 Nov 2023 01:18:38 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노 엑시트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=175005</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=175005</guid>
+            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F125122feae866f03083c69a02636654ed16acd2a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱글 인 서울 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -869,14 +869,6 @@
             <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프레디의 피자가게 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170512</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170512</guid>
-            <pubDate>Thu, 02 Nov 2023 06:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0388052993e52d4f58e9f7b378e040f5f87ecc56" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[냉정과 열정 사이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -925,6 +917,14 @@
             <pubDate>Sun, 17 Dec 2023 03:18:21 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde3e6d8c84bf712eb65e49046ef48f64407c1935" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 아이돌리쉬 세븐; 라이브 4비트 비욘드 더 피리어드 - 데이 1 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170937</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170937</guid>
+            <pubDate>Mon, 18 Dec 2023 07:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9e47768be3f856b1200bfeb3845a51929e4a53d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노량: 죽음의 바다 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1853,6 +1853,78 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff6d63a3fa97441df86570a34eb3340ee1580188071506" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[‘노량’ 이순신 발자취 그대로‥감격의 부산·여수 무대인사 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218161217211</link>
+            <guid>https://v.daum.net/v/20231218161217211</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '노량: 죽음의 바다'가 부산-여수를 찾아 관객들을 만났다. 12월 20일 개봉하는 영화 '노량: 죽음의 바다'(감독 김한민)는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 대작. 앞서 15일 해군2함대 시사회를 시작으로 본격적인 이순신 로드의 시작을 알린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fnewsen%2F20231218161218111gzxj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’ 김성수 감독 “황정민 화장실에서 웃는 모습, 악당이 탄생하는 순간”[YTN라이브] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218161051160</link>
+            <guid>https://v.daum.net/v/20231218161051160</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘서울의 봄’의 김성수 감독이 극중 전두광(황정민 분)이 화장실에서 웃는 모습의 의미를 설명했다. 김성수 감독과 정우성은 18일 YTN라이브에 출연해 영화 ‘서울의 봄’에 대한 이야기를 나눴다. 김 감독은 “배설의 공간인 화장실에서 터뜨리는 정두광의 웃음은 자신을 합리화하는 것이다. 욕망이 커져서 탐욕이 그 사람을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fmydaily%2F20231218161053314isdw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시' 마동석, 올해를 빛낸 영화배우 1위..이병헌 2위[갤럽] [공식] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218160755063</link>
+            <guid>https://v.daum.net/v/20231218160755063</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 배우 마동석이 22일 오후 서울 강남구 메가박스 코엑스에서 진행된 영화 '범죄도시3' VIP시사회에 참석해 포즈를 취하고 있다.  '범죄도시3'는 대체불가 괴물형사 '마석도'(마동석 분)가 서울 광수대로 이동 후, 신종 마약 범죄 사건의 배후인 '주성철'(이준혁 분)과 마약 사건에 연루된 또 다른 빌런 '리키'(아오키 무네타카]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fstarnews%2F20231218160756896rhvi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[독립 영화, 극장에서 관객을 만나 시가 되다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218160305925</link>
+            <guid>https://v.daum.net/v/20231218160305925</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김규영 기자] 지방살이를 하다 보면, 보고 싶은 영화를 쉽게 볼 수 없다. 수도권과 대도시의 독립영화관에서만 상영한다는 소식에 짧게 탄식하고 OTT에 등장하기를 기다린다. 방구석 화면으로 생활 소음과 함께 만나는 것은 이미 감독이 의도한 영화가 아니어서 영화를 영화답게 볼 수가 없다.&nbsp;가끔은 영화의 존재 자체를 알지 못해서 보고 싶다는 열망조차 가질 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fohmynews%2F20231218160306445ckvw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아톰 새로운 시작', 조병규·여자친구 김소원·김강현 더빙…2024년 1월 개봉 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218155901748</link>
+            <guid>https://v.daum.net/v/20231218155901748</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 애니메이션 영화 '아톰 새로운 시작'(감독&nbsp;데이빗&nbsp;보워스)가 2024년 1월 개봉을 확정했다. '아톰 새로운 시작'은 불의의 사고를 당한 인간 소년 토비가 인간보다 더 따뜻한 심장을 지닌 100만 마력의 최첨단 슈퍼 로봇 아톰으로 재탄생하면서 어둠의 세력과 맞서 싸우는 파워풀 액션 판타지 어드벤처 애니메이션. 1951년 일본]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2F10asia%2F20231218155902755hnbw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[D-2 '아쿠아맨2' 외화 전체 예매율 1위…'서울의 봄' 바짝 추격 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218155021420</link>
+            <guid>https://v.daum.net/v/20231218155021420</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 올 연말 스크린을 장식할 해양 액션 블록버스터 ‘아쿠아맨과 로스트 킹덤’(감독 제임스 완, 이하 ‘아쿠아맨2’)이 개봉 2일전 전체 외화 예매율 1위에 등극, 박스오피스 1위작 ‘서울의 봄’을 바짝 추격하며 흥행을 예고 중이다. 영화관입장권통합전산망에 따르면,  18일(월) 오후 2시 20분 기준, ‘아쿠아맨과 로스트 킹]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2FEdaily%2F20231218155023199ptae.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ 전 대통령 다큐 '길위에 김대중' 광주서 19일 시사회 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218154834371</link>
+            <guid>https://v.daum.net/v/20231218154834371</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(광주=연합뉴스) 형민우 기자 = 영화 '서울의 봄'이 흥행 가도를 달리는 가운데 김대중 전 대통령의 일대기를 다룬 다큐멘터리 영화가 개봉될 예정이어서 관심이다. 18일 김대중 대통령 탄생 100주년 기념영화 광주지역 공동추진위원회(이하 광주 공추위)에 따르면 다큐멘터리 '길위에 김대중'이 내년 1월 10일 개봉된다. 개봉에 앞서 제작사인 명필름은 19일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fyonhap%2F20231218154834400uymc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화도 드라마도, 명품 연기는 ‘이무생로랑’…“내가 좋아 한 연기, 모든 게 감사” (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218154803353</link>
+            <guid>https://v.daum.net/v/20231218154803353</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“내가 좋아서 한 연기인데 많은 분들이 감동 받고 공감해 주신다면 덤으로 감사할 수밖에 없는 일이다. 관심과 애정을 원동력 삼아 더 열심히 잘 해야겠다는 생각 뿐이다.” 영화 ‘노량: 죽음의 바다’ 개봉을 앞두고 지난 14일 서울 종로구 한 카페에서 만난 배우 이무생은 인터뷰 내내 ‘감사’라는 단어를 놓지 않았다. 마음껏 연기할 환경을 만들어 주는 제작진에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fkukminilbo%2F20231218154805680sxfd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[티모시 샬라메 '웡카', 개봉 첫 주 508억원 벌고 북미 박스오피스 1위 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218152909666</link>
+            <guid>https://v.daum.net/v/20231218152909666</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '웡카'(감독 폴 킹)가 북미 개봉과 동시에 박스오피스 1위에 등극했다. '웡카'는 지난 15일 북미 개봉과 동시에 박스오피스 1위에 등극했다. '웡카'는 가진 것은 달콤한 꿈과 낡은 모자뿐인 '윌리 웡카'가 세계 최고의 초콜릿 메이커가 되기까지 여정을 그린 스윗 어드벤처다. 최근 박스오피스 모조에 따르면 '웡카]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2FNEWS1%2F20231218152911311ujjx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[시한부 선고받은 공무원, 한 장의 서류 들고 한 일 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231218151500170</link>
             <guid>https://v.daum.net/v/20231218151500170</guid>
@@ -1877,6 +1949,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fmydaily%2F20231218151030813llvj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['노량' 부산·여수 무대인사..이순신 로드 감동 그 자체 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218150622820</link>
+            <guid>https://v.daum.net/v/20231218150622820</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 올겨울 이순신 3부작 프로젝트의 대미를 장식할 영화 '노량: 죽음의 바다'(감독 김한민, 제공 ㈜에이스메이커무비웍스·롯데엔터테인먼트, 배급 롯데엔터테인먼트·㈜에이스메이커무비웍스, 제작 ㈜빅스톤픽쳐스)가 지난 주말 부산-여수 무대인사를 성공적으로 완수했다. 영화 '노량: 죽음의 바다'는 임진왜란 발발 후 7년, 조선에서 퇴각하려는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fpoctan%2F20231218150622829dmwo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['감사 요정' 이무생로랑, 명품 일본어 연기 "감독님, 제작진 덕분" [인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231218145517348</link>
             <guid>https://v.daum.net/v/20231218145517348</guid>
@@ -1897,8 +1977,8 @@
             <link>https://v.daum.net/v/20231218143352497</link>
             <guid>https://v.daum.net/v/20231218143352497</guid>
             <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 마동석이 리서치 조사회사 한국갤럽이 발표한 2023년 올해를 빛낸 영화배우 1위에 뽑혔다. 한국갤럽은 2023년 11월2일부터 이달 4일까지 전국(제주 제외) 만 13세 이상 1769명에게 올 한 해 가장 활약한 영화배우를 두 명까지 물은 결과(자유응답), 마동석이 18.0%의 지지를 얻어 1위를 차지했다고 18일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2FNEWS1%2F20231218143354100kzrm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[배우 마동석이 리서치 조사회사 한국갤럽이 발표한 2023년 올해를 빛낸 영화배우 1위에 뽑혔다. 한국갤럽은 2023년 11월2일부터 이달 4일까지 전국(제주 제외) 만 13세 이상 1769명에게 올 한 해 가장 활약한 영화배우를 두 명까지 물은 결과(자유응답), 마동석이 18.0%의 지지를 얻어 1위를 차지했다고 18일 밝혔다. '범죄도시'는 실제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2FNEWS1%2F20231218160729029uitw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['서울의 봄' 정우성의 화양연화 [Oh!쎈 초점] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1925,92 +2005,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Ftvreport%2F20231218141706670nady.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["'서울의 봄'이 광주에 오길 43년 기다렸다" 눈물 흘린 황정민[이슈S] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218140414342</link>
-            <guid>https://v.daum.net/v/20231218140414342</guid>
+            <title><![CDATA['킹덤'에 이어 '레벨 문'으로 한국 알린 배두나 "여자 무사로 갓 쓰니 신나더라" 소감 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231218140536387</link>
+            <guid>https://v.daum.net/v/20231218140536387</guid>
             <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]황정민이 '서울의 봄' 광주 무대인사 중 눈물을 쏟았다. 900만 관객을 돌파한 영화 '서울의 봄'(감독 김성수) 팀은 17일 광주 무대인사를 돌았다. 김성수 감독 오에 황정민, 정우성, 이성민, 박해준, 김성균, 안세호 등 영화의 주역들도 함께 나서서 4주차 광주 무대인사를 함께했다. 이 가운데 황정민은 "되게 사명감을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fspotvnews%2F20231218140415753vonw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 27일만에 900만 돌파..정우성 첫 천만영화 예고 [공식] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218135302875</link>
-            <guid>https://v.daum.net/v/20231218135302875</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 개봉 이래로 연일 흥행 역사를 새롭게 쓰고 있는 영화 '서울의 봄'(감독 김성수, 제공배급 플러스엠 엔터테인먼트, 제작 ㈜하이브미디어코프)이 개봉 27일 만에 900만 관객을 돌파했다.&nbsp; 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화 '서울의 봄'이 개봉 27일차 9]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fpoctan%2F20231218135303815rfjx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 개봉 27일 만에 900만 돌파, '아바타2'보다 빠른 속도 "천만 영화 카운트다운"[종합] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218134127558</link>
-            <guid>https://v.daum.net/v/20231218134127558</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]영화 '서울의 봄'이 개봉 27일 만에 900만 관객을 돌파했다. 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화 '서울의 봄'이 개봉 27일차 900만 관객을 동원하며 천만 영화 등극을 목전에 두고 있다. 영화 '서울의 봄'은 영화관입장권 통합전산망 12월 18일]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fmydaily%2F20231218134129024roja.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘전두광’ 황정민 눈물 쏟았다, “‘서울의 봄’이 광주에 오길 43년 동안 기다렸다” 울컥[MD이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218133029219</link>
-            <guid>https://v.daum.net/v/20231218133029219</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]영화 ‘서울의 봄’에서 군사반란을 이끄는 전두광(전두환씨 모델) 역을 맡은 배우 황정민이 광주 무대인사 도중 눈물을 흘렸다. 18일 배급사 플러스엠 엔터테인먼트에 따르면, 김성수 감독과 배우 정우성, 이성민, 박해준, 안세호, 황정민, 김성균은 17일 광주시 영화관 8곳을 돌며 무대인사를 진행했다. 황정민과 김성균은 애초 광주]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fmydaily%2F20231218133030882nfyi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['길위에 김대중' 감독 "정치적인 영화? 그런 생각으로 만들지 않았다" (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218132200013</link>
-            <guid>https://v.daum.net/v/20231218132200013</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=김연주 기자] 고(故) 김대중 대통령의 탄생 100 주년을 기념하는 다큐멘터리 영화 '길위에 김대중'이 관객과 만난다.&nbsp; 18일 오후 서울 용산구 CGV아이파크몰에서 영화 '길위에 김대중'의 기자간담회가 진행됐다. 이날 행사에는 이은 명필름 대표, 김성재 김대중평화센터 상임이사, 정진백 김대중추모사업회 회장, 민환기 감독, 최낙용 시네마 641]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Ftvreport%2F20231218132202114hedy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서울의 봄’ 천만 다 왔다‥27일만에 900만 돌파 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218131544909</link>
-            <guid>https://v.daum.net/v/20231218131544909</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '서울의 봄'이 개봉 27일 만에 900만 관객을 돌파했다. 12월 18일 오전 11시 15분 영화진흥위원회 통합전산망 집계 기준, 영화 '서울의 봄'(감독 김성수)이 900만 관객을 돌파했다. 이는 '아바타: 물의 길'(개봉 30일차), '광해: 왕이 된 남자'(개봉 31일차) 등 역대 천만 관객을 동원한 영화들의 900만 돌파]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fnewsen%2F20231218131545219wewi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[김성규 ‘한산’ 이어 ‘노량’에서도 이순신 옆 든든히 지킨다 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218130957790</link>
-            <guid>https://v.daum.net/v/20231218130957790</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 김성규가 ‘한산: 용의 출현’에 이어 ‘노량: 죽음의 바다’로 이순신 장군 옆을 든든히 지킨다. 김성규는 지난해 여름 최고의 흥행작 ‘한산: 용의 출현(이하 ‘한산’)’에서 항왜군사 준사로 삭발은 물론, 일본 고어부터 어눌한 한국어 연기까지 선보이며 단연 눈에 띄는 열연으로 관객들을 매료시켰다. 이렇게 ‘한산’에서 강렬한 인상을 남]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fnewsen%2F20231218130957413bkhj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[배우의 명성에도 고전 면치 못한 영화, 비극의 시작 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218120900733</link>
-            <guid>https://v.daum.net/v/20231218120900733</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 일본기업 소니가 1987년 미국에 설립한 영화사 소니 픽쳐스는 꾸준히 영화를 제작·배급하다가 지난 2007년 제작 및 배급을 맡은 영화들이 차례로 대성공을 거두며 최고의 호황을 이뤘다. 2007년 5월에 개봉한 샘 레이미 감독의 &lt;스파이더맨3&gt;이 8억9400만 달러의 흥행성적을 기록하면서 '대박행진'의 스타트를 끊었다(박스오피스 모조 기준)]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fohmynews%2F20231218120903850ehvq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[SC현장] '레벨 문' 배두나, 갓 쓴 여성 무사로 귀환…감독 "뿌리 존중 하고파" (종합) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218120209542</link>
-            <guid>https://v.daum.net/v/20231218120209542</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 배우 배두나가 넷플릭스 영화 '레벨 문:파트1 불의 아이'로 전 세계 팬들을 찾아간다. 넷플릭스는 18일 '레벨 문:파트1 불의 아이'(이하 '레벨 문') 기자 간담회 영상을 공개했다. 최근 도쿄에서 진행된 간담회 자리에는 잭 스나이더 감독과 데보라 스나이더 프로듀서, 소피아 부텔라, 배두나, 에드 스크레인이 참석]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2FSpoChosun%2F20231218120209583cugm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['달의 애인들' 조지아 영화감독 이오셀리아니 별세 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218115303128</link>
-            <guid>https://v.daum.net/v/20231218115303128</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 유한주 기자 = 영화 '달의 애인들'(1984) 등으로 잘 알려진 조지아 출신 영화감독 오타르 이오셀리아니가 89세를 일기로 숨졌다고 영국 BBC 방송 등이 17일(현지시간) 보도했다. 보도에 따르면 이날 프랑스 영화 배급사 '로장주'는 이오셀리아니가 전날 밤 조지아에서 별세했다고 밝혔다. 이오셀리아니의 친구이자 사진작가인 유리 로스트도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fyonhap%2F20231218115303788oimg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['서울의 봄' 안세호 "춤 추는 반란군 '킹 받는다'고…짜증 반응도 감사" [엑's 인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231218115003017</link>
-            <guid>https://v.daum.net/v/20231218115003017</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 안세호가 '서울의 봄'과 함께 했던 시간을 돌아봤다. 안세호는 최근 엑스포츠뉴스와 만난 자리에서 '서울의 봄' 속 수도경비사령부 (수경사) 30경비단장 장민기 역으로 관객들을 만나며 직접 체감하고 있는 뜨거운 반응들에 대해 감사한 마음을 전했다. '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fxportsnews%2F20231218115004642prob.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[잭 스나이더 감독의 'Rebel Moon(레벨 문): 파트1 불의 아이'가 스페셜 프리미어로 22일(금) 정오에 공개된다. 'Rebel Moon(레벨 문)'은 평화로운 변방 행성에 지배 세력의 군단이 위협을 가하자 신분을 숨기고 마을에서 조용히 살던 이방인 코라와 여러 행성의 아웃사이더 전사들이 모여 은하계의 운명을 건 전투에 나서게 되는 이야기를 그린 넷]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2FiMBC%2F20231218140538273fmsa.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2173,6 +2173,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[겨울 극장가 달군 화제작, 관객수보다 값진 이유는... (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/W7nhDpNFV4</link>
+            <guid>https://v.daum.net/v/W7nhDpNFV4</guid>
+            <pubDate>Mon, 18 Dec 2023 07:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F18%2Fmaxmovie%2F20231218153005076qrxk.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[아이 너무 좋아해 아역배우들이 좋아하는 톱스타 배우 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/fwaMj5iHbc</link>
             <guid>https://v.daum.net/v/fwaMj5iHbc</guid>
@@ -2323,14 +2331,6 @@
             <pubDate>Sat, 16 Dec 2023 02:29:13 GMT</pubDate>
             <content:encoded><![CDATA[필더무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F17%2Ffeelthemovie%2F20231217220519032sfna.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[인기남한테 '좋아해' 쪽지 받은 소녀에게 벌어진 일 (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/x4AmMUj3er</link>
-            <guid>https://v.daum.net/v/x4AmMUj3er</guid>
-            <pubDate>Sat, 16 Dec 2023 02:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[알려줌 ALZi Media]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F16%2Ffanzeel%2F20231216103002042oaif.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[아군도 적군도 없는 이전투구의 전쟁 (다음 영화 ─ 브런치)]]></title>
