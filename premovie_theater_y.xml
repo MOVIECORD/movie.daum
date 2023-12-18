@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 11:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 12:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73721613b87046de026b07e14996847f932f6f84" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[언더 유어 베드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174576</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174576</guid>
-            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[비밀]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174112</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174112</guid>
@@ -142,6 +134,14 @@
             <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3a5704769a5de59518279be882e6edb21529bf4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[언더 유어 베드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174576</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174576</guid>
+            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9091c7818eb3619d74183c7c79f47ab72331b620" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[조이랜드]]></title>
