@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 09:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 10:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b2697bbbbbc941033f1e8da7a355246b1907787" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나폴레옹]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
-            <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노 엑시트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=175005</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=175005</guid>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdd891e25b39872a358e4c5bd99982d447a1b2c5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나폴레옹]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
+            <pubDate>Tue, 05 Dec 2023 23:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[싱글 인 서울]]></title>
