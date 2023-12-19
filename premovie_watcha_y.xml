@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2023-12-19T03:20:58.627Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 왓챠 ─ 공개예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 19 Dec 2023 04:22:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베일리 어게인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=105876</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=105876</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d45d7a8cc2540d69f21fdf4d01dccb41540948817992" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[괴짜소년 올리버]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164306</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164306</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F312000f65794d9a2dbcc1e3cca4d2a7f85d8936b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[돈 룩 디퍼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173242</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173242</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8966abe85ca81e6beffd9754db01495b4014d53c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듣보인간의 생존신고]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156186</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156186</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F689eddb8d070604cc8616d9ee5c5abea25b407b6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마인드 유니버스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161327</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161327</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7f8bc788507469b0a2fd0069abc677cf1ec367a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[씰벤져스: 용감한 바다특공대]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173420</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173420</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7ae2d4eaad345791578cd7300e0b428a6f7bd9fd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아나콘다2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174127</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174127</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F23b8d0107f9a0a6cd208d46a66d09d3320af594a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[커밍 홈 어게인]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134957</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134957</guid>
+            <pubDate>Tue, 19 Dec 2023 04:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F45ff561693a595edf7d629b6c3ccd95c02ad7356" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
