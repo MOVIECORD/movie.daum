@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 01:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
             <content:encoded><![CDATA[23.12.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc00fae8375f49332a590688bec11aa276948d2ee" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172927</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172927</guid>
+            <pubDate>Fri, 22 Dec 2023 01:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6bcb3d0ac5f171c0a1dbd665d511d3a81f092cdf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[트롤: 밴드 투게더]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Dec 2023 10:18:42 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9e47768be3f856b1200bfeb3845a51929e4a53d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[르네상스 필름 바이 비욘세]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174507</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174507</guid>
-            <pubDate>Wed, 20 Dec 2023 23:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F78b9d5318c4ff35d7e5aadcb999b198cc38c3abc" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
