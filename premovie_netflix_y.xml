@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 03:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 04:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,6 +149,14 @@
             <pubDate>Fri, 22 Dec 2023 03:18:43 GMT</pubDate>
             <content:encoded><![CDATA[24.01.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eeebce90dc441cdb208d11e27e356421544513634869" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포터 엑스트림]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41272</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41272</guid>
+            <pubDate>Fri, 22 Dec 2023 04:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A8FF180414" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
