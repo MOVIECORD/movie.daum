@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 10:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -815,20 +815,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff765aca67dc9e1d66d75a09fef20fe60cee95d32" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[말하고 싶은 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172186</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172186</guid>
-            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b2697bbbbbc941033f1e8da7a355246b1907787" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뽀로로 극장판 슈퍼스타 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173962</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173962</guid>
             <pubDate>Thu, 30 Nov 2023 01:16:05 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc27756b10f45291a8265578058188aa443469d9c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[말하고 싶은 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172186</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172186</guid>
+            <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b2697bbbbbc941033f1e8da7a355246b1907787" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[크레센도 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -879,14 +879,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa71dfc0ac0ec420522aa00d62f3f4ce6c0231d93" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나폴레옹 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
-            <pubDate>Wed, 22 Nov 2023 01:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[그대들은 어떻게 살 것인가 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
@@ -901,6 +893,14 @@
             <pubDate>Thu, 09 Nov 2023 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[23.11.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb2461972d446c5982fd10e2c2e2c789b289c8e61" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나폴레옹 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
+            <pubDate>Wed, 22 Nov 2023 01:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쏘우 X (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1939,6 +1939,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffaed95c442ee65134bef40dea653b1c00b2dccf7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[‘외계+인’ 2부 김태리 고퀄리티 액션 예고‥미공개 스틸 보니 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231226185515727</link>
+            <guid>https://v.daum.net/v/20231226185515727</guid>
+            <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘외계+인’ 2부 김태리 열연이 예고돼 기대를 높인다. 김태리는 2022년에 개봉한 영화 ‘외계+인’(감독 최동훈) 1부에서 외계인 죄수 설계자의 탈옥을 막으려다 630년 전의 과거에 갇히게 된 이안으로 분해 수준급의 액션 연기를 선보이며 관객을 사로잡았다. 이에 다가오는 1월 10일 개봉을 앞둔 ‘외계+인’ 2부에서는 미래로 돌아]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F26%2Fnewsen%2F20231226185517127ldlc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[‘시민덕희’ 라미란 위해 어셈블! 염혜란X장윤주X안은진 덕벤져스 꿀조합 (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20231226180915908</link>
             <guid>https://v.daum.net/v/20231226180915908</guid>
@@ -2089,14 +2097,6 @@
             <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 윤현지 기자) 영화 '티처스 라운지'(감독 일커 차탁)이 '죽은 시인의 사회'부터 '굿 윌 헌팅'까지 시대를 초월하는 선생님과 학생, 학교의 이야기를 담은 명작 영화들의 명성을 이어간다. '티처스 라운지'는 신임 교사가 교내 연쇄 도난 사건을 직접 해결하려다 학생과 학부모, 동료 교사와 엮이며 겪는 시련을 그린 학교 스릴러 영화다. 2023년]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F26%2Fxportsnews%2F20231226130848086igvo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[기대 못한 '서울의 봄' 천만, 2023 톱 1위 찍을 줄 몰랐다 [Oh!쎈 이슈] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20231226123817326</link>
-            <guid>https://v.daum.net/v/20231226123817326</guid>
-            <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 ‘서울의 봄’을 선보이면서도 예상하지 못 했다. 이 영화가 손익분기점을 뛰어넘고 천만 동원, 그리고 올해 개봉한 국내외 영화들 가운데 전체 1위를 차지하게 될 줄은. 최근 ‘서울의 봄’의 관계자들은 OSEN에 “이 영화를 내놓을 때 흥행을 예상한 사람이 있었는가 하면, 일말의 걱정도 있었다”고 말하며 가슴을 쓸어내렸다. 그]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F26%2Fpoctan%2F20231226123818992ycyz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["밥 때문에 왔다" 브래드 피트, 8년만에 사라진 화제성[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
@@ -2259,6 +2259,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F24%2FNEWS1%2F20220824165256722vfom.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[이 충청도 커플에게 최근 찬사 쏟아지고 있는 이유 (다음 영화 ─ 매거진)]]></title>
+            <link>https://v.daum.net/v/GD1f3a8Cic</link>
+            <guid>https://v.daum.net/v/GD1f3a8Cic</guid>
+            <pubDate>Tue, 26 Dec 2023 10:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[맥스무비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F26%2Fmaxmovie%2F20231226184001530qzkh.jpg" length="0" type="image//thumb/S510x290/"/>
+        </item>
+        <item>
             <title><![CDATA[분위기 심상치 않더니... 결국 사고 친 두 남녀 (다음 영화 ─ 매거진)]]></title>
             <link>https://v.daum.net/v/uga4tofOfO</link>
             <guid>https://v.daum.net/v/uga4tofOfO</guid>
@@ -2409,14 +2417,6 @@
             <pubDate>Sun, 24 Dec 2023 07:16:58 GMT</pubDate>
             <content:encoded><![CDATA[맥스무비]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F24%2Fmaxmovie%2F20231224154008665otra.jpg" length="0" type="image//thumb/S510x290/"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] '첫 1000만' 정우성 "김성수 감독과 협업해 더 큰 기쁨" (다음 영화 ─ 매거진)]]></title>
-            <link>https://v.daum.net/v/ubdJsa8CjP</link>
-            <guid>https://v.daum.net/v/ubdJsa8CjP</guid>
-            <pubDate>Sun, 24 Dec 2023 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[맥스무비]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S510x290/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F24%2Fmaxmovie%2F20231224145007471fpvm.jpg" length="0" type="image//thumb/S510x290/"/>
         </item>
         <item>
             <title><![CDATA[<명랑>보단 차갑게, <한산>보단 뜨겁게 (다음 영화 ─ 브런치)]]></title>
