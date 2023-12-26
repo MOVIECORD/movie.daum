@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 08:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 09:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b2697bbbbbc941033f1e8da7a355246b1907787" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[크레센도]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172520</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172520</guid>
-            <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2882545f6050852a6c7c0c6b7ac6fb18d9408b6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뽀로로 극장판 슈퍼스타 대모험]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173962</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173962</guid>
             <pubDate>Wed, 13 Dec 2023 01:16:35 GMT</pubDate>
             <content:encoded><![CDATA[23.12.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc27756b10f45291a8265578058188aa443469d9c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크레센도]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172520</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172520</guid>
+            <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2882545f6050852a6c7c0c6b7ac6fb18d9408b6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[3일의 휴가]]></title>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa71dfc0ac0ec420522aa00d62f3f4ce6c0231d93" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나폴레옹]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
+            <pubDate>Tue, 26 Dec 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[그대들은 어떻게 살 것인가]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
@@ -128,28 +136,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[비밀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174112</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174112</guid>
-            <pubDate>Tue, 26 Dec 2023 06:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9be44c620b45e12aef226942c429b8bd25b556d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[싱글 인 서울]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146084</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146084</guid>
             <pubDate>Wed, 29 Nov 2023 01:17:11 GMT</pubDate>
             <content:encoded><![CDATA[23.11.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb2461972d446c5982fd10e2c2e2c789b289c8e61" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나폴레옹]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169328</guid>
-            <pubDate>Tue, 26 Dec 2023 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F357f9541d170588d0d172fa572be49b975834d52" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[쏘우 X]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 26 Dec 2023 06:22:53 GMT</pubDate>
             <content:encoded><![CDATA[23.12.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33be6ffd8c2516cc5dc7d2b1facf256f1ba6dd6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[신세계로부터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161239</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161239</guid>
+            <pubDate>Tue, 26 Dec 2023 09:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9c4311aa4180449c767767526e4e9ae7154cf266" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
