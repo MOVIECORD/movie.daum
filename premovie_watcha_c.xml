@@ -4,7 +4,7 @@
         <title>[다음영화] 왓챠 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 19:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 20:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F06e5155d060db9ad1677725364b331f23e400d7c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[보스의 딸]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=101272</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=101272</guid>
+            <pubDate>Tue, 02 Jan 2024 20:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3164c4f2caa8819f342759964aa4446bf5f53d7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[내부의 적-클린핸즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=109181</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=109181</guid>
@@ -78,6 +86,14 @@
             <pubDate>Fri, 29 Dec 2023 21:15:54 GMT</pubDate>
             <content:encoded><![CDATA[24.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F088b1f71df58424eb7f6b9c5b37625951545809476697" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[루시퍼]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125103</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125103</guid>
+            <pubDate>Tue, 02 Jan 2024 20:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9467b95a3b854e81933bc504ca088a541537933077996" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
