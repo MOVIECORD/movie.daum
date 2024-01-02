@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 08:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 09:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3fd68626e1210978cbac38215d1a0667dea0240f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[60분]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=176050</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=176050</guid>
+            <pubDate>Tue, 02 Jan 2024 09:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fff21c46e5935f76b1ef37c655bb90b60a6bfa169" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 키친]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173112</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173112</guid>
+            <pubDate>Tue, 02 Jan 2024 09:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58fb5b433858b069b6b47fed1cce19c6d0bb6565" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[황야]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164407</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164407</guid>
             <pubDate>Tue, 02 Jan 2024 02:30:15 GMT</pubDate>
             <content:encoded><![CDATA[24.01.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F694de96de7e17c1460c3ba1caffc62b072dc982a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[원피스 필름 골드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=105084</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=105084</guid>
+            <pubDate>Tue, 02 Jan 2024 09:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97667c9c93daae3a669ad5339cd6251d261b248d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
