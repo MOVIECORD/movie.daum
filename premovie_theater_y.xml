@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 03:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 04:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ad534de164163d7be3f72aed0e220803a3b647a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[크레센도]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172520</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172520</guid>
+            <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2882545f6050852a6c7c0c6b7ac6fb18d9408b6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[트롤: 밴드 투게더]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169281</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169281</guid>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 26 Dec 2023 23:20:15 GMT</pubDate>
             <content:encoded><![CDATA[23.12.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7a11174762b8d118e225f9aa0c77356243bd766" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[크레센도]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172520</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172520</guid>
-            <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2882545f6050852a6c7c0c6b7ac6fb18d9408b6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말하고 싶은 비밀]]></title>
