@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 10:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 11:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa22468266e53007502088cba1ad3d4801604fd47" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[인투 더 월드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172319</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172319</guid>
+            <pubDate>Tue, 19 Dec 2023 15:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54b880c3f8d0b778020beffe7a167373e212f0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[길위에 김대중]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=174676</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=174676</guid>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 19 Dec 2023 23:14:43 GMT</pubDate>
             <content:encoded><![CDATA[24.01.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F29a5b579c9003b003529ef87109a113175157f47" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인투 더 월드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=172319</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=172319</guid>
-            <pubDate>Tue, 19 Dec 2023 15:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[24.01.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54b880c3f8d0b778020beffe7a167373e212f0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[노 베어스]]></title>
