@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 02:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1ad534de164163d7be3f72aed0e220803a3b647a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[트롤: 밴드 투게더]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169281</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169281</guid>
-            <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74cb9e08c6eda4f11322523173ff178afcf8bf63" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[크레센도]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172520</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172520</guid>
             <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
             <content:encoded><![CDATA[23.12.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2882545f6050852a6c7c0c6b7ac6fb18d9408b6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트롤: 밴드 투게더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169281</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169281</guid>
+            <pubDate>Wed, 20 Dec 2023 01:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F74cb9e08c6eda4f11322523173ff178afcf8bf63" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뽀로로 극장판 슈퍼스타 대모험]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa71dfc0ac0ec420522aa00d62f3f4ce6c0231d93" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그대들은 어떻게 살 것인가]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171140</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171140</guid>
-            <pubDate>Wed, 03 Jan 2024 23:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F814364da4037f74217243eeee6b4648d7dc2fc79" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[티처스 라운지]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167562</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167562</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 03 Jan 2024 07:17:38 GMT</pubDate>
             <content:encoded><![CDATA[23.12.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd42dedba70f2ddaf598d0e4f2b09e60c04dd06d9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Thu, 04 Jan 2024 03:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59b5ac10a09eb75346112033b37665e66772ab77" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
